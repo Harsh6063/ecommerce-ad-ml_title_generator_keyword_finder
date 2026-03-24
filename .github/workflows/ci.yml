@@ -25,11 +25,11 @@ jobs:
 
       - name: Run preprocessing
         run: |
-          python src/data/preprocess_pipeline.py
+          python src/data/preprocess.py
 
       - name: Train model
         run: |
-          python src/models/train_mlflow.py
+          python src/models/train_model.py
 
       - name: Test app import
         run: |
