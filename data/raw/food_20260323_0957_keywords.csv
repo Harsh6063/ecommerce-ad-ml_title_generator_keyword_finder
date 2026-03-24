@@ -1,0 +1,201 @@
+keyword,frequency,avg_rank,categories,avg_rating,avg_reviews,category_count
+fortune,11,12.4,['Food'],4.41,20284.0,1
+oil,10,11.5,['Food'],4.39,19653.0,1
+weight,10,11.0,['Food'],4.38,18211.0,1
+may,10,11.0,['Food'],4.38,18211.0,1
+vary,10,11.0,['Food'],4.38,18211.0,1
+weight may,10,11.0,['Food'],4.38,18211.0,1
+may vary,10,11.0,['Food'],4.38,18211.0,1
+whole,10,17.4,['Food'],4.42,9948.0,1
+atta,10,20.4,['Food'],4.42,23114.0,1
+dal,8,9.4,['Food'],4.45,15818.0,1
+pouch,8,10.1,['Food'],4.39,21335.0,1
+masala,7,12.1,['Food'],4.39,21640.0,1
+tata,6,8.5,['Food'],4.43,26212.0,1
+noodles,6,11.0,['Food'],4.37,32761.0,1
+maida,6,19.7,['Food'],4.43,10890.0,1
+chocolate,6,25.5,['Food'],4.42,21527.0,1
+sampann,5,9.8,['Food'],4.42,15421.0,1
+tata sampann,5,9.8,['Food'],4.42,15421.0,1
+pouch weight,5,7.4,['Food'],4.4,24229.0,1
+wheat,5,22.6,['Food'],4.44,7836.0,1
+whole wheat,5,22.6,['Food'],4.44,7836.0,1
+protein,5,19.2,['Food'],4.34,31288.0,1
+aashirvaad,5,18.4,['Food'],4.44,19579.0,1
+atta kg,5,22.4,['Food'],4.44,20988.0,1
+crunchy,5,25.0,['Food'],4.38,33153.0,1
+fresh,4,15.0,['Food'],4.25,29600.0,1
+premium,4,12.5,['Food'],4.4,25589.0,1
+pure,4,12.5,['Food'],4.35,23696.0,1
+bottle,4,10.8,['Food'],4.38,15982.0,1
+unpolished,4,6.5,['Food'],4.47,14875.0,1
+made,4,13.8,['Food'],4.38,14722.0,1
+made with,4,13.8,['Food'],4.38,14722.0,1
+refined,4,13.0,['Food'],4.38,17941.0,1
+bread,4,20.0,['Food'],4.4,2265.0,1
+rich,4,12.8,['Food'],4.35,15111.0,1
+rich in,4,12.8,['Food'],4.35,15111.0,1
+nuts,4,17.0,['Food'],4.3,10132.0,1
+fibre,4,14.0,['Food'],4.35,24378.0,1
+kg pack,4,19.0,['Food'],4.43,19860.0,1
+butter,4,25.8,['Food'],4.38,51419.0,1
+chips,3,15.3,['Food'],4.37,15514.0,1
+pet,3,7.3,['Food'],4.4,19309.0,1
+pet bottle,3,7.3,['Food'],4.4,19309.0,1
+sampann unpolished,3,5.0,['Food'],4.5,18948.0,1
+maggi,3,11.0,['Food'],4.37,32761.0,1
+instant,3,11.0,['Food'],4.37,32761.0,1
+taste,3,11.0,['Food'],4.4,17225.0,1
+iron,3,11.0,['Food'],4.37,32761.0,1
+spices,3,11.0,['Food'],4.37,32761.0,1
+instant noodles,3,11.0,['Food'],4.37,32761.0,1
+noodles with,3,11.0,['Food'],4.37,32761.0,1
+health,3,10.0,['Food'],4.3,9941.0,1
+zero,3,22.3,['Food'],4.43,23591.0,1
+cadbury,3,22.3,['Food'],4.47,10680.0,1
+dairy,3,22.3,['Food'],4.47,10680.0,1
+milk,3,22.3,['Food'],4.47,10680.0,1
+cadbury dairy,3,22.3,['Food'],4.47,10680.0,1
+dairy milk,3,22.3,['Food'],4.47,10680.0,1
+biscuit,3,24.7,['Food'],4.35,9685.0,1
+chana,3,18.7,['Food'],4.4,16312.0,1
+chakki,3,25.0,['Food'],4.43,19369.0,1
+tasty,3,28.3,['Food'],4.37,29591.0,1
+cooking,3,11.0,['Food'],4.4,8180.0,1
+cooking oil,3,11.0,['Food'],4.4,8180.0,1
+style,2,8.0,['Food'],4.35,16533.0,1
+potato,2,8.0,['Food'],4.35,16533.0,1
+potato chips,2,8.0,['Food'],4.35,16533.0,1
+salt,2,2.0,['Food'],4.5,80168.0,1
+kachi,2,8.0,['Food'],4.4,37260.0,1
+ghani,2,8.0,['Food'],4.4,37260.0,1
+mustard,2,8.0,['Food'],4.4,37260.0,1
+fortune premium,2,8.0,['Food'],4.4,37260.0,1
+premium kachi,2,8.0,['Food'],4.4,37260.0,1
+kachi ghani,2,8.0,['Food'],4.4,37260.0,1
+ghani pure,2,8.0,['Food'],4.4,37260.0,1
+pure mustard,2,8.0,['Food'],4.4,37260.0,1
+mustard oil,2,8.0,['Food'],4.4,37260.0,1
+toor,2,7.5,['Food'],4.45,16922.0,1
+arhar,2,7.5,['Food'],4.45,16922.0,1
+toor dal,2,7.5,['Food'],4.45,16922.0,1
+arhar dal,2,7.5,['Food'],4.45,16922.0,1
+dal kg,2,7.5,['Food'],4.45,16922.0,1
+minute,2,5.5,['Food'],4.4,17968.0,1
+favourite,2,5.5,['Food'],4.4,17968.0,1
+goodness,2,5.5,['Food'],4.4,17968.0,1
+choicest,2,5.5,['Food'],4.4,17968.0,1
+quality,2,5.5,['Food'],4.4,17968.0,1
+maggi minute,2,5.5,['Food'],4.4,17968.0,1
+minute instant,2,5.5,['Food'],4.4,17968.0,1
+noodles favourite,2,5.5,['Food'],4.4,17968.0,1
+favourite masala,2,5.5,['Food'],4.4,17968.0,1
+masala taste,2,5.5,['Food'],4.4,17968.0,1
+taste masala,2,5.5,['Food'],4.4,17968.0,1
+masala noodles,2,5.5,['Food'],4.4,17968.0,1
+with goodness,2,5.5,['Food'],4.4,17968.0,1
+goodness of,2,5.5,['Food'],4.4,17968.0,1
+of iron,2,5.5,['Food'],4.4,17968.0,1
+iron made,2,5.5,['Food'],4.4,17968.0,1
+with choicest,2,5.5,['Food'],4.4,17968.0,1
+choicest quality,2,5.5,['Food'],4.4,17968.0,1
+quality spices,2,5.5,['Food'],4.4,17968.0,1
+spices pouch,2,5.5,['Food'],4.4,17968.0,1
+soft,2,9.5,['Food'],4.4,10595.0,1
+drink,2,9.5,['Food'],4.4,10595.0,1
+soft drink,2,9.5,['Food'],4.4,10595.0,1
+drink pet,2,9.5,['Food'],4.4,10595.0,1
+bottle ml,2,9.5,['Food'],4.4,10595.0,1
+sugar,2,9.0,['Food'],4.45,14444.0,1
+sugar kg,2,9.0,['Food'],4.45,14444.0,1
+sunflower,2,12.0,['Food'],4.4,25030.0,1
+refined sunflower,2,12.0,['Food'],4.4,25030.0,1
+sunflower oil,2,12.0,['Food'],4.4,25030.0,1
+label,2,10.5,['Food'],4.4,12082.0,1
+zero maida,2,18.5,['Food'],4.45,1352.0,1
+wheat bread,2,20.0,['Food'],4.4,2686.0,1
+rice,2,8.5,['Food'],4.4,20091.0,1
+bran,2,8.5,['Food'],4.4,20091.0,1
+cholesterol,2,22.0,['Food'],4.4,46887.0,1
+oryzanol,2,8.5,['Food'],4.4,20091.0,1
+rice bran,2,8.5,['Food'],4.4,20091.0,1
+bingo,2,22.5,['Food'],4.35,12870.0,1
+original,2,22.0,['Food'],4.35,12570.0,1
+snacks,2,22.5,['Food'],4.35,40165.0,1
+gram,2,10.5,['Food'],4.35,8396.0,1
+badam,2,16.0,['Food'],4.3,10884.0,1
+real,2,21.5,['Food'],4.3,13530.0,1
+high,2,12.0,['Food'],4.35,14700.0,1
+fiber,2,23.0,['Food'],4.35,39476.0,1
+magnesium,2,17.0,['Food'],4.3,10132.0,1
+phosphorus,2,17.0,['Food'],4.3,10132.0,1
+sampann pure,2,17.0,['Food'],4.3,10132.0,1
+in protein,2,17.0,['Food'],4.3,10132.0,1
+protein magnesium,2,17.0,['Food'],4.3,10132.0,1
+magnesium phosphorus,2,17.0,['Food'],4.3,10132.0,1
+bar,2,22.0,['Food'],4.45,14071.0,1
+milk chocolate,2,22.0,['Food'],4.45,14071.0,1
+chocolate bar,2,22.0,['Food'],4.45,14071.0,1
+britannia,2,24.5,['Food'],4.4,21204.0,1
+besan,2,17.0,['Food'],4.4,16599.0,1
+fortune chana,2,17.0,['Food'],4.4,16599.0,1
+chana dal,2,17.0,['Food'],4.4,16599.0,1
+shudh,2,23.5,['Food'],4.45,16274.0,1
+flour,2,23.5,['Food'],4.45,16274.0,1
+aashirvaad shudh,2,23.5,['Food'],4.45,16274.0,1
+shudh chakki,2,23.5,['Food'],4.45,16274.0,1
+chakki atta,2,23.5,['Food'],4.45,16274.0,1
+pack whole,2,23.5,['Food'],4.45,16274.0,1
+wheat flour,2,23.5,['Food'],4.45,16274.0,1
+flour maida,2,23.5,['Food'],4.45,16274.0,1
+namkeen,2,20.5,['Food'],4.4,8630.0,1
+vedaka,2,22.0,['Food'],4.3,22056.0,1
+breakfast,2,28.0,['Food'],4.45,34666.0,1
+bourbon,2,28.0,['Food'],4.35,14528.0,1
+modern,2,21.5,['Food'],4.35,3178.0,1
+catch,2,13.5,['Food'],4.4,4096.0,1
+eggs,2,15.0,['Food'],4.05,6336.0,1
+fresh eggs,2,15.0,['Food'],4.05,6336.0,1
+omega,2,4.0,['Food'],4.25,8575.0,1
+edible,2,9.0,['Food'],4.4,9754.0,1
+soyabean,2,14.0,['Food'],4.35,10852.0,1
+soyabean oil,2,14.0,['Food'],4.35,10852.0,1
+oil pouch,2,14.0,['Food'],4.35,10852.0,1
+moong,2,5.5,['Food'],4.5,12828.0,1
+moong dal,2,5.5,['Food'],4.5,12828.0,1
+natural,2,11.0,['Food'],4.25,4724.0,1
+source,2,16.0,['Food'],4.35,34056.0,1
+source of,2,16.0,['Food'],4.35,34056.0,1
+of fibre,2,16.0,['Food'],4.35,34056.0,1
+kaju,2,18.0,['Food'],4.3,9379.0,1
+nut,2,26.5,['Food'],4.45,35982.0,1
+healthy,2,27.5,['Food'],4.35,37648.0,1
+peanut,2,30.0,['Food'],4.4,68067.0,1
+spread,2,30.0,['Food'],4.4,68067.0,1
+peanut butter,2,30.0,['Food'],4.4,68067.0,1
+lay's,1,1.0,['Food'],4.4,20803.0,1
+american,1,1.0,['Food'],4.4,20803.0,1
+cream,1,1.0,['Food'],4.4,20803.0,1
+onion,1,1.0,['Food'],4.4,20803.0,1
+lay's american,1,1.0,['Food'],4.4,20803.0,1
+american style,1,1.0,['Food'],4.4,20803.0,1
+style potato,1,1.0,['Food'],4.4,20803.0,1
+chips cream,1,1.0,['Food'],4.4,20803.0,1
+cream onion,1,1.0,['Food'],4.4,20803.0,1
+flowing,1,2.0,['Food'],4.5,80168.0,1
+iodised,1,2.0,['Food'],4.5,80168.0,1
+namak,1,2.0,['Food'],4.5,80168.0,1
+vacuum,1,2.0,['Food'],4.5,80168.0,1
+evaporated,1,2.0,['Food'],4.5,80168.0,1
+tata salt,1,2.0,['Food'],4.5,80168.0,1
+salt kg,1,2.0,['Food'],4.5,80168.0,1
+kg free,1,2.0,['Food'],4.5,80168.0,1
+free flowing,1,2.0,['Food'],4.5,80168.0,1
+flowing and,1,2.0,['Food'],4.5,80168.0,1
+and iodised,1,2.0,['Food'],4.5,80168.0,1
+iodised namak,1,2.0,['Food'],4.5,80168.0,1
+namak vacuum,1,2.0,['Food'],4.5,80168.0,1
+vacuum evaporated,1,2.0,['Food'],4.5,80168.0,1
+evaporated salt,1,2.0,['Food'],4.5,80168.0,1
+salt in,1,2.0,['Food'],4.5,80168.0,1
+in fresh,1,2.0,['Food'],4.5,80168.0,1

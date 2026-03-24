@@ -1,0 +1,36 @@
+name: CI Pipeline
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run preprocessing
+        run: |
+          python src/data/preprocess_pipeline.py
+
+      - name: Train model
+        run: |
+          python src/models/train_mlflow.py
+
+      - name: Test app import
+        run: |
+          python -c "import app; print('App loads successfully')"

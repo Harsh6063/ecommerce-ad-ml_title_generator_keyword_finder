@@ -1,0 +1,3480 @@
+{
+  "products": [
+    {
+      "rank": 1,
+      "asin": "B0DG64CL4M",
+      "title": "Happi Planet | Tap Cleaner & Limescale Remover | India\u2019s 1st Foaming Formulation for Reduced Scrubbing Effort, Non-Toxic | 500ml | All Purpose Cleaner Suitable for Bathroom, Tap, Shower, Tiles, Mirror",
+      "brand": "Happi",
+      "price": 200.0,
+      "currency": "INR",
+      "rating": 3.9,
+      "review_count": 15030,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61ULTWjcodL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Happi-Planet-Limescale-Formulation-Scrubbing/dp/B0DG64CL4M/ref=zg_bs_g_1374544031_d_sccl_1/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.699230",
+      "page_number": 1,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 2,
+      "asin": "B0G151MCJR",
+      "title": "Happi Planet | Washing Machine Cleaner & Descaler Tablets | 8 Tablets | Removes Tough Grime, Limescale & Soap Scum | Used for Top Load & Front Load | Protects Clothes from Residue",
+      "brand": "Happi",
+      "price": 200.0,
+      "currency": "INR",
+      "rating": 3.9,
+      "review_count": 1447,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/513ZUC5RfIL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Happi-Planet-Descaler-Limescale-Protects/dp/B0G151MCJR/ref=zg_bs_g_1374544031_d_sccl_2/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.700206",
+      "page_number": 1,
+      "title_word_count": 33,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 3,
+      "asin": "B07ZKQ8HXS",
+      "title": "Amazon Brand - Presto! Disinfectant Surface & Floor Cleaner | Citrus | 5 Litre | Kills 99.9% Germs | Suitable For Floor & Bathroom Surfaces Like Ceramic, Marble, Granite, Mosaic",
+      "brand": "Amazon",
+      "price": 399.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 36731,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61w1TISN+AL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Amazon-Brand-Disinfectant-Surface-Cleaner/dp/B07ZKQ8HXS/ref=zg_bs_g_1374544031_d_sccl_3/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.701153",
+      "page_number": 1,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 4,
+      "asin": "B01LZSWXWI",
+      "title": "Roff Cera Clean All Purpose Tile, Floor & Wall Cleaner 1 liter Pack of 1, Advance, Bedroom & Bathroom Floors, Removes Grease, Dirt & Tough Stains",
+      "brand": "Roff",
+      "price": 182.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 38939,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51m+-Z0kk3L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Pidilite-Purpose-Cleaner-Advance-Bathroom/dp/B01LZSWXWI/ref=zg_bs_g_1374544031_d_sccl_4/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.702093",
+      "page_number": 1,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 5,
+      "asin": "B0DSVQVF98",
+      "title": "Happi Planet | Kitchen Cleaner | India\u2019s 1st Foaming Formulation for Less Scrubbing | 500ml | Suitable for Stoves, Chimneys, Counter Tops, Appliances, Walls & Cabinets | Non Toxic & Natural",
+      "brand": "Happi",
+      "price": 200.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 9034,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/7110A3z6NBL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Happi-Planet-Formulation-Scrubbing-Appliances/dp/B0DSVQVF98/ref=zg_bs_g_1374544031_d_sccl_5/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.703034",
+      "page_number": 1,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 6,
+      "asin": "B07KT852PD",
+      "title": "Amazon Brand - Presto! Disinfectant Toilet Cleaner, Original | 2 Litre | 1 L X 2 Packs | Kills 99.9% Germs | Removes Tough Stains | Provides Long Lasting Freshness",
+      "brand": "Amazon",
+      "price": 229.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 17348,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71q3yll+svL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Amazon-Brand-Presto-Toilet-Cleaner/dp/B07KT852PD/ref=zg_bs_g_1374544031_d_sccl_6/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.703975",
+      "page_number": 1,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 7,
+      "asin": "B016D3J92M",
+      "title": "Harpic Disinfectant Toilet Cleaner Liquid, Original - 1 L (Pack of 2) | Kills 99.9% Germs",
+      "brand": "Harpic",
+      "price": 406.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 58017,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61xwqAQKU+L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Original-Powerplus-Pack/dp/B016D3J92M/ref=zg_bs_g_1374544031_d_sccl_7/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.704909",
+      "page_number": 1,
+      "title_word_count": 16,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 8,
+      "asin": "B0755CG1LW",
+      "title": "Amazon Brand - Presto! Disinfectant Surface & Floor Cleaner Liquid | Lavendar | 2 Litre | 1 Can | Kills 99.9% Germs | Removes Stains | Safe On Hands",
+      "brand": "Amazon",
+      "price": 199.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 37677,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/714-KR1qgzL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Amazon-Brand-Disinfectant-Cleaner-Lavender/dp/B0755CG1LW/ref=zg_bs_g_1374544031_d_sccl_8/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.705906",
+      "page_number": 1,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 9,
+      "asin": "B07QK29V9G",
+      "title": "Dettol Multi-Purpose Disinfectant Liquid for Floor & Surface Cleaning, Lime Fresh Fragrance, 1L",
+      "brand": "Dettol",
+      "price": 366.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 129412,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51ZjDUzqAwL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Dettol-Disinfectant-Cleaner-Home-Fresh/dp/B07QK29V9G/ref=zg_bs_g_1374544031_d_sccl_9/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.706939",
+      "page_number": 1,
+      "title_word_count": 13,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 10,
+      "asin": "B00NWFVVG2",
+      "title": "Harpic Disinfectant Toilet Cleaner Liquid, Original - 1 L | India's # 1 Toilet Cleaner",
+      "brand": "Harpic",
+      "price": 200.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 47554,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61j+zu68oTL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Powerplus-Toilet-Cleaner-Original/dp/B00NWFVVG2/ref=zg_bs_g_1374544031_d_sccl_10/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.708221",
+      "page_number": 1,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 11,
+      "asin": "B0FMDT8LJH",
+      "title": "Beco Max | Kitchen Cleaner - 500 ml | Instantly removes Tough Greases, No stains or residue | Cleans in 60 seconds | Maximum cleaning power | Suitable for Counter Tops, Stoves, Chimneys",
+      "brand": "Beco",
+      "price": 168.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 685,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51Dpamw6gCL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Beco-Max-Kitchen-Cleaner-Instantly/dp/B0FMDT8LJH/ref=zg_bs_g_1374544031_d_sccl_11/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.709307",
+      "page_number": 1,
+      "title_word_count": 33,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 12,
+      "asin": "B0BLNVX9M2",
+      "title": "Klenzmo Washing Machine Cleaner & Descaling Powder, Descaler for top load and front load | Washing Machine Drum Cleaner & Tub Cleaner | 180g 3 pouch (Pack of 1)",
+      "brand": "Klenzmo",
+      "price": 289.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 5046,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71QnH0zlWxL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Klenzmo-Washing-Machine-Cleaner-Descaling/dp/B0BLNVX9M2/ref=zg_bs_g_1374544031_d_sccl_12/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.710657",
+      "page_number": 1,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 13,
+      "asin": "B0FP4S4JX2",
+      "title": "Kleenest Magic Eraser Cleaning Sponge | Pack of 4 | Chemical-Free, Multi-Purpose Wipe for Effortless Cleaning of Kitchen, Bathroom, Walls, Shoes & More \u2013 Tough on Stains, Gentle on Surfaces",
+      "brand": "Kleenest",
+      "price": 299.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 1205,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61ykzpOaFKL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Kleenest-Cleaning-Chemical-Free-Multi-Purpose-Effortless/dp/B0FP4S4JX2/ref=zg_bs_g_1374544031_d_sccl_13/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.712245",
+      "page_number": 1,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 14,
+      "asin": "B0797HNZDW",
+      "title": "Presto! Toilet Cleaner - 1 L",
+      "brand": "Presto!",
+      "price": 185.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 5766,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61f3pGjLAKL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Presto-Toilet-Cleaner-1-L/dp/B0797HNZDW/ref=zg_bs_g_1374544031_d_sccl_14/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.713803",
+      "page_number": 1,
+      "title_word_count": 6,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 15,
+      "asin": "B0G1BH6KJL",
+      "title": "Happi Planet | Limescale Remover & Kitchen Cleaner Combo | India\u2019s 1st Foaming Solution for Reduced Scrubbing | Suitable for Stove, Chimney, Exhaust Fan & Bathroom Fixtures, Tiles, Mirrors",
+      "brand": "Happi",
+      "price": 360.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 1986,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71V8tFhVudL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Happi-Planet-Limescale-Solution-Scrubbing/dp/B0G1BH6KJL/ref=zg_bs_g_1374544031_d_sccl_15/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.715344",
+      "page_number": 1,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 16,
+      "asin": "B0DSHWJ73W",
+      "title": "Dettol Antiseptic Liquid for First Aid, Surface Disinfection and Personal Hygiene, 1300ml",
+      "brand": "Dettol",
+      "price": 521.0,
+      "currency": "INR",
+      "rating": 4.6,
+      "review_count": 3573,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51r2AuwfwNL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Dettol-Antiseptic-Surface-Disinfection-Personal/dp/B0DSHWJ73W/ref=zg_bs_g_1374544031_d_sccl_16/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.716885",
+      "page_number": 1,
+      "title_word_count": 12,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 17,
+      "asin": "B0CV79F1TM",
+      "title": "Amazon Brand - Presto! Phenyl Floor Cleaner | 5 Litre | Suitable For Hospitals, Homes, Offices | 10X Cleaning Power | Fights Germs",
+      "brand": "Amazon",
+      "price": 249.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 6119,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61kTE42N+mL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Amazon-Brand-Suitable-Hospitals-cleaning/dp/B0CV79F1TM/ref=zg_bs_g_1374544031_d_sccl_17/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.718414",
+      "page_number": 1,
+      "title_word_count": 23,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 18,
+      "asin": "B07DCXYJ4N",
+      "title": "Lizol Disinfectant Surface Cleaner, Citrus - 5 L",
+      "brand": "Lizol",
+      "price": 959.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 64524,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71-pg4x-YKL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Lizol-Disinfectant-Surface-Cleaner-Citrus/dp/B07DCXYJ4N/ref=zg_bs_g_1374544031_d_sccl_18/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.719948",
+      "page_number": 1,
+      "title_word_count": 8,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 19,
+      "asin": "B07L8WCL4D",
+      "title": "Nimyle ITC's Eco Friendly Floor Cleaner Liquid, Herbal 2L, with Power of Neem for 99.9% Anti Bacterial Protection, Surface Cleaner",
+      "brand": "Nimyle",
+      "price": 217.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 15520,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/712QoUqNi6L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Nimyle-Herbal-Floor-Cleaner/dp/B07L8WCL4D/ref=zg_bs_g_1374544031_d_sccl_19/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.721480",
+      "page_number": 1,
+      "title_word_count": 20,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 20,
+      "asin": "B01HGN96GW",
+      "title": "Harpic Disinfectant Bathroom Cleaner Liquid, Lemon - 1 L | India's # 1 Bathroom Cleaner",
+      "brand": "Harpic",
+      "price": 217.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 32483,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/5162SqIsONL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Bathroom-Cleaner-Lemon/dp/B01HGN96GW/ref=zg_bs_g_1374544031_d_sccl_20/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.723014",
+      "page_number": 1,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 21,
+      "asin": "B08CPRYLK4",
+      "title": "Lizol Disinfectant Surface & Floor Cleaner Liquid Refill Pack, Citrus - 1800 ml",
+      "brand": "Lizol",
+      "price": 296.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 12397,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71ytH+5phtL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Lizol-Disinfectant-Cleaner-Refill-Citrus/dp/B08CPRYLK4/ref=zg_bs_g_1374544031_d_sccl_21/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.724499",
+      "page_number": 1,
+      "title_word_count": 13,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 22,
+      "asin": "B00NWFXPUC",
+      "title": "Lizol Disinfectant Surface & Floor Cleaner Liquid, Citrus - 1 Litre | Suitable for All Floor Cleaner Mops | Kills 99.9% Germs| India's #1 Floor Cleaner",
+      "brand": "Lizol",
+      "price": 212.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 14147,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61nJ8gZBSXL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Lizol-Disinfectant-Surface-Cleaner-Citrus/dp/B00NWFXPUC/ref=zg_bs_g_1374544031_d_sccl_22/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.725563",
+      "page_number": 1,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 23,
+      "asin": "B071HGVPSJ",
+      "title": "Harpic Bathroom Cleaner Liquid, Lemon - 1 Litre (Pack of 2) | New Thicker Bathroom Floor Cleaner | Red Harpic Bottle",
+      "brand": "Harpic",
+      "price": 360.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 15767,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61eIK9gQvGL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Bathroom-Cleaner-Lemon-Pack/dp/B071HGVPSJ/ref=zg_bs_g_1374544031_d_sccl_23/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.727187",
+      "page_number": 1,
+      "title_word_count": 21,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 24,
+      "asin": "B07QJXFWYX",
+      "title": "Harpic Flushmatic In-Cistern Toilet Cleaner Blocks, Aquamarine - 3U*50g-150g",
+      "brand": "Harpic",
+      "price": 229.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 29416,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61lsNI+a0iL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Flushmatic-Toilet-Cistern-Block/dp/B07QJXFWYX/ref=zg_bs_g_1374544031_d_sccl_24/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.728232",
+      "page_number": 1,
+      "title_word_count": 9,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 25,
+      "asin": "B07227PB7C",
+      "title": "Colin 1 Litre Refill , Glass and Surface Cleaner Liquid | India's #1 All-Purpose Glass Cleaner | Glass Cleaner for Car, Kitchen and Home Surfaces | Multi Surface Cleaner",
+      "brand": "Colin",
+      "price": 182.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 11530,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61wt6ncqelL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Colin-Glass-Cleaner-Liquid-Refill/dp/B07227PB7C/ref=zg_bs_g_1374544031_d_sccl_25/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.729184",
+      "page_number": 1,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 26,
+      "asin": "B0CW9R5C3V",
+      "title": "Cleevo Kitchen Cleaner Spray- 1L Bottle Pack | Natural Plant-Based Cleaning Spray for Tough Stains, Gas Stove, Countertop, Chimney | Grease & Grime Remover | All-in-One Kitchen Surface Cleaner",
+      "brand": "Cleevo",
+      "price": 199.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 2332,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71gKtqY5cfL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Cleevo-Spray-Bottle-Cleaning-Surfaces-Countertop/dp/B0CW9R5C3V/ref=zg_bs_g_1374544031_d_sccl_26/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.730118",
+      "page_number": 1,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 27,
+      "asin": "B089KPBVHR",
+      "title": "Savlon Germ Protection Wet Wipes - Thick & Soft, Multipurpose, Fresh & Fragrant Wipes with Fliptop Lid | For Face Cleaning & Surface Cleaning | 72 Pulls Per Pack",
+      "brand": "Savlon",
+      "price": 168.0,
+      "currency": "INR",
+      "rating": 4.6,
+      "review_count": 19371,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61WTaRXJaFS._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Savlon-Protection-Multipurpose-Thick-Fliptop/dp/B089KPBVHR/ref=zg_bs_g_1374544031_d_sccl_27/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.731074",
+      "page_number": 1,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 28,
+      "asin": "B0DQ623ZRF",
+      "title": "Happi Planet Copper, Bronze & Brass Cleaner | zero Abrasives, zero Scratches | Non-Toxic, Plant Based | Suitable for Drinkware, Cookware, Idols & Diyas | Co- Created with P-TAL",
+      "brand": "Happi",
+      "price": 200.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 4012,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71UUGfSoNgL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Happi-Planet-Abrasives-Scratches-Non-Toxic/dp/B0DQ623ZRF/ref=zg_bs_g_1374544031_d_sccl_28/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.732004",
+      "page_number": 1,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 29,
+      "asin": "B08BHHHSVQ",
+      "title": "LG ScaLGo Washing Machine Cleaner Descaling Powder for Front Load and Top Load Washing Machines Pack of 3 (100 Gm/Pack) (packaging may vary)",
+      "brand": "LG",
+      "price": 699.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 8486,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51guV5WYjLL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/LG-Descaling-Washing-Machines-Shelter/dp/B08BHHHSVQ/ref=zg_bs_g_1374544031_d_sccl_29/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.732936",
+      "page_number": 1,
+      "title_word_count": 23,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 30,
+      "asin": "B0D87BPSDH",
+      "title": "Beco Natural Disinfectant Surface & Floor Cleaning Liquid | 2L Refill Pack | Non Toxic Germ Kill Formula | Lemongrass & Basil Freshness |Safer than Phenyl| Kids Safe, Pet Friendly Floor Cleaner Liquid",
+      "brand": "Beco",
+      "price": 221.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 3397,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71soIKUl4JL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Beco-Disinfectant-Lemongrass-Freshness-Friendly/dp/B0D87BPSDH/ref=zg_bs_g_1374544031_d_sccl_30/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:51.733990",
+      "page_number": 1,
+      "title_word_count": 33,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 1,
+      "asin": "B0BRY3YFHB",
+      "title": "Cleevo Floor Cleaner Liquid (5L Refill Pack) | 1 Pouch = 1L Natural Disinfectant Floor Cleaners for Mops | Chlorine-Free Surface Cleaner, Eco-Friendly All-Purpose Floor Cleaning Liquid (Zesty Lemon)",
+      "brand": "Cleevo",
+      "price": 299.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 1441,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81G9egcf-eL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Cleevo-Disinfectant-Fragrance-Eco-Friendly-Friendly/dp/B0BRY3YFHB/ref=zg_bs_g_1374544031_d_sccl_1/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.228599",
+      "page_number": 2,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 2,
+      "asin": "B07L8Y2J68",
+      "title": "ITC Nimyle Floor Cleaner Liquid, Citro 2ltr, Surface Cleaner, House Cleaning Products, Fresh Frangrance, Anti Bacterial",
+      "brand": "ITC",
+      "price": 218.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 1311,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71gPK8pb5oL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/ITC-Cleaning-Household-Sanitizer-Bacterial/dp/B07L8Y2J68/ref=zg_bs_g_1374544031_d_sccl_2/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.229575",
+      "page_number": 2,
+      "title_word_count": 16,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 3,
+      "asin": "B07KTKPHRT",
+      "title": "Amazon Brand - Presto! Bathroom Cleaner - 1 L (Lemon, Pack of 2)",
+      "brand": "Amazon",
+      "price": 225.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 3696,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71tZKiTPWdL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Amazon-Brand-Presto-Bathroom-Cleaner/dp/B07KTKPHRT/ref=zg_bs_g_1374544031_d_sccl_3/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.230537",
+      "page_number": 2,
+      "title_word_count": 13,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 4,
+      "asin": "B07CJXG612",
+      "title": "Bosch Siemens Quick Descaler For Appliances - 250 G",
+      "brand": "Bosch",
+      "price": 699.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 12590,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61A-Zb79JLL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Bosch-Descaler-Appliances-Machines-Dishwashers-250/dp/B07CJXG612/ref=zg_bs_g_1374544031_d_sccl_4/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.231504",
+      "page_number": 2,
+      "title_word_count": 9,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 5,
+      "asin": "B011972YC4",
+      "title": "Mr Muscle Kitchen Cleaner - 450 ml",
+      "brand": "Mr",
+      "price": 165.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 3729,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61vLuhceRsL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Mr-Muscle-Kitchen-Cleaner-500/dp/B011972YC4/ref=zg_bs_g_1374544031_d_sccl_5/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.232470",
+      "page_number": 2,
+      "title_word_count": 7,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 6,
+      "asin": "B07W36HP5S",
+      "title": "Harpic Bathroom Cleaner Liquid, Floral - 1 Litre | New Thicker Bathroom Floor Cleaner | Red Harpic Bottle",
+      "brand": "Harpic",
+      "price": 199.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 5253,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51DeKPmYimL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Bathroom-Cleaner-Floral/dp/B07W36HP5S/ref=zg_bs_g_1374544031_d_sccl_6/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.233561",
+      "page_number": 2,
+      "title_word_count": 18,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 7,
+      "asin": "B0G1438QMC",
+      "title": "Harpic Bathroom Cleaner Ultra | Citrus Splash | 1L | 10X Tough Stain Remover | New 5 Min Clean | Multi Surface Clean - Floors, Basin, Tiles",
+      "brand": "Harpic",
+      "price": 269.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 44,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61WoAhwb5mL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Bathroom-Cleaner-Remover-Surface/dp/B0G1438QMC/ref=zg_bs_g_1374544031_d_sccl_7/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.234574",
+      "page_number": 2,
+      "title_word_count": 27,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 8,
+      "asin": "B08824PS2H",
+      "title": "Nimyle Eco friendly floor cleaner with Power of Neem for 99.9% anti bacterial protection - Herbal 4.8L",
+      "brand": "1 offer from\u20b9699.00",
+      "price": 699.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 6303,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71xfNpcg+UL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Nimyle-Herbal-Floor-Cleaner/dp/B08824PS2H/ref=zg_bs_g_1374544031_d_sccl_8/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.235625",
+      "page_number": 2,
+      "title_word_count": 17,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 9,
+      "asin": "B07KTKLKVM",
+      "title": "Amazon Brand - Presto! Bathroom Cleaner | Floral | 2 Litre | 1 L X 2 Packs | Suitable For Bathroom Floors, Slabs, Wall Tiles, Sinks, Basins, Stainless Steel Taps & Shower Heads",
+      "brand": "Amazon",
+      "price": 255.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 3673,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71HuUZKaxaL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Amazon-Brand-Presto-Bathroom-Cleaner/dp/B07KTKLKVM/ref=zg_bs_g_1374544031_d_sccl_9/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.236612",
+      "page_number": 2,
+      "title_word_count": 33,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 10,
+      "asin": "B07JCJRP7V",
+      "title": "Sani fresh Ultrashine Toilet Cleaner - 1.56 l Extra Strong Extra Clean, 520 Ml (Buy 2 get 1 free)",
+      "brand": "Sani",
+      "price": 206.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 10132,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71TZquBtIBL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Sanifresh-Ultrashine-Toilet-Cleaner-500ml/dp/B07JCJRP7V/ref=zg_bs_g_1374544031_d_sccl_10/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.237741",
+      "page_number": 2,
+      "title_word_count": 19,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 11,
+      "asin": "B0BXLJB44P",
+      "title": "D-Klog Drain Cleaner Powder (40g x 8 Units), Removes Clogs, Blockages in Washbasin, Septic Tank, Sinks, Pipes within 30 mins.Drain expert | Sink cleaner| Toilet Cleaner | No manual hassle required",
+      "brand": "D-Klog",
+      "price": 170.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 2689,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Pkb6O++kL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Pidilite-Blockages-Washbasin-mins-Drain-required/dp/B0BXLJB44P/ref=zg_bs_g_1374544031_d_sccl_11/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.239666",
+      "page_number": 2,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 12,
+      "asin": "B0GSLGX43R",
+      "title": "Pack of 2 Japanese Multipurpose Cleaner Oxalic Stain Removal Spray for Tiles, Sink, Bathroom, Floors & Hard Surfaces, Easy-to-Use Spray Bottle for Household Surface Cleaning 300ml (Pack 2)",
+      "brand": "Pack",
+      "price": 349.0,
+      "currency": "INR",
+      "rating": 5.0,
+      "review_count": 12,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61pUhjzGzHL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Japanese-Multipurpose-Bathroom-Surfaces-Household/dp/B0GSLGX43R/ref=zg_bs_g_1374544031_d_sccl_12/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.241620",
+      "page_number": 2,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 13,
+      "asin": "B07C5MCD4W",
+      "title": "Pee Safe Toilet Seat Sanitizer Spray (50ml - Pack Of 2) - Mint | Reduces The Risk Of UTI & Other Infections | Protects From 99.9% Germs & Travel Friendly | Anti Odour, Deodorizer",
+      "brand": "Pee",
+      "price": 199.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 12944,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51rHMYSRO4L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/safe-Toilet-Seat-Sanitizer-Spray/dp/B07C5MCD4W/ref=zg_bs_g_1374544031_d_sccl_13/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.243285",
+      "page_number": 2,
+      "title_word_count": 34,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 14,
+      "asin": "B0BRWK2W7G",
+      "title": "IFB Descale Powder For Washing Machine Drum Cleaner & Tub Cleaner, Washing Machine Cleaner Powder for all Front & Top Load Washing Machine Descaling Powder 100g (pack Of 3)",
+      "brand": "IFB",
+      "price": 499.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 741,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71RiyEjhVnL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/IFB-Essential-Descal-Appliance-Descaler/dp/B0BRWK2W7G/ref=zg_bs_g_1374544031_d_sccl_14/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.244953",
+      "page_number": 2,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 15,
+      "asin": "B0FKZCBMMP",
+      "title": "LUMONY\u00ae | Tap Cleaner & Limescale Remover - 500 ml | Instantly Removes, Hard Water stains | Cleans in 60 seconds | Maximum Shine | Suitable for Taps, Shower, Faucets, Descaler, Tiles, Mirrors",
+      "brand": "LUMONY\u00ae",
+      "price": 189.0,
+      "currency": "INR",
+      "rating": 4.8,
+      "review_count": 1272,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61NBkIZP6kL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/LUMONY%C2%AE-Tap-Cleaner-Limescale-Remover/dp/B0FKZCBMMP/ref=zg_bs_g_1374544031_d_sccl_15/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.246592",
+      "page_number": 2,
+      "title_word_count": 33,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 16,
+      "asin": "B00WYZYW12",
+      "title": "CIF Power & Shine Kitchen Cleaner Spray, Tough Grease & Stain Removal, Suitable for Chimney, Gas Stove, Hob, Tap, Tiles & Sink, 700ml",
+      "brand": "CIF",
+      "price": 261.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 5022,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51i+KBgufuL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Cif-Kitchen-Cleaner-Power-Shine/dp/B00WYZYW12/ref=zg_bs_g_1374544031_d_sccl_16/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.248402",
+      "page_number": 2,
+      "title_word_count": 23,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 17,
+      "asin": "B0FYQ4Q83C",
+      "title": "Beco Max | Glass and Multisurface Cleaner Liquid Spray - 500 ml | Maximum Clean | Zero Smudges | Suitable For Glass, Mirrors, Appliances, Furniture | Streak-Free Shine",
+      "brand": "Beco",
+      "price": 115.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 181,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61m4PfDOyUL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Beco-Glass-Multisurface-Cleaner-Liquid/dp/B0FYQ4Q83C/ref=zg_bs_g_1374544031_d_sccl_17/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.249457",
+      "page_number": 2,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 18,
+      "asin": "B0C4FBNQCF",
+      "title": "Vim Shudhham Cleaning Gel for Copper, Brass, 250ml",
+      "brand": "Vim",
+      "price": 135.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 4414,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51R9C4-4UYL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Shudhham-Copper-Brass-Silver-250ml/dp/B0C4FBNQCF/ref=zg_bs_g_1374544031_d_sccl_18/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.250478",
+      "page_number": 2,
+      "title_word_count": 8,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 19,
+      "asin": "B09RF8HZBR",
+      "title": "Domex Fresh Guard Disinfectant Toilet Cleaner Liquid|| Ocean Fresh|| 1 L| Freshness for 100 Flushes",
+      "brand": "Domex",
+      "price": 190.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 2183,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51rCEfWc7SL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Domex-Disinfectant-Cleaner-Freshness-Flushes/dp/B09RF8HZBR/ref=zg_bs_g_1374544031_d_sccl_19/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.251497",
+      "page_number": 2,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 20,
+      "asin": "B08SVW5KTF",
+      "title": "WD-40 Smart Straw 500ml | Multipurpose Spray to Clean Rust, Limescale, Jams, Stains, Hinges, Chains and Surfaces | All Purpose Cleaner for Home Improvement, Loosen Stuck & Rusted Parts | From Pidilite",
+      "brand": "WD-40",
+      "price": 511.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 15009,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61ALHhSdb6L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Pidilite-Multipurpose-Maintenance-Improvement-Protectant/dp/B08SVW5KTF/ref=zg_bs_g_1374544031_d_sccl_20/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.252519",
+      "page_number": 2,
+      "title_word_count": 32,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 21,
+      "asin": "B00UFF5D0M",
+      "title": "Domex Fresh Guard Disinfectant Toilet Cleaner Liquid|| Sparkling Fresh|| 1 L| Freshness for 100 Flushes",
+      "brand": "Domex",
+      "price": 172.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 9688,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51qnieQhEUL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Domex-Disinfectant-Cleaner-Sparkling-Freshness/dp/B00UFF5D0M/ref=zg_bs_g_1374544031_d_sccl_21/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.253544",
+      "page_number": 2,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 22,
+      "asin": "B0DDHC8QLM",
+      "title": "Kleenest Bathroom & Toilet Cleaner Combo | Plant-Based Cleaning Liquid | Zero Bleach Formula | Rose Fragrance | Limescale & Stain Remover | Safe for Daily Use \u2013 1L Each",
+      "brand": "Kleenest",
+      "price": 299.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 989,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51Q2aAY+jIL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Kleenest-Bathroom-Cleaner-Plant-Based-Fragrance/dp/B0DDHC8QLM/ref=zg_bs_g_1374544031_d_sccl_22/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.254632",
+      "page_number": 2,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 23,
+      "asin": "B0D6QR44S9",
+      "title": "Lizol Shakti 900ml - Rose Fresh Floor Cleaner| 2X Better Cleaning vs Phenyl |Kills 99.9% Germs| Removes Tough Stains | Suitable for All Floor Cleaner Mops",
+      "brand": "Lizol",
+      "price": 135.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 1277,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61hjHHQvGzL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Lizol-Shakti-900ml-Disinfectant-Suitable/dp/B0D6QR44S9/ref=zg_bs_g_1374544031_d_sccl_23/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.255761",
+      "page_number": 2,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 24,
+      "asin": "B0B8HJ7Q8D",
+      "title": "Asian Paints SmartCare Tile Cleaner 1 Litre | Ceramic & Tile Cleaner | Surface Cleaner Liquid | Tile Stain Removal | Bathroom & Kitchen Tile Floor Cleaner",
+      "brand": "Asian",
+      "price": 189.0,
+      "currency": "INR",
+      "rating": 3.8,
+      "review_count": 2663,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71RYcl8rHlL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Asian-Paints-SmartCare-Cleaner-Ceramic/dp/B0B8HJ7Q8D/ref=zg_bs_g_1374544031_d_sccl_24/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.256838",
+      "page_number": 2,
+      "title_word_count": 27,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 25,
+      "asin": "B0CGRVCJNR",
+      "title": "Pitambari Shining Powder For Six metals cleaner (1KG)",
+      "brand": "Pitambari",
+      "price": 234.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 1217,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81l-r1FqufL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Pitambari-Shining-Powder-metals-cleaner/dp/B0CGRVCJNR/ref=zg_bs_g_1374544031_d_sccl_25/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.257823",
+      "page_number": 2,
+      "title_word_count": 8,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 26,
+      "asin": "B0B9B2FXWN",
+      "title": "JOFF Tap & Shower Cleaner 500ml|Instantly Removes Limescale,Hard Water Stains & Soap Scum|Powerful Deep Cleaning for Sparkling Faucets & Showerheads Fast Action,Streak-Free Shine & Easy Use",
+      "brand": "JOFF",
+      "price": 225.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 14005,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71ccAzqgSHL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Instantly-Limescale-Sparkling-Showerheads-Streak-Free/dp/B0B9B2FXWN/ref=zg_bs_g_1374544031_d_sccl_26/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.258802",
+      "page_number": 2,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 27,
+      "asin": "B0GRN41TCP",
+      "title": "Japanese Multipurpose Cleaner, Oxalic Stain Removal Spray, for Tiles, Sink, Bathroom, Floors & Hard Surfaces, Easy-to-Use Spray Bottle for Household Surface Cleaning 300ML (PACK OF 1)",
+      "brand": "Japanese",
+      "price": 279.0,
+      "currency": "INR",
+      "rating": 1.8,
+      "review_count": 7,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51Ip5YtGzwL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Japanese-Multipurpose-Bathroom-Surfaces-Household/dp/B0GRN41TCP/ref=zg_bs_g_1374544031_d_sccl_27/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.259787",
+      "page_number": 2,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "new"
+    },
+    {
+      "rank": 28,
+      "asin": "B0CY8FWH3F",
+      "title": "Vooki Ecofriendly Tough Lime Scale Hard Water Stain Remover, Spray and Scrub Cleaner for Bathroom,Taps, Faucet, Basins, Showers & Floor Tiles Cleaner, Home and Commercial Use - 500 ml (Pack of 1)",
+      "brand": "Vooki",
+      "price": 202.0,
+      "currency": "INR",
+      "rating": 3.9,
+      "review_count": 1226,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51crz5xYV3L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Vooki-Ecofriendly-Tough-Lime-Scale/dp/B0CY8FWH3F/ref=zg_bs_g_1374544031_d_sccl_28/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.260772",
+      "page_number": 2,
+      "title_word_count": 32,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 29,
+      "asin": "B00NWFW25Q",
+      "title": "Harpic 1 Litre - Lemon, Disinfectant Toilet Cleaner Liquid | Suitable for Toilet Bowls | Refreshingly Fragrant",
+      "brand": "Harpic",
+      "price": 199.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 1893,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Odp-AG5bL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Powerplus-Toilet-Cleaner-Orange/dp/B00NWFW25Q/ref=zg_bs_g_1374544031_d_sccl_29/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.261752",
+      "page_number": 2,
+      "title_word_count": 17,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 30,
+      "asin": "B07G46VJDB",
+      "title": "Amazon Brand - Presto! Hygienic Flush Tabs, Aqua Fresh | 300 Gram | 50 Gram X 6 Tabs | Prevents Stains, Removes Limescale | Toilet Flush Tank Balls",
+      "brand": "Amazon",
+      "price": 265.0,
+      "currency": "INR",
+      "rating": 3.9,
+      "review_count": 3487,
+      "category": "Household Cleaners",
+      "subcategory": "Household Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81tY2h2vVZL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Amazon-Brand-Presto-Hygienic-Flush/dp/B07G46VJDB/ref=zg_bs_g_1374544031_d_sccl_30/524-4439576-1674154?psc=1",
+      "scraped_at": "2026-03-23T09:56:58.262732",
+      "page_number": 2,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "cleaner",
+      "frequency": 77,
+      "avg_rank": 15.9,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.22,
+      "avg_reviews": 10624.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "floor",
+      "frequency": 24,
+      "avg_rank": 14.6,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 16757.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "liquid",
+      "frequency": 23,
+      "avg_rank": 16.6,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.36,
+      "avg_reviews": 17909.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bathroom",
+      "frequency": 20,
+      "avg_rank": 13.8,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 10844.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "surface",
+      "frequency": 19,
+      "avg_rank": 16.9,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 19348.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaner liquid",
+      "frequency": 18,
+      "avg_rank": 16.9,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.34,
+      "avg_reviews": 15172.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "floor cleaner",
+      "frequency": 17,
+      "avg_rank": 16.1,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.32,
+      "avg_reviews": 11151.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaning",
+      "frequency": 17,
+      "avg_rank": 17.9,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.14,
+      "avg_reviews": 12150.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "disinfectant",
+      "frequency": 15,
+      "avg_rank": 14.9,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 31259.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "toilet",
+      "frequency": 15,
+      "avg_rank": 17.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.28,
+      "avg_reviews": 16770.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "suitable",
+      "frequency": 14,
+      "avg_rank": 15.1,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.21,
+      "avg_reviews": 7219.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "suitable for",
+      "frequency": 14,
+      "avg_rank": 15.1,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.21,
+      "avg_reviews": 7219.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pack of",
+      "frequency": 12,
+      "avg_rank": 15.4,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 12174.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "toilet cleaner",
+      "frequency": 12,
+      "avg_rank": 15.2,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.29,
+      "avg_reviews": 19436.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "litre",
+      "frequency": 11,
+      "avg_rank": 15.6,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 13891.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stains",
+      "frequency": 11,
+      "avg_rank": 16.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.19,
+      "avg_reviews": 12112.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "removes",
+      "frequency": 10,
+      "avg_rank": 13.6,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 11883.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tough",
+      "frequency": 10,
+      "avg_rank": 13.6,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.09,
+      "avg_reviews": 6952.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "kitchen",
+      "frequency": 10,
+      "avg_rank": 16.6,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 4052.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "harpic",
+      "frequency": 10,
+      "avg_rank": 15.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 21145.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fresh",
+      "frequency": 10,
+      "avg_rank": 18.1,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.32,
+      "avg_reviews": 18873.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "spray",
+      "frequency": 10,
+      "avg_rank": 19.8,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.86,
+      "avg_reviews": 3675.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tiles",
+      "frequency": 9,
+      "avg_rank": 14.4,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.01,
+      "avg_reviews": 3141.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "limescale",
+      "frequency": 8,
+      "avg_rank": 16.4,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 6653.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "washing",
+      "frequency": 8,
+      "avg_rank": 15.8,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 3842.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "presto",
+      "frequency": 8,
+      "avg_rank": 11.2,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 14312.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "germs",
+      "frequency": 8,
+      "avg_rank": 12.4,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 23032.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "surface cleaner",
+      "frequency": 8,
+      "avg_rank": 17.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 13856.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "remover",
+      "frequency": 7,
+      "avg_rank": 16.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.19,
+      "avg_reviews": 3268.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "machine",
+      "frequency": 7,
+      "avg_rank": 13.9,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.16,
+      "avg_reviews": 3178.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "load",
+      "frequency": 7,
+      "avg_rank": 14.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 4386.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "washing machine",
+      "frequency": 7,
+      "avg_rank": 13.9,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.16,
+      "avg_reviews": 3178.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "amazon",
+      "frequency": 7,
+      "avg_rank": 10.9,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.14,
+      "avg_reviews": 15533.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "brand",
+      "frequency": 7,
+      "avg_rank": 10.9,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.14,
+      "avg_reviews": 15533.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "amazon brand",
+      "frequency": 7,
+      "avg_rank": 10.9,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.14,
+      "avg_reviews": 15533.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "brand presto",
+      "frequency": 7,
+      "avg_rank": 10.9,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.14,
+      "avg_reviews": 15533.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "powder",
+      "frequency": 7,
+      "avg_rank": 17.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.24,
+      "avg_reviews": 2809.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bathroom cleaner",
+      "frequency": 7,
+      "avg_rank": 12.6,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.34,
+      "avg_reviews": 13343.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stain",
+      "frequency": 7,
+      "avg_rank": 19.4,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.89,
+      "avg_reviews": 1423.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "all",
+      "frequency": 6,
+      "avg_rank": 14.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 14190.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "kills",
+      "frequency": 6,
+      "avg_rank": 11.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 27533.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "surfaces",
+      "frequency": 6,
+      "avg_rank": 16.7,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.98,
+      "avg_reviews": 10749.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "disinfectant surface",
+      "frequency": 6,
+      "avg_rank": 17.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.33,
+      "avg_reviews": 28146.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "kills germs",
+      "frequency": 6,
+      "avg_rank": 11.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 27533.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "clean",
+      "frequency": 6,
+      "avg_rank": 10.8,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 10725.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "kitchen cleaner",
+      "frequency": 6,
+      "avg_rank": 13.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 3798.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "disinfectant toilet",
+      "frequency": 6,
+      "avg_rank": 15.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 22780.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "happi",
+      "frequency": 5,
+      "avg_rank": 10.2,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.98,
+      "avg_reviews": 6302.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "planet",
+      "frequency": 5,
+      "avg_rank": 10.2,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.98,
+      "avg_reviews": 6302.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tap",
+      "frequency": 5,
+      "avg_rank": 11.8,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.16,
+      "avg_reviews": 10072.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "happi planet",
+      "frequency": 5,
+      "avg_rank": 10.2,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.98,
+      "avg_reviews": 6302.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "citrus",
+      "frequency": 5,
+      "avg_rank": 14.2,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.38,
+      "avg_reviews": 25569.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "surface floor",
+      "frequency": 5,
+      "avg_rank": 16.8,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.32,
+      "avg_reviews": 20870.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tile",
+      "frequency": 5,
+      "avg_rank": 20.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.84,
+      "avg_reviews": 9918.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "floors",
+      "frequency": 5,
+      "avg_rank": 11.8,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.86,
+      "avg_reviews": 8535.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "power",
+      "frequency": 5,
+      "avg_rank": 14.2,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.22,
+      "avg_reviews": 6730.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "lemon",
+      "frequency": 5,
+      "avg_rank": 15.2,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 11056.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bottle",
+      "frequency": 5,
+      "avg_rank": 18.8,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.92,
+      "avg_reviews": 4674.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "glass",
+      "frequency": 5,
+      "avg_rank": 21.8,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.38,
+      "avg_reviews": 6990.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hard",
+      "frequency": 5,
+      "avg_rank": 21.6,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.92,
+      "avg_reviews": 3304.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "shower",
+      "frequency": 4,
+      "avg_rank": 12.8,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 8495.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "descaler",
+      "frequency": 4,
+      "avg_rank": 8.2,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.28,
+      "avg_reviews": 5089.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "top",
+      "frequency": 4,
+      "avg_rank": 14.2,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 3930.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "front",
+      "frequency": 4,
+      "avg_rank": 14.2,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 3930.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "machine cleaner",
+      "frequency": 4,
+      "avg_rank": 14.2,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 3930.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "removes tough",
+      "frequency": 4,
+      "avg_rank": 10.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 5189.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "top load",
+      "frequency": 4,
+      "avg_rank": 14.2,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 3930.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bathroom floors",
+      "frequency": 4,
+      "avg_rank": 13.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.75,
+      "avg_reviews": 10658.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tough stains",
+      "frequency": 4,
+      "avg_rank": 14.8,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 14974.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "natural",
+      "frequency": 4,
+      "avg_rank": 15.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 4051.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "freshness",
+      "frequency": 4,
+      "avg_rank": 19.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.28,
+      "avg_reviews": 8154.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "safe",
+      "frequency": 4,
+      "avg_rank": 18.2,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.28,
+      "avg_reviews": 13752.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "surface cleaning",
+      "frequency": 4,
+      "avg_rank": 18.8,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.98,
+      "avg_reviews": 37200.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "india's",
+      "frequency": 4,
+      "avg_rank": 19.2,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 26428.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "lizol",
+      "frequency": 4,
+      "avg_rank": 21.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.42,
+      "avg_reviews": 23086.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "friendly",
+      "frequency": 4,
+      "avg_rank": 17.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 9541.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "anti",
+      "frequency": 4,
+      "avg_rank": 10.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.38,
+      "avg_reviews": 9020.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "refill",
+      "frequency": 4,
+      "avg_rank": 19.2,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.42,
+      "avg_reviews": 7191.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "multipurpose",
+      "frequency": 4,
+      "avg_rank": 21.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.95,
+      "avg_reviews": 8600.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "zero",
+      "frequency": 4,
+      "avg_rank": 23.8,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 2298.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "powder for",
+      "frequency": 4,
+      "avg_rank": 20.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.32,
+      "avg_reviews": 2796.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sink",
+      "frequency": 4,
+      "avg_rank": 16.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.75,
+      "avg_reviews": 1932.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "removal",
+      "frequency": 4,
+      "avg_rank": 19.8,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.67,
+      "avg_reviews": 1926.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stain removal",
+      "frequency": 4,
+      "avg_rank": 19.8,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.67,
+      "avg_reviews": 1926.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ml pack",
+      "frequency": 4,
+      "avg_rank": 20.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.78,
+      "avg_reviews": 3547.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "shine",
+      "frequency": 4,
+      "avg_rank": 18.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 5120.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "india",
+      "frequency": 3,
+      "avg_rank": 7.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 8683.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "foaming",
+      "frequency": 3,
+      "avg_rank": 7.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 8683.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "scrubbing",
+      "frequency": 3,
+      "avg_rank": 7.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 8683.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "purpose",
+      "frequency": 3,
+      "avg_rank": 8.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 22993.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "limescale remover",
+      "frequency": 3,
+      "avg_rank": 10.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 6096.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "india st",
+      "frequency": 3,
+      "avg_rank": 7.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 8683.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "st foaming",
+      "frequency": 3,
+      "avg_rank": 7.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 8683.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "all purpose",
+      "frequency": 3,
+      "avg_rank": 8.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 22993.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for bathroom",
+      "frequency": 3,
+      "avg_rank": 12.7,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 6643.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "front load",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 4993.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "presto disinfectant",
+      "frequency": 3,
+      "avg_rank": 5.7,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 30585.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "grease",
+      "frequency": 3,
+      "avg_rank": 15.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 15431.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "appliances",
+      "frequency": 3,
+      "avg_rank": 8.7,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 7268.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "original",
+      "frequency": 3,
+      "avg_rank": 7.7,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.33,
+      "avg_reviews": 40973.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "germs removes",
+      "frequency": 3,
+      "avg_rank": 12.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 18767.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "harpic disinfectant",
+      "frequency": 3,
+      "avg_rank": 12.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 46018.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "beco",
+      "frequency": 3,
+      "avg_rank": 19.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 1421.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "instantly",
+      "frequency": 3,
+      "avg_rank": 17.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 5321.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "maximum",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 713.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaner ml",
+      "frequency": 3,
+      "avg_rank": 14.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 6140.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ml instantly",
+      "frequency": 3,
+      "avg_rank": 17.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 5321.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "instantly removes",
+      "frequency": 3,
+      "avg_rank": 17.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 5321.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "descaling",
+      "frequency": 3,
+      "avg_rank": 18.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 4758.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "descaling powder",
+      "frequency": 3,
+      "avg_rank": 18.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 4758.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "load washing",
+      "frequency": 3,
+      "avg_rank": 18.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 4758.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stove",
+      "frequency": 3,
+      "avg_rank": 19.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 3113.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "chimney",
+      "frequency": 3,
+      "avg_rank": 19.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 3113.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mirrors",
+      "frequency": 3,
+      "avg_rank": 15.7,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 1146.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "phenyl",
+      "frequency": 3,
+      "avg_rank": 23.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 3598.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "lizol disinfectant",
+      "frequency": 3,
+      "avg_rank": 20.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 30356.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "nimyle",
+      "frequency": 3,
+      "avg_rank": 9.7,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 7711.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bacterial",
+      "frequency": 3,
+      "avg_rank": 9.7,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 7711.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "protection",
+      "frequency": 3,
+      "avg_rank": 18.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 13731.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "friendly floor",
+      "frequency": 3,
+      "avg_rank": 19.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.33,
+      "avg_reviews": 8407.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "anti bacterial",
+      "frequency": 3,
+      "avg_rank": 9.7,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 7711.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "liquid refill",
+      "frequency": 3,
+      "avg_rank": 17.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 5745.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "refill pack",
+      "frequency": 3,
+      "avg_rank": 17.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 5745.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mops",
+      "frequency": 3,
+      "avg_rank": 15.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 5622.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for all",
+      "frequency": 3,
+      "avg_rank": 19.7,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 5388.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "harpic bathroom",
+      "frequency": 3,
+      "avg_rank": 12.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 7021.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "home",
+      "frequency": 3,
+      "avg_rank": 24.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 9255.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaner for",
+      "frequency": 3,
+      "avg_rank": 24.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 9255.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "spray for",
+      "frequency": 3,
+      "avg_rank": 21.7,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.6,
+      "avg_reviews": 784.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaning liquid",
+      "frequency": 3,
+      "avg_rank": 17.7,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.33,
+      "avg_reviews": 1942.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stain remover",
+      "frequency": 3,
+      "avg_rank": 19.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 753.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "taps",
+      "frequency": 3,
+      "avg_rank": 17.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 2057.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tiles sink",
+      "frequency": 3,
+      "avg_rank": 18.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.63,
+      "avg_reviews": 1680.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "water",
+      "frequency": 3,
+      "avg_rank": 23.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 5501.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hard water",
+      "frequency": 3,
+      "avg_rank": 23.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 5501.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "use",
+      "frequency": 3,
+      "avg_rank": 25.3,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 5407.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "formulation",
+      "frequency": 2,
+      "avg_rank": 3.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.95,
+      "avg_reviews": 12032.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "reduced",
+      "frequency": 2,
+      "avg_rank": 8.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 8508.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "non-toxic",
+      "frequency": 2,
+      "avg_rank": 14.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.95,
+      "avg_reviews": 9521.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tap cleaner",
+      "frequency": 2,
+      "avg_rank": 8.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 8151.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaner limescale",
+      "frequency": 2,
+      "avg_rank": 8.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 8151.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "foaming formulation",
+      "frequency": 2,
+      "avg_rank": 3.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.95,
+      "avg_reviews": 12032.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "formulation for",
+      "frequency": 2,
+      "avg_rank": 3.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.95,
+      "avg_reviews": 12032.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for reduced",
+      "frequency": 2,
+      "avg_rank": 8.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 8508.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "reduced scrubbing",
+      "frequency": 2,
+      "avg_rank": 8.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 8508.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "purpose cleaner",
+      "frequency": 2,
+      "avg_rank": 10.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 15020.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tap shower",
+      "frequency": 2,
+      "avg_rank": 13.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 14518.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tablets",
+      "frequency": 2,
+      "avg_rank": 2.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 1447.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "grime",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.95,
+      "avg_reviews": 1890.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "soap",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 7726.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "scum",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 7726.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "protects",
+      "frequency": 2,
+      "avg_rank": 7.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 7196.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "residue",
+      "frequency": 2,
+      "avg_rank": 6.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 1066.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "soap scum",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 7726.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for top",
+      "frequency": 2,
+      "avg_rank": 7.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.95,
+      "avg_reviews": 3246.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ceramic",
+      "frequency": 2,
+      "avg_rank": 13.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 19697.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaner citrus",
+      "frequency": 2,
+      "avg_rank": 10.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 50628.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "citrus litre",
+      "frequency": 2,
+      "avg_rank": 12.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 25439.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for floor",
+      "frequency": 2,
+      "avg_rank": 6.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 83072.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "wall",
+      "frequency": 2,
+      "avg_rank": 6.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 21306.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tile floor",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 20801.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stoves",
+      "frequency": 2,
+      "avg_rank": 8.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 4860.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "chimneys",
+      "frequency": 2,
+      "avg_rank": 8.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 4860.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "counter",
+      "frequency": 2,
+      "avg_rank": 8.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 4860.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tops",
+      "frequency": 2,
+      "avg_rank": 8.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 4860.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "walls",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 5120.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "non",
+      "frequency": 2,
+      "avg_rank": 17.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 6216.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "toxic",
+      "frequency": 2,
+      "avg_rank": 17.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 6216.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stoves chimneys",
+      "frequency": 2,
+      "avg_rank": 8.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 4860.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "counter tops",
+      "frequency": 2,
+      "avg_rank": 8.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 4860.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "non toxic",
+      "frequency": 2,
+      "avg_rank": 17.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 6216.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "packs",
+      "frequency": 2,
+      "avg_rank": 7.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 10510.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "litre packs",
+      "frequency": 2,
+      "avg_rank": 7.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 10510.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "liquid original",
+      "frequency": 2,
+      "avg_rank": 8.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 52786.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dettol",
+      "frequency": 2,
+      "avg_rank": 12.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.55,
+      "avg_reviews": 66492.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "multi-purpose",
+      "frequency": 2,
+      "avg_rank": 11.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 65308.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "lime",
+      "frequency": 2,
+      "avg_rank": 18.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 65319.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fragrance",
+      "frequency": 2,
+      "avg_rank": 15.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 65200.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "liquid for",
+      "frequency": 2,
+      "avg_rank": 12.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.55,
+      "avg_reviews": 66492.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "max",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 433.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleans",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 978.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "seconds",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 978.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "beco max",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 433.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleans in",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 978.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "in seconds",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 978.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "seconds maximum",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 978.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaning power",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 3402.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "drum",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 2894.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tub",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 2894.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pouch",
+      "frequency": 2,
+      "avg_rank": 6.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 3244.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaner descaling",
+      "frequency": 2,
+      "avg_rank": 20.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 6766.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "descaler for",
+      "frequency": 2,
+      "avg_rank": 8.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 8818.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "load and",
+      "frequency": 2,
+      "avg_rank": 20.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 6766.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "machine drum",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 2894.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "drum cleaner",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 2894.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaner tub",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 2894.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tub cleaner",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 2894.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "kleenest",
+      "frequency": 2,
+      "avg_rank": 17.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 1097.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "combo",
+      "frequency": 2,
+      "avg_rank": 18.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 1488.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaner combo",
+      "frequency": 2,
+      "avg_rank": 18.5,
+      "categories": [
+        "Household Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 1488.0,
+      "category_count": 1
+    }
+  ],
+  "category_tree": [
+    {
+      "name": "Hot New Releasesin Household Cleaners",
+      "url": "https://www.amazon.in/gp/new-releases/hpc/1374544031/ref=zg_bs_tab_t_hpc_bsnr",
+      "is_selected": false
+    }
+  ],
+  "metadata": {
+    "category": "household_cleaners",
+    "pages_scraped": 2,
+    "total_products": 60,
+    "total_keywords": 1074,
+    "scraped_at": "2026-03-23T09:57:03.330383"
+  }
+}

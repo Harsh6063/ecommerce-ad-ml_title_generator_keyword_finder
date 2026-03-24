@@ -1,0 +1,3485 @@
+{
+  "products": [
+    {
+      "rank": 1,
+      "asin": "9387779262",
+      "title": "My First Library: Boxset of 10 Board Books for Kids (Pack 1) | Includes ABC, Numbers, Shapes, Colors, Wild Animals, Farm Animals & Pets, Birds, Fruits, Vegetables & Transport | Early Learning Board Books for Babies, Toddlers & Preschoolers | Ages 0-3 Years",
+      "brand": "Hardcover",
+      "price": 389.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 89242,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81p1nkYo4NL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/My-First-Library-Boxset-Board/dp/9387779262/ref=zg_bs_g_books_d_sccl_1/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.528816",
+      "page_number": 1,
+      "title_word_count": 43,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 2,
+      "asin": "9394417850",
+      "title": "Mathematics Class 10 by R.D. Sharma | CBSE Exam Preparation Book & MCQ Practice Guide | Dhanpat Rai Publications(2026-2027) New edition (R.d. Sharma Mathematics Series)",
+      "brand": "Paperback",
+      "price": 619.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 34,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/818myWdI5pL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Mathematics-Preparation-Practice-Publications-2026-2027/dp/9394417850/ref=zg_bs_g_books_d_sccl_2/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.530099",
+      "page_number": 1,
+      "title_word_count": 25,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "low"
+    },
+    {
+      "rank": 3,
+      "asin": "1847941834",
+      "title": "Atomic Habits: Tiny Changes, Remarkable Results",
+      "brand": "Paperback",
+      "price": 529.0,
+      "currency": "INR",
+      "rating": 4.6,
+      "review_count": 110051,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/817HaeblezL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Atomic-Habits-James-Clear/dp/1847941834/ref=zg_bs_g_books_d_sccl_3/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.531413",
+      "page_number": 1,
+      "title_word_count": 6,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 4,
+      "asin": "9353455766",
+      "title": "THE SKY WARRIORS : Operation Sindoor Unveiled",
+      "brand": "Paperback",
+      "price": 356.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 13,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/710HIQRjofL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/SKY-WARRIORS-Operation-Sindoor-Unveiled/dp/9353455766/ref=zg_bs_g_books_d_sccl_4/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.532727",
+      "page_number": 1,
+      "title_word_count": 7,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 5,
+      "asin": "178633089X",
+      "title": "Ikigai: The Japanese secret to a long and happy life",
+      "brand": "Hardcover",
+      "price": 283.0,
+      "currency": "INR",
+      "rating": 4.6,
+      "review_count": 61577,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81l3rZK4lnL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Ikigai-Japanese-Self-Help-Phenomenon-Meaningful/dp/178633089X/ref=zg_bs_g_books_d_sccl_5/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.534038",
+      "page_number": 1,
+      "title_word_count": 10,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 6,
+      "asin": "9364447670",
+      "title": "Indian Polity Courseware (English), 8e by M Laxmikanth for UPSC 2026 | 40+ Conceptual Videos | Colour eBook | Solved 13 Years Prelims PYQs (2013-25) | 12 Years Main Exam Questions | Practice Questions",
+      "brand": "Paperback",
+      "price": 764.0,
+      "currency": "INR",
+      "rating": 4.6,
+      "review_count": 854,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81lErh+IhdL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Courseware-Laxmikanth-Conceptual-Well-structured-Insightful/dp/9364447670/ref=zg_bs_g_books_d_sccl_6/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.535294",
+      "page_number": 1,
+      "title_word_count": 34,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 7,
+      "asin": "9390166268",
+      "title": "The Psychology of Money",
+      "brand": "Paperback",
+      "price": 239.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 79873,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71XEsXS5RlL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Psychology-Money-Morgan-Housel/dp/9390166268/ref=zg_bs_g_books_d_sccl_7/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.536741",
+      "page_number": 1,
+      "title_word_count": 4,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 8,
+      "asin": "0241252083",
+      "title": "White Nights by Fyodor Dostoyevsky: A Timeless Story of Love, Longing & Solitude | Classic Fiction, Russian Literature, Romantic Novella | Penguin Little Black Classics",
+      "brand": "Paperback",
+      "price": 111.0,
+      "currency": "INR",
+      "rating": 4.6,
+      "review_count": 4497,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41y8H3QmVqL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/White-Nights-Penguin-Little-Classics/dp/0241252083/ref=zg_bs_g_books_d_sccl_8/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.538058",
+      "page_number": 1,
+      "title_word_count": 25,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 9,
+      "asin": "9368406030",
+      "title": "Arihant All in One Social Science Class 10 for CBSE Exams 2025-26 | Revised Edition as per latest syllabus I Mind Maps, CBQs, Focused Theory, Practice Exercises, Sample Papers",
+      "brand": "Paperback",
+      "price": 436.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 912,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81pl02ANbfL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Arihant-Science-syllabus-Practice-Exercises/dp/9368406030/ref=zg_bs_g_books_d_sccl_9/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.539349",
+      "page_number": 1,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 10,
+      "asin": "9371534516",
+      "title": "PW NTA 15 NEET Rankers Test Series 2026 | Expert Verified & Curated | 15 NEET-Like Test Booklets, 15 OMR Sheets, Solution Booklet, Rank Predictor & Statewise Cutoff Guide | Neet Test Series 2026",
+      "brand": "Paperback",
+      "price": 682.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 215,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81FShHXy+xL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Verified-NEET-Like-Booklets-Predictor-Statewise/dp/9371534516/ref=zg_bs_g_books_d_sccl_10/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.540817",
+      "page_number": 1,
+      "title_word_count": 34,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 11,
+      "asin": "1529157463",
+      "title": "Project Hail Mary: The Sunday Times bestseller from the author of The Martian",
+      "brand": "Paperback",
+      "price": 334.0,
+      "currency": "INR",
+      "rating": 4.7,
+      "review_count": 198276,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Yc3Urj0+L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Project-Hail-Mary-bestselling-Martian/dp/1529157463/ref=zg_bs_g_books_d_sccl_11/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.542262",
+      "page_number": 1,
+      "title_word_count": 13,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 12,
+      "asin": "B0GDQLFJSB",
+      "title": "Lucent's General Knowledge 2026 - English | Lucent Gk 2026 New Edition English | 15th Revised Edition | For UPSC, SSC, NDA, CDS, Banking, Railways, Defence & All Competitive Exams (2026-27)",
+      "brand": "Paperback",
+      "price": 219.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 38,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71EERxdWF0L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Lucents-General-Knowledge-2026-Competitive/dp/B0GDQLFJSB/ref=zg_bs_g_books_d_sccl_12/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.543557",
+      "page_number": 1,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 13,
+      "asin": "9360347981",
+      "title": "My First Library Set of 10 Board Books for Kids, Early Learning Book for Babies & Toddlers, Alphabets, Body Parts, Numbers, 1-3 Years (Kids' First Library Box Set)",
+      "brand": "Board book",
+      "price": 389.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 942,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61MmnHY2WuL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/First-Library-Board-Books-Children/dp/9360347981/ref=zg_bs_g_books_d_sccl_13/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.544815",
+      "page_number": 1,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 14,
+      "asin": "8172345135",
+      "title": "Metamorphosis",
+      "brand": "Paperback",
+      "price": 86.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 15003,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91h14raE85S._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Metamorphosis-Franz-Kafka/dp/8172345135/ref=zg_bs_g_books_d_sccl_14/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.546138",
+      "page_number": 1,
+      "title_word_count": 1,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 15,
+      "asin": "936840013X",
+      "title": "Arihant All in One Science Class 10 for CBSE Exams 2025-26 | Revised Edition as per latest syllabus | Mind Maps, CBQs, Focused Theory, Practice Exercises, Sample Papers",
+      "brand": "Paperback",
+      "price": 456.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 933,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81LtNJ0pYsL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Arihant-Science-syllabus-Practice-Exercises/dp/936840013X/ref=zg_bs_g_books_d_sccl_15/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.547397",
+      "page_number": 1,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 16,
+      "asin": "935440460X",
+      "title": "201 Brain Booster Activity Book - Fun Activities and Exercises For Children | Tracing & Pattern, Colors & Shapes, Maze | Ages 5 and up | 1.5 hours of fun time",
+      "brand": "Paperback",
+      "price": 113.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 2972,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81abDkWQfeL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/201-Brain-Booster-Activity-Book/dp/935440460X/ref=zg_bs_g_books_d_sccl_16/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.548657",
+      "page_number": 1,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 17,
+      "asin": "9356405433",
+      "title": "It\u2019s Easy to Be Healthy: Malaika\u2019s Guide to Living a Good Life \u2014 A Bestseller Wellness Guide to Fitness, Nutrition, Beauty and Healthy Living",
+      "brand": "Paperback",
+      "price": 260.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 91,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61N+HZqYxbL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Its-Easy-Healthy-Bestseller-Nutrition/dp/9356405433/ref=zg_bs_g_books_d_sccl_17/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.549973",
+      "page_number": 1,
+      "title_word_count": 24,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 18,
+      "asin": "9384419990",
+      "title": "Jaun Elia: Ek Ajab Ghazab Shayar",
+      "brand": "Paperback",
+      "price": 179.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 2045,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81uND7JqfTL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Jaun-Elia-Ajab-Ghazab-Shayar/dp/9384419990/ref=zg_bs_g_books_d_sccl_18/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.551492",
+      "page_number": 1,
+      "title_word_count": 6,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 19,
+      "asin": "1760630721",
+      "title": "Courage To Be Disliked, The: How to free yourself, change your life and achieve real happiness",
+      "brand": "Ichiro Kishimi and Fumitake Koga",
+      "price": 335.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": null,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/710cYy40DUL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Courage-Be-Disliked-yourself-happiness/dp/1760630721/ref=zg_bs_g_books_d_sccl_19/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.552635",
+      "page_number": 1,
+      "title_word_count": 16,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": ""
+    },
+    {
+      "rank": 20,
+      "asin": "9386538601",
+      "title": "Mandala Art: Colouring books for Adults with tear out sheets",
+      "brand": "Paperback",
+      "price": 171.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 7618,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81d9LCBOZAL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Mandala-Art-Colouring-Adults-Sheets/dp/9386538601/ref=zg_bs_g_books_d_sccl_20/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.553898",
+      "page_number": 1,
+      "title_word_count": 10,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 21,
+      "asin": "9390093953",
+      "title": "101 Tales The Great Panchatantra Collection - Collection of Witty Moral Stories For Kids For Personality Development (Hardback)",
+      "brand": "Hardcover",
+      "price": 349.0,
+      "currency": "INR",
+      "rating": 4.6,
+      "review_count": 3151,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71My1M0AgZL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/101-Tales-Great-Panchatantra-Collection/dp/9390093953/ref=zg_bs_g_books_d_sccl_21/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.555226",
+      "page_number": 1,
+      "title_word_count": 18,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 22,
+      "asin": "9364375157",
+      "title": "Arihant Pathfinder NDA/NA Entrance Exam Book 2025 | National Defence & Naval Academy | 8000+ MCQs, PYQs & Complete Study Notes | Latest Edition for NDA Written Exam Preparation | English Medium",
+      "brand": "Paperback",
+      "price": 532.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 930,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81NcNMcoDCL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Entrance-Digvijay-Abhishika-Avanindra-Upadhyay/dp/9364375157/ref=zg_bs_g_books_d_sccl_22/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.556534",
+      "page_number": 1,
+      "title_word_count": 32,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 23,
+      "asin": "8172345666",
+      "title": "The Power of Your Subconscious Mind: Original Classic Edition | Premium Paperback",
+      "brand": "Paperback",
+      "price": 149.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 65672,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71g4OFCERdL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Power-Your-Subconscious-Mind-Success/dp/8172345666/ref=zg_bs_g_books_d_sccl_23/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.558168",
+      "page_number": 1,
+      "title_word_count": 12,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 24,
+      "asin": "B0743DXTVX",
+      "title": "SHNMN Sank Magic Practice Copybook, (4 BOOK +1 PEN + 10 REFILL) Number Tracing Book for Preschoolers with Pen, Magic calligraphy books for kids Reusable Writing Tool",
+      "brand": "Unknown Binding",
+      "price": 269.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 4960,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71fTA8TF23L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Practice-Copybook-Preschoolers-calligraphy-Reusable/dp/B0743DXTVX/ref=zg_bs_g_books_d_sccl_24/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.559556",
+      "page_number": 1,
+      "title_word_count": 27,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 25,
+      "asin": "8172234988",
+      "title": "The Alchemist",
+      "brand": "Paperback",
+      "price": 239.0,
+      "currency": "INR",
+      "rating": 4.6,
+      "review_count": 136052,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/617lxveUjYL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Alchemist-Paulo-Coelho/dp/8172234988/ref=zg_bs_g_books_d_sccl_25/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.560890",
+      "page_number": 1,
+      "title_word_count": 2,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 26,
+      "asin": "9551753437",
+      "title": "Sank Magic Practice Copybook, (4 BOOK + 10 REFILL+ 1 Pen +1 Grip) Number Tracing Book for Preschoolers with Pen, Magic Calligraphy Copybook Set Practical Reusable Writing Tool Simple Hand Lettering",
+      "brand": "Spiral-bound",
+      "price": 108.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 5039,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61l1RKyOSrL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Practice-Preschoolers-Calligraphy-Practical-Lettering/dp/9551753437/ref=zg_bs_g_books_d_sccl_26/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.562148",
+      "page_number": 1,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 27,
+      "asin": "9373745131",
+      "title": "Oxford Student Atlas for India | For UPSC and Other Competitive Exams | 7th Edition",
+      "brand": "Paperback",
+      "price": 245.0,
+      "currency": "INR",
+      "rating": 4.6,
+      "review_count": 61,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71iY-CruqwL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Oxford-Student-Atlas-India-Competitive/dp/9373745131/ref=zg_bs_g_books_d_sccl_27/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.563401",
+      "page_number": 1,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 28,
+      "asin": "8131958248",
+      "title": "1001 Ultimate Brain Booster Activity book for 3 to 6 Years Old Kids |Enhance the Child Mind with Cognitive Excellence with Interactive Activity Book",
+      "brand": "Paperback",
+      "price": 305.0,
+      "currency": "INR",
+      "rating": 4.6,
+      "review_count": 2654,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71raj2cuiUL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Ultimate-Brain-Booster-Activities-Years/dp/8131958248/ref=zg_bs_g_books_d_sccl_28/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.564659",
+      "page_number": 1,
+      "title_word_count": 24,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 29,
+      "asin": "936840223X",
+      "title": "Arihant All in One English Language & Literature Class 10 for CBSE Exams 2025-26 | Revised Edition as per latest syllabus | CBQs, Focused Theory, Reading, Writing, Grammar & Literature, Review Exercises, Sample Papers",
+      "brand": "Paperback",
+      "price": 444.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 688,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/813CWTXXfbL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Arihant-Language-Literature-syllabus-Exercises/dp/936840223X/ref=zg_bs_g_books_d_sccl_29/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.565927",
+      "page_number": 1,
+      "title_word_count": 34,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 30,
+      "asin": "B0FNN8WSZ6",
+      "title": "We Are There For Each Other: An Intense Love Story of 4 Friends on a Road Trip of a Lifetime \u2022 Romance \u2022 Friendship \u2022 Fighting for Love \u2022 Travel Fiction",
+      "brand": "Paperback",
+      "price": 298.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 604,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Cfhmtis4L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Are-There-Each-Other-Friendship/dp/B0FNN8WSZ6/ref=zg_bs_g_books_d_sccl_30/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:06.567325",
+      "page_number": 1,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 1,
+      "asin": "014346115X",
+      "title": "The Housemaid: An Absolutely Addictive Psychological Thriller with a Jaw-Dropping Twist (The Housemaid series, Book1) | TikTok Viral & Bestseller Pick",
+      "brand": "Paperback",
+      "price": 312.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 664692,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81loPDFi-wL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Housemaid-Absolutely-Psychological-Jaw-Dropping-Bestseller/dp/014346115X/ref=zg_bs_g_books_d_sccl_1/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.594514",
+      "page_number": 2,
+      "title_word_count": 21,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 2,
+      "asin": "9389178118",
+      "title": "Animals Tales From Panchtantra: Timeless Stories for Children From Ancient India",
+      "brand": "Hardcover",
+      "price": 219.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 7328,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71esglHnz-L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Animals-Tales-Panchtantra-Timeless-Children/dp/9389178118/ref=zg_bs_g_books_d_sccl_2/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.595834",
+      "page_number": 2,
+      "title_word_count": 11,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 3,
+      "asin": "9357291067",
+      "title": "NCERT CLASS 8 GANITA PRAKASH, (Eng Med) Textbook of Mathematics for Grade 8, Part 2 889 2025-26 Edition",
+      "brand": "Paperback",
+      "price": 65.0,
+      "currency": "INR",
+      "rating": 4.6,
+      "review_count": 229,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71dNy80-p4L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/GANITA-PRAKASH-Textbook-Mathematics-2025-26/dp/9357291067/ref=zg_bs_g_books_d_sccl_3/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.597100",
+      "page_number": 2,
+      "title_word_count": 18,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 4,
+      "asin": "9360349631",
+      "title": "200+ Adventure Activity Book for Kids, Early Learning Educational Book with 500+ Free Worksheets & Parenting Tips, Brain Booster Books for Kids 3 - 4 Years",
+      "brand": "Paperback",
+      "price": 120.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 520,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61V2SZ4uTrL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Adventure-Educational-Activities-Worksheets-Parenting/dp/9360349631/ref=zg_bs_g_books_d_sccl_4/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.599088",
+      "page_number": 2,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 5,
+      "asin": "8119099397",
+      "title": "Story Books for Kids - Second Reader (Illustrated) (Set of 6 Books) - Phonic stories - Bedtime Stories - 3 Years to 6 Years Old - Read Aloud to Infants, Toddlers",
+      "brand": "Paperback",
+      "price": 156.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 1550,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91pRN-NJ6HL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Story-Books-Kids-Illustrated-Toddlers/dp/8119099397/ref=zg_bs_g_books_d_sccl_5/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.601173",
+      "page_number": 2,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 6,
+      "asin": "1612681131",
+      "title": "Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!",
+      "brand": "Mass Market Paperback",
+      "price": 379.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 36931,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71HJj3XmheL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Rich-Dad-Poor-Middle-Anniversary/dp/1612681131/ref=zg_bs_g_books_d_sccl_6/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.603353",
+      "page_number": 2,
+      "title_word_count": 20,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 7,
+      "asin": "9369574700",
+      "title": "MTG Objective NCERT at your FINGERTIPS Biology For 2025-2026 Exam - NCERT NEET Trend Indicator, HOTS MCQs, Rank Predictor & Notes with HD Pages | NEET Books (Based on NCERT Latest Pattern)",
+      "brand": "Paperback",
+      "price": 648.0,
+      "currency": "INR",
+      "rating": 4.6,
+      "review_count": 594,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81yCeO6FSCL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Objective-NCERT-FINGERTIPS-Biology-2025-2026/dp/9369574700/ref=zg_bs_g_books_d_sccl_7/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.605484",
+      "page_number": 2,
+      "title_word_count": 32,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 8,
+      "asin": "9354402380",
+      "title": "Addition and Subtraction Activity Book For Children - 80+ Activities Inside | Ages 5, 6, 7 | 2.5 hours of interactive and skill building fun",
+      "brand": "Paperback",
+      "price": 117.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 1837,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71hFfEEoRyL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Addition-Subtraction-Activity-Book-Children/dp/9354402380/ref=zg_bs_g_books_d_sccl_8/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.607675",
+      "page_number": 2,
+      "title_word_count": 25,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 9,
+      "asin": "9354405118",
+      "title": "101 Pencil Control Activity Book For Kids: Tracing Practise Book | Age 2+ and up | 4 hours of writing activities",
+      "brand": "Paperback",
+      "price": 209.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 2667,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71djGPiY5+L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Pencil-Control-Activity-Book-Kids/dp/9354405118/ref=zg_bs_g_books_d_sccl_9/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.609636",
+      "page_number": 2,
+      "title_word_count": 21,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 10,
+      "asin": "9334262001",
+      "title": "Parmar SSC Fatman | GK/GS Theory Book | English Medium | 1st Edition, 2025 | Useful For SSC CGL and CHSL (Tier 1 & 2) | CPO | MTS | Steno | Selection ... & All Other One Day Competitive Examination",
+      "brand": "Paperback",
+      "price": 405.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 1236,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71FvrzgqDqL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/English-Selection-Defence-Competitive-Examination/dp/9334262001/ref=zg_bs_g_books_d_sccl_10/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.610979",
+      "page_number": 2,
+      "title_word_count": 41,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 11,
+      "asin": "B098TBN7NM",
+      "title": "Sri Durgasaptashati Sachitra |Language: Hindi |Size: Medium (\u092a\u0941\u0938\u094d\u0924\u0915\u093e\u0915\u093e\u0930) |Code: 1281",
+      "brand": "Hardcover",
+      "price": 80.0,
+      "currency": "INR",
+      "rating": 4.8,
+      "review_count": 1534,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/819THkNxhZL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Sri-Durgasaptashati-Sachitra-Language-%E0%A4%AA%E0%A5%81%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%95%E0%A4%BE%E0%A4%95%E0%A4%BE%E0%A4%B0/dp/B098TBN7NM/ref=zg_bs_g_books_d_sccl_11/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.612268",
+      "page_number": 2,
+      "title_word_count": 10,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 12,
+      "asin": "9358705736",
+      "title": "S Chand Wren & Martin's High School English Grammar & Composition \u2013 Regular Edition (2026 \u2013 2027) | Updated English Grammar Rules, Exercises, Writing Skills, Vocabulary, Essays, Letters & Comprehension | Best Grammar Practice Book for Students - S Chand School Education",
+      "brand": "Paperback",
+      "price": 403.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 1097,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71n4b8nRbFL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/High-School-English-Gram-Comp/dp/9358705736/ref=zg_bs_g_books_d_sccl_12/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.613676",
+      "page_number": 2,
+      "title_word_count": 42,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 13,
+      "asin": "9368401918",
+      "title": "Arihant All in One English Core Class 12 for CBSE Exams 2025-26 | Simplified Theory, Topicwise Illustrations & Practice Questions, All Types of Exam Pattern Questions, CBQs, MCQs, A-R, Case Based, Sample Question Papers, Board Questions Upto 2025, Mind Maps, & Project Work",
+      "brand": "Paperback",
+      "price": 356.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 749,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71O9ZkjC+JL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Simplified-Topicwise-Illustrations-Practice-Questions/dp/9368401918/ref=zg_bs_g_books_d_sccl_13/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.615036",
+      "page_number": 2,
+      "title_word_count": 43,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 14,
+      "asin": "9373946536",
+      "title": "Arihant CUET UG 2026 General Aptitude & English Language Combo | Chapterwise Notes & Question Bank | Based on NTA Pattern | 1000+ MCQs, Case-Based & ... | Flash Cards & Free Online Digital Support",
+      "brand": "Paperback",
+      "price": 349.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 41,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61nDnfQuQBL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Aptitude-Language-Chapterwise-Question-Case-Based/dp/9373946536/ref=zg_bs_g_books_d_sccl_14/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.616595",
+      "page_number": 2,
+      "title_word_count": 35,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 15,
+      "asin": "9391129811",
+      "title": "Moral Story Books for Kids (Illustrated) - English Short Stories with Colourful Pictures - Bedtime Children Story Book - 3 Years to 6 Years Old ... Aloud to Infants, Toddlers (Set of 10 Books)",
+      "brand": "Product Bundle",
+      "price": 238.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 4452,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/710GgrTea1L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Moral-Story-Books-Kids-Set/dp/9391129811/ref=zg_bs_g_books_d_sccl_15/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.617930",
+      "page_number": 2,
+      "title_word_count": 34,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 16,
+      "asin": "0141033576",
+      "title": "Thinking, Fast and Slow",
+      "brand": "Paperback",
+      "price": 501.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 33168,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71f6DceqZAL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Thinking-Fast-Penguin-Press-Non-Fiction/dp/0141033576/ref=zg_bs_g_books_d_sccl_16/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.619322",
+      "page_number": 2,
+      "title_word_count": 4,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 17,
+      "asin": "0143475924",
+      "title": "Can We be Strangers Again?: A National Bestseller",
+      "brand": "Paperback",
+      "price": 215.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 1091,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71zpck45b2L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Can-We-Strangers-Again-bittersweet/dp/0143475924/ref=zg_bs_g_books_d_sccl_17/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.621203",
+      "page_number": 2,
+      "title_word_count": 8,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 18,
+      "asin": "9373011189",
+      "title": "Oswaal CBSE Question Bank for Class 10 Science | Chapter-wise and Topic-wise: Solved Papers (2017-2026) | Includes 2026 Papers- fully solved | With Mind Maps & Revision Notes For 2027 Exam",
+      "brand": "Paperback",
+      "price": 641.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 623,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71HO1OQebnL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Oswaal-Question-Science-Chapter-wise-Topic-wise/dp/9373011189/ref=zg_bs_g_books_d_sccl_18/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.623383",
+      "page_number": 2,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 19,
+      "asin": "0143464523",
+      "title": "Never Lie: A Totally Gripping Thriller with Mind-bending Twists | TikTok Viral & Bestseller Pick",
+      "brand": "Paperback",
+      "price": 335.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 312553,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61qTWmEi5GL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Never-Lie-Gripping-Thriller-Mind-bending/dp/0143464523/ref=zg_bs_g_books_d_sccl_19/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.625575",
+      "page_number": 2,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 20,
+      "asin": "B0F4NPPS95",
+      "title": "Concepts of Physics - HC Verma - Vol 1 and 2 - Set of 2 Books - [ORIGINAL BOOKS-TOP GRADE PAPER & PRINT] - For 2026-27 Exams - Latest Editions",
+      "brand": "Paperback",
+      "price": 914.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 519,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/815FL59caCL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Concepts-Physics-ORIGINAL-BOOKS-TOP-Editions/dp/B0F4NPPS95/ref=zg_bs_g_books_d_sccl_20/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.627649",
+      "page_number": 2,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 21,
+      "asin": "935543135X",
+      "title": "Don't Believe Everything You Think (English)",
+      "brand": "Paperback",
+      "price": 203.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 16155,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715qi-cIbML._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Dont-Believe-Everything-You-Think/dp/935543135X/ref=zg_bs_g_books_d_sccl_21/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.629964",
+      "page_number": 2,
+      "title_word_count": 6,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 22,
+      "asin": "9373941283",
+      "title": "Arihant CUET UG English Language Section I (A) Chapterwise Notes & Question Bank 2026 | 1000+ MCQs | Statement, Underline Word & Matching Type ... Based on Latest NTA Pattern | English Medium",
+      "brand": "Paperback",
+      "price": 125.0,
+      "currency": "INR",
+      "rating": 4.6,
+      "review_count": 44,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71ehuNu88sL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Language-Chapterwise-Question-Statement-Underline/dp/9373941283/ref=zg_bs_g_books_d_sccl_22/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.632088",
+      "page_number": 2,
+      "title_word_count": 33,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 23,
+      "asin": "0241745160",
+      "title": "Diary of a Wimpy Kid: Partypooper | Hilarious 20th Book in Jeff Kinney\u2019s #1 International Bestseller Series Filled with Birthday Chaos, Laugh-Out-Loud ... Fun: THE BRAND-NEW, HILARIOUS WIMPY KID BOOK",
+      "brand": "Hardcover",
+      "price": 407.2,
+      "currency": "INR",
+      "rating": 4.6,
+      "review_count": 5049,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91NDZEkcE7L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Diary-Wimpy-Kid-International-Laugh-Out-Loud/dp/0241745160/ref=zg_bs_g_books_d_sccl_23/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.634288",
+      "page_number": 2,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 24,
+      "asin": "0143473069",
+      "title": "Mother Mary Comes to Me: From the Booker Prize-Winning Author, Arundhati Roy",
+      "brand": "Hardcover",
+      "price": 501.0,
+      "currency": "INR",
+      "rating": 4.7,
+      "review_count": 3880,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51EaqBT+ywL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Mother-Mary-Comes-Prize-Winning-Arundhati/dp/0143473069/ref=zg_bs_g_books_d_sccl_24/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.636493",
+      "page_number": 2,
+      "title_word_count": 12,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 25,
+      "asin": "9386215969",
+      "title": "The Palace of Illusions: 15th Anniversary Edition",
+      "brand": "Paperback",
+      "price": 299.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 12241,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/A1dtQ-soQEL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Palace-Illusions-10th-Anniversary/dp/9386215969/ref=zg_bs_g_books_d_sccl_25/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.638887",
+      "page_number": 2,
+      "title_word_count": 7,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 26,
+      "asin": "9389432014",
+      "title": "World\u2019s Greatest Books For Personal Growth & Wealth (Set of 4 Books) : Perfect Motivational Gift Set | How to Win Friends and Influence People | Think and Grow Rich | The Richest Man in Babylon | The Power of Your Subconscious Mind | Premium Paperback for Gifting",
+      "brand": "George S. Clason Dale Carnegie, Napoleon Hill, Dr. Joseph Murphy",
+      "price": 349.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": null,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71eVoJQz9-L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Worlds-Greatest-Personal-Growth-Wealth/dp/9389432014/ref=zg_bs_g_books_d_sccl_26/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.640844",
+      "page_number": 2,
+      "title_word_count": 48,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": ""
+    },
+    {
+      "rank": 27,
+      "asin": "0143458280",
+      "title": "Samsara: Enter the Valley of the Gods (\"India's answer to Harry Potter\") | Mythological fiction novel",
+      "brand": "Paperback",
+      "price": 250.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 2334,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/813P4lxRaLL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Samsara-Valley-Indias-answer-Potter/dp/0143458280/ref=zg_bs_g_books_d_sccl_27/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.643057",
+      "page_number": 2,
+      "title_word_count": 16,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 28,
+      "asin": "014333316X",
+      "title": "The Magic Of The Lost Temple: Illustrated, easy to read and much-loved first full length children\u2019s fiction novel by Sudha Murty for ages 8\u201312",
+      "brand": "Paperback",
+      "price": 203.0,
+      "currency": "INR",
+      "rating": 4.6,
+      "review_count": 11657,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Y4Pte2a-L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Magic-Lost-Temple-Sudha-Murty/dp/014333316X/ref=zg_bs_g_books_d_sccl_28/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.645407",
+      "page_number": 2,
+      "title_word_count": 24,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 29,
+      "asin": "8119898702",
+      "title": "Story Books for Kids (Set of 10 Books) (Illustrated) - World and Indian Scientists - Biographies for Children - 6 Years to 10 Years Old - Einstein, Newton, Galileo Galilei, Marie Curie, Charles Darwin, CV Raman, Homi Bhabha, Ramanujan, Vikram Sarabhai, Abdul Kalam",
+      "brand": "Paperback",
+      "price": 222.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 1210,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/713hLtePeZL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Story-Books-Kids-Set-Illustrated/dp/8119898702/ref=zg_bs_g_books_d_sccl_29/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.646735",
+      "page_number": 2,
+      "title_word_count": 43,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 30,
+      "asin": "9368973989",
+      "title": "1200+ Adventure Activities Book for Kids, Theme Based Activity Book with 500+ Free Printable Worksheets & Parenting Tips, Brain Games for 4 - 6 Years",
+      "brand": "Paperback",
+      "price": 278.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 478,
+      "category": "Books",
+      "subcategory": "Books",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71T5Qfp9C7L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Activities-Adventure-Challenges-Designed-Activity/dp/9368973989/ref=zg_bs_g_books_d_sccl_30/521-4539740-6057769?psc=1",
+      "scraped_at": "2026-03-23T09:54:11.647998",
+      "page_number": 2,
+      "title_word_count": 25,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "book",
+      "frequency": 22,
+      "avg_rank": 17.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 2556.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "books",
+      "frequency": 16,
+      "avg_rank": 15.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 13004.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "english",
+      "frequency": 14,
+      "avg_rank": 15.9,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.44,
+      "avg_reviews": 1962.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "kids",
+      "frequency": 13,
+      "avg_rank": 14.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.44,
+      "avg_reviews": 11483.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "years",
+      "frequency": 13,
+      "avg_rank": 14.3,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.48,
+      "avg_reviews": 8459.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "edition",
+      "frequency": 13,
+      "avg_rank": 15.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.42,
+      "avg_reviews": 6470.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for kids",
+      "frequency": 11,
+      "avg_rank": 14.1,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.42,
+      "avg_reviews": 9972.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "books for",
+      "frequency": 10,
+      "avg_rank": 13.8,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 19974.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "book for",
+      "frequency": 9,
+      "avg_rank": 17.1,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 2244.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "class",
+      "frequency": 8,
+      "avg_rank": 11.9,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 5137.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "practice",
+      "frequency": 8,
+      "avg_rank": 13.4,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.36,
+      "avg_reviews": 1822.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "exam",
+      "frequency": 7,
+      "avg_rank": 12.9,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.46,
+      "avg_reviews": 673.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "arihant",
+      "frequency": 7,
+      "avg_rank": 17.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.46,
+      "avg_reviews": 614.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "all",
+      "frequency": 7,
+      "avg_rank": 14.4,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 758.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "exams",
+      "frequency": 7,
+      "avg_rank": 17.9,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 557.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "latest",
+      "frequency": 7,
+      "avg_rank": 17.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.51,
+      "avg_reviews": 660.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mind",
+      "frequency": 7,
+      "avg_rank": 18.9,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.51,
+      "avg_reviews": 10220.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "activity",
+      "frequency": 7,
+      "avg_rank": 17.6,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.46,
+      "avg_reviews": 1969.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "activity book",
+      "frequency": 7,
+      "avg_rank": 17.6,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.46,
+      "avg_reviews": 1969.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cbse",
+      "frequency": 6,
+      "avg_rank": 14.3,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 656.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "story",
+      "frequency": 6,
+      "avg_rank": 17.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 2794.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bestseller",
+      "frequency": 6,
+      "avg_rank": 14.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 196959.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "set of",
+      "frequency": 6,
+      "avg_rank": 18.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 1446.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "children",
+      "frequency": 6,
+      "avg_rank": 16.3,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 4909.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "series",
+      "frequency": 5,
+      "avg_rank": 9.2,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.36,
+      "avg_reviews": 134041.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "questions",
+      "frequency": 5,
+      "avg_rank": 10.2,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.54,
+      "avg_reviews": 791.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "one",
+      "frequency": 5,
+      "avg_rank": 15.2,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.46,
+      "avg_reviews": 904.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "theory",
+      "frequency": 5,
+      "avg_rank": 15.2,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.46,
+      "avg_reviews": 904.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "exercises",
+      "frequency": 5,
+      "avg_rank": 16.2,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.48,
+      "avg_reviews": 1320.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "papers",
+      "frequency": 5,
+      "avg_rank": 16.8,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 781.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pattern",
+      "frequency": 5,
+      "avg_rank": 14.4,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.46,
+      "avg_reviews": 880.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stories",
+      "frequency": 5,
+      "avg_rank": 9.6,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.42,
+      "avg_reviews": 3606.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mcqs",
+      "frequency": 5,
+      "avg_rank": 15.6,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.46,
+      "avg_reviews": 472.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "notes",
+      "frequency": 5,
+      "avg_rank": 16.6,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.46,
+      "avg_reviews": 446.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "magic",
+      "frequency": 5,
+      "avg_rank": 25.6,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.16,
+      "avg_reviews": 6331.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "writing",
+      "frequency": 5,
+      "avg_rank": 20.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 2890.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "of books",
+      "frequency": 5,
+      "avg_rank": 19.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.46,
+      "avg_reviews": 1546.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "based",
+      "frequency": 5,
+      "avg_rank": 17.2,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.46,
+      "avg_reviews": 381.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "first",
+      "frequency": 4,
+      "avg_rank": 13.8,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.53,
+      "avg_reviews": 25696.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "board",
+      "frequency": 4,
+      "avg_rank": 7.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 45044.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "toddlers",
+      "frequency": 4,
+      "avg_rank": 8.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 24046.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ages",
+      "frequency": 4,
+      "avg_rank": 13.2,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 26427.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "guide",
+      "frequency": 4,
+      "avg_rank": 11.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.28,
+      "avg_reviews": 108.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fiction",
+      "frequency": 4,
+      "avg_rank": 23.2,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 4773.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "revised",
+      "frequency": 4,
+      "avg_rank": 16.2,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.42,
+      "avg_reviews": 643.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "maps",
+      "frequency": 4,
+      "avg_rank": 13.8,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 804.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cbqs",
+      "frequency": 4,
+      "avg_rank": 16.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sample",
+      "frequency": 4,
+      "avg_rank": 16.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "arihant all",
+      "frequency": 4,
+      "avg_rank": 16.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "all in",
+      "frequency": 4,
+      "avg_rank": 16.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "in one",
+      "frequency": 4,
+      "avg_rank": 16.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "class for",
+      "frequency": 4,
+      "avg_rank": 16.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for cbse",
+      "frequency": 4,
+      "avg_rank": 16.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cbse exams",
+      "frequency": 4,
+      "avg_rank": 16.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "revised edition",
+      "frequency": 4,
+      "avg_rank": 16.2,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.42,
+      "avg_reviews": 643.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mind maps",
+      "frequency": 4,
+      "avg_rank": 13.8,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 804.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "neet",
+      "frequency": 4,
+      "avg_rank": 8.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 404.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "brain",
+      "frequency": 4,
+      "avg_rank": 19.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 1656.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fun",
+      "frequency": 4,
+      "avg_rank": 15.8,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 3208.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "activities",
+      "frequency": 4,
+      "avg_rank": 15.8,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 1988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tracing",
+      "frequency": 4,
+      "avg_rank": 18.8,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.22,
+      "avg_reviews": 3910.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for children",
+      "frequency": 4,
+      "avg_rank": 13.8,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 3337.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "your",
+      "frequency": 4,
+      "avg_rank": 18.8,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.53,
+      "avg_reviews": 16566.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "medium",
+      "frequency": 4,
+      "avg_rank": 16.2,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.53,
+      "avg_reviews": 936.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pen",
+      "frequency": 4,
+      "avg_rank": 25.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5000.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "old",
+      "frequency": 4,
+      "avg_rank": 19.2,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 2466.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "to years",
+      "frequency": 4,
+      "avg_rank": 19.2,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 2466.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "years old",
+      "frequency": 4,
+      "avg_rank": 19.2,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 2466.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "language",
+      "frequency": 4,
+      "avg_rank": 19.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.53,
+      "avg_reviews": 577.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "grammar",
+      "frequency": 4,
+      "avg_rank": 16.2,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 995.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ncert",
+      "frequency": 4,
+      "avg_rank": 6.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.6,
+      "avg_reviews": 503.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "illustrated",
+      "frequency": 4,
+      "avg_rank": 19.2,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 4717.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "question",
+      "frequency": 4,
+      "avg_rank": 16.8,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 364.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "library",
+      "frequency": 3,
+      "avg_rank": 9.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 30375.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "animals",
+      "frequency": 3,
+      "avg_rank": 1.3,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 61937.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "early",
+      "frequency": 3,
+      "avg_rank": 6.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 30235.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "learning",
+      "frequency": 3,
+      "avg_rank": 6.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 30235.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "preschoolers",
+      "frequency": 3,
+      "avg_rank": 17.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 33080.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "first library",
+      "frequency": 3,
+      "avg_rank": 9.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 30375.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "board books",
+      "frequency": 3,
+      "avg_rank": 5.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 59809.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "early learning",
+      "frequency": 3,
+      "avg_rank": 6.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 30235.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mathematics",
+      "frequency": 3,
+      "avg_rank": 2.3,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.33,
+      "avg_reviews": 99.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "life",
+      "frequency": 3,
+      "avg_rank": 13.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 20556.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "upsc",
+      "frequency": 3,
+      "avg_rank": 15.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 318.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "solved",
+      "frequency": 3,
+      "avg_rank": 14.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.53,
+      "avg_reviews": 700.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for upsc",
+      "frequency": 3,
+      "avg_rank": 15.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 318.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "love",
+      "frequency": 3,
+      "avg_rank": 22.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.33,
+      "avg_reviews": 1902.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "literature",
+      "frequency": 3,
+      "avg_rank": 22.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.53,
+      "avg_reviews": 1958.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "science",
+      "frequency": 3,
+      "avg_rank": 14.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 823.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "per",
+      "frequency": 3,
+      "avg_rank": 17.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 844.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "syllabus",
+      "frequency": 3,
+      "avg_rank": 17.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 844.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "focused",
+      "frequency": 3,
+      "avg_rank": 17.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 844.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "exams revised",
+      "frequency": 3,
+      "avg_rank": 17.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 844.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "edition as",
+      "frequency": 3,
+      "avg_rank": 17.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 844.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "as per",
+      "frequency": 3,
+      "avg_rank": 17.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 844.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "per latest",
+      "frequency": 3,
+      "avg_rank": 17.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 844.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "latest syllabus",
+      "frequency": 3,
+      "avg_rank": 17.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 844.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cbqs focused",
+      "frequency": 3,
+      "avg_rank": 17.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 844.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "focused theory",
+      "frequency": 3,
+      "avg_rank": 17.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 844.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "exercises sample",
+      "frequency": 3,
+      "avg_rank": 17.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 844.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sample papers",
+      "frequency": 3,
+      "avg_rank": 17.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 844.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "nta",
+      "frequency": 3,
+      "avg_rank": 15.3,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 100.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "test",
+      "frequency": 3,
+      "avg_rank": 10.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 215.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "of the",
+      "frequency": 3,
+      "avg_rank": 22.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.53,
+      "avg_reviews": 70756.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ssc",
+      "frequency": 3,
+      "avg_rank": 10.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 837.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "nda",
+      "frequency": 3,
+      "avg_rank": 18.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.33,
+      "avg_reviews": 633.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "competitive",
+      "frequency": 3,
+      "avg_rank": 16.3,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 445.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "booster",
+      "frequency": 3,
+      "avg_rank": 16.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 2049.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hours",
+      "frequency": 3,
+      "avg_rank": 11.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 2492.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "brain booster",
+      "frequency": 3,
+      "avg_rank": 16.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 2049.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hours of",
+      "frequency": 3,
+      "avg_rank": 11.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 2492.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "english medium",
+      "frequency": 3,
+      "avg_rank": 18.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 737.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "copybook",
+      "frequency": 3,
+      "avg_rank": 25.3,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 5013.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "other",
+      "frequency": 3,
+      "avg_rank": 22.3,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 634.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "english language",
+      "frequency": 3,
+      "avg_rank": 21.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 258.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "story books",
+      "frequency": 3,
+      "avg_rank": 16.3,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 2404.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "years to",
+      "frequency": 3,
+      "avg_rank": 16.3,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 2404.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "rich",
+      "frequency": 3,
+      "avg_rank": 12.7,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 24621.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "based on",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 226.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bank",
+      "frequency": 3,
+      "avg_rank": 18.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 236.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "question bank",
+      "frequency": 3,
+      "avg_rank": 18.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 236.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "includes",
+      "frequency": 2,
+      "avg_rank": 9.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 44932.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "numbers",
+      "frequency": 2,
+      "avg_rank": 7.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 45092.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "shapes",
+      "frequency": 2,
+      "avg_rank": 8.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 46107.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "colors",
+      "frequency": 2,
+      "avg_rank": 8.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 46107.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "babies",
+      "frequency": 2,
+      "avg_rank": 7.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 45092.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "my first",
+      "frequency": 2,
+      "avg_rank": 7.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 45092.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "of board",
+      "frequency": 2,
+      "avg_rank": 7.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 45092.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for babies",
+      "frequency": 2,
+      "avg_rank": 7.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 45092.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "babies toddlers",
+      "frequency": 2,
+      "avg_rank": 7.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 45092.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sharma",
+      "frequency": 2,
+      "avg_rank": 2.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 34.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "preparation",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 482.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "exam preparation",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 482.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "new edition",
+      "frequency": 2,
+      "avg_rank": 7.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 36.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "indian",
+      "frequency": 2,
+      "avg_rank": 17.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.55,
+      "avg_reviews": 1032.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pyqs",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 892.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "practice questions",
+      "frequency": 2,
+      "avg_rank": 9.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.55,
+      "avg_reviews": 802.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "money",
+      "frequency": 2,
+      "avg_rank": 6.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 58402.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "timeless",
+      "frequency": 2,
+      "avg_rank": 5.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 5912.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "classic",
+      "frequency": 2,
+      "avg_rank": 15.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.55,
+      "avg_reviews": 35084.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "story of",
+      "frequency": 2,
+      "avg_rank": 19.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 2550.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "science class",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 922.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "syllabus mind",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 922.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "maps cbqs",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 922.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "theory practice",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 922.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "practice exercises",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 922.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sheets",
+      "frequency": 2,
+      "avg_rank": 15.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 3916.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "rank",
+      "frequency": 2,
+      "avg_rank": 8.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 404.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "predictor",
+      "frequency": 2,
+      "avg_rank": 8.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 404.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "test series",
+      "frequency": 2,
+      "avg_rank": 10.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 215.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "rank predictor",
+      "frequency": 2,
+      "avg_rank": 8.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 404.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "project",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.6,
+      "avg_reviews": 99512.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mary",
+      "frequency": 2,
+      "avg_rank": 17.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.7,
+      "avg_reviews": 101078.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "author",
+      "frequency": 2,
+      "avg_rank": 17.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.7,
+      "avg_reviews": 101078.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "from the",
+      "frequency": 2,
+      "avg_rank": 17.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.7,
+      "avg_reviews": 101078.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "general",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 40.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "defence",
+      "frequency": 2,
+      "avg_rank": 17.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 484.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "edition for",
+      "frequency": 2,
+      "avg_rank": 17.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 484.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "competitive exams",
+      "frequency": 2,
+      "avg_rank": 19.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 50.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "kids early",
+      "frequency": 2,
+      "avg_rank": 8.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 731.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "booster activity",
+      "frequency": 2,
+      "avg_rank": 22.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 2813.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "and up",
+      "frequency": 2,
+      "avg_rank": 12.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 2820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "up hours",
+      "frequency": 2,
+      "avg_rank": 12.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 2820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "easy",
+      "frequency": 2,
+      "avg_rank": 22.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 5874.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "healthy",
+      "frequency": 2,
+      "avg_rank": 17.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 91.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "living",
+      "frequency": 2,
+      "avg_rank": 17.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 91.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "easy to",
+      "frequency": 2,
+      "avg_rank": 22.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 5874.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "to be",
+      "frequency": 2,
+      "avg_rank": 18.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 46.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "guide to",
+      "frequency": 2,
+      "avg_rank": 17.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 91.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "how",
+      "frequency": 2,
+      "avg_rank": 22.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 0.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "how to",
+      "frequency": 2,
+      "avg_rank": 22.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 0.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tales",
+      "frequency": 2,
+      "avg_rank": 11.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 5240.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "collection",
+      "frequency": 2,
+      "avg_rank": 21.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.6,
+      "avg_reviews": 3151.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "moral",
+      "frequency": 2,
+      "avg_rank": 18.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.55,
+      "avg_reviews": 3802.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stories for",
+      "frequency": 2,
+      "avg_rank": 11.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 5240.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "national",
+      "frequency": 2,
+      "avg_rank": 19.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 1010.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "power",
+      "frequency": 2,
+      "avg_rank": 24.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 32836.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "subconscious",
+      "frequency": 2,
+      "avg_rank": 24.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 32836.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "original",
+      "frequency": 2,
+      "avg_rank": 21.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 33096.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "premium",
+      "frequency": 2,
+      "avg_rank": 24.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 32836.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "paperback",
+      "frequency": 2,
+      "avg_rank": 24.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 32836.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "the power",
+      "frequency": 2,
+      "avg_rank": 24.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 32836.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "power of",
+      "frequency": 2,
+      "avg_rank": 24.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 32836.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "of your",
+      "frequency": 2,
+      "avg_rank": 24.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 32836.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "your subconscious",
+      "frequency": 2,
+      "avg_rank": 24.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 32836.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "subconscious mind",
+      "frequency": 2,
+      "avg_rank": 24.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 32836.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "premium paperback",
+      "frequency": 2,
+      "avg_rank": 24.5,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 32836.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sank",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5000.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "refill",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5000.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "number",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5000.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "calligraphy",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5000.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "reusable",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5000.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tool",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5000.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sank magic",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5000.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "magic practice",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5000.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "practice copybook",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5000.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "copybook book",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5000.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "number tracing",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5000.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tracing book",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5000.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for preschoolers",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Books"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5000.0,
+      "category_count": 1
+    }
+  ],
+  "category_tree": [
+    {
+      "name": "Hot New Releasesin Books",
+      "url": "https://www.amazon.in/gp/new-releases/books/ref=zg_bs_tab_t_books_bsnr",
+      "is_selected": false
+    },
+    {
+      "name": "Movers and Shakersin Books",
+      "url": "https://www.amazon.in/gp/movers-and-shakers/books/ref=zg_bs_tab_t_books_bsms",
+      "is_selected": false
+    }
+  ],
+  "metadata": {
+    "category": "books",
+    "pages_scraped": 2,
+    "total_products": 60,
+    "total_keywords": 1361,
+    "scraped_at": "2026-03-23T09:54:16.922198"
+  }
+}

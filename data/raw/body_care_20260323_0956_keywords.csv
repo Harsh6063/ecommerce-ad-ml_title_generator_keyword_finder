@@ -1,0 +1,201 @@
+keyword,frequency,avg_rank,categories,avg_rating,avg_reviews,category_count
+skin,61,15.4,['Body Care'],4.2,19121.0,1
+acid,19,16.4,['Body Care'],4.17,16058.0,1
+body,19,14.6,['Body Care'],4.32,27826.0,1
+serum,19,16.9,['Body Care'],4.19,14768.0,1
+face,17,17.4,['Body Care'],4.21,18472.0,1
+men,16,18.0,['Body Care'],4.19,23638.0,1
+women,16,16.7,['Body Care'],4.2,20077.0,1
+vitamin,16,13.1,['Body Care'],4.15,17376.0,1
+all,13,15.3,['Body Care'],4.18,13540.0,1
+soap,12,16.5,['Body Care'],4.29,11694.0,1
+dry,11,18.7,['Body Care'],4.35,25207.0,1
+oil,11,17.5,['Body Care'],4.32,26773.0,1
+all skin,11,16.3,['Body Care'],4.24,14369.0,1
+pack of,10,17.0,['Body Care'],4.3,12010.0,1
+hydration,10,15.5,['Body Care'],4.34,21652.0,1
+moisturizer,10,16.0,['Body Care'],4.27,17551.0,1
+bar,10,18.9,['Body Care'],4.42,9117.0,1
+types,10,15.8,['Body Care'],4.2,12443.0,1
+lotion,9,17.7,['Body Care'],4.41,28452.0,1
+soft,9,17.2,['Body Care'],4.33,28526.0,1
+niacinamide,9,14.7,['Body Care'],4.13,18697.0,1
+gel,9,14.6,['Body Care'],4.22,20590.0,1
+skin types,9,17.0,['Body Care'],4.24,12385.0,1
+deep,8,17.6,['Body Care'],4.34,35922.0,1
+face serum,8,18.0,['Body Care'],4.09,18660.0,1
+for women,8,16.8,['Body Care'],4.26,24488.0,1
+for all,8,15.8,['Body Care'],4.21,16847.0,1
+bath,7,15.0,['Body Care'],4.16,16453.0,1
+glowing,7,15.4,['Body Care'],4.09,11629.0,1
+for men,7,18.9,['Body Care'],4.2,24397.0,1
+men women,7,14.7,['Body Care'],4.09,17893.0,1
+germ,7,9.7,['Body Care'],4.43,48629.0,1
+moisture,7,18.6,['Body Care'],4.39,36440.0,1
+smooth,7,16.4,['Body Care'],4.23,28878.0,1
+minimalist,7,18.1,['Body Care'],4.14,16721.0,1
+reduces,7,16.9,['Body Care'],4.13,19206.0,1
+bar with,7,17.1,['Body Care'],4.41,6249.0,1
+brightening,6,16.8,['Body Care'],4.2,11612.0,1
+glowing skin,6,13.0,['Body Care'],4.02,13555.0,1
+salicylic,6,16.3,['Body Care'],4.17,18861.0,1
+pigmentation,6,12.2,['Body Care'],4.2,13365.0,1
+protection,6,10.2,['Body Care'],4.37,39005.0,1
+hyaluronic,6,14.2,['Body Care'],4.27,18722.0,1
+body lotion,6,16.7,['Body Care'],4.38,37820.0,1
+dry skin,6,19.2,['Body Care'],4.37,35506.0,1
+dark,6,13.5,['Body Care'],4.08,11959.0,1
+sensitive,6,18.2,['Body Care'],4.3,13247.0,1
+cream,6,11.0,['Body Care'],4.15,20591.0,1
+women men,6,16.2,['Body Care'],4.22,24032.0,1
+bathing,6,16.7,['Body Care'],4.4,10715.0,1
+formula,6,15.0,['Body Care'],4.25,24034.0,1
+spots,6,17.3,['Body Care'],4.07,15450.0,1
+with niacinamide,6,12.3,['Body Care'],4.08,19349.0,1
+underarm,5,19.8,['Body Care'],4.32,33739.0,1
+roll,5,21.4,['Body Care'],4.32,41931.0,1
+roll on,5,21.4,['Body Care'],4.32,41931.0,1
+dettol,5,10.0,['Body Care'],4.46,31055.0,1
+handwash,5,8.2,['Body Care'],4.4,43898.0,1
+refill,5,8.2,['Body Care'],4.4,43898.0,1
+handwash refill,5,8.2,['Body Care'],4.4,43898.0,1
+germ protection,5,10.8,['Body Care'],4.42,44249.0,1
+nivea,5,12.8,['Body Care'],4.38,44596.0,1
+serum for,5,20.2,['Body Care'],4.14,16233.0,1
+barrier,5,15.6,['Body Care'],4.26,13418.0,1
+normal,5,15.4,['Body Care'],4.3,9747.0,1
+sensitive skin,5,17.6,['Body Care'],4.3,14312.0,1
+acne,5,12.0,['Body Care'],4.14,14715.0,1
+tan,5,16.2,['Body Care'],3.88,5206.0,1
+salicylic acid,5,19.2,['Body Care'],4.14,19916.0,1
+dark spots,5,15.2,['Body Care'],4.08,10132.0,1
+face moisturizer,5,19.4,['Body Care'],4.26,16285.0,1
+lotion for,5,22.8,['Body Care'],4.4,30001.0,1
+for dry,5,21.0,['Body Care'],4.34,23361.0,1
+soap bar,5,17.8,['Body Care'],4.42,4267.0,1
+soaps,4,8.2,['Body Care'],4.05,20648.0,1
+paraben,4,18.0,['Body Care'],4.22,14243.0,1
+paraben free,4,18.0,['Body Care'],4.22,14243.0,1
+for glowing,4,9.2,['Body Care'],3.98,17061.0,1
+aha,4,13.2,['Body Care'],4.05,9506.0,1
+fragrance,4,16.5,['Body Care'],4.32,16216.0,1
+lactic,4,12.2,['Body Care'],4.25,11660.0,1
+kojic,4,13.2,['Body Care'],4.12,10316.0,1
+fades,4,9.8,['Body Care'],4.15,11480.0,1
+kills,4,12.5,['Body Care'],4.38,8311.0,1
+alcohol,4,17.5,['Body Care'],4.33,28589.0,1
+liquid,4,9.5,['Body Care'],4.4,47840.0,1
+liquid handwash,4,9.5,['Body Care'],4.4,47840.0,1
+nourishing,4,14.0,['Body Care'],4.28,25985.0,1
+hyaluronic acid,4,16.0,['Body Care'],4.33,23648.0,1
+daily,4,18.5,['Body Care'],4.3,22749.0,1
+light,4,19.0,['Body Care'],4.38,30628.0,1
+cream for,4,13.5,['Body Care'],4.25,24451.0,1
+for face,4,13.8,['Body Care'],4.38,20829.0,1
+skin for,4,17.8,['Body Care'],4.28,17954.0,1
+skin ml,4,19.8,['Body Care'],4.2,26580.0,1
+exfoliating,4,12.0,['Body Care'],4.0,7522.0,1
+dove,4,18.2,['Body Care'],4.42,13022.0,1
+removal,4,18.2,['Body Care'],3.95,8150.0,1
+bright,4,15.2,['Body Care'],3.92,15839.0,1
+lightweight,4,15.0,['Body Care'],4.15,9472.0,1
+moisturizer with,4,19.5,['Body Care'],4.23,19154.0,1
+oil free,4,20.5,['Body Care'],4.33,19384.0,1
+bathing soap,4,15.2,['Body Care'],4.4,4235.0,1
+butter,4,24.0,['Body Care'],4.5,6066.0,1
+soaps for,3,10.7,['Body Care'],4.1,18362.0,1
+skin brightening,3,4.3,['Body Care'],4.03,20461.0,1
+soap for,3,12.3,['Body Care'],4.27,22502.0,1
+bha,3,16.3,['Body Care'],4.23,16148.0,1
+deodorant,3,20.0,['Body Care'],4.3,40755.0,1
+prevents,3,15.7,['Body Care'],4.3,15399.0,1
+odour,3,17.3,['Body Care'],4.3,27102.0,1
+underarm roll,3,16.3,['Body Care'],4.33,33658.0,1
+kojic acid,3,7.7,['Body Care'],4.0,13730.0,1
+body odour,3,17.3,['Body Care'],4.3,27102.0,1
+with hyaluronic,3,14.0,['Body Care'],4.3,28076.0,1
+deep moisture,3,16.0,['Body Care'],4.4,44182.0,1
+advanced,3,12.3,['Body Care'],4.3,41525.0,1
+dullness,3,14.7,['Body Care'],4.17,12640.0,1
+vitamin serum,3,9.0,['Body Care'],4.07,12958.0,1
+repair,3,16.0,['Body Care'],4.23,11706.0,1
+ceramides,3,16.7,['Body Care'],4.37,28036.0,1
+repairs,3,18.7,['Body Care'],4.27,13723.0,1
+non-comedogenic,3,14.7,['Body Care'],4.27,11930.0,1
+barrier repair,3,16.0,['Body Care'],4.23,11706.0,1
+moisturizer for,3,13.3,['Body Care'],4.27,9431.0,1
+for normal,3,17.0,['Body Care'],4.37,8908.0,1
+with ceramides,3,16.7,['Body Care'],4.37,28036.0,1
+instant,3,8.7,['Body Care'],4.07,25103.0,1
+hands,3,8.0,['Body Care'],4.4,37557.0,1
+hydration with,3,14.0,['Body Care'],4.37,29617.0,1
+with vitamin,3,17.0,['Body Care'],4.23,24644.0,1
+oily,3,13.0,['Body Care'],4.13,13977.0,1
+serum with,3,7.7,['Body Care'],4.07,18230.0,1
+wash,3,12.7,['Body Care'],4.27,16428.0,1
+body wash,3,12.7,['Body Care'],4.27,16428.0,1
+lactic acid,3,15.7,['Body Care'],4.23,11019.0,1
+original,3,12.7,['Body Care'],4.47,32434.0,1
+shield,3,13.7,['Body Care'],4.43,12737.0,1
+for soft,3,18.0,['Body Care'],4.23,15028.0,1
+ml for,3,14.3,['Body Care'],4.2,10724.0,1
+skin with,3,19.7,['Body Care'],4.27,25455.0,1
+long,3,23.0,['Body Care'],4.37,32585.0,1
+lasting,3,23.0,['Body Care'],4.37,32585.0,1
+long lasting,3,23.0,['Body Care'],4.37,32585.0,1
+refreshing,3,14.7,['Body Care'],4.37,18538.0,1
+bath for,3,21.7,['Body Care'],4.23,9955.0,1
+pond's,3,22.0,['Body Care'],4.37,26068.0,1
+super,3,20.0,['Body Care'],4.3,22391.0,1
+use,3,23.0,['Body Care'],4.37,23301.0,1
+soft smooth,3,24.0,['Body Care'],4.33,22934.0,1
+daily use,3,23.0,['Body Care'],4.37,23301.0,1
+nourish,3,21.0,['Body Care'],4.4,28846.0,1
+pure,3,24.7,['Body Care'],4.33,29628.0,1
+deep nourish,3,21.0,['Body Care'],4.4,28846.0,1
+dove serum,3,20.3,['Body Care'],4.43,7494.0,1
+serum bar,3,20.3,['Body Care'],4.43,7494.0,1
+dermatologist,3,19.7,['Body Care'],4.4,14103.0,1
+recommended,3,19.7,['Body Care'],4.4,14103.0,1
+dermatologist recommended,3,19.7,['Body Care'],4.4,14103.0,1
+germs,3,12.3,['Body Care'],4.37,6036.0,1
+glycerin,3,20.0,['Body Care'],4.37,13928.0,1
+glow,3,24.7,['Body Care'],4.23,18560.0,1
+acid face,3,21.3,['Body Care'],4.23,16075.0,1
+vitamin face,3,14.0,['Body Care'],4.1,9911.0,1
+types ml,3,9.7,['Body Care'],4.07,8493.0,1
+day,3,12.3,['Body Care'],4.13,18725.0,1
+aloe,3,12.0,['Body Care'],4.43,16559.0,1
+moisturizing,3,24.0,['Body Care'],4.37,9637.0,1
+sandalwood,2,10.5,['Body Care'],4.1,14978.0,1
+for bath,2,15.5,['Body Care'],4.2,13790.0,1
+brightening soap,2,15.5,['Body Care'],4.2,13790.0,1
+bodywise,2,9.5,['Body Care'],4.25,11872.0,1
+mandelic,2,11.5,['Body Care'],4.3,13483.0,1
+bacteria,2,11.5,['Body Care'],4.3,13483.0,1
+be bodywise,2,9.5,['Body Care'],4.25,11872.0,1
+bodywise aha,2,9.5,['Body Care'],4.25,11872.0,1
+aha bha,2,9.5,['Body Care'],4.25,11872.0,1
+on deodorant,2,15.5,['Body Care'],4.3,33962.0,1
+acid prevents,2,11.5,['Body Care'],4.3,13483.0,1
+prevents body,2,11.5,['Body Care'],4.3,13483.0,1
+odour fades,2,11.5,['Body Care'],4.3,13483.0,1
+fades pigmentation,2,11.5,['Body Care'],4.3,13483.0,1
+pigmentation kills,2,11.5,['Body Care'],4.3,13483.0,1
+kills bacteria,2,11.5,['Body Care'],4.3,13483.0,1
+hand,2,7.0,['Body Care'],4.5,73799.0,1
+wash-,2,7.0,['Body Care'],4.5,73799.0,1
+better,2,7.0,['Body Care'],4.5,73799.0,1
+dettol liquid,2,7.0,['Body Care'],4.5,73799.0,1
+hand wash-,2,7.0,['Body Care'],4.5,73799.0,1
+wash- ml,2,7.0,['Body Care'],4.5,73799.0,1
+better germ,2,7.0,['Body Care'],4.5,73799.0,1
+milk,2,13.0,['Body Care'],4.3,63842.0,1
+care,2,4.0,['Body Care'],4.4,61178.0,1
+almond,2,14.0,['Body Care'],4.35,40205.0,1
+radiant,2,16.0,['Body Care'],4.25,34661.0,1
+healthy,2,5.5,['Body Care'],4.4,56892.0,1
+nourishing body,2,8.0,['Body Care'],4.4,45394.0,1
+hr hydration,2,9.5,['Body Care'],4.2,32534.0,1
+with almond,2,14.0,['Body Care'],4.35,40205.0,1
+almond oil,2,14.0,['Body Care'],4.35,40205.0,1

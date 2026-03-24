@@ -1,0 +1,201 @@
+keyword,frequency,avg_rank,categories,avg_rating,avg_reviews,category_count
+sunscreen,58,14.9,['Sun Care'],4.19,1338.0,1
+spf,49,15.5,['Sun Care'],4.2,1169.0,1
+protection,41,13.9,['Sun Care'],4.16,454.0,1
+skin,39,13.4,['Sun Care'],4.14,3436.0,1
+lotion,26,12.2,['Sun Care'],4.15,413.0,1
+uva,24,14.5,['Sun Care'],4.26,590.0,1
+uvb,22,13.5,['Sun Care'],4.26,643.0,1
+uva uvb,22,13.5,['Sun Care'],4.26,643.0,1
+spf pa,22,13.8,['Sun Care'],4.29,422.0,1
+sun,19,13.5,['Sun Care'],4.14,511.0,1
+body,18,13.6,['Sun Care'],4.2,119.0,1
+gel,17,16.6,['Sun Care'],4.13,1867.0,1
+broad,16,13.3,['Sun Care'],4.15,702.0,1
+spectrum,16,13.3,['Sun Care'],4.15,702.0,1
+broad spectrum,16,13.3,['Sun Care'],4.15,702.0,1
+all,15,16.7,['Sun Care'],4.04,551.0,1
+types,15,16.7,['Sun Care'],4.04,551.0,1
+all skin,15,16.7,['Sun Care'],4.04,551.0,1
+skin types,15,16.7,['Sun Care'],4.04,551.0,1
+lightweight,14,15.3,['Sun Care'],4.03,1988.0,1
+cast,14,16.4,['Sun Care'],4.13,674.0,1
+white cast,14,16.4,['Sun Care'],4.13,674.0,1
+water,12,14.6,['Sun Care'],4.34,837.0,1
+spectrum uva,12,13.4,['Sun Care'],4.25,934.0,1
+for all,12,18.2,['Sun Care'],3.95,438.0,1
+no white,12,16.9,['Sun Care'],4.14,682.0,1
+pack of,12,14.8,['Sun Care'],3.81,440.0,1
+body lotion,11,13.5,['Sun Care'],4.24,53.0,1
+uvb protection,11,16.2,['Sun Care'],4.38,162.0,1
+sunscreen lotion,10,9.8,['Sun Care'],4.12,818.0,1
+sun protection,10,15.2,['Sun Care'],4.13,200.0,1
+resistant,9,11.6,['Sun Care'],4.03,526.0,1
+non-greasy,8,13.9,['Sun Care'],3.63,409.0,1
+cream,8,12.6,['Sun Care'],4.39,5239.0,1
+dry,8,14.1,['Sun Care'],4.21,2836.0,1
+sunscreen spf,8,16.4,['Sun Care'],3.9,890.0,1
+sunscreen for,7,11.0,['Sun Care'],4.3,5063.0,1
+kids,7,10.0,['Sun Care'],4.27,450.0,1
+lotion for,7,10.6,['Sun Care'],4.3,193.0,1
+tan,7,13.6,['Sun Care'],4.06,621.0,1
+oily,7,11.1,['Sun Care'],4.49,8096.0,1
+light,6,13.3,['Sun Care'],4.1,1892.0,1
+sensitive,6,8.7,['Sun Care'],4.32,4262.0,1
+matte,6,13.3,['Sun Care'],4.38,4520.0,1
+niacinamide,6,17.3,['Sun Care'],4.43,28.0,1
+vitamin,6,21.8,['Sun Care'],4.67,1.0,1
+very,5,7.8,['Sun Care'],4.38,1074.0,1
+high,5,5.2,['Sun Care'],4.16,1125.0,1
+spf sunscreen,5,17.2,['Sun Care'],3.9,784.0,1
+lotion spf,5,18.2,['Sun Care'],4.16,1147.0,1
+for kids,5,13.2,['Sun Care'],4.4,434.0,1
+pa sunscreen,5,9.8,['Sun Care'],4.17,359.0,1
+sunscreen body,5,15.8,['Sun Care'],4.1,103.0,1
+spray,5,11.4,['Sun Care'],4.24,2236.0,1
+sweat,5,14.4,['Sun Care'],3.95,57.0,1
+sweat resistant,5,14.4,['Sun Care'],3.95,57.0,1
+oily skin,5,10.2,['Sun Care'],4.44,6532.0,1
+finish,5,11.4,['Sun Care'],4.46,5420.0,1
+men,5,14.6,['Sun Care'],4.1,636.0,1
+women,5,14.6,['Sun Care'],4.1,636.0,1
+matte finish,5,11.4,['Sun Care'],4.46,5420.0,1
+ml pack,5,13.6,['Sun Care'],4.0,989.0,1
+touch,5,18.2,['Sun Care'],4.22,33.0,1
+tested,5,16.2,['Sun Care'],4.35,2.0,1
+sunscreen gel,5,17.6,['Sun Care'],4.42,10.0,1
+gel spf,5,14.2,['Sun Care'],4.48,4.0,1
+pa broad,5,16.2,['Sun Care'],4.17,20.0,1
+formula,5,13.6,['Sun Care'],4.3,2142.0,1
+carrot,5,13.0,['Sun Care'],3.88,766.0,1
+lotion ml,5,8.0,['Sun Care'],3.83,383.0,1
+suitable,5,20.0,['Sun Care'],4.7,237.0,1
+suitable for,5,20.0,['Sun Care'],4.7,237.0,1
+acid,5,15.4,['Sun Care'],4.18,37.0,1
+very high,4,5.5,['Sun Care'],4.22,1342.0,1
+high protection,4,5.5,['Sun Care'],4.22,1342.0,1
+water resistant,4,8.0,['Sun Care'],4.13,1112.0,1
+sensitive skin,4,5.2,['Sun Care'],4.25,6361.0,1
+broad-spectrum,4,11.5,['Sun Care'],3.7,242.0,1
+water-resistant,4,13.0,['Sun Care'],4.6,242.0,1
+hydrating,4,5.5,['Sun Care'],3.95,5408.0,1
+spf ml,4,17.8,['Sun Care'],4.3,558.0,1
+aloe,4,14.2,['Sun Care'],4.02,101.0,1
+hours,4,14.0,['Sun Care'],4.13,121.0,1
+fragrance,4,7.5,['Sun Care'],4.05,294.0,1
+milk,4,8.0,['Sun Care'],4.2,5190.0,1
+removal,4,14.5,['Sun Care'],4.02,762.0,1
+brightening,4,6.8,['Sun Care'],3.88,762.0,1
+tan removal,4,14.5,['Sun Care'],4.02,762.0,1
+blue light,4,13.2,['Sun Care'],4.1,1892.0,1
+light protection,4,13.2,['Sun Care'],4.1,1892.0,1
+protection for,4,13.5,['Sun Care'],3.42,755.0,1
+acne-prone,4,16.0,['Sun Care'],4.4,6009.0,1
+technology,4,15.8,['Sun Care'],3.9,1005.0,1
+zinc,4,8.0,['Sun Care'],3.97,505.0,1
+oxide,4,8.0,['Sun Care'],3.97,505.0,1
+zinc oxide,4,8.0,['Sun Care'],3.97,505.0,1
+ultra,4,17.2,['Sun Care'],4.3,2679.0,1
+dermatologically,4,12.8,['Sun Care'],4.7,1.0,1
+dry touch,4,17.0,['Sun Care'],4.27,37.0,1
+dermatologically tested,4,12.8,['Sun Care'],4.7,1.0,1
+sunscreen with,4,16.8,['Sun Care'],4.05,13.0,1
+with spf,4,23.0,['Sun Care'],4.05,13.0,1
+protection ml,4,8.2,['Sun Care'],4.15,479.0,1
+hyaluronic,4,19.0,['Sun Care'],4.25,43.0,1
+hyaluronic acid,4,19.0,['Sun Care'],4.25,43.0,1
+fast,3,4.3,['Sun Care'],4.1,1856.0,1
+for sensitive,3,8.0,['Sun Care'],4.3,1575.0,1
+broad-spectrum uva,3,10.0,['Sun Care'],4.55,322.0,1
+plum,3,10.7,['Sun Care'],3.97,118.0,1
+cast broad,3,9.3,['Sun Care'],4.23,1448.0,1
+fragrance ml,3,7.7,['Sun Care'],4.03,202.0,1
+invisible,3,16.3,['Sun Care'],4.33,6761.0,1
+body sunscreen,3,3.3,['Sun Care'],3.97,505.0,1
+sunscreen spray,3,13.3,['Sun Care'],4.2,90.0,1
+control,3,16.7,['Sun Care'],4.47,7102.0,1
+normal,3,10.7,['Sun Care'],4.33,7296.0,1
+for dry,3,8.0,['Sun Care'],3.97,7513.0,1
+dry skin,3,8.0,['Sun Care'],3.97,7513.0,1
+uvb blue,3,15.3,['Sun Care'],4.1,2333.0,1
+for men,3,13.3,['Sun Care'],4.1,1013.0,1
+men women,3,13.3,['Sun Care'],4.1,1013.0,1
+ceramides,3,22.3,['Sun Care'],4.5,10.0,1
+oil-free,3,16.7,['Sun Care'],4.83,1333.0,1
+for oily,3,13.3,['Sun Care'],4.63,11554.0,1
+acne-prone skin,3,15.7,['Sun Care'],4.2,8012.0,1
+ir protection,3,12.3,['Sun Care'],4.4,12.0,1
+protection water,3,14.0,['Sun Care'],4.2,197.0,1
+lightweight non-greasy,3,14.3,['Sun Care'],2.85,2.0,1
+seed,3,15.7,['Sun Care'],3.9,643.0,1
+moisture,3,15.7,['Sun Care'],3.85,633.0,1
+carrot seed,3,15.7,['Sun Care'],3.9,643.0,1
+spf50,3,17.0,['Sun Care'],4.3,6871.0,1
+aqua,3,16.3,['Sun Care'],3.8,473.0,1
+waterproof,3,25.0,['Sun Care'],4.2,27.0,1
+cast lightweight,3,24.3,['Sun Care'],4.2,55.0,1
+dermashoap,3,19.0,['Sun Care'],3.6,8.0,1
+advanced,3,20.3,['Sun Care'],3.6,8.0,1
+and sweat,3,19.0,['Sun Care'],3.6,8.0,1
+combo,3,12.7,['Sun Care'],4.3,14.0,1
+sunscreen cream,3,8.7,['Sun Care'],4.17,7.0,1
+cetaphil,2,1.5,['Sun Care'],4.1,2360.0,1
+non-sticky,2,13.0,['Sun Care'],4.15,1904.0,1
+absorbing,2,3.0,['Sun Care'],4.1,2501.0,1
+daily,2,3.5,['Sun Care'],4.15,12199.0,1
+face,2,13.5,['Sun Care'],4.05,1880.0,1
+cetaphil sun,2,1.5,['Sun Care'],4.1,2360.0,1
+light gel,2,13.5,['Sun Care'],4.1,1894.0,1
+ml very,2,1.5,['Sun Care'],4.1,2360.0,1
+spf broad,2,11.0,['Sun Care'],4.2,1882.0,1
+fast absorbing,2,3.0,['Sun Care'],4.1,2501.0,1
+liposomal,2,2.0,['Sun Care'],4.1,962.0,1
+uvb sunscreen,2,3.0,['Sun Care'],4.1,481.0,1
+bodylovin',2,9.5,['Sun Care'],4.1,175.0,1
+lily,2,9.5,['Sun Care'],4.1,175.0,1
+miss,2,9.5,['Sun Care'],4.1,175.0,1
+sunshine,2,9.5,['Sun Care'],4.1,175.0,1
+summers,2,9.5,['Sun Care'],4.1,175.0,1
+juice,2,9.5,['Sun Care'],4.1,175.0,1
+cools,2,9.5,['Sun Care'],4.1,175.0,1
+hydrates,2,9.5,['Sun Care'],4.1,175.0,1
+fruity,2,9.5,['Sun Care'],4.1,175.0,1
+floral,2,9.5,['Sun Care'],4.1,175.0,1
+plum bodylovin',2,9.5,['Sun Care'],4.1,175.0,1
+bodylovin' lily,2,9.5,['Sun Care'],4.1,175.0,1
+lily miss,2,9.5,['Sun Care'],4.1,175.0,1
+miss sunshine,2,9.5,['Sun Care'],4.1,175.0,1
+sunshine spf,2,9.5,['Sun Care'],4.1,175.0,1
+for summers,2,9.5,['Sun Care'],4.1,175.0,1
+summers no,2,9.5,['Sun Care'],4.1,175.0,1
+protection aloe,2,9.5,['Sun Care'],4.1,175.0,1
+aloe juice,2,9.5,['Sun Care'],4.1,175.0,1
+juice cools,2,9.5,['Sun Care'],4.1,175.0,1
+cools skin,2,9.5,['Sun Care'],4.1,175.0,1
+skin by,2,9.5,['Sun Care'],4.1,175.0,1
+by hydrates,2,9.5,['Sun Care'],4.1,175.0,1
+hydrates up,2,9.5,['Sun Care'],4.1,175.0,1
+up to,2,9.5,['Sun Care'],4.1,175.0,1
+to hours,2,9.5,['Sun Care'],4.1,175.0,1
+hours fruity,2,9.5,['Sun Care'],4.1,175.0,1
+fruity floral,2,9.5,['Sun Care'],4.1,175.0,1
+floral fragrance,2,9.5,['Sun Care'],4.1,175.0,1
+mins,2,12.5,['Sun Care'],4.3,131.0,1
+pa body,2,2.5,['Sun Care'],3.9,136.0,1
+uv protection,2,11.5,['Sun Care'],4.15,837.0,1
+water sweat,2,7.5,['Sun Care'],4.3,131.0,1
+glow,2,17.5,['Sun Care'],4.05,624.0,1
+zero,2,13.5,['Sun Care'],4.1,622.0,1
+pa ml,2,6.5,['Sun Care'],4.1,622.0,1
+ml uva,2,6.0,['Sun Care'],4.1,906.0,1
+protection tan,2,16.0,['Sun Care'],4.25,628.0,1
+zero white,2,13.5,['Sun Care'],4.1,622.0,1
+barrier,2,9.5,['Sun Care'],3.95,10322.0,1
+repair,2,9.5,['Sun Care'],3.95,10322.0,1
+barrier repair,2,9.5,['Sun Care'],3.95,10322.0,1
+cream lightweight,2,5.0,['Sun Care'],4.2,10320.0,1
+skin ml,2,12.0,['Sun Care'],4.45,20328.0,1
+types ml,2,16.0,['Sun Care'],3.8,1500.0,1
+ml sunscreen,2,5.0,['Sun Care'],3.8,7.0,1
+lotion with,2,15.5,['Sun Care'],4.2,68.0,1
+protection no,2,18.5,['Sun Care'],4.0,15.0,1

@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/Harsh/ecommerce-ad-ml/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Ad_Bidding_Model

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harsh/ecommerce-ad-ml/mlruns/2/50b3d6916c2040e9b4903bfa0637d9b1/artifacts
+end_time: 1774343989776
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 50b3d6916c2040e9b4903bfa0637d9b1
+run_uuid: 50b3d6916c2040e9b4903bfa0637d9b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774343983653
+status: 3
+tags: []
+user_id: Harsh

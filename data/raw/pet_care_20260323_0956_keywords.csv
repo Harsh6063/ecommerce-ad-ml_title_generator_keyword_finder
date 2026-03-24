@@ -1,0 +1,201 @@
+keyword,frequency,avg_rank,categories,avg_rating,avg_reviews,category_count
+food,44,17.2,['Pet Care'],4.3,7671.0,1
+dry,28,15.9,['Pet Care'],4.25,16940.0,1
+dog,28,14.6,['Pet Care'],4.21,9639.0,1
+health,25,14.9,['Pet Care'],4.23,7745.0,1
+adult,24,15.0,['Pet Care'],4.34,8835.0,1
+chicken,23,15.6,['Pet Care'],4.26,10130.0,1
+cat,22,16.8,['Pet Care'],4.26,5844.0,1
+flavour,22,15.0,['Pet Care'],4.27,10644.0,1
+skin,17,16.7,['Pet Care'],4.29,4775.0,1
+food kg,17,13.5,['Pet Care'],4.21,7580.0,1
+dog food,17,14.4,['Pet Care'],4.24,9387.0,1
+healthy,14,14.1,['Pet Care'],4.3,5617.0,1
+cat food,13,17.2,['Pet Care'],4.32,7013.0,1
+kg pack,13,16.4,['Pet Care'],4.22,6208.0,1
+dogs,13,14.0,['Pet Care'],4.18,25497.0,1
+all,13,15.8,['Pet Care'],4.2,1923.0,1
+dry dog,12,14.1,['Pet Care'],4.2,10521.0,1
+dry cat,11,15.3,['Pet Care'],4.31,7800.0,1
+coat,11,15.6,['Pet Care'],4.26,9290.0,1
+pack of,11,13.5,['Pet Care'],4.25,5082.0,1
+cats,11,16.1,['Pet Care'],4.28,7398.0,1
+complete,11,19.2,['Pet Care'],4.37,10517.0,1
+balanced,11,19.2,['Pet Care'],4.37,10517.0,1
+drools,10,19.3,['Pet Care'],4.22,8247.0,1
+adult dry,9,10.7,['Pet Care'],4.28,10400.0,1
+complete balanced,9,17.1,['Pet Care'],4.42,12362.0,1
+puppy,9,16.8,['Pet Care'],4.2,8912.0,1
+fish,8,14.6,['Pet Care'],4.3,8020.0,1
+heart,8,12.5,['Pet Care'],4.3,5021.0,1
+treats,8,17.5,['Pet Care'],4.36,10400.0,1
+kg kg,8,11.4,['Pet Care'],4.16,13362.0,1
+free kg,8,12.0,['Pet Care'],4.16,15824.0,1
+life,8,12.9,['Pet Care'],4.26,1588.0,1
+stages,8,12.9,['Pet Care'],4.26,1588.0,1
+all life,8,12.9,['Pet Care'],4.26,1588.0,1
+life stages,8,12.9,['Pet Care'],4.26,1588.0,1
+hair,7,13.0,['Pet Care'],4.31,6352.0,1
+care,7,19.6,['Pet Care'],4.34,4844.0,1
+real,7,16.7,['Pet Care'],4.21,12716.0,1
+vitamins,7,9.9,['Pet Care'],4.2,13695.0,1
+minerals,7,7.0,['Pet Care'],4.16,14078.0,1
+better,7,18.6,['Pet Care'],4.21,9789.0,1
+healthy skin,7,17.7,['Pet Care'],4.31,4612.0,1
+digestive,7,15.4,['Pet Care'],4.23,9688.0,1
+litter,7,13.0,['Pet Care'],4.04,2777.0,1
+pedigree,7,18.9,['Pet Care'],4.36,11052.0,1
+food for,7,16.4,['Pet Care'],4.3,8516.0,1
+for dogs,7,10.7,['Pet Care'],4.23,4869.0,1
+purepet,6,9.2,['Pet Care'],4.3,5179.0,1
+ocean,6,14.3,['Pet Care'],4.32,9767.0,1
+ocean fish,6,14.3,['Pet Care'],4.32,9767.0,1
+fish flavour,6,14.3,['Pet Care'],4.32,9767.0,1
+meat,6,7.0,['Pet Care'],4.15,16294.0,1
+buy,6,10.8,['Pet Care'],4.12,15827.0,1
+get,6,10.8,['Pet Care'],4.12,15827.0,1
+buy get,6,10.8,['Pet Care'],4.12,15827.0,1
+wet,6,18.0,['Pet Care'],4.33,6295.0,1
+skin and,6,19.5,['Pet Care'],4.27,5410.0,1
+digestive health,6,14.2,['Pet Care'],4.2,11148.0,1
+bentonite,6,12.7,['Pet Care'],4.0,3110.0,1
+cat litter,6,14.0,['Pet Care'],4.05,2725.0,1
+natural,6,17.5,['Pet Care'],4.15,3495.0,1
+nutrients,6,15.7,['Pet Care'],4.4,15599.0,1
+food chicken,6,17.0,['Pet Care'],4.38,12200.0,1
+for adult,6,18.0,['Pet Care'],4.45,10539.0,1
+nutrition,6,22.5,['Pet Care'],4.37,7579.0,1
+nutrition for,6,22.5,['Pet Care'],4.37,7579.0,1
+kitten,6,18.0,['Pet Care'],4.32,6978.0,1
+for all,6,16.2,['Pet Care'],4.12,1933.0,1
+supports,6,22.3,['Pet Care'],4.42,4125.0,1
+for healthy,5,9.4,['Pet Care'],4.28,7689.0,1
+meat up,5,7.6,['Pet Care'],4.14,18158.0,1
+kg free,5,7.6,['Pet Care'],4.14,18158.0,1
+real chicken,5,16.2,['Pet Care'],4.2,16476.0,1
+chicken flavour,5,15.6,['Pet Care'],4.2,18297.0,1
+gravy,5,15.8,['Pet Care'],4.32,7078.0,1
+chicken and,5,13.0,['Pet Care'],4.2,9426.0,1
+in gravy,5,15.8,['Pet Care'],4.32,7078.0,1
+system,5,15.4,['Pet Care'],4.24,7740.0,1
+vitamins and,5,13.0,['Pet Care'],4.22,7791.0,1
+lavender,5,13.4,['Pet Care'],4.08,2775.0,1
+puppies,5,14.4,['Pet Care'],4.1,57935.0,1
+contains,5,15.4,['Pet Care'],4.44,17457.0,1
+essential,5,15.4,['Pet Care'],4.44,17457.0,1
+kg contains,5,15.4,['Pet Care'],4.44,17457.0,1
+contains essential,5,15.4,['Pet Care'],4.44,17457.0,1
+essential nutrients,5,15.4,['Pet Care'],4.44,17457.0,1
+nutrients complete,5,15.4,['Pet Care'],4.44,17457.0,1
+whiskas,5,21.0,['Pet Care'],4.44,9008.0,1
+balanced nutrition,5,21.0,['Pet Care'],4.44,9008.0,1
+tuna,5,24.2,['Pet Care'],4.5,3966.0,1
+pet,5,18.2,['Pet Care'],4.02,59413.0,1
+pads,5,16.2,['Pet Care'],3.84,104965.0,1
+design,5,16.2,['Pet Care'],3.84,104965.0,1
+total,5,17.6,['Pet Care'],4.16,8838.0,1
+puppy dry,5,14.2,['Pet Care'],4.18,10676.0,1
+ball,4,10.5,['Pet Care'],4.33,4883.0,1
+protection,4,10.5,['Pet Care'],4.33,4883.0,1
+taurine,4,10.5,['Pet Care'],4.33,4883.0,1
+purepet adult,4,8.0,['Pet Care'],4.33,6359.0,1
+hair ball,4,10.5,['Pet Care'],4.33,4883.0,1
+ball protection,4,10.5,['Pet Care'],4.33,4883.0,1
+heart care,4,14.5,['Pet Care'],4.27,5160.0,1
+care skin,4,14.5,['Pet Care'],4.27,5160.0,1
+skin health,4,12.8,['Pet Care'],4.33,4554.0,1
+taurine for,4,10.5,['Pet Care'],4.33,4883.0,1
+healthy heart,4,10.5,['Pet Care'],4.33,4883.0,1
+biscuits,4,12.8,['Pet Care'],4.2,16133.0,1
+promotes,4,12.8,['Pet Care'],4.17,21344.0,1
+chunks,4,13.2,['Pet Care'],4.3,8099.0,1
+wet dog,4,13.2,['Pet Care'],4.3,8099.0,1
+chunks in,4,13.2,['Pet Care'],4.3,8099.0,1
+strong,4,14.0,['Pet Care'],4.15,9898.0,1
+and minerals,4,9.0,['Pet Care'],4.12,9266.0,1
+amazon,4,13.2,['Pet Care'],4.03,4015.0,1
+basics,4,13.2,['Pet Care'],4.03,4015.0,1
+fragrance,4,11.0,['Pet Care'],4.0,2507.0,1
+amazon basics,4,13.2,['Pet Care'],4.03,4015.0,1
+litter kg,4,15.8,['Pet Care'],4.03,3046.0,1
+kittens,4,19.2,['Pet Care'],4.3,6769.0,1
+kg with,4,16.2,['Pet Care'],4.15,9723.0,1
+control,4,10.5,['Pet Care'],4.3,4398.0,1
+urinary,4,17.8,['Pet Care'],4.28,6214.0,1
+standard,4,16.5,['Pet Care'],3.85,128332.0,1
+pieces,4,17.8,['Pet Care'],4.0,69906.0,1
+active,4,11.2,['Pet Care'],4.22,9744.0,1
+immunity,4,15.5,['Pet Care'],4.3,7936.0,1
+total kg,4,20.8,['Pet Care'],4.15,9725.0,1
+months,4,25.0,['Pet Care'],4.4,7502.0,1
+supplement,4,15.5,['Pet Care'],4.1,6704.0,1
+vegetable,4,18.2,['Pet Care'],4.2,1124.0,1
+bird,4,15.2,['Pet Care'],4.25,2001.0,1
+bird food,4,15.2,['Pet Care'],4.25,2001.0,1
+creamy,4,23.5,['Pet Care'],4.45,1216.0,1
+pack ocean,3,12.3,['Pet Care'],4.27,6613.0,1
+flavour hair,3,10.3,['Pet Care'],4.3,4651.0,1
+protection heart,3,10.3,['Pet Care'],4.3,4651.0,1
+health taurine,3,10.3,['Pet Care'],4.3,4651.0,1
+dog treats,3,13.3,['Pet Care'],4.33,20481.0,1
+flavour buy,3,9.7,['Pet Care'],4.1,28168.0,1
+liver,3,13.3,['Pet Care'],4.27,8397.0,1
+joint,3,17.3,['Pet Care'],4.17,10150.0,1
+digestibility,3,18.3,['Pet Care'],4.2,7272.0,1
+drools adult,3,16.0,['Pet Care'],4.23,10243.0,1
+chicken liver,3,13.3,['Pet Care'],4.27,8397.0,1
+liver chunks,3,13.3,['Pet Care'],4.27,8397.0,1
+and coat,3,19.3,['Pet Care'],4.2,6827.0,1
+joint health,3,17.3,['Pet Care'],4.17,10150.0,1
+better digestibility,3,18.3,['Pet Care'],4.2,7272.0,1
+immune,3,11.0,['Pet Care'],4.27,9552.0,1
+rich,3,10.0,['Pet Care'],4.23,5950.0,1
+flavour promotes,3,16.3,['Pet Care'],4.17,10548.0,1
+maintain,3,10.0,['Pet Care'],4.1,11665.0,1
+kg chicken,3,12.7,['Pet Care'],4.1,7855.0,1
+maintain digestive,3,10.0,['Pet Care'],4.1,11665.0,1
+lavender fragrance,3,9.0,['Pet Care'],4.03,2517.0,1
+sand,3,16.7,['Pet Care'],4.0,3605.0,1
+natural bentonite,3,15.7,['Pet Care'],4.1,3138.0,1
+balanced food,3,18.0,['Pet Care'],4.37,17203.0,1
+adult dogs,3,14.7,['Pet Care'],4.37,13430.0,1
+gravy pack,3,16.0,['Pet Care'],4.4,7198.0,1
+years,3,20.7,['Pet Care'],4.43,8349.0,1
+adult years,3,20.7,['Pet Care'],4.43,8349.0,1
+years dry,3,20.7,['Pet Care'],4.43,8349.0,1
+flavour kg,3,16.7,['Pet Care'],4.47,13224.0,1
+adult cats,3,21.3,['Pet Care'],4.53,7648.0,1
+pee,3,16.0,['Pet Care'],3.83,89388.0,1
+potty,3,16.0,['Pet Care'],3.83,89388.0,1
+training,3,16.0,['Pet Care'],3.83,89388.0,1
+leak-proof,3,16.0,['Pet Care'],3.83,89388.0,1
+pee pads,3,16.0,['Pet Care'],3.83,89388.0,1
+for potty,3,16.0,['Pet Care'],3.83,89388.0,1
+design for,3,16.0,['Pet Care'],3.83,89388.0,1
+dogs and,3,17.0,['Pet Care'],3.97,92176.0,1
+behaviour,3,13.3,['Pet Care'],4.23,11230.0,1
+with free,3,19.3,['Pet Care'],4.2,11934.0,1
+kg total,3,19.3,['Pet Care'],4.2,11934.0,1
+pack chicken,3,15.0,['Pet Care'],4.2,10061.0,1
+flavour active,3,13.3,['Pet Care'],4.23,11230.0,1
+active behaviour,3,13.3,['Pet Care'],4.23,11230.0,1
+clay,3,19.0,['Pet Care'],4.07,2934.0,1
+dust,3,19.0,['Pet Care'],4.07,2934.0,1
+premium,3,22.7,['Pet Care'],4.3,2598.0,1
+kg natural,3,19.0,['Pet Care'],4.07,2934.0,1
+junior,3,23.3,['Pet Care'],4.4,7996.0,1
+whiskas junior,3,23.3,['Pet Care'],4.4,7996.0,1
+kitten months,3,23.3,['Pet Care'],4.4,7996.0,1
+breeds,3,18.3,['Pet Care'],4.03,2752.0,1
+all breeds,3,18.3,['Pet Care'],4.03,2752.0,1
+dogs cats,3,10.0,['Pet Care'],4.3,3047.0,1
+jar,3,19.0,['Pet Care'],4.2,7974.0,1
+dog supplement,3,20.0,['Pet Care'],4.1,7879.0,1
+kitten dry,3,12.7,['Pet Care'],4.23,5960.0,1
+omega,3,13.0,['Pet Care'],4.37,2256.0,1
+remove,2,10.0,['Pet Care'],4.2,36796.0,1
+lustrous,2,13.0,['Pet Care'],4.2,30874.0,1
+kg real,2,12.0,['Pet Care'],4.1,32796.0,1
+vitamins minerals,2,2.0,['Pet Care'],4.15,28454.0,1
+lustrous coat,2,13.0,['Pet Care'],4.2,30874.0,1
+maintains,2,15.5,['Pet Care'],4.2,6898.0,1

@@ -1,0 +1,3485 @@
+{
+  "products": [
+    {
+      "rank": 1,
+      "asin": "B0FMDL81GS",
+      "title": "OnePlus Nord Buds 3r TWS Earbuds up to 54 Hours Playback, 2-mic Clear Calls, 3D Spatial Audio, AI Translation, 12.4mm Drivers, Dual-Device Connectivity, 47ms Low Latency - Ash Black",
+      "brand": "OnePlus",
+      "price": 1599.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 40828,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51nBTTG3hNL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/OnePlus-Playback-Translation-Dual-Device-Connectivity/dp/B0FMDL81GS/ref=zg_bs_g_electronics_d_sccl_1/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.745434",
+      "page_number": 1,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 2,
+      "asin": "B098NS6PVG",
+      "title": "Ambrane Unbreakable 3A Fast Charging 1.5m Braided Type C Cable for Smartphones, Tablets & other Type C devices, 480Mbps Data Sync, Quick Charge 3.0 (RCT15A, Black)",
+      "brand": "Ambrane",
+      "price": 149.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 88259,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61W8xeZTwxL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Ambrane-Unbreakable-Charging-Braided-Cable/dp/B098NS6PVG/ref=zg_bs_g_electronics_d_sccl_2/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.746482",
+      "page_number": 1,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 3,
+      "asin": "B0GP8XTH7K",
+      "title": "iQOO Z11x 5G (Prismatic Green, 8GB RAM, 256 GB Storage) | Dimensity 7400-Turbo Processor | 7200 mAh Battery Smartphone | Powered by OriginOS 6",
+      "brand": "iQOO",
+      "price": 22998.0,
+      "currency": "INR",
+      "rating": null,
+      "review_count": null,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61HBOs7MdQL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/iQOO-Prismatic-Dimensity-7400-Turbo-Smartphone/dp/B0GP8XTH7K/ref=zg_bs_g_electronics_d_sccl_3/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.748041",
+      "page_number": 1,
+      "title_word_count": 24,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": ""
+    },
+    {
+      "rank": 4,
+      "asin": "B0GN1NNYXF",
+      "title": "Samsung Galaxy M17e 5G Mobile (Vibe Violet, 6GB RAM, 128GB Storage) | Smoothest 120 Hz Refresh Rate| Monster 6000 mAh Battery | IP54 | 6 Gen OS Upgrades | AI | Gemini Live | Without Charger",
+      "brand": "Samsung",
+      "price": 13499.0,
+      "currency": "INR",
+      "rating": null,
+      "review_count": null,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/717m3kkQM1L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Samsung-Storage-Smoothest-Refresh-Upgrades/dp/B0GN1NNYXF/ref=zg_bs_g_electronics_d_sccl_4/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.749257",
+      "page_number": 1,
+      "title_word_count": 36,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": ""
+    },
+    {
+      "rank": 5,
+      "asin": "B0FBRGKXHG",
+      "title": "OnePlus Bullets Wireless Z3 in-Ear Neckband with 12.4mm Drivers, 3D Spatial Audio,10 mins Charge for 27 hrs Playback, 4 EQ preset, Dynamic bass Enhancement & BT5.4",
+      "brand": "OnePlus",
+      "price": 1499.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 225869,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51vT4GzBObL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/OnePlus-Wireless-Neckband-Playback-Enhancement/dp/B0FBRGKXHG/ref=zg_bs_g_electronics_d_sccl_5/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.750199",
+      "page_number": 1,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 6,
+      "asin": "B0F7Y54PJX",
+      "title": "Boat 2025 Launch Rockerz 113, 40H Battery, Dual Pair, Fast Charge, ENx Tech, Stream Ad Free Music via App Support, Magnetic Buds, Bluetooth Neckband, Wireless with Mic in Ear Earphones (Active Black)",
+      "brand": "Boat",
+      "price": 699.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 8010,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61B5hIAmvdL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/boAt-Rockerz-Magnetic-Bluetooth-Earphones/dp/B0F7Y54PJX/ref=zg_bs_g_electronics_d_sccl_6/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.751131",
+      "page_number": 1,
+      "title_word_count": 32,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 7,
+      "asin": "B0DDHM6D3L",
+      "title": "Portronics Conch Theta C in Ear Type C Wired Earphones with in Line HD Mic, Powerful Audio, 14.2mm Driver, Unique Earbuds Design, TPE Anti Tangle Wire, in line Controls, Wide Compatibility(White)",
+      "brand": "Portronics",
+      "price": 279.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 7169,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51GGwjwSr0L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Portronics-Earphones-Powerful-Controls-Compatibility/dp/B0DDHM6D3L/ref=zg_bs_g_electronics_d_sccl_7/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.752238",
+      "page_number": 1,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 8,
+      "asin": "B0D2R2MXXJ",
+      "title": "Samsung Original 25W USB Type-C Travel Adaptor Without Cable for Google Pixel, Xiaomi, Motorola, iPhone, Samsung Galaxy Tab S/A Series, Galaxy S10/M54/M55/A80/A90/S25/S24, White",
+      "brand": "Samsung",
+      "price": 751.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 18509,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/512UVkoMMEL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Samsung-Original-Type-C-Adaptor-without/dp/B0D2R2MXXJ/ref=zg_bs_g_electronics_d_sccl_8/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.753203",
+      "page_number": 1,
+      "title_word_count": 23,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 9,
+      "asin": "B0FCMLCX46",
+      "title": "OnePlus Nord CE5 | MediaTek Dimensity | Massive 7100mAh Battery | Powered by OnePlus AI | 128GB 8GB | Black Infinity",
+      "brand": "OnePlus",
+      "price": 24996.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 5091,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61IOa9IrlaL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/OnePlus-Massive-MediaTek-Dimensity-Infinity/dp/B0FCMLCX46/ref=zg_bs_g_electronics_d_sccl_9/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.754158",
+      "page_number": 1,
+      "title_word_count": 21,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "high"
+    },
+    {
+      "rank": 10,
+      "asin": "B0F7KPSSLB",
+      "title": "YATWIN Silicone Back Case for Google Pixel 9A, Soft-Touch Phone Back Cover for Google Pixel 9A - Black",
+      "brand": "YATWIN",
+      "price": 299.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 3358,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51DEZIHX9YL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/YATWIN-Google-Pixel-9A-Soft-Touch/dp/B0F7KPSSLB/ref=zg_bs_g_electronics_d_sccl_10/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.755091",
+      "page_number": 1,
+      "title_word_count": 18,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 11,
+      "asin": "B0D7HZ3KK9",
+      "title": "OnePlus Nord Buds 3 Pro Truly Wireless Bluetooth Earbuds with Upto 49dB Active Noise Cancellation,12.4mm Dynamic Drivers,10mins for 11Hrs Fast Charging with Upto 44Hrs Music Playback [Starry Black]",
+      "brand": "OnePlus",
+      "price": 2999.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 18049,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51RaySTbIVL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/OnePlus-Wireless-Bluetooth-Cancellation-Charging/dp/B0D7HZ3KK9/ref=zg_bs_g_electronics_d_sccl_11/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.756073",
+      "page_number": 1,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "high"
+    },
+    {
+      "rank": 12,
+      "asin": "B0C9X26H4Q",
+      "title": "SupCares Tempered Glass for Samsung Galaxy S24 Ultra (6.8 Inch) With Installation Kit | Military-Grade Gorilla Screen Protector | Edge to Edge Coverage | Black",
+      "brand": "SupCares",
+      "price": 292.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 30267,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61tBr4LvUiL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/SupCares-Tempered-Samsung-Galaxy-Installation/dp/B0C9X26H4Q/ref=zg_bs_g_electronics_d_sccl_12/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.757346",
+      "page_number": 1,
+      "title_word_count": 25,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 13,
+      "asin": "B0DX655V11",
+      "title": "Samsung Galaxy M06 5G Mobile (Sage Green, 6GB RAM, 128GB Storage) | MediaTek Dimensity 6300 | AnTuTu 623K+ | 12 5G Bands | 25W Fast Charging | 4 Gen OS Upgrades | 50MP Camera | Without Charger",
+      "brand": "Samsung",
+      "price": 11999.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 6980,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71evPv-TvmL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Samsung-MediaTek-Dimensity-Charging-Upgrades/dp/B0DX655V11/ref=zg_bs_g_electronics_d_sccl_13/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.758310",
+      "page_number": 1,
+      "title_word_count": 37,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "high"
+    },
+    {
+      "rank": 14,
+      "asin": "B0GHWBW56P",
+      "title": "realme NARZO 90x 5G (Marine Blue,4GB+128GB) |7000mAh + 60W Biggest Battery & Fastest Charging in The Segment* | 144Hz Bright Display | Sony 50MP AI Rear Camera | AI Assist | 400% Ultra Boom Speaker",
+      "brand": "realme",
+      "price": 12999.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 626,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81CBZ-ImQgL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/realme-7000mAh-Biggest-Battery-Charging/dp/B0GHWBW56P/ref=zg_bs_g_electronics_d_sccl_14/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.759272",
+      "page_number": 1,
+      "title_word_count": 35,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 15,
+      "asin": "B071Z8M4KX",
+      "title": "Boat BassHeads 100 in-Ear Headphones with Mic (Black)",
+      "brand": "Boat",
+      "price": 399.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 433061,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/513ugd16C6L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/boAt-BassHeads-100-Headphones-Black/dp/B071Z8M4KX/ref=zg_bs_g_electronics_d_sccl_15/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.760212",
+      "page_number": 1,
+      "title_word_count": 8,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 16,
+      "asin": "B08TV2P1N8",
+      "title": "Boat Rockerz 255 Pro+, 60HRS Battery, Fast Charge, IPX7, Dual Pairing, Low Latency, Magnetic Earbuds, in Ear Bluetooth Neckband, Wireless with Mic Earphones (Active Black)",
+      "brand": "Boat",
+      "price": 1001.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 147748,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61+SW9nDTEL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/boAt-Rockerz-255-Pro-Earphones/dp/B08TV2P1N8/ref=zg_bs_g_electronics_d_sccl_16/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.761140",
+      "page_number": 1,
+      "title_word_count": 25,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 17,
+      "asin": "B0BF57RN3K",
+      "title": "Fire-Boltt Ninja Call Pro Plus Bluetooth Calling Smart Watch, 1.83\u2033 HD Display, AI Voice Assistant, 120+ Sports Modes, IP67 Waterproof, SpO2 & Heart Rate Monitor Smartwatch for Men & Women - Black",
+      "brand": "Fire-Boltt",
+      "price": 1199.0,
+      "currency": "INR",
+      "rating": 3.9,
+      "review_count": 127860,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61rmkmqD5VL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Fire-Boltt-Bluetooth-Calling-Assistance-Resolution/dp/B0BF57RN3K/ref=zg_bs_g_electronics_d_sccl_17/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.762102",
+      "page_number": 1,
+      "title_word_count": 32,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 18,
+      "asin": "B0BJ72WZQ7",
+      "title": "Noise Twist Round dial Smart Watch with Bluetooth Calling, 1.38\" TFT Display, up-to 7 Days Battery, 100+ Watch Faces, IP68, Heart Rate Monitor, Sleep Tracking (Jet Black)",
+      "brand": "Noise",
+      "price": 1299.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 52461,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61-vRq2ulOL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Noise-Launched-Bluetooth-Calling-Tracking/dp/B0BJ72WZQ7/ref=zg_bs_g_electronics_d_sccl_18/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.763040",
+      "page_number": 1,
+      "title_word_count": 27,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 19,
+      "asin": "B097JJ2CK6",
+      "title": "Safari Omega spacious/large laptop backpack with Raincover, college bag, travel bag for men and women, Black, 30 Litre",
+      "brand": "Safari",
+      "price": 619.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 14909,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71maWXZscfL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Safari-Laptop-Backpack-Raincover-college/dp/B097JJ2CK6/ref=zg_bs_g_electronics_d_sccl_19/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.763978",
+      "page_number": 1,
+      "title_word_count": 18,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 20,
+      "asin": "B0FCY5MVZ6",
+      "title": "OpenTech\u00ae Privacy Military-Grade Gorilla Tempered Glass Screen Protector for Samsung Galaxy S24 Ultra with Edge to Edge Coverage - Case Friendly, Anti-scratch and Bubble free installation kit",
+      "brand": "OpenTech\u00ae",
+      "price": 299.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 66880,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/616jPLgPUjL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Privacy-Samsung-S24-Ultra-Installation/dp/B0FCY5MVZ6/ref=zg_bs_g_electronics_d_sccl_20/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.764950",
+      "page_number": 1,
+      "title_word_count": 27,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 21,
+      "asin": "B0FN89KT94",
+      "title": "TheGiftKart Ultra-Hybrid Crystal Clear Back Case Cover for iPhone 17 | Shockproof Design | Hard Back Cover Case for iPhone 17 (PC & TPU, Transparent)",
+      "brand": "TheGiftKart",
+      "price": 277.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 18743,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51vTuExAndL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/TheGiftKart-Ultra-Hybrid-iPhone-17-Transparent/dp/B0FN89KT94/ref=zg_bs_g_electronics_d_sccl_21/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.765912",
+      "page_number": 1,
+      "title_word_count": 25,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 22,
+      "asin": "B0DCZ3WDTB",
+      "title": "Xiaomi Power Bank 4i 20000mAh 33W Super Fast Charging PD |Smart 12 Layer Protection|Type C Input & Output|Triple Output Ports|Supports Android,Apple, Tablets, Earbuds,Watch(MI Powerbank),Black",
+      "brand": "Xiaomi",
+      "price": 2199.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 108408,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41vBAaU8clL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Xiaomi-20000mAh-Charging-Delivery-Supports/dp/B0DCZ3WDTB/ref=zg_bs_g_electronics_d_sccl_22/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.766882",
+      "page_number": 1,
+      "title_word_count": 24,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "high"
+    },
+    {
+      "rank": 23,
+      "asin": "B0DBGP48NW",
+      "title": "realme Buds T310 True Wireless in-Ear Earbuds with 46dB Hybrid ANC, 360\u00b0 Spatial Audio, 12.4mm Dynamic Bass Driver, Upto 40Hrs Battery and Fast Charging (Vibrant Black)",
+      "brand": "realme",
+      "price": 1999.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 18787,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61dj32WdrxL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/realme-Wireless-Earbuds-Spatial-Charging/dp/B0DBGP48NW/ref=zg_bs_g_electronics_d_sccl_23/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.768206",
+      "page_number": 1,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 24,
+      "asin": "B0DZCRYG7R",
+      "title": "realme Buds T200 Lite Bluetooth in Ear Earbuds,4 Mic, AI ENC for Calls,48 Hours Total Playback with Fast Charging and Low Latency Gaming TWS,Google Fast Pair, with mic (Volt Black)",
+      "brand": "realme",
+      "price": 1199.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 31558,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61MOG3nzwQL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/realme-Bluetooth-Earbuds-Playback-Charging/dp/B0DZCRYG7R/ref=zg_bs_g_electronics_d_sccl_24/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.769546",
+      "page_number": 1,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 25,
+      "asin": "B0D9S87H53",
+      "title": "Ambrane Magsafe Wireless 10000Mah Fast Charging USB Type-C Input Power Bank, Strong Magnet, 22.5W Output For iPhone 12 & Above, Android & Other Qi Enabled Devices + Magnetic Ring (Aerosync Snap, Blue)",
+      "brand": "Ambrane",
+      "price": 1499.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 6844,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61H84kDDNFL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Ambrane-Wireless-10000mAh-Charging-Magnetic/dp/B0D9S87H53/ref=zg_bs_g_electronics_d_sccl_25/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.770497",
+      "page_number": 1,
+      "title_word_count": 32,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 26,
+      "asin": "B0FC2Y3XGV",
+      "title": "Boat Airdopes 219, 4Mics ENx, 40H Battery, Best in Segment for Calling, Stream Ad Free Music via App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Carbon Black)",
+      "brand": "Boat",
+      "price": 999.0,
+      "currency": "INR",
+      "rating": 3.8,
+      "review_count": 3774,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71FOccCOQmL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/boAt-Airdopes-Bluetooth-Wireless-Earphones/dp/B0FC2Y3XGV/ref=zg_bs_g_electronics_d_sccl_26/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.771431",
+      "page_number": 1,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 27,
+      "asin": "B0F63BY6LT",
+      "title": "Kratos K9 Selfie Stick Tripod With Light, 67 inch /170CM Reinforced Tripod for Mobile Phone, Multi-Functional Bluetooth Long Selfie Stick for Travel,Vlogging,Compatible with iPhone and All Smartphones",
+      "brand": "Kratos",
+      "price": 619.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 3230,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/617qw0QPA8L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Kratos-Reinforced-Multi-Functional-Compatible-Smartphones/dp/B0F63BY6LT/ref=zg_bs_g_electronics_d_sccl_27/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.772424",
+      "page_number": 1,
+      "title_word_count": 27,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 28,
+      "asin": "B09BFV96TS",
+      "title": "Dyazo Water Resistant Laptop Sleeve/Laptop case/laptop cover with Handle Compatible for 15 Inch to 15.6\" Inches laptops & Notebooks - Grey",
+      "brand": "Dyazo",
+      "price": 289.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 21462,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81rRMwFG0+L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Dyazo-Resistant-Compatible-laptops-Notebooks/dp/B09BFV96TS/ref=zg_bs_g_electronics_d_sccl_28/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.773395",
+      "page_number": 1,
+      "title_word_count": 21,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 29,
+      "asin": "B0FN7WCV5Y",
+      "title": "Samsung Galaxy M17 5G Mobile (Sapphire Black, 6GB RAM, 128GB Storage) | 50MP OIS Triple Camera | Gorilla Glass Victus | IP54 | 6 Gen OS Upgrades | AI | Gemini Live | Lag-Free Gaming | Without Charger",
+      "brand": "Samsung",
+      "price": 15499.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 1523,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71t5CaisTqL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Samsung-Sapphire-Storage-Upgrades-Lag-Free/dp/B0FN7WCV5Y/ref=zg_bs_g_electronics_d_sccl_29/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.774367",
+      "page_number": 1,
+      "title_word_count": 38,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "high"
+    },
+    {
+      "rank": 30,
+      "asin": "B0DB269JKH",
+      "title": "Portronics Clamp M4 Car Phone Holder Stand with 360 Degree Rotation, Strong Grip, Suction Cup Mount, Single Hand Use, Shockproof Build, Mobile Stand for Car (Black)",
+      "brand": "Portronics",
+      "price": 246.0,
+      "currency": "INR",
+      "rating": 3.9,
+      "review_count": 17848,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61--PoBNi4L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Portronics-Holder-Rotation-Suction-Shockproof/dp/B0DB269JKH/ref=zg_bs_g_electronics_d_sccl_30/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:39.775317",
+      "page_number": 1,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 1,
+      "asin": "B0F3JM1YP5",
+      "title": "Xiaomi 80 cm (32 inch) F Series HD Ready Smart LED Fire TV L32MB-FIN",
+      "brand": "Xiaomi",
+      "price": 11990.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 2697,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71kjAokz-yL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Xiaomi-inch-Ready-Smart-L32MB-FIN/dp/B0F3JM1YP5/ref=zg_bs_g_electronics_d_sccl_1/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.025010",
+      "page_number": 2,
+      "title_word_count": 14,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "high"
+    },
+    {
+      "rank": 2,
+      "asin": "B0D96JNKFN",
+      "title": "Amazon Basics 20000 mAh Power Bank | 22.5W Fast Charging | Dual Output & Input | Charge 3 Devices Simultaneously | for Smartphones, TWS Earbuds, Speakers, Tablets (Black)",
+      "brand": "Amazon",
+      "price": 899.0,
+      "currency": "INR",
+      "rating": 3.9,
+      "review_count": 3952,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61D2km21WCL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Charging-Devices-Simultaneously-Smartphones-Speakers/dp/B0D96JNKFN/ref=zg_bs_g_electronics_d_sccl_2/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.025974",
+      "page_number": 2,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 3,
+      "asin": "B09QGZFBPM",
+      "title": "Wayona Type C to Type C 6FT/2M 65W Long Fast Charging Cable Compatible with iPhone 17, Air, iPhone 16,15 Pro/Max Series Macbook Air/Pro Samsung Galaxy S25, Ultra/S24/ S23 Flip Fold OnePlus (2M, Grey)",
+      "brand": "Wayona",
+      "price": 313.99,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 9070,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61K3e5X2vDL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Wayona-Charging-Charger-Compatible-Samsung/dp/B09QGZFBPM/ref=zg_bs_g_electronics_d_sccl_3/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.026945",
+      "page_number": 2,
+      "title_word_count": 33,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 4,
+      "asin": "B0D7MNX9Y5",
+      "title": "Apple EarPods with Lightning Connector",
+      "brand": "Apple",
+      "price": 1549.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 9579,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/317eB4+yU6L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Apple-EarPods-with-Lightning-Connector/dp/B0D7MNX9Y5/ref=zg_bs_g_electronics_d_sccl_4/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.027966",
+      "page_number": 2,
+      "title_word_count": 5,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 5,
+      "asin": "B0F43W6V6J",
+      "title": "Samsung Galaxy M56 5G Mobile (Light Green,8GB RAM,256GB Storage)| Segment's Slimmest|Gorilla Glass Victus+| 10 Bit HDR Video| 50MP Camera| AI | Vapour Cooling Chamber| Lag-free Gaming| Without Charger",
+      "brand": "Samsung",
+      "price": 23999.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 1032,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71hN1gfzDcL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Samsung-Slimmest-Enhanced-Nightography-Processor/dp/B0F43W6V6J/ref=zg_bs_g_electronics_d_sccl_5/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.029211",
+      "page_number": 2,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "high"
+    },
+    {
+      "rank": 6,
+      "asin": "B0DW47JCHW",
+      "title": "iQOO Neo 10R 5G (Moonknight Titanium, 8GB RAM, 256GB Storage) | Snapdragon 8s Gen 3 Processor | India's Slimmest 6400mAh Battery Smartphone | Segment's Most Stable 90FPS for 5 Hours",
+      "brand": "iQOO",
+      "price": 28998.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 6618,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/610NUM9jlxL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/iQOO-Moonknight-Snapdragon-Processor-Smartphone/dp/B0DW47JCHW/ref=zg_bs_g_electronics_d_sccl_6/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.030238",
+      "page_number": 2,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "high"
+    },
+    {
+      "rank": 7,
+      "asin": "B01DGVKBC6",
+      "title": "FEDUS Cat6 Ethernet Cable, 10M High Speed 550MHZ / 10 Gigabit Speed UTP LAN Cable, Network Cable Internet Cable RJ45 Cable LAN Wire, Patch Computer Cord Gigabit Category 6 Wires for Modem,WHITE",
+      "brand": "FEDUS",
+      "price": 286.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 19177,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81sGkqckhDL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Technotech-Ethernet-Network-Patch-Cable/dp/B01DGVKBC6/ref=zg_bs_g_electronics_d_sccl_7/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.031310",
+      "page_number": 2,
+      "title_word_count": 32,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 8,
+      "asin": "B0DN1Q4NSJ",
+      "title": "GOBOULT x Mustang Torq Wireless in Ear Earbuds with 60H Playtime, App Support, Quad Mic ENC, 45ms Low Latency, 13mm Driver, Breathing LEDs, Made in India Ear Buds Wireless (Yellow)",
+      "brand": "GOBOULT",
+      "price": 1799.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 13115,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71rbNPgK-RL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Boult-Launched-Earbuds-Playtime-Breathing/dp/B0DN1Q4NSJ/ref=zg_bs_g_electronics_d_sccl_8/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.032272",
+      "page_number": 2,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 9,
+      "asin": "B0FG3CT94S",
+      "title": "Portronics Power Shutter 20000mAh 15W Magnetic Wireless Fast Charging Powerbank with in-Built Type C & 8 Pin Cable, 22.5W Type C PD Output, Type C Bidirectional Port, LED Display (Black)",
+      "brand": "Portronics",
+      "price": 1698.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 377,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61esBrKqyLL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Portronics-20000mAh-Magnetic-Powerbank-Bidirectional/dp/B0FG3CT94S/ref=zg_bs_g_electronics_d_sccl_9/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.033212",
+      "page_number": 2,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 10,
+      "asin": "B0CR6JQT6F",
+      "title": "Portronics Konnect X USB to Type C Cable with 3A Output, Fast Charging & Data Transfer, Nylon Braided, Aluminium Alloy Shell, 1M Length compatible with Type C Smartphones(Black)",
+      "brand": "Portronics",
+      "price": 129.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 6804,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71lJnttqcML._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Portronics-Charging-Aluminium-compatible-Smartphones/dp/B0CR6JQT6F/ref=zg_bs_g_electronics_d_sccl_10/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.034295",
+      "page_number": 2,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 11,
+      "asin": "B0FNMP8BL5",
+      "title": "TheGiftKart Crystal Clear Back Cover Case for Samsung Galaxy M17 5G / A17 5G / F17 5G | Shock Proof 360\u00b0 Protection | Hard Clear Back Case for Samsung M17 / A17 / F17 5G (PC & TPU, Transparent Bumper)",
+      "brand": "TheGiftKart",
+      "price": 299.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 12506,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51B0MtZ05zL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/TheGiftKart-Samsung-M17-A17-F17/dp/B0FNMP8BL5/ref=zg_bs_g_electronics_d_sccl_11/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.035260",
+      "page_number": 2,
+      "title_word_count": 40,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 12,
+      "asin": "B0CV45N68C",
+      "title": "Portronics Konnect X 60W Unbreakable Nylon Braided Cable, 2M Fast Charging Cable For iPhone 15 Series, iPad, Samsung Galaxy (Black)",
+      "brand": "Portronics",
+      "price": 169.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 5886,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71hWHCvPCLL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Portronics-Konnect-Unbreakable-Braided-Charging/dp/B0CV45N68C/ref=zg_bs_g_electronics_d_sccl_12/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.036255",
+      "page_number": 2,
+      "title_word_count": 20,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 13,
+      "asin": "B0GDGNH2JF",
+      "title": "SPHENI Smart Multipurpose Foldable Laptop Table with Cup Holder, Study Table, Bed Table, Breakfast Table, Foldable and Portable/Ergonomic & Rounded Edges/Non-Slip Legs (Wood New)",
+      "brand": "SPHENI",
+      "price": 299.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 317,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61vRS6yf5SL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/SPHENI-Multipurpose-Foldable-Breakfast-Ergonomic/dp/B0GDGNH2JF/ref=zg_bs_g_electronics_d_sccl_13/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.037238",
+      "page_number": 2,
+      "title_word_count": 24,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 14,
+      "asin": "B0G49VLFSG",
+      "title": "realme narzo 90 5G (Victory Gold,6GB+128GB) | 7000mAh Biggest Battery | 60W Fastest Charging | 50MP Front & Rear AI Cameras | 4000nits Brightest Display | AI Assist | IP69 Dust & Water Resistance",
+      "brand": "realme",
+      "price": 16249.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 414,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/811u8KqIIVL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/realme-Charging-4000nits-Brightest-Resistance/dp/B0G49VLFSG/ref=zg_bs_g_electronics_d_sccl_14/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.038226",
+      "page_number": 2,
+      "title_word_count": 34,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 15,
+      "asin": "B0BL6S8KHM",
+      "title": "ProElite Smart Case for iPad (A16) 11th/10th Generation (2025/2022) [Auto Sleep/Wake Cover] [Pencil Holder] [Soft Flexible Case] Recoil Series for Apple iPad 10th/11th Gen - Dark Blue",
+      "brand": "ProElite",
+      "price": 529.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 4471,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/618tNqgXWBL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/ProElite-Generation-Pencil-Holder-Flexible/dp/B0BL6S8KHM/ref=zg_bs_g_electronics_d_sccl_15/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.039250",
+      "page_number": 2,
+      "title_word_count": 27,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 16,
+      "asin": "B0BW8TXJJ2",
+      "title": "Boat Nirvana Ion, 120HRS Battery, Crystal Bionic Sound w/Dual EQ Modes, 4Mics ENx, App Support, Low Latency, IPX4, v.5.2 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Charcoal Black)",
+      "brand": "Boat",
+      "price": 1799.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 22238,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81-TGXuOMAL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/boAt-Nirvana-Technology-Detection-Bluetooth/dp/B0BW8TXJJ2/ref=zg_bs_g_electronics_d_sccl_16/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.040275",
+      "page_number": 2,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 17,
+      "asin": "B088FKCD4J",
+      "title": "Boat Airdopes 131/8 with 60 Hrs Playback, ASAP Charge Truly Wireless Bluetooth in Ear Earbuds with Mic (Active Black)",
+      "brand": "Boat",
+      "price": 699.0,
+      "currency": "INR",
+      "rating": 3.8,
+      "review_count": 5282,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71qedw-kh+L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Airdopes-131-Technology-Bluetooth-Immersive/dp/B088FKCD4J/ref=zg_bs_g_electronics_d_sccl_17/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.041258",
+      "page_number": 2,
+      "title_word_count": 19,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 18,
+      "asin": "B0F8BVSK21",
+      "title": "Boat Airdopes 141 Gen 2, 4 Mics ENx Tech, 48 Hrs Playback, Free Music Streaming, Fast Charge, Low Latency, IPX4, v5.4 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Active Black)",
+      "brand": "Boat",
+      "price": 799.0,
+      "currency": "INR",
+      "rating": 3.8,
+      "review_count": 88136,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71O+4zDSk-L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/boAt-Airdopes-141-Streaming-Bluetooth/dp/B0F8BVSK21/ref=zg_bs_g_electronics_d_sccl_18/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.042265",
+      "page_number": 2,
+      "title_word_count": 32,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 19,
+      "asin": "B0CYGYCRH8",
+      "title": "Qubo Smart 360\u00b0 3MP [2K] CCTV Camera | Wi-Fi Indoor Home Security Cam | AI Person Detection | Automatic Alarm | App Alerts | NightPulse Vision | SD & Cloud Storage | Made in India",
+      "brand": "Qubo",
+      "price": 1990.0,
+      "currency": "INR",
+      "rating": 3.7,
+      "review_count": 5437,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51uHuTkte6L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Qubo-Security-Detection-Auto-Alarm-NightPulse/dp/B0CYGYCRH8/ref=zg_bs_g_electronics_d_sccl_19/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.043259",
+      "page_number": 2,
+      "title_word_count": 35,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 20,
+      "asin": "B0B6BLTGTT",
+      "title": "Noise Pulse 2 Max 1.85\" Display, Bluetooth Calling Smart Watch, 10 Days Battery, 550 NITS Brightness, Smart DND, 100 Sports Modes, Smartwatch for Men and Women (Jet Black)",
+      "brand": "Noise",
+      "price": 1199.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 23960,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61bm7UEdGAL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Noise-Advanced-Bluetooth-Brightness-Smartwatch/dp/B0B6BLTGTT/ref=zg_bs_g_electronics_d_sccl_20/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.044281",
+      "page_number": 2,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 21,
+      "asin": "B0DNFR8JRG",
+      "title": "SanDisk Ultra Dual Drive Go Type-C 128GB, OTG, Upto 400MB/S,usb3.2_gen_1 Pendrive, Navagio Bay, 5Y Warranty (SDDDC3-128G-I46NPD)",
+      "brand": "2 offers from\u20b92,599.00",
+      "price": 2599.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 3779,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61rX7xajkjL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/SanDisk-usb3-2_gen_1-Pendrive-Warranty-SDDDC3-128G-I46NPD/dp/B0DNFR8JRG/ref=zg_bs_g_electronics_d_sccl_21/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.045470",
+      "page_number": 2,
+      "title_word_count": 16,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "high"
+    },
+    {
+      "rank": 22,
+      "asin": "B07N42JB4S",
+      "title": "Syvo WT 3130 Aluminum Tripod (133CM), Universal Lightweight Tripod with Mobile Phone Holder Mount & Carry Bag for All Smart Phones, Gopro, Cameras",
+      "brand": "Syvo",
+      "price": 799.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 34040,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61H1dMNTSnL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Syvo-3130-Aluminum-Universal-Lightweight/dp/B07N42JB4S/ref=zg_bs_g_electronics_d_sccl_22/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.046723",
+      "page_number": 2,
+      "title_word_count": 23,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 23,
+      "asin": "B0D9629NJQ",
+      "title": "Fastrack Limitless Glide X 1.83\" Smart Watch with Ultra UV HD Display, SpO2, Heart Rate & Sleep Tracking, Bluetooth Calling, 100+ Sports Modes, 5-Day Battery, Smartwatch for Men & Women (Black)",
+      "brand": "Fastrack",
+      "price": 1299.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 3456,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71rNSvzQGlL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Fastrack-Limitless-SingleSync-Smartwatch-Assistant/dp/B0D9629NJQ/ref=zg_bs_g_electronics_d_sccl_23/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.047783",
+      "page_number": 2,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 24,
+      "asin": "B0F1DDJTSJ",
+      "title": "realme NARZO 80 Pro 5G (Nitro Orange,8GB+256GB) | Segment's 1st MediaTek Dimensity 7400 Chipset | 6000mAh Titan Battery + 80W Ultra Charge | 4500nits HyperGlow Esports Display | IP69 Waterproof",
+      "brand": "realme",
+      "price": 19999.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 2192,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71ZLe2G7GjL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/realme-Segments-Dimensity-HyperGlow-Waterproof/dp/B0F1DDJTSJ/ref=zg_bs_g_electronics_d_sccl_24/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.048840",
+      "page_number": 2,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "high"
+    },
+    {
+      "rank": 25,
+      "asin": "B08JQ6CVJ3",
+      "title": "Tygot Lightweight & Portable Portable 7 Feet (84 Inch) Long Tripod Stand with Adjustable Mobile Clip Holder for All Mobiles & Cameras (Black)",
+      "brand": "Tygot",
+      "price": 329.0,
+      "currency": "INR",
+      "rating": 3.7,
+      "review_count": 29619,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71JFGTQyRJL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Tygot-Lightweight-Portable-Aluminum-Photography/dp/B08JQ6CVJ3/ref=zg_bs_g_electronics_d_sccl_25/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.049992",
+      "page_number": 2,
+      "title_word_count": 23,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 26,
+      "asin": "B01HJI0FS2",
+      "title": "Dell MS116 Wired Mouse, 1000 DPI, Scrolling Wheel, 2 Buttons, 1 x USB, Optical LED Tracking, Plug and Play, Scrolling Wheel, Black",
+      "brand": "Dell",
+      "price": 279.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 47172,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51a1LryFTZS._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Dell-MS116-1000DPI-Wired-Optical/dp/B01HJI0FS2/ref=zg_bs_g_electronics_d_sccl_26/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.051023",
+      "page_number": 2,
+      "title_word_count": 22,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 27,
+      "asin": "B0DS6HF5KJ",
+      "title": "iPhone Charger Adapter 20W Lightning Cable Combo (MFi-Certified) Compatible with iPhone 14/14Plus/14Pro/14 Pro max13/13 Pro/13 Pro max/12/12 Pro/11/X/X",
+      "brand": "iPhone",
+      "price": 627.99,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 11549,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51nZb2Vf0lL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/DR-VAKU-Lightning-MFi-Certified-Compatible/dp/B0DS6HF5KJ/ref=zg_bs_g_electronics_d_sccl_27/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.052056",
+      "page_number": 2,
+      "title_word_count": 18,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 28,
+      "asin": "B0FVG14W46",
+      "title": "Kratos 28 Inch Selfie Stick Tripod Stand with Light, 3-in-1 Multifunctional Design, Rechargeable LED Light with Two Brightness Levels with Bluetooth Remote for Makeup, Selfie & Photoshoot",
+      "brand": "Kratos",
+      "price": 489.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 2224,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71C7AH5ebiL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Kratos-Multifunctional-Rechargeable-Brightness-Photoshoot/dp/B0FVG14W46/ref=zg_bs_g_electronics_d_sccl_28/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.053070",
+      "page_number": 2,
+      "title_word_count": 27,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 29,
+      "asin": "B0FCFWGB8V",
+      "title": "Dubstep Pop 1200 with Upto 16 Hrs Playtime, 52mm Dynamic Driver, TWS Pairing with 12W Output Bluetooth Wireless Speaker (Black)",
+      "brand": "Dubstep",
+      "price": 499.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 947,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71YG3ZhUwxL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Dubstep-Pop-1200-Playtime-Bluetooth/dp/B0FCFWGB8V/ref=zg_bs_g_electronics_d_sccl_29/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.054078",
+      "page_number": 2,
+      "title_word_count": 20,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 30,
+      "asin": "B0FDBB2VRC",
+      "title": "Samsung Galaxy M36 5G Mobile (Velvet Black, 6GB RAM, 128GB Storage) | Google Gemini| Gorilla Glass Victus+ | 7.7mm | AI Enhanced 50MP OIS Triple Camera| Nightography| Lag-free Gaming | Without Charger",
+      "brand": "Samsung",
+      "price": 16999.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 4414,
+      "category": "Electronics",
+      "subcategory": "Electronics",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61FcXMhjr8L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Samsung-Storage-Enhanced-Unmatched-Nightography/dp/B0FDBB2VRC/ref=zg_bs_g_electronics_d_sccl_30/520-5983335-1079338?psc=1",
+      "scraped_at": "2026-03-23T09:52:48.055098",
+      "page_number": 2,
+      "title_word_count": 32,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "high"
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "fast",
+      "frequency": 16,
+      "avg_rank": 13.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.09,
+      "avg_reviews": 36277.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "battery",
+      "frequency": 15,
+      "avg_rank": 14.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 19692.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bluetooth",
+      "frequency": 15,
+      "avg_rank": 19.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.01,
+      "avg_reviews": 35929.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "charging",
+      "frequency": 14,
+      "avg_rank": 13.1,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.14,
+      "avg_reviews": 21858.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "wireless",
+      "frequency": 14,
+      "avg_rank": 15.5,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.01,
+      "avg_reviews": 40878.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "earbuds",
+      "frequency": 13,
+      "avg_rank": 14.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 39157.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cable",
+      "frequency": 13,
+      "avg_rank": 9.1,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 18633.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "samsung",
+      "frequency": 13,
+      "avg_rank": 12.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.18,
+      "avg_reviews": 14468.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mic",
+      "frequency": 12,
+      "avg_rank": 14.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 69373.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fast charging",
+      "frequency": 12,
+      "avg_rank": 13.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 25414.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "galaxy",
+      "frequency": 12,
+      "avg_rank": 12.9,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.18,
+      "avg_reviews": 14631.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "type",
+      "frequency": 11,
+      "avg_rank": 7.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 29543.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mah",
+      "frequency": 11,
+      "avg_rank": 12.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.18,
+      "avg_reviews": 12229.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "samsung galaxy",
+      "frequency": 11,
+      "avg_rank": 13.4,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.16,
+      "avg_reviews": 14279.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pro",
+      "frequency": 11,
+      "avg_rank": 19.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.22,
+      "avg_reviews": 33794.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "smart",
+      "frequency": 11,
+      "avg_rank": 17.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 35188.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ear",
+      "frequency": 10,
+      "avg_rank": 14.6,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.96,
+      "avg_reviews": 34014.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "iphone",
+      "frequency": 10,
+      "avg_rank": 17.4,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.24,
+      "avg_reviews": 11319.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "buds",
+      "frequency": 9,
+      "avg_rank": 14.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.04,
+      "avg_reviews": 27166.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mobile",
+      "frequency": 9,
+      "avg_rank": 20.6,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 10965.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hrs",
+      "frequency": 9,
+      "avg_rank": 16.2,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.08,
+      "avg_reviews": 60567.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "case",
+      "frequency": 9,
+      "avg_rank": 16.9,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 18127.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "charge",
+      "frequency": 8,
+      "avg_rank": 11.2,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.99,
+      "avg_reviews": 71181.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "storage",
+      "frequency": 8,
+      "avg_rank": 13.6,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.08,
+      "avg_reviews": 3250.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "with mic",
+      "frequency": 8,
+      "avg_rank": 17.2,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.95,
+      "avg_reviews": 92476.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "display",
+      "frequency": 8,
+      "avg_rank": 17.4,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 26418.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tws",
+      "frequency": 7,
+      "avg_rank": 16.6,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 27348.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ram",
+      "frequency": 7,
+      "avg_rank": 12.9,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.16,
+      "avg_reviews": 2938.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "gb ram",
+      "frequency": 7,
+      "avg_rank": 12.9,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.16,
+      "avg_reviews": 2938.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ram gb",
+      "frequency": 7,
+      "avg_rank": 12.9,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.16,
+      "avg_reviews": 2938.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "gb storage",
+      "frequency": 7,
+      "avg_rank": 12.9,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.16,
+      "avg_reviews": 2938.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "gen",
+      "frequency": 7,
+      "avg_rank": 15.1,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 15930.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "boat",
+      "frequency": 7,
+      "avg_rank": 16.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.93,
+      "avg_reviews": 101178.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ultra",
+      "frequency": 7,
+      "avg_rank": 16.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.14,
+      "avg_reviews": 16610.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "output",
+      "frequency": 7,
+      "avg_rank": 17.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 33677.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "oneplus",
+      "frequency": 6,
+      "avg_rank": 6.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 50666.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "playback",
+      "frequency": 6,
+      "avg_rank": 12.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 68287.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "low",
+      "frequency": 6,
+      "avg_rank": 13.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.02,
+      "avg_reviews": 57270.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "latency",
+      "frequency": 6,
+      "avg_rank": 13.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.02,
+      "avg_reviews": 57270.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "low latency",
+      "frequency": 6,
+      "avg_rank": 13.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.02,
+      "avg_reviews": 57270.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "without",
+      "frequency": 6,
+      "avg_rank": 14.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.16,
+      "avg_reviews": 5410.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "charger",
+      "frequency": 6,
+      "avg_rank": 18.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.14,
+      "avg_reviews": 4250.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "earphones",
+      "frequency": 6,
+      "avg_rank": 14.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.95,
+      "avg_reviews": 46179.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "in ear",
+      "frequency": 6,
+      "avg_rank": 13.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 35480.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "back",
+      "frequency": 6,
+      "avg_rank": 14.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 11536.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cover",
+      "frequency": 6,
+      "avg_rank": 17.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.22,
+      "avg_reviews": 13214.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "inch",
+      "frequency": 6,
+      "avg_rank": 20.2,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 14916.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "camera",
+      "frequency": 6,
+      "avg_rank": 18.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 3335.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "watch",
+      "frequency": 6,
+      "avg_rank": 19.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.02,
+      "avg_reviews": 61434.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tripod",
+      "frequency": 6,
+      "avg_rank": 25.2,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.08,
+      "avg_reviews": 17730.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "without charger",
+      "frequency": 5,
+      "avg_rank": 16.2,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 2790.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dual",
+      "frequency": 5,
+      "avg_rank": 12.2,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.02,
+      "avg_reviews": 37145.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "app",
+      "frequency": 5,
+      "avg_rank": 15.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 10515.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "active",
+      "frequency": 5,
+      "avg_rank": 13.6,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.98,
+      "avg_reviews": 53445.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "portronics",
+      "frequency": 5,
+      "avg_rank": 13.6,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 7617.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "google",
+      "frequency": 5,
+      "avg_rank": 16.4,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.14,
+      "avg_reviews": 12239.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "series",
+      "frequency": 5,
+      "avg_rank": 7.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.28,
+      "avg_reviews": 8127.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "case for",
+      "frequency": 5,
+      "avg_rank": 13.6,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 10317.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "upto",
+      "frequency": 5,
+      "avg_rank": 19.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.24,
+      "avg_reviews": 11922.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "glass",
+      "frequency": 5,
+      "avg_rank": 19.2,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.08,
+      "avg_reviews": 20823.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "gorilla",
+      "frequency": 5,
+      "avg_rank": 19.2,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.08,
+      "avg_reviews": 20823.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "realme",
+      "frequency": 5,
+      "avg_rank": 19.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 10715.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "calling",
+      "frequency": 5,
+      "avg_rank": 20.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.94,
+      "avg_reviews": 42302.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "laptop",
+      "frequency": 5,
+      "avg_rank": 23.2,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.24,
+      "avg_reviews": 15922.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "compatible",
+      "frequency": 5,
+      "avg_rank": 19.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.24,
+      "avg_reviews": 10423.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "holder",
+      "frequency": 5,
+      "avg_rank": 21.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.06,
+      "avg_reviews": 17259.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "clear",
+      "frequency": 4,
+      "avg_rank": 11.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 21146.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "audio",
+      "frequency": 4,
+      "avg_rank": 9.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 73163.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "smartphones",
+      "frequency": 4,
+      "avg_rank": 10.2,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.08,
+      "avg_reviews": 25561.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dimensity",
+      "frequency": 4,
+      "avg_rank": 12.2,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 3566.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mah battery",
+      "frequency": 4,
+      "avg_rank": 5.5,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 2927.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "rate",
+      "frequency": 4,
+      "avg_rank": 15.5,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.97,
+      "avg_reviews": 45944.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dynamic",
+      "frequency": 4,
+      "avg_rank": 17.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 65913.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "enx",
+      "frequency": 4,
+      "avg_rank": 16.5,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 30540.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "music",
+      "frequency": 4,
+      "avg_rank": 15.2,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.98,
+      "avg_reviews": 29492.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "support",
+      "frequency": 4,
+      "avg_rank": 14.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.95,
+      "avg_reviews": 11784.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "magnetic",
+      "frequency": 4,
+      "avg_rank": 14.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 40745.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "app support",
+      "frequency": 4,
+      "avg_rank": 14.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.95,
+      "avg_reviews": 11784.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "active black",
+      "frequency": 4,
+      "avg_rank": 14.2,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 62294.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "driver",
+      "frequency": 4,
+      "avg_rank": 16.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 10004.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "earphones with",
+      "frequency": 4,
+      "avg_rank": 16.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.92,
+      "avg_reviews": 30329.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "usb",
+      "frequency": 4,
+      "avg_rank": 17.2,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 19832.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "s24",
+      "frequency": 4,
+      "avg_rank": 10.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 31182.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "gb gb",
+      "frequency": 4,
+      "avg_rank": 15.2,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 2081.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "phone",
+      "frequency": 4,
+      "avg_rank": 22.2,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 14619.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bluetooth earbuds",
+      "frequency": 4,
+      "avg_rank": 17.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.97,
+      "avg_reviews": 33049.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "earbuds with",
+      "frequency": 4,
+      "avg_rank": 14.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.08,
+      "avg_reviews": 13808.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "edge",
+      "frequency": 4,
+      "avg_rank": 16.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 48574.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for samsung",
+      "frequency": 4,
+      "avg_rank": 13.5,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 30540.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "modes",
+      "frequency": 4,
+      "avg_rank": 19.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.98,
+      "avg_reviews": 44378.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "men",
+      "frequency": 4,
+      "avg_rank": 19.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 42546.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "women",
+      "frequency": 4,
+      "avg_rank": 19.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 42546.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bluetooth calling",
+      "frequency": 4,
+      "avg_rank": 19.5,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.98,
+      "avg_reviews": 51934.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "smart watch",
+      "frequency": 4,
+      "avg_rank": 19.5,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.98,
+      "avg_reviews": 51934.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for men",
+      "frequency": 4,
+      "avg_rank": 19.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 42546.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for iphone",
+      "frequency": 4,
+      "avg_rank": 19.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 12554.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "power",
+      "frequency": 4,
+      "avg_rank": 14.5,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 29895.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "gaming",
+      "frequency": 4,
+      "avg_rank": 22.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 9632.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ear buds",
+      "frequency": 4,
+      "avg_rank": 17.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 31816.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "buds wireless",
+      "frequency": 4,
+      "avg_rank": 17.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 31816.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "selfie",
+      "frequency": 4,
+      "avg_rank": 27.5,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 2727.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "light",
+      "frequency": 4,
+      "avg_rank": 22.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 2178.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "compatible with",
+      "frequency": 4,
+      "avg_rank": 16.8,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 7663.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stand",
+      "frequency": 4,
+      "avg_rank": 28.2,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.88,
+      "avg_reviews": 16885.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "led",
+      "frequency": 4,
+      "avg_rank": 16.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 13118.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "table",
+      "frequency": 4,
+      "avg_rank": 13.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 317.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "nord",
+      "frequency": 3,
+      "avg_rank": 7.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 21323.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hours",
+      "frequency": 3,
+      "avg_rank": 10.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 26335.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "spatial",
+      "frequency": 3,
+      "avg_rank": 9.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 95161.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "drivers",
+      "frequency": 3,
+      "avg_rank": 5.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 94915.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "oneplus nord",
+      "frequency": 3,
+      "avg_rank": 7.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 21323.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "spatial audio",
+      "frequency": 3,
+      "avg_rank": 9.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 95161.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "braided",
+      "frequency": 3,
+      "avg_rank": 8.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 33650.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tablets",
+      "frequency": 3,
+      "avg_rank": 8.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 66873.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "devices",
+      "frequency": 3,
+      "avg_rank": 9.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.97,
+      "avg_reviews": 33018.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cable for",
+      "frequency": 3,
+      "avg_rank": 7.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 37551.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "green gb",
+      "frequency": 3,
+      "avg_rank": 7.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 2671.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "upgrades",
+      "frequency": 3,
+      "avg_rank": 15.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 2834.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "gemini",
+      "frequency": 3,
+      "avg_rank": 21.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 1979.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "gen os",
+      "frequency": 3,
+      "avg_rank": 15.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 2834.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "os upgrades",
+      "frequency": 3,
+      "avg_rank": 15.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 2834.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "in-ear",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 225906.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "neckband",
+      "frequency": 3,
+      "avg_rank": 9.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 127209.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hrs playback",
+      "frequency": 3,
+      "avg_rank": 13.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 106429.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fast charge",
+      "frequency": 3,
+      "avg_rank": 13.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.93,
+      "avg_reviews": 81298.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "free music",
+      "frequency": 3,
+      "avg_rank": 16.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.87,
+      "avg_reviews": 33307.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "design",
+      "frequency": 3,
+      "avg_rank": 18.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 9379.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "type-c",
+      "frequency": 3,
+      "avg_rank": 18.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 9711.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "travel",
+      "frequency": 3,
+      "avg_rank": 18.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 12216.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pixel",
+      "frequency": 3,
+      "avg_rank": 9.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 8408.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "xiaomi",
+      "frequency": 3,
+      "avg_rank": 10.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 43205.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for google",
+      "frequency": 3,
+      "avg_rank": 9.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 8408.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "google pixel",
+      "frequency": 3,
+      "avg_rank": 9.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 8408.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mediatek",
+      "frequency": 3,
+      "avg_rank": 15.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 4754.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mediatek dimensity",
+      "frequency": 3,
+      "avg_rank": 15.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 4754.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "back case",
+      "frequency": 3,
+      "avg_rank": 14.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 11536.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "back cover",
+      "frequency": 3,
+      "avg_rank": 14.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 11536.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "noise",
+      "frequency": 3,
+      "avg_rank": 16.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 31490.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "with upto",
+      "frequency": 3,
+      "avg_rank": 17.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 12348.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mm dynamic",
+      "frequency": 3,
+      "avg_rank": 21.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 12594.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "upto hrs",
+      "frequency": 3,
+      "avg_rank": 21.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 12594.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "narzo",
+      "frequency": 3,
+      "avg_rank": 17.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 1077.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "realme narzo",
+      "frequency": 3,
+      "avg_rank": 17.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 1077.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hrs battery",
+      "frequency": 3,
+      "avg_rank": 18.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 62924.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sports",
+      "frequency": 3,
+      "avg_rank": 20.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.97,
+      "avg_reviews": 51759.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "heart",
+      "frequency": 3,
+      "avg_rank": 19.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.97,
+      "avg_reviews": 61259.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "smartwatch",
+      "frequency": 3,
+      "avg_rank": 20.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.97,
+      "avg_reviews": 51759.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sports modes",
+      "frequency": 3,
+      "avg_rank": 20.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.97,
+      "avg_reviews": 51759.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "heart rate",
+      "frequency": 3,
+      "avg_rank": 19.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.97,
+      "avg_reviews": 61259.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "smartwatch for",
+      "frequency": 3,
+      "avg_rank": 20.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.97,
+      "avg_reviews": 51759.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "women black",
+      "frequency": 3,
+      "avg_rank": 19.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 48742.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sleep",
+      "frequency": 3,
+      "avg_rank": 18.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 20129.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tracking",
+      "frequency": 3,
+      "avg_rank": 22.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 34363.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bag",
+      "frequency": 3,
+      "avg_rank": 20.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 21286.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "crystal",
+      "frequency": 3,
+      "avg_rank": 16.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 17829.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "clear back",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 14585.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bank",
+      "frequency": 3,
+      "avg_rank": 16.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 39735.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "input",
+      "frequency": 3,
+      "avg_rank": 16.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 39735.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "triple",
+      "frequency": 3,
+      "avg_rank": 27.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 38115.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "apple",
+      "frequency": 3,
+      "avg_rank": 13.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 40819.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "power bank",
+      "frequency": 3,
+      "avg_rank": 16.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 39735.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ear earbuds",
+      "frequency": 3,
+      "avg_rank": 16.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.97,
+      "avg_reviews": 16652.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "airdopes",
+      "frequency": 3,
+      "avg_rank": 20.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.8,
+      "avg_reviews": 32397.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mics",
+      "frequency": 3,
+      "avg_rank": 20.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.87,
+      "avg_reviews": 38049.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "boat airdopes",
+      "frequency": 3,
+      "avg_rank": 20.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.8,
+      "avg_reviews": 32397.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mics enx",
+      "frequency": 3,
+      "avg_rank": 20.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.87,
+      "avg_reviews": 38049.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "earbuds tws",
+      "frequency": 3,
+      "avg_rank": 20.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.87,
+      "avg_reviews": 38049.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tws ear",
+      "frequency": 3,
+      "avg_rank": 20.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.87,
+      "avg_reviews": 38049.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "wireless earphones",
+      "frequency": 3,
+      "avg_rank": 20.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.87,
+      "avg_reviews": 38049.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stick",
+      "frequency": 3,
+      "avg_rank": 27.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 2895.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "long",
+      "frequency": 3,
+      "avg_rank": 18.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 13973.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "all",
+      "frequency": 3,
+      "avg_rank": 24.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 22296.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "selfie stick",
+      "frequency": 3,
+      "avg_rank": 27.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 2895.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "with iphone",
+      "frequency": 3,
+      "avg_rank": 19.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 7950.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "m17",
+      "frequency": 3,
+      "avg_rank": 17.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 8845.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "victus",
+      "frequency": 3,
+      "avg_rank": 21.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 2323.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "lag-free",
+      "frequency": 3,
+      "avg_rank": 21.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 2323.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "gorilla glass",
+      "frequency": 3,
+      "avg_rank": 21.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 2323.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "glass victus",
+      "frequency": 3,
+      "avg_rank": 21.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 2323.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "lag-free gaming",
+      "frequency": 3,
+      "avg_rank": 21.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 2323.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "gaming without",
+      "frequency": 3,
+      "avg_rank": 21.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 2323.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stand with",
+      "frequency": 3,
+      "avg_rank": 27.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.87,
+      "avg_reviews": 16564.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "max",
+      "frequency": 3,
+      "avg_rank": 16.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 14860.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "segment's",
+      "frequency": 3,
+      "avg_rank": 11.7,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.33,
+      "avg_reviews": 3281.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ipad",
+      "frequency": 3,
+      "avg_rank": 14.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.33,
+      "avg_reviews": 4943.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "portable",
+      "frequency": 3,
+      "avg_rank": 21.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.87,
+      "avg_reviews": 19852.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cameras",
+      "frequency": 3,
+      "avg_rank": 20.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 21358.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "nits",
+      "frequency": 3,
+      "avg_rank": 19.3,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 8855.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "calls",
+      "frequency": 2,
+      "avg_rank": 12.5,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 36193.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "nord buds",
+      "frequency": 2,
+      "avg_rank": 6.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 29438.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tws earbuds",
+      "frequency": 2,
+      "avg_rank": 1.5,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 22390.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mm drivers",
+      "frequency": 2,
+      "avg_rank": 3.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 133348.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ms low",
+      "frequency": 2,
+      "avg_rank": 4.5,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 26972.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ambrane",
+      "frequency": 2,
+      "avg_rank": 13.5,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 47552.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "unbreakable",
+      "frequency": 2,
+      "avg_rank": 7.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 47072.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "other",
+      "frequency": 2,
+      "avg_rank": 13.5,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 47552.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "data",
+      "frequency": 2,
+      "avg_rank": 6.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 47532.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "type cable",
+      "frequency": 2,
+      "avg_rank": 6.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 47532.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for smartphones",
+      "frequency": 2,
+      "avg_rank": 2.0,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 3.95,
+      "avg_reviews": 46106.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "iqoo",
+      "frequency": 2,
+      "avg_rank": 4.5,
+      "categories": [
+        "Electronics"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 3309.0,
+      "category_count": 1
+    }
+  ],
+  "category_tree": [
+    {
+      "name": "Hot New Releasesin Electronics",
+      "url": "https://www.amazon.in/gp/new-releases/electronics/ref=zg_bs_tab_t_electronics_bsnr",
+      "is_selected": false
+    },
+    {
+      "name": "Movers and Shakersin Electronics",
+      "url": "https://www.amazon.in/gp/movers-and-shakers/electronics/ref=zg_bs_tab_t_electronics_bsms",
+      "is_selected": false
+    }
+  ],
+  "metadata": {
+    "category": "electronics",
+    "pages_scraped": 2,
+    "total_products": 60,
+    "total_keywords": 1550,
+    "scraped_at": "2026-03-23T09:52:52.645530"
+  }
+}

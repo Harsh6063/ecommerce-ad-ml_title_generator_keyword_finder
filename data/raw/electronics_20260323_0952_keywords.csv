@@ -1,0 +1,201 @@
+keyword,frequency,avg_rank,categories,avg_rating,avg_reviews,category_count
+fast,16,13.8,['Electronics'],4.09,36277.0,1
+battery,15,14.8,['Electronics'],4.12,19692.0,1
+bluetooth,15,19.7,['Electronics'],4.01,35929.0,1
+charging,14,13.1,['Electronics'],4.14,21858.0,1
+wireless,14,15.5,['Electronics'],4.01,40878.0,1
+earbuds,13,14.7,['Electronics'],4.03,39157.0,1
+cable,13,9.1,['Electronics'],4.3,18633.0,1
+samsung,13,12.8,['Electronics'],4.18,14468.0,1
+mic,12,14.8,['Electronics'],4.0,69373.0,1
+fast charging,12,13.0,['Electronics'],4.12,25414.0,1
+galaxy,12,12.9,['Electronics'],4.18,14631.0,1
+type,11,7.8,['Electronics'],4.1,29543.0,1
+mah,11,12.0,['Electronics'],4.18,12229.0,1
+samsung galaxy,11,13.4,['Electronics'],4.16,14279.0,1
+pro,11,19.0,['Electronics'],4.22,33794.0,1
+smart,11,17.3,['Electronics'],4.05,35188.0,1
+ear,10,14.6,['Electronics'],3.96,34014.0,1
+iphone,10,17.4,['Electronics'],4.24,11319.0,1
+buds,9,14.8,['Electronics'],4.04,27166.0,1
+mobile,9,20.6,['Electronics'],4.05,10965.0,1
+hrs,9,16.2,['Electronics'],4.08,60567.0,1
+case,9,16.9,['Electronics'],4.2,18127.0,1
+charge,8,11.2,['Electronics'],3.99,71181.0,1
+storage,8,13.6,['Electronics'],4.08,3250.0,1
+with mic,8,17.2,['Electronics'],3.95,92476.0,1
+display,8,17.4,['Electronics'],4.07,26418.0,1
+tws,7,16.6,['Electronics'],4.0,27348.0,1
+ram,7,12.9,['Electronics'],4.16,2938.0,1
+gb ram,7,12.9,['Electronics'],4.16,2938.0,1
+ram gb,7,12.9,['Electronics'],4.16,2938.0,1
+gb storage,7,12.9,['Electronics'],4.16,2938.0,1
+gen,7,15.1,['Electronics'],4.13,15930.0,1
+boat,7,16.3,['Electronics'],3.93,101178.0,1
+ultra,7,16.7,['Electronics'],4.14,16610.0,1
+output,7,17.0,['Electronics'],4.1,33677.0,1
+oneplus,6,6.3,['Electronics'],4.27,50666.0,1
+playback,6,12.7,['Electronics'],4.05,68287.0,1
+low,6,13.8,['Electronics'],4.02,57270.0,1
+latency,6,13.8,['Electronics'],4.02,57270.0,1
+low latency,6,13.8,['Electronics'],4.02,57270.0,1
+without,6,14.8,['Electronics'],4.16,5410.0,1
+charger,6,18.0,['Electronics'],4.14,4250.0,1
+earphones,6,14.8,['Electronics'],3.95,46179.0,1
+in ear,6,13.0,['Electronics'],4.0,35480.0,1
+back,6,14.0,['Electronics'],4.17,11536.0,1
+cover,6,17.7,['Electronics'],4.22,13214.0,1
+inch,6,20.2,['Electronics'],4.05,14916.0,1
+camera,6,18.3,['Electronics'],4.07,3335.0,1
+watch,6,19.7,['Electronics'],4.02,61434.0,1
+tripod,6,25.2,['Electronics'],4.08,17730.0,1
+without charger,5,16.2,['Electronics'],4.1,2790.0,1
+dual,5,12.2,['Electronics'],4.02,37145.0,1
+app,5,15.0,['Electronics'],3.9,10515.0,1
+active,5,13.6,['Electronics'],3.98,53445.0,1
+portronics,5,13.6,['Electronics'],4.12,7617.0,1
+google,5,16.4,['Electronics'],4.14,12239.0,1
+series,5,7.8,['Electronics'],4.28,8127.0,1
+case for,5,13.6,['Electronics'],4.2,10317.0,1
+upto,5,19.0,['Electronics'],4.24,11922.0,1
+glass,5,19.2,['Electronics'],4.08,20823.0,1
+gorilla,5,19.2,['Electronics'],4.08,20823.0,1
+realme,5,19.8,['Electronics'],4.2,10715.0,1
+calling,5,20.8,['Electronics'],3.94,42302.0,1
+laptop,5,23.2,['Electronics'],4.24,15922.0,1
+compatible,5,19.0,['Electronics'],4.24,10423.0,1
+holder,5,21.0,['Electronics'],4.06,17259.0,1
+clear,4,11.0,['Electronics'],4.2,21146.0,1
+audio,4,9.0,['Electronics'],4.15,73163.0,1
+smartphones,4,10.2,['Electronics'],4.08,25561.0,1
+dimensity,4,12.2,['Electronics'],4.23,3566.0,1
+mah battery,4,5.5,['Electronics'],4.4,2927.0,1
+rate,4,15.5,['Electronics'],3.97,45944.0,1
+dynamic,4,17.0,['Electronics'],4.2,65913.0,1
+enx,4,16.5,['Electronics'],3.9,30540.0,1
+music,4,15.2,['Electronics'],3.98,29492.0,1
+support,4,14.0,['Electronics'],3.95,11784.0,1
+magnetic,4,14.0,['Electronics'],4.0,40745.0,1
+app support,4,14.0,['Electronics'],3.95,11784.0,1
+active black,4,14.2,['Electronics'],3.9,62294.0,1
+driver,4,16.8,['Electronics'],4.12,10004.0,1
+earphones with,4,16.8,['Electronics'],3.92,30329.0,1
+usb,4,17.2,['Electronics'],4.25,19832.0,1
+s24,4,10.8,['Electronics'],4.15,31182.0,1
+gb gb,4,15.2,['Electronics'],4.27,2081.0,1
+phone,4,22.2,['Electronics'],4.1,14619.0,1
+bluetooth earbuds,4,17.8,['Electronics'],3.97,33049.0,1
+earbuds with,4,14.8,['Electronics'],4.08,13808.0,1
+edge,4,16.0,['Electronics'],4.0,48574.0,1
+for samsung,4,13.5,['Electronics'],4.1,30540.0,1
+modes,4,19.0,['Electronics'],3.98,44378.0,1
+men,4,19.8,['Electronics'],4.0,42546.0,1
+women,4,19.8,['Electronics'],4.0,42546.0,1
+bluetooth calling,4,19.5,['Electronics'],3.98,51934.0,1
+smart watch,4,19.5,['Electronics'],3.98,51934.0,1
+for men,4,19.8,['Electronics'],4.0,42546.0,1
+for iphone,4,19.8,['Electronics'],4.2,12554.0,1
+power,4,14.5,['Electronics'],4.03,29895.0,1
+gaming,4,22.0,['Electronics'],4.12,9632.0,1
+ear buds,4,17.0,['Electronics'],3.9,31816.0,1
+buds wireless,4,17.0,['Electronics'],3.9,31816.0,1
+selfie,4,27.5,['Electronics'],4.1,2727.0,1
+light,4,22.0,['Electronics'],4.12,2178.0,1
+compatible with,4,16.8,['Electronics'],4.23,7663.0,1
+stand,4,28.2,['Electronics'],3.88,16885.0,1
+led,4,16.0,['Electronics'],4.12,13118.0,1
+table,4,13.0,['Electronics'],4.2,317.0,1
+nord,3,7.0,['Electronics'],4.3,21323.0,1
+hours,3,10.3,['Electronics'],4.23,26335.0,1
+spatial,3,9.7,['Electronics'],4.17,95161.0,1
+drivers,3,5.7,['Electronics'],4.2,94915.0,1
+oneplus nord,3,7.0,['Electronics'],4.3,21323.0,1
+spatial audio,3,9.7,['Electronics'],4.17,95161.0,1
+braided,3,8.0,['Electronics'],4.2,33650.0,1
+tablets,3,8.7,['Electronics'],4.03,66873.0,1
+devices,3,9.7,['Electronics'],3.97,33018.0,1
+cable for,3,7.3,['Electronics'],4.27,37551.0,1
+green gb,3,7.0,['Electronics'],4.15,2671.0,1
+upgrades,3,15.3,['Electronics'],4.05,2834.0,1
+gemini,3,21.0,['Electronics'],4.05,1979.0,1
+gen os,3,15.3,['Electronics'],4.05,2834.0,1
+os upgrades,3,15.3,['Electronics'],4.05,2834.0,1
+in-ear,3,14.3,['Electronics'],4.13,225906.0,1
+neckband,3,9.0,['Electronics'],4.03,127209.0,1
+hrs playback,3,13.3,['Electronics'],3.9,106429.0,1
+fast charge,3,13.3,['Electronics'],3.93,81298.0,1
+free music,3,16.7,['Electronics'],3.87,33307.0,1
+design,3,18.7,['Electronics'],4.1,9379.0,1
+type-c,3,18.0,['Electronics'],4.2,9711.0,1
+travel,3,18.0,['Electronics'],4.23,12216.0,1
+pixel,3,9.3,['Electronics'],4.2,8408.0,1
+xiaomi,3,10.3,['Electronics'],4.23,43205.0,1
+for google,3,9.3,['Electronics'],4.2,8408.0,1
+google pixel,3,9.3,['Electronics'],4.2,8408.0,1
+mediatek,3,15.3,['Electronics'],4.23,4754.0,1
+mediatek dimensity,3,15.3,['Electronics'],4.23,4754.0,1
+back case,3,14.0,['Electronics'],4.17,11536.0,1
+back cover,3,14.0,['Electronics'],4.17,11536.0,1
+noise,3,16.3,['Electronics'],4.1,31490.0,1
+with upto,3,17.0,['Electronics'],4.27,12348.0,1
+mm dynamic,3,21.0,['Electronics'],4.23,12594.0,1
+upto hrs,3,21.0,['Electronics'],4.23,12594.0,1
+narzo,3,17.3,['Electronics'],4.23,1077.0,1
+realme narzo,3,17.3,['Electronics'],4.23,1077.0,1
+hrs battery,3,18.3,['Electronics'],4.07,62924.0,1
+sports,3,20.0,['Electronics'],3.97,51759.0,1
+heart,3,19.3,['Electronics'],3.97,61259.0,1
+smartwatch,3,20.0,['Electronics'],3.97,51759.0,1
+sports modes,3,20.0,['Electronics'],3.97,51759.0,1
+heart rate,3,19.3,['Electronics'],3.97,61259.0,1
+smartwatch for,3,20.0,['Electronics'],3.97,51759.0,1
+women black,3,19.7,['Electronics'],4.0,48742.0,1
+sleep,3,18.7,['Electronics'],4.1,20129.0,1
+tracking,3,22.3,['Electronics'],4.13,34363.0,1
+bag,3,20.0,['Electronics'],4.13,21286.0,1
+crystal,3,16.0,['Electronics'],4.13,17829.0,1
+clear back,3,14.3,['Electronics'],4.2,14585.0,1
+bank,3,16.3,['Electronics'],4.03,39735.0,1
+input,3,16.3,['Electronics'],4.03,39735.0,1
+triple,3,27.0,['Electronics'],4.1,38115.0,1
+apple,3,13.7,['Electronics'],4.27,40819.0,1
+power bank,3,16.3,['Electronics'],4.03,39735.0,1
+ear earbuds,3,16.3,['Electronics'],3.97,16652.0,1
+airdopes,3,20.3,['Electronics'],3.8,32397.0,1
+mics,3,20.0,['Electronics'],3.87,38049.0,1
+boat airdopes,3,20.3,['Electronics'],3.8,32397.0,1
+mics enx,3,20.0,['Electronics'],3.87,38049.0,1
+earbuds tws,3,20.0,['Electronics'],3.87,38049.0,1
+tws ear,3,20.0,['Electronics'],3.87,38049.0,1
+wireless earphones,3,20.0,['Electronics'],3.87,38049.0,1
+stick,3,27.3,['Electronics'],4.13,2895.0,1
+long,3,18.3,['Electronics'],4.03,13973.0,1
+all,3,24.7,['Electronics'],4.03,22296.0,1
+selfie stick,3,27.3,['Electronics'],4.13,2895.0,1
+with iphone,3,19.0,['Electronics'],4.23,7950.0,1
+m17,3,17.0,['Electronics'],4.17,8845.0,1
+victus,3,21.3,['Electronics'],4.13,2323.0,1
+lag-free,3,21.3,['Electronics'],4.13,2323.0,1
+gorilla glass,3,21.3,['Electronics'],4.13,2323.0,1
+glass victus,3,21.3,['Electronics'],4.13,2323.0,1
+lag-free gaming,3,21.3,['Electronics'],4.13,2323.0,1
+gaming without,3,21.3,['Electronics'],4.13,2323.0,1
+stand with,3,27.7,['Electronics'],3.87,16564.0,1
+max,3,16.7,['Electronics'],4.17,14860.0,1
+segment's,3,11.7,['Electronics'],4.33,3281.0,1
+ipad,3,14.0,['Electronics'],4.33,4943.0,1
+portable,3,21.0,['Electronics'],3.87,19852.0,1
+cameras,3,20.3,['Electronics'],4.0,21358.0,1
+nits,3,19.3,['Electronics'],4.13,8855.0,1
+calls,2,12.5,['Electronics'],4.15,36193.0,1
+nord buds,2,6.0,['Electronics'],4.25,29438.0,1
+tws earbuds,2,1.5,['Electronics'],4.05,22390.0,1
+mm drivers,2,3.0,['Electronics'],4.15,133348.0,1
+ms low,2,4.5,['Electronics'],4.1,26972.0,1
+ambrane,2,13.5,['Electronics'],4.0,47552.0,1
+unbreakable,2,7.0,['Electronics'],4.2,47072.0,1
+other,2,13.5,['Electronics'],4.0,47552.0,1
+data,2,6.0,['Electronics'],4.1,47532.0,1
+type cable,2,6.0,['Electronics'],4.1,47532.0,1
+for smartphones,2,2.0,['Electronics'],3.95,46106.0,1
+iqoo,2,4.5,['Electronics'],4.4,3309.0,1

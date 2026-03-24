@@ -1,0 +1,30 @@
+# --- Python/Environment ---
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# --- Secrets & Config (CRITICAL) ---
+
+.env
+# --- Project Specific Junk ---
+*.log
+.DS_Store
+dist/
+build/
+
+# --- Optional: Large Data Files ---
+# If your datasets are huge (over 50MB), uncomment the line below
+# data/*.csv
+# Vector DB
+vector_db/
+
+# Env
+.env
+
+# MLflow
+mlruns/
+
+# OS
+.DS_Store
+Thumbs.db

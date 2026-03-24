@@ -1,0 +1,3480 @@
+{
+  "products": [
+    {
+      "rank": 1,
+      "asin": "B07KT852PD",
+      "title": "Amazon Brand - Presto! Disinfectant Toilet Cleaner, Original | 2 Litre | 1 L X 2 Packs | Kills 99.9% Germs | Removes Tough Stains | Provides Long Lasting Freshness",
+      "brand": "Amazon",
+      "price": 229.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 17348,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71q3yll+svL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Amazon-Brand-Presto-Toilet-Cleaner/dp/B07KT852PD/ref=zg_bs_g_1374558031_d_sccl_1/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.725764",
+      "page_number": 1,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 2,
+      "asin": "B016D3J92M",
+      "title": "Harpic Disinfectant Toilet Cleaner Liquid, Original - 1 L (Pack of 2) | Kills 99.9% Germs",
+      "brand": "Harpic",
+      "price": 406.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 58017,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61xwqAQKU+L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Original-Powerplus-Pack/dp/B016D3J92M/ref=zg_bs_g_1374558031_d_sccl_2/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.726747",
+      "page_number": 1,
+      "title_word_count": 16,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 3,
+      "asin": "B00NWFVVG2",
+      "title": "Harpic Disinfectant Toilet Cleaner Liquid, Original - 1 L | India's # 1 Toilet Cleaner",
+      "brand": "Harpic",
+      "price": 200.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 47554,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61j+zu68oTL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Powerplus-Toilet-Cleaner-Original/dp/B00NWFVVG2/ref=zg_bs_g_1374558031_d_sccl_3/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.727677",
+      "page_number": 1,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 4,
+      "asin": "B0797HNZDW",
+      "title": "Presto! Toilet Cleaner - 1 L",
+      "brand": "Presto!",
+      "price": 185.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 5766,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61f3pGjLAKL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Presto-Toilet-Cleaner-1-L/dp/B0797HNZDW/ref=zg_bs_g_1374558031_d_sccl_4/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.728644",
+      "page_number": 1,
+      "title_word_count": 6,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 5,
+      "asin": "B077MCF1YR",
+      "title": "Harpic Disinfectant Toilet Cleaner Liquid, Original - 1 L (Pack of 3) | India's # 1 Toilet Cleaner",
+      "brand": "Harpic",
+      "price": 648.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 13338,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/717lGPCyd1L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Powerplus-Original-1000-Pack/dp/B077MCF1YR/ref=zg_bs_g_1374558031_d_sccl_5/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.729785",
+      "page_number": 1,
+      "title_word_count": 18,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 6,
+      "asin": "B00NWFWCHO",
+      "title": "Harpic White and Shine Disinfectant Toilet Cleaner Bleach Liquid - 500 ml",
+      "brand": "Harpic",
+      "price": 97.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 19638,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51Ak3ADAC8L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-White-Bleach-Toilet-Cleaner/dp/B00NWFWCHO/ref=zg_bs_g_1374558031_d_sccl_6/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.730857",
+      "page_number": 1,
+      "title_word_count": 12,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 7,
+      "asin": "B09RF9RXDW",
+      "title": "Domex Fresh Guard Disinfectant Toilet Cleaner Liquid|| Lime Fresh|| 1 L| Freshness for 100 Flushes",
+      "brand": "Domex",
+      "price": 190.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 3625,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51AHjgOM0kL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Domex-Disinfectant-Cleaner-Freshness-Flushes/dp/B09RF9RXDW/ref=zg_bs_g_1374558031_d_sccl_7/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.731883",
+      "page_number": 1,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 8,
+      "asin": "B0CNTK5ZCV",
+      "title": "Harpic 1L - Bleach, White and Shine Disinfectant Toilet Cleaner Liquid",
+      "brand": "Harpic",
+      "price": 250.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 2905,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51gIXspc22L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-1L-Bleach-Disinfectant-Cleaner/dp/B0CNTK5ZCV/ref=zg_bs_g_1374558031_d_sccl_8/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.732830",
+      "page_number": 1,
+      "title_word_count": 11,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 9,
+      "asin": "B07JCJRP7V",
+      "title": "Sani fresh Ultrashine Toilet Cleaner - 1.56 l Extra Strong Extra Clean, 520 Ml (Buy 2 get 1 free)",
+      "brand": "Sani",
+      "price": 206.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 10132,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71TZquBtIBL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Sanifresh-Ultrashine-Toilet-Cleaner-500ml/dp/B07JCJRP7V/ref=zg_bs_g_1374558031_d_sccl_9/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.733974",
+      "page_number": 1,
+      "title_word_count": 19,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 10,
+      "asin": "B09RF8HZBR",
+      "title": "Domex Fresh Guard Disinfectant Toilet Cleaner Liquid|| Ocean Fresh|| 1 L| Freshness for 100 Flushes",
+      "brand": "Domex",
+      "price": 190.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 2183,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51rCEfWc7SL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Domex-Disinfectant-Cleaner-Freshness-Flushes/dp/B09RF8HZBR/ref=zg_bs_g_1374558031_d_sccl_10/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.734934",
+      "page_number": 1,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 11,
+      "asin": "B00UFF5D0M",
+      "title": "Domex Fresh Guard Disinfectant Toilet Cleaner Liquid|| Sparkling Fresh|| 1 L| Freshness for 100 Flushes",
+      "brand": "Domex",
+      "price": 172.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 9688,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51qnieQhEUL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Domex-Disinfectant-Cleaner-Sparkling-Freshness/dp/B00UFF5D0M/ref=zg_bs_g_1374558031_d_sccl_11/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.735872",
+      "page_number": 1,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 12,
+      "asin": "B0DDHC8QLM",
+      "title": "Kleenest Bathroom & Toilet Cleaner Combo | Plant-Based Cleaning Liquid | Zero Bleach Formula | Rose Fragrance | Limescale & Stain Remover | Safe for Daily Use \u2013 1L Each",
+      "brand": "Kleenest",
+      "price": 299.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 989,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51Q2aAY+jIL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Kleenest-Bathroom-Cleaner-Plant-Based-Fragrance/dp/B0DDHC8QLM/ref=zg_bs_g_1374558031_d_sccl_12/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.736840",
+      "page_number": 1,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 13,
+      "asin": "B00NWFW25Q",
+      "title": "Harpic 1 Litre - Lemon, Disinfectant Toilet Cleaner Liquid | Suitable for Toilet Bowls | Refreshingly Fragrant",
+      "brand": "Harpic",
+      "price": 199.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 1893,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Odp-AG5bL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Powerplus-Toilet-Cleaner-Orange/dp/B00NWFW25Q/ref=zg_bs_g_1374558031_d_sccl_13/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.737791",
+      "page_number": 1,
+      "title_word_count": 17,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 14,
+      "asin": "B0B4JTQHFM",
+      "title": "Happi Planet | Organic Disinfectant Toilet Cleaner | 1L | Natural, Non Toxic, Plant Based, Biodegradable, Herbal | Eliminates Tough Grime, Germs & Bacteria | No Toxic Fumes",
+      "brand": "Happi",
+      "price": 218.0,
+      "currency": "INR",
+      "rating": 3.9,
+      "review_count": 937,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/517ohxFaSLL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Happi-Planet-Eco-Friendly-Disinfectant-Biodegradable/dp/B0B4JTQHFM/ref=zg_bs_g_1374558031_d_sccl_14/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.738774",
+      "page_number": 1,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 15,
+      "asin": "B0FPXLD6QK",
+      "title": "Shimmer Toilet Cleaner - 5L Mega Jar | Original Liquid Cleaner | Powerful Toilet Cleaner | All in One Purpose Cleaner | Home and Commercial Use",
+      "brand": "Shimmer",
+      "price": 268.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 682,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Iqfq3eOnL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Shimmer-Toilet-Cleaner-Original-Commercial/dp/B0FPXLD6QK/ref=zg_bs_g_1374558031_d_sccl_15/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.739912",
+      "page_number": 1,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 16,
+      "asin": "B0CY8F5RHR",
+      "title": "Vooki Heavy Duty Toilet Bowl Cleaner Fumeless Deep Action liquid, Home and Commercial Use - 500 ml (Pack of 1)",
+      "brand": "Vooki",
+      "price": 239.0,
+      "currency": "INR",
+      "rating": 3.7,
+      "review_count": 1241,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/510Z7LeajTL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Vooki-Toilet-Cleaner-Fumeless-Action/dp/B0CY8F5RHR/ref=zg_bs_g_1374558031_d_sccl_16/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.740949",
+      "page_number": 1,
+      "title_word_count": 20,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 17,
+      "asin": "B0GG7LGP4Y",
+      "title": "Septic Tank Cleaning Powder 10X Powerful Pack of 3| 5-In-1 Formula |Powerful Septic Tank Bacteria Reduces sludge build-up| Degrades Food & Human Waste| Septic Tank Treatment Powder 250Gm (PACK OF 3)",
+      "brand": "Septic",
+      "price": 499.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 30,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/816qNYxvGOL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Septic-Tank-Cleaning-Powder-Treatment/dp/B0GG7LGP4Y/ref=zg_bs_g_1374558031_d_sccl_17/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.741949",
+      "page_number": 1,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 18,
+      "asin": "B00NWFVZ90",
+      "title": "Harpic 1 Litre - Marine, Disinfectant Toilet Cleaner Liquid | Suitable for Toilet Bowls | Refreshingly Fragrant",
+      "brand": "Harpic",
+      "price": 201.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 1821,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61+5oExR+LL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Powerplus-Toilet-Cleaner-Rose/dp/B00NWFVZ90/ref=zg_bs_g_1374558031_d_sccl_18/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.742967",
+      "page_number": 1,
+      "title_word_count": 17,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 19,
+      "asin": "B01D8N1QHQ",
+      "title": "Harpic Germ & Stain Blaster Disinfectant Toilet Cleaner, Citrus - 750 ml | India's # 1 Toilet Cleaner",
+      "brand": "Harpic",
+      "price": 163.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 2533,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51flQdP6dAL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Blaster-Toilet-Cleaner-Citrus/dp/B01D8N1QHQ/ref=zg_bs_g_1374558031_d_sccl_19/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.743958",
+      "page_number": 1,
+      "title_word_count": 18,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 20,
+      "asin": "B00NWFVJ8W",
+      "title": "Harpic Disinfectant Toilet Cleaner Liquid, Original - 500 ml | India's # 1 Toilet Cleaner",
+      "brand": "Harpic",
+      "price": 108.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 11812,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Xgt6KjtsL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Powerplus-Toilet-Cleaner-Original/dp/B00NWFVJ8W/ref=zg_bs_g_1374558031_d_sccl_20/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.744969",
+      "page_number": 1,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 21,
+      "asin": "B0FQPGLK31",
+      "title": "DOMEX Instant Power Foam Spray, Toilet & Bathroom Cleaning Spray, 450ml, for Superior Clean, with Expanding Power Foam, Instant Stain Removal, Long-Lasting Freshness, Thunder Fresh Scent",
+      "brand": "DOMEX",
+      "price": 188.0,
+      "currency": "INR",
+      "rating": 3.8,
+      "review_count": 134,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51625aAUImL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Bathroom-Cleaning-Expanding-Long-Lasting-Freshness/dp/B0FQPGLK31/ref=zg_bs_g_1374558031_d_sccl_21/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.746082",
+      "page_number": 1,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 22,
+      "asin": "B0CX92JWQ4",
+      "title": "Kleenest Advanced Toilet Cleaner Liquid, Rose \u2013 1 litre| Thick Formula with Natural Citric Acid| Limescale Remover| Removes 99.9% germs| Provides Long Lasting Freshness| Bleach Free",
+      "brand": "Kleenest",
+      "price": 169.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 953,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51oRcRCm+ZL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Kleenest-Advanced-Toilet-Cleaner-Liquid/dp/B0CX92JWQ4/ref=zg_bs_g_1374558031_d_sccl_22/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.747235",
+      "page_number": 1,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 23,
+      "asin": "B09Y61GGZL",
+      "title": "Harpic 1 Litre - Jasmine, Disinfectant Toilet Cleaner Liquid | Suitable for Toilet Bowls | Refreshingly Fragrant",
+      "brand": "Harpic",
+      "price": 210.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 370,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/6107G+Wr41L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Disinfectant-Toilet-Cleaner-Jasmine/dp/B09Y61GGZL/ref=zg_bs_g_1374558031_d_sccl_23/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.748466",
+      "page_number": 1,
+      "title_word_count": 17,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 24,
+      "asin": "B0GS8YM9V9",
+      "title": "Pack of 40 Flush Toilet Bowl Cleaner Tablets Automatic Toilet Tank Cleaner,Freshener Tablets for Stain Removal, Deodorizing & Long-Lasting Cleaning \u2013 Easy to Use, Septic Safe (Lemon 40 Tabletsss)",
+      "brand": "Pack",
+      "price": 399.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 15,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51HI-QYJYPL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Flush-Toilet-Bowl-Cleaner-Tablets/dp/B0GS8YM9V9/ref=zg_bs_g_1374558031_d_sccl_24/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.750151",
+      "page_number": 1,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 25,
+      "asin": "B0DF2Y1ZBD",
+      "title": "Born Good Natural Toilet Bowl Cleaner | 500mlx3 | Arctic Air Fragrance | No Toxic Fumes | Elimimates Yellow Stains Limescale & Germs | Plant-Based, Biodegradable, Non-Toxic, Eco-Friendly, Organic",
+      "brand": "Born",
+      "price": 299.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 214,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51YEJDDTkpL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Born-Good-Fragrance-Biodegradable-Eco-Friendly/dp/B0DF2Y1ZBD/ref=zg_bs_g_1374558031_d_sccl_25/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.751751",
+      "page_number": 1,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 26,
+      "asin": "B0CQP9L791",
+      "title": "Harpic 35 gm - Atlantic Burst, Power Fresh 6 Toilet Cleaner Rim Block | Toilet flush cleaner blocks",
+      "brand": "Harpic",
+      "price": 189.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 282,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71xnNb2mV9L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-35-Atlantic-Cleaner-cleaner/dp/B0CQP9L791/ref=zg_bs_g_1374558031_d_sccl_26/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.753288",
+      "page_number": 1,
+      "title_word_count": 18,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 27,
+      "asin": "B0GPR1TNJ1",
+      "title": "Magic Bubble Dual-Action Deep Cleaning Tablets | Drain & Toilet Cleaning Tablets | Foaming Descaler & Odor Control | Citrus Fresh | Powerful Cleaning Tabs | (24, Standard)",
+      "brand": "Magic",
+      "price": 299.0,
+      "currency": "INR",
+      "rating": 1.0,
+      "review_count": 39,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61uYwTJrSEL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Dual-Action-Cleaning-Descaler-Powerful-Standard/dp/B0GPR1TNJ1/ref=zg_bs_g_1374558031_d_sccl_27/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.754806",
+      "page_number": 1,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 28,
+      "asin": "B0BW4BJ5G2",
+      "title": "Parryware SmartFlush In-Cistern Automatic Toilet Bowl Cleaner - Citrus 500 I Lasts upto 600* Flushes | 99.9% Disinfection | Cleans after every flushes | FCSF0103",
+      "brand": "Parryware",
+      "price": 300.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 626,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71WqPkfzv-L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Parryware-SmartFlush-Automatic-Cleaner-Flushes/dp/B0BW4BJ5G2/ref=zg_bs_g_1374558031_d_sccl_28/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.756350",
+      "page_number": 1,
+      "title_word_count": 25,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 29,
+      "asin": "B01H4UIWM6",
+      "title": "Harpic Disinfectant Toilet Cleaner Liquid, Original - 1 L | India's # 1 Toilet Cleaner",
+      "brand": "Harpic",
+      "price": 269.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 42039,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61j+zu68oTL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Disinfectant-Toilet-Cleaner-Original/dp/B01H4UIWM6/ref=zg_bs_g_1374558031_d_sccl_29/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.757869",
+      "page_number": 1,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 30,
+      "asin": "B07L2WHL9J",
+      "title": "Kohler Toilet Bowl Cleaner Liquid 500 ml | Unscented & Biodegradable | Toilet Cleaning Solution for Bathroom | Powerful Stain Remover, Gentle on Surfaces | Safe for Daily Use, No Harsh Fumes",
+      "brand": "Kohler",
+      "price": 131.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 250,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61CAHf73UCL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Kohler-1352427KS-Toilet-Bowl-Cleaner/dp/B07L2WHL9J/ref=zg_bs_g_1374558031_d_sccl_30/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:14.759447",
+      "page_number": 1,
+      "title_word_count": 32,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 1,
+      "asin": "B0FCMM7KMC",
+      "title": "Pristino Pure Foam Cleaner | Self-Activating Foam Cleaner | Easy Clean Foaming Toilet Bowl Cleaning Powder | Removes Tough Stains & Inside Pipe Bend | Fresh Essence (Pack of 4)",
+      "brand": "Pristino",
+      "price": 270.0,
+      "currency": "INR",
+      "rating": 3.5,
+      "review_count": 50,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71R5r62kprL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Pristino-Pure-Cleaner-Self-Activating-Cleaning/dp/B0FCMM7KMC/ref=zg_bs_g_1374558031_d_sccl_1/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.339327",
+      "page_number": 2,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 2,
+      "asin": "B0CDL71FVF",
+      "title": "Vooki Heavy Duty Toilet Bowl Cleaner Fumeless Deep Action liquid & Tough Lime Scale Stain Descaler Remover for Showers & Floor Tiles - 500 ml Each for Home and Commercial Use (Combo Pack of 2)",
+      "brand": "Vooki",
+      "price": 449.0,
+      "currency": "INR",
+      "rating": 3.8,
+      "review_count": 690,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61ZIQkGOefL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Vooki-Cleaner-Fumeless-Descaler-Bathroom/dp/B0CDL71FVF/ref=zg_bs_g_1374558031_d_sccl_2/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.340268",
+      "page_number": 2,
+      "title_word_count": 35,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 3,
+      "asin": "B0BTHXY98H",
+      "title": "Zureni Urinal Screen Fresh Scented Anti-Splash Toilet Mat Bathroom Deodorizer Spatter with Air Freshener for Restroom (Multicolor, Pine Lemon-Orange-Pine-Natural Breeze-Lemon Fragrance, 5 pcs)",
+      "brand": "Zureni",
+      "price": 189.0,
+      "currency": "INR",
+      "rating": 3.8,
+      "review_count": 363,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71BPSfYHkzL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Zureni-Anti-Splash-Deodorizer-Lemon-Orange-Pine-Natural-Breeze-Lemon/dp/B0BTHXY98H/ref=zg_bs_g_1374558031_d_sccl_3/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.341202",
+      "page_number": 2,
+      "title_word_count": 23,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 4,
+      "asin": "B081VQMC6B",
+      "title": "Sani Fresh Advanced Liquid Toilet Cleaner - 5L |Advanced Thicker Formula |Removes Toughest Stains |Kills 99.9% Germs |Provides Long Lasting Freshness |Suitable for Toilet Bowls |Instant Sanitization",
+      "brand": "Sani",
+      "price": 655.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 4114,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71WTLGLANEL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Sanifresh-Ultrashine-Toilet-Cleaner-Strong/dp/B081VQMC6B/ref=zg_bs_g_1374558031_d_sccl_4/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.342132",
+      "page_number": 2,
+      "title_word_count": 27,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 5,
+      "asin": "B0DC3V48LD",
+      "title": "Shatras Disinfectant Toilet Cleaner 5Liter (Pack of 2) | Removes Toughest Stains With Sparkling Shine |Kills 99.9% Germs | Advanced Thicker Formula | Provides Long Lasting Freshness",
+      "brand": "Shatras",
+      "price": 584.0,
+      "currency": "INR",
+      "rating": 3.8,
+      "review_count": 401,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/614e-WdW+QL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Shatras-Disinfectant-Toughest-Sparkling-Freshness/dp/B0DC3V48LD/ref=zg_bs_g_1374558031_d_sccl_5/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.343062",
+      "page_number": 2,
+      "title_word_count": 27,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 6,
+      "asin": "B0GPXN2B69",
+      "title": "Pack of 40 Automatic Flush Toilet Bowl Cleaner Tablets, Bathroom Toilet Tank Cleaner, Powerful Cleaning Ball (Pack Of 40)",
+      "brand": "Pack",
+      "price": 399.0,
+      "currency": "INR",
+      "rating": 4.6,
+      "review_count": 20,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61OqXzHTi2L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Automatic-Cleaner-Bathroom-Powerful-Cleaning/dp/B0GPXN2B69/ref=zg_bs_g_1374558031_d_sccl_6/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.344011",
+      "page_number": 2,
+      "title_word_count": 19,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 7,
+      "asin": "B0G8YXFDRP",
+      "title": "Magic Bubble Drain & Toilet Cleaning Tablets | Dual-Action Deep Clean | Foaming Action for Fresh & Clean Toilets and Drains | Odor Control | Easy-to-Use Tablets (24, Regular)",
+      "brand": "Magic",
+      "price": 183.0,
+      "currency": "INR",
+      "rating": 1.3,
+      "review_count": 56,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61uYwTJrSEL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Cleaning-Tablets-Dual-Action-Foaming-Toilets/dp/B0G8YXFDRP/ref=zg_bs_g_1374558031_d_sccl_7/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.345198",
+      "page_number": 2,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 8,
+      "asin": "B07XCD5PKP",
+      "title": "Harpic Power Plus Toilet Cleaner 1 L",
+      "brand": "Harpic",
+      "price": 445.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 916,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/510Cuxe-9AL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Power-Plus-Toilet-Cleaner/dp/B07XCD5PKP/ref=zg_bs_g_1374558031_d_sccl_8/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.346318",
+      "page_number": 2,
+      "title_word_count": 7,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 9,
+      "asin": "B0GF9F5SC6",
+      "title": "Bubble Oxygen Foaming Agent | Active Oxygen Cleaning Powder | Powerful Foaming Formula for Deep Stain, Odor & Dirt Removal (Pack Of 2)",
+      "brand": "Bubble",
+      "price": 278.07,
+      "currency": "INR",
+      "rating": 1.0,
+      "review_count": 11,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51d1LdaYjEL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Foaming-Cleaning-Powerful-Formula-Removal/dp/B0GF9F5SC6/ref=zg_bs_g_1374558031_d_sccl_9/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.347365",
+      "page_number": 2,
+      "title_word_count": 23,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 10,
+      "asin": "B0FB92LZGG",
+      "title": "Pipe Cleaners Craft, 200 Pieces Chenille Stems for DIY Flowers, Limpia Pipas Fluffy Fuzzy Sticks for Gift Wrapping, Party Decorations Pastel Colors 30 cm Length 0.5 cm Width",
+      "brand": "Pipe",
+      "price": 400.0,
+      "currency": "INR",
+      "rating": 3.2,
+      "review_count": 48,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71AVOEL2FOL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Cleaners-Chenille-Flowers-Wrapping-Decorations/dp/B0FB92LZGG/ref=zg_bs_g_1374558031_d_sccl_10/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.348360",
+      "page_number": 2,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 11,
+      "asin": "B01MY072MQ",
+      "title": "Gainda Disinfectant Perfumed Phenyl - 1L Bottle (White)",
+      "brand": "Gainda",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 1034,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61wT0pBNBoL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Gainda-White-Perfumed-Disinfectant-Phenyl/dp/B01MY072MQ/ref=zg_bs_g_1374558031_d_sccl_11/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.349465",
+      "page_number": 2,
+      "title_word_count": 8,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 12,
+      "asin": "B0FFB9SF9R",
+      "title": "Hommies Advanced Toilet Cleaner, 1L, 10X Power Formula, Kills 99.9% Germs, 5-Minute Rapid Action, Long-Lasting Fragrance | Original Liquid Cleaner - Pack of 2",
+      "brand": "Hommies",
+      "price": null,
+      "currency": "INR",
+      "rating": 3.8,
+      "review_count": 28,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61ulPyiDTLL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Hommies-Advanced-5-Minute-Long-Lasting-Fragrance/dp/B0FFB9SF9R/ref=zg_bs_g_1374558031_d_sccl_12/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.350565",
+      "page_number": 2,
+      "title_word_count": 24,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "low"
+    },
+    {
+      "rank": 13,
+      "asin": "B0GMR4G6Y6",
+      "title": "Shimmer Toilet Cleaner Liquid - 5L Mega Jar | Thick Bathroom Cleaning Liquid | Removes Tough Stains & Limescale",
+      "brand": "Shimmer",
+      "price": 249.0,
+      "currency": "INR",
+      "rating": null,
+      "review_count": null,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71K6ubt+b3L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Shimmer-Toilet-Cleaner-Liquid-Limescale/dp/B0GMR4G6Y6/ref=zg_bs_g_1374558031_d_sccl_13/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.351758",
+      "page_number": 2,
+      "title_word_count": 19,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": ""
+    },
+    {
+      "rank": 14,
+      "asin": "B09Y61VJCF",
+      "title": "Harpic Disinfectant Toilet Cleaner Liquid, Jasmine - 500 ml | India's # 1 Toilet Cleaner",
+      "brand": "Harpic",
+      "price": 115.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 68,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/717OzD1lD1L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Disinfectant-Toilet-Cleaner-Jasmine/dp/B09Y61VJCF/ref=zg_bs_g_1374558031_d_sccl_14/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.352683",
+      "page_number": 2,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 15,
+      "asin": "B014G50572",
+      "title": "Domestos Original Thick Bleach 750 ml",
+      "brand": "Domestos",
+      "price": 299.0,
+      "currency": "INR",
+      "rating": 4.9,
+      "review_count": 15,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/617oEHqrPoL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Domestos-Original-Thick-Bleach-750/dp/B014G50572/ref=zg_bs_g_1374558031_d_sccl_15/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.353612",
+      "page_number": 2,
+      "title_word_count": 6,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 16,
+      "asin": "B010BAHDBC",
+      "title": "Domex Fresh Guard Disinfectant Toilet Cleaner Liquid|| Sparkling Fresh|| 475 ml| Freshness for 100 Flushes",
+      "brand": "Domex",
+      "price": 101.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 1784,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/511e2EXQwtL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Domex-Disinfectant-Cleaner-Sparkling-Freshness/dp/B010BAHDBC/ref=zg_bs_g_1374558031_d_sccl_16/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.354547",
+      "page_number": 2,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 17,
+      "asin": "B0FCMCF743",
+      "title": "Pristino Pure Foam Cleaner | Self-Activating Foam Cleaner | Easy Clean Foaming Toilet Bowl Cleaning Powder | Removes Tough Stains & Inside Pipe Bend | Strawberry (Pack of 4)",
+      "brand": "Pristino",
+      "price": 270.0,
+      "currency": "INR",
+      "rating": 3.1,
+      "review_count": 67,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/7133k9Egf4L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Pristino-Pure-Self-Activating-Cleaning-Strawberry/dp/B0FCMCF743/ref=zg_bs_g_1374558031_d_sccl_17/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.355514",
+      "page_number": 2,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 18,
+      "asin": "B013QLBAPI",
+      "title": "3M Professional P6 Toilet Bowl Cleaner, Cleaning High Viscosity for Toilet Bowl, All Ceramic Surface, Clean & Sanitize with Refreshing Fragrance (5L, Pack of 1)",
+      "brand": "3M",
+      "price": 1212.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 436,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81jHBMImwUL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/3M-Professional-Toilet-Bowl-Cleaner/dp/B013QLBAPI/ref=zg_bs_g_1374558031_d_sccl_18/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.356494",
+      "page_number": 2,
+      "title_word_count": 25,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 19,
+      "asin": "B0DC6YZKBJ",
+      "title": "Koparo Toilet Cleaner | 5 Litre | Lime & Lemongrass Fragrance | Removes Limescale | Plant Powered & Non-Toxic",
+      "brand": "Koparo",
+      "price": 599.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 94,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/615MKMkERBL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Koparo-Lemongrass-Fragrance-Limescale-Non-Toxic/dp/B0DC6YZKBJ/ref=zg_bs_g_1374558031_d_sccl_19/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.357452",
+      "page_number": 2,
+      "title_word_count": 19,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "low"
+    },
+    {
+      "rank": 20,
+      "asin": "B0FNVXLRRV",
+      "title": "Krivyah ENTERPRISE\u00ae (1 pcs) Toilet Cleaner Spray Multi-Purpose Toilet Cleaner Fast-Acting Foaming Spray For Deep Cleaning Powerful Foam Formula For Toilet Bowls Bathroom Surfaces More (Pack Of 1)",
+      "brand": "Krivyah",
+      "price": 269.0,
+      "currency": "INR",
+      "rating": 2.6,
+      "review_count": 31,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61BajE+cHaL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Krivyah-ENTERPRISE-Cleaner-Spray-Multi-Purpose/dp/B0FNVXLRRV/ref=zg_bs_g_1374558031_d_sccl_20/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.358433",
+      "page_number": 2,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 21,
+      "asin": "B0G9HQNYY1",
+      "title": "Parth Enterprice Oxygen-Boosted Toilet Cleaning Powder | Active Oxygen Deep Stain & Limescale Remover | Eliminates Odour & Yellow Stains | Non-Acidic, Safe for Ceramic Toilet Bowls",
+      "brand": "Parth",
+      "price": 156.0,
+      "currency": "INR",
+      "rating": 2.3,
+      "review_count": 19,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61gWtnctnVL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Enterprice-Oxygen-Boosted-Toilet-Cleaning-Powder/dp/B0G9HQNYY1/ref=zg_bs_g_1374558031_d_sccl_21/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.359420",
+      "page_number": 2,
+      "title_word_count": 27,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 22,
+      "asin": "B0CG291N3V",
+      "title": "Harpic Power Plus Sparkling Lemon Toilet Cleaner - 500 ml",
+      "brand": "Harpic",
+      "price": 106.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 779,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51fPYP5KebL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Power-Sparkling-Toilet-Cleaner/dp/B0CG291N3V/ref=zg_bs_g_1374558031_d_sccl_22/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.360415",
+      "page_number": 2,
+      "title_word_count": 10,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 23,
+      "asin": "B0FQ64XS7R",
+      "title": "Khedu Fab\u00ae Toilet Cleaning Gel Flower Stamp Bathroom Cleaner \u2013 Toilet Fresheners Air Fresher For Remove Bad Odor \u2013 Long-Lasting Refills Gel Stamp Injection \u2013 [Pack of 1] (Multicolor)",
+      "brand": "Khedu",
+      "price": 82.77,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 52,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61xwcl67jqL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Toilet-Cleaning-Flower-Bathroom-Cleaner/dp/B0FQ64XS7R/ref=zg_bs_g_1374558031_d_sccl_23/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.361721",
+      "page_number": 2,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 24,
+      "asin": "B0GDG67QCK",
+      "title": "Automatic, Automatic toilet bowl cleaner- Two-color Toilet cleaning tablet Pink | Blue, flush tank cleaner tablet | Blue Deep Clean Bubbles And pink Rose fragrance, toilet cleaner tablet (PACK OF 10)",
+      "brand": "Automatic,",
+      "price": 259.0,
+      "currency": "INR",
+      "rating": null,
+      "review_count": null,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71AJYo9sSIL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Automatic-cleaner-Two-color-cleaning-fragrance/dp/B0GDG67QCK/ref=zg_bs_g_1374558031_d_sccl_24/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.363266",
+      "page_number": 2,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": ""
+    },
+    {
+      "rank": 25,
+      "asin": "B0FJ2B5L91",
+      "title": "Born Good Industrial Grade Plant Based Toilet Cleaner, Biodegradable, Arctic Air Fragrance, Non-Toxic And Eco-Friendly - 500 ml (Pack of 1)",
+      "brand": "Born",
+      "price": 149.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 24,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61eV1BJklwL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Born-Good-Industrial-Biodegradable-Eco-Friendly/dp/B0FJ2B5L91/ref=zg_bs_g_1374558031_d_sccl_25/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.364313",
+      "page_number": 2,
+      "title_word_count": 21,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 26,
+      "asin": "B0CV3K6ZZ8",
+      "title": "Harpic Power+ Original Disinfectant Toilet Cleaner - 600ml, Pack of 3",
+      "brand": "Harpic",
+      "price": 500.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 194,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71su3vX4ddL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Original-Disinfectant-Toilet-Cleaner/dp/B0CV3K6ZZ8/ref=zg_bs_g_1374558031_d_sccl_26/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.365269",
+      "page_number": 2,
+      "title_word_count": 11,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 27,
+      "asin": "B0CCYKBBS7",
+      "title": "Urinal Screen Mats With Fragrance(Pack Of 10 Pcs, Mix Flavour Box)",
+      "brand": "Urinal",
+      "price": 263.0,
+      "currency": "INR",
+      "rating": 3.6,
+      "review_count": 59,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/715VLS4vBVL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Urinal-Screen-Mats-Fragrance-Flavour/dp/B0CCYKBBS7/ref=zg_bs_g_1374558031_d_sccl_27/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.366245",
+      "page_number": 2,
+      "title_word_count": 11,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 28,
+      "asin": "B0GK976R6T",
+      "title": "BEYOND BLUE Powerful Liquid Toilet Cleaner, Germ - free & hygienically fresh, Removes Stains & Limescale, Safe for Daily Use - 750ml",
+      "brand": "BEYOND",
+      "price": 230.0,
+      "currency": "INR",
+      "rating": 5.0,
+      "review_count": 1,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/21dkMKVmP3L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/BEYOND-Powerful-Liquid-Toilet-Cleaner/dp/B0GK976R6T/ref=zg_bs_g_1374558031_d_sccl_28/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.367216",
+      "page_number": 2,
+      "title_word_count": 22,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "new"
+    },
+    {
+      "rank": 29,
+      "asin": "B0GRMQK4NS",
+      "title": "LemonBlast Toilet Cleaning Tablets \u2013 Effervescent Toilet Bowl Cleaner with Fresh Lemon Scent | Removes Stains, Odors & Limescale | Fast Dissolving Toilet Cleaner Tabs | 24 Tablets",
+      "brand": "LemonBlast",
+      "price": 199.0,
+      "currency": "INR",
+      "rating": null,
+      "review_count": null,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51hmq1TfwAL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/LemonBlast-Toilet-Cleaning-Tablets-Effervescent/dp/B0GRMQK4NS/ref=zg_bs_g_1374558031_d_sccl_29/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.368443",
+      "page_number": 2,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": ""
+    },
+    {
+      "rank": 30,
+      "asin": "B07RF7Z6V7",
+      "title": "Harpic Organic Active Disinfectant Toilet Cleaner Liquid, Citrus - 500 ml | India's # 1 Toilet Cleaner",
+      "brand": "1 offer from\u20b9229.00",
+      "price": 229.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 598,
+      "category": "Toilet Cleaners",
+      "subcategory": "Toilet Cleaners",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61jZDnW83OL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harpic-Organic-Active-disinfectant-cleaner/dp/B07RF7Z6V7/ref=zg_bs_g_1374558031_d_sccl_30/522-1753216-2643005?psc=1",
+      "scraped_at": "2026-03-23T09:57:19.369481",
+      "page_number": 2,
+      "title_word_count": 17,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "toilet",
+      "frequency": 79,
+      "avg_rank": 16.8,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 5010.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaner",
+      "frequency": 68,
+      "avg_rank": 16.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 5701.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "toilet cleaner",
+      "frequency": 47,
+      "avg_rank": 15.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 8132.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "liquid",
+      "frequency": 27,
+      "avg_rank": 14.1,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.28,
+      "avg_reviews": 8381.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "disinfectant",
+      "frequency": 22,
+      "avg_rank": 13.2,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 10899.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "disinfectant toilet",
+      "frequency": 21,
+      "avg_rank": 13.3,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.32,
+      "avg_reviews": 11369.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pack of",
+      "frequency": 21,
+      "avg_rank": 14.4,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.87,
+      "avg_reviews": 3560.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaning",
+      "frequency": 20,
+      "avg_rank": 18.6,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 2.97,
+      "avg_reviews": 114.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaner liquid",
+      "frequency": 18,
+      "avg_rank": 15.2,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.34,
+      "avg_reviews": 11050.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fresh",
+      "frequency": 18,
+      "avg_rank": 13.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.86,
+      "avg_reviews": 2763.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "harpic",
+      "frequency": 17,
+      "avg_rank": 16.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.34,
+      "avg_reviews": 12045.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bowl",
+      "frequency": 13,
+      "avg_rank": 18.3,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.94,
+      "avg_reviews": 311.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "toilet bowl",
+      "frequency": 13,
+      "avg_rank": 18.3,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.94,
+      "avg_reviews": 311.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "original",
+      "frequency": 10,
+      "avg_rank": 12.8,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 19103.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "removes",
+      "frequency": 10,
+      "avg_rank": 13.9,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 2303.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stains",
+      "frequency": 10,
+      "avg_rank": 14.4,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.79,
+      "avg_reviews": 2221.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "freshness",
+      "frequency": 9,
+      "avg_rank": 10.8,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.16,
+      "avg_reviews": 4470.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fragrance",
+      "frequency": 9,
+      "avg_rank": 18.3,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 245.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "powerful",
+      "frequency": 9,
+      "avg_rank": 18.8,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.44,
+      "avg_reviews": 122.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bowl cleaner",
+      "frequency": 9,
+      "avg_rank": 19.8,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.09,
+      "avg_reviews": 388.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tablets",
+      "frequency": 9,
+      "avg_rank": 20.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 2.57,
+      "avg_reviews": 27.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "germs",
+      "frequency": 8,
+      "avg_rank": 10.6,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.06,
+      "avg_reviews": 10252.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "clean",
+      "frequency": 8,
+      "avg_rank": 13.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.03,
+      "avg_reviews": 1366.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bathroom",
+      "frequency": 8,
+      "avg_rank": 16.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 230.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "formula",
+      "frequency": 8,
+      "avg_rank": 12.6,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.51,
+      "avg_reviews": 820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "limescale",
+      "frequency": 8,
+      "avg_rank": 21.1,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 284.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stain",
+      "frequency": 8,
+      "avg_rank": 17.2,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.48,
+      "avg_reviews": 580.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "deep",
+      "frequency": 8,
+      "avg_rank": 15.8,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 2.24,
+      "avg_reviews": 261.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "india's",
+      "frequency": 7,
+      "avg_rank": 17.1,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.33,
+      "avg_reviews": 16849.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "india's toilet",
+      "frequency": 7,
+      "avg_rank": 17.1,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.33,
+      "avg_reviews": 16849.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "use",
+      "frequency": 7,
+      "avg_rank": 18.1,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 553.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "power",
+      "frequency": 7,
+      "avg_rank": 19.4,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 352.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "foam",
+      "frequency": 7,
+      "avg_rank": 14.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.34,
+      "avg_reviews": 76.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "foaming",
+      "frequency": 7,
+      "avg_rank": 12.9,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 1.93,
+      "avg_reviews": 38.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "toilet cleaning",
+      "frequency": 7,
+      "avg_rank": 23.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 2.56,
+      "avg_reviews": 59.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "litre",
+      "frequency": 6,
+      "avg_rank": 16.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.28,
+      "avg_reviews": 3746.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tough",
+      "frequency": 6,
+      "avg_rank": 8.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.7,
+      "avg_reviews": 3182.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "harpic disinfectant",
+      "frequency": 6,
+      "avg_rank": 12.2,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 28805.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "flushes",
+      "frequency": 6,
+      "avg_rank": 16.7,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 3089.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bowls",
+      "frequency": 6,
+      "avg_rank": 16.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.73,
+      "avg_reviews": 1375.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for toilet",
+      "frequency": 6,
+      "avg_rank": 16.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.02,
+      "avg_reviews": 1444.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "toilet bowls",
+      "frequency": 6,
+      "avg_rank": 16.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.73,
+      "avg_reviews": 1375.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tank",
+      "frequency": 6,
+      "avg_rank": 17.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.44,
+      "avg_reviews": 21.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "powder",
+      "frequency": 6,
+      "avg_rank": 13.7,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.12,
+      "avg_reviews": 34.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "kills",
+      "frequency": 5,
+      "avg_rank": 4.8,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.08,
+      "avg_reviews": 15982.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "kills germs",
+      "frequency": 5,
+      "avg_rank": 4.8,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.08,
+      "avg_reviews": 15982.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "liquid original",
+      "frequency": 5,
+      "avg_rank": 11.8,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.42,
+      "avg_reviews": 34552.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bleach",
+      "frequency": 5,
+      "avg_rank": 12.6,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.42,
+      "avg_reviews": 4900.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "domex",
+      "frequency": 5,
+      "avg_rank": 13.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.24,
+      "avg_reviews": 3483.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "remover",
+      "frequency": 5,
+      "avg_rank": 17.4,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.68,
+      "avg_reviews": 580.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "safe",
+      "frequency": 5,
+      "avg_rank": 23.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 255.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaning powder",
+      "frequency": 5,
+      "avg_rank": 13.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 2.86,
+      "avg_reviews": 35.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "advanced",
+      "frequency": 5,
+      "avg_rank": 9.4,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 1922.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "automatic",
+      "frequency": 5,
+      "avg_rank": 21.2,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.33,
+      "avg_reviews": 132.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "provides",
+      "frequency": 4,
+      "avg_rank": 8.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5704.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "long",
+      "frequency": 4,
+      "avg_rank": 8.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5704.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "lasting",
+      "frequency": 4,
+      "avg_rank": 8.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5704.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "removes tough",
+      "frequency": 4,
+      "avg_rank": 8.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.6,
+      "avg_reviews": 4366.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tough stains",
+      "frequency": 4,
+      "avg_rank": 8.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.6,
+      "avg_reviews": 4366.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "provides long",
+      "frequency": 4,
+      "avg_rank": 8.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5704.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "long lasting",
+      "frequency": 4,
+      "avg_rank": 8.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5704.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "lasting freshness",
+      "frequency": 4,
+      "avg_rank": 8.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5704.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "guard",
+      "frequency": 4,
+      "avg_rank": 11.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 4320.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "domex fresh",
+      "frequency": 4,
+      "avg_rank": 11.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 4320.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fresh guard",
+      "frequency": 4,
+      "avg_rank": 11.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 4320.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "guard disinfectant",
+      "frequency": 4,
+      "avg_rank": 11.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 4320.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "freshness for",
+      "frequency": 4,
+      "avg_rank": 11.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 4320.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for flushes",
+      "frequency": 4,
+      "avg_rank": 11.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 4320.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sparkling",
+      "frequency": 4,
+      "avg_rank": 13.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 3163.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "safe for",
+      "frequency": 4,
+      "avg_rank": 22.8,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 315.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "lemon",
+      "frequency": 4,
+      "avg_rank": 22.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 672.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "suitable",
+      "frequency": 4,
+      "avg_rank": 14.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.38,
+      "avg_reviews": 2050.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "suitable for",
+      "frequency": 4,
+      "avg_rank": 14.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.38,
+      "avg_reviews": 2050.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "biodegradable",
+      "frequency": 4,
+      "avg_rank": 23.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 356.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "action",
+      "frequency": 4,
+      "avg_rank": 9.2,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.15,
+      "avg_reviews": 504.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "septic",
+      "frequency": 4,
+      "avg_rank": 18.8,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 26.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "citrus",
+      "frequency": 4,
+      "avg_rank": 26.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.32,
+      "avg_reviews": 949.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ml india's",
+      "frequency": 4,
+      "avg_rank": 20.8,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 3753.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "spray",
+      "frequency": 4,
+      "avg_rank": 20.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.2,
+      "avg_reviews": 82.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "long-lasting",
+      "frequency": 4,
+      "avg_rank": 20.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 57.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "flush",
+      "frequency": 4,
+      "avg_rank": 20.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.33,
+      "avg_reviews": 79.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "air",
+      "frequency": 4,
+      "avg_rank": 19.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 163.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "odor",
+      "frequency": 4,
+      "avg_rank": 16.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 1.88,
+      "avg_reviews": 40.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaning tablets",
+      "frequency": 4,
+      "avg_rank": 22.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 1.1,
+      "avg_reviews": 34.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "foam cleaner",
+      "frequency": 4,
+      "avg_rank": 9.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.3,
+      "avg_reviews": 58.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "shine",
+      "frequency": 3,
+      "avg_rank": 6.3,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 7648.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "lime",
+      "frequency": 3,
+      "avg_rank": 9.3,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 1470.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fresh freshness",
+      "frequency": 3,
+      "avg_rank": 9.3,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 5165.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "rose",
+      "frequency": 3,
+      "avg_rank": 19.3,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 647.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "daily",
+      "frequency": 3,
+      "avg_rank": 23.3,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 413.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for daily",
+      "frequency": 3,
+      "avg_rank": 23.3,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 413.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "daily use",
+      "frequency": 3,
+      "avg_rank": 23.3,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 413.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "refreshingly",
+      "frequency": 3,
+      "avg_rank": 18.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 1361.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fragrant",
+      "frequency": 3,
+      "avg_rank": 18.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 1361.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "harpic litre",
+      "frequency": 3,
+      "avg_rank": 18.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 1361.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "liquid suitable",
+      "frequency": 3,
+      "avg_rank": 18.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 1361.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bowls refreshingly",
+      "frequency": 3,
+      "avg_rank": 18.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 1361.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "refreshingly fragrant",
+      "frequency": 3,
+      "avg_rank": 18.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 1361.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "organic",
+      "frequency": 3,
+      "avg_rank": 23.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 583.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "natural",
+      "frequency": 3,
+      "avg_rank": 20.3,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 701.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "toxic",
+      "frequency": 3,
+      "avg_rank": 17.7,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 696.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "plant",
+      "frequency": 3,
+      "avg_rank": 19.3,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 352.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fumes",
+      "frequency": 3,
+      "avg_rank": 23.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 467.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "home",
+      "frequency": 3,
+      "avg_rank": 11.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.83,
+      "avg_reviews": 871.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "commercial",
+      "frequency": 3,
+      "avg_rank": 11.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.83,
+      "avg_reviews": 871.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "home and",
+      "frequency": 3,
+      "avg_rank": 11.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.83,
+      "avg_reviews": 871.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "and commercial",
+      "frequency": 3,
+      "avg_rank": 11.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.83,
+      "avg_reviews": 871.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "commercial use",
+      "frequency": 3,
+      "avg_rank": 11.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.83,
+      "avg_reviews": 871.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ml pack",
+      "frequency": 3,
+      "avg_rank": 22.3,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 486.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "septic tank",
+      "frequency": 3,
+      "avg_rank": 17.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 30.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "instant",
+      "frequency": 3,
+      "avg_rank": 15.3,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.93,
+      "avg_reviews": 1461.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "removal",
+      "frequency": 3,
+      "avg_rank": 18.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.07,
+      "avg_reviews": 53.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "thick",
+      "frequency": 3,
+      "avg_rank": 16.7,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 323.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "easy",
+      "frequency": 3,
+      "avg_rank": 14.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.67,
+      "avg_reviews": 44.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "automatic toilet",
+      "frequency": 3,
+      "avg_rank": 25.3,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 214.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tank cleaner",
+      "frequency": 3,
+      "avg_rank": 18.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 12.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "non-toxic",
+      "frequency": 3,
+      "avg_rank": 23.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 111.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stains limescale",
+      "frequency": 3,
+      "avg_rank": 22.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.6,
+      "avg_reviews": 72.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bubble",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 1.1,
+      "avg_reviews": 35.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pipe",
+      "frequency": 3,
+      "avg_rank": 9.3,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.27,
+      "avg_reviews": 55.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "clean foaming",
+      "frequency": 3,
+      "avg_rank": 8.3,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 2.63,
+      "avg_reviews": 58.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "harpic power",
+      "frequency": 3,
+      "avg_rank": 18.7,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 630.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "oxygen",
+      "frequency": 3,
+      "avg_rank": 13.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 1.43,
+      "avg_reviews": 14.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "active",
+      "frequency": 3,
+      "avg_rank": 20.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 2.47,
+      "avg_reviews": 209.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tablet",
+      "frequency": 3,
+      "avg_rank": 24.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 0,
+      "avg_reviews": 0.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "presto",
+      "frequency": 2,
+      "avg_rank": 2.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 11557.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "original pack",
+      "frequency": 2,
+      "avg_rank": 3.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 35678.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "original india's",
+      "frequency": 2,
+      "avg_rank": 16.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 44796.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "white and",
+      "frequency": 2,
+      "avg_rank": 7.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 11272.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "and shine",
+      "frequency": 2,
+      "avg_rank": 7.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 11272.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "shine disinfectant",
+      "frequency": 2,
+      "avg_rank": 7.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 11272.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "liquid ml",
+      "frequency": 2,
+      "avg_rank": 18.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 9944.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sani",
+      "frequency": 2,
+      "avg_rank": 6.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 7123.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "extra",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 10132.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sani fresh",
+      "frequency": 2,
+      "avg_rank": 6.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 7123.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "liquid sparkling",
+      "frequency": 2,
+      "avg_rank": 13.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 5736.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sparkling fresh",
+      "frequency": 2,
+      "avg_rank": 13.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 5736.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "kleenest",
+      "frequency": 2,
+      "avg_rank": 17.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 971.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "combo",
+      "frequency": 2,
+      "avg_rank": 7.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 840.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "plant-based",
+      "frequency": 2,
+      "avg_rank": 18.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 602.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "each",
+      "frequency": 2,
+      "avg_rank": 7.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 840.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bathroom toilet",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 504.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaning liquid",
+      "frequency": 2,
+      "avg_rank": 12.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 494.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "rose fragrance",
+      "frequency": 2,
+      "avg_rank": 18.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 494.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stain remover",
+      "frequency": 2,
+      "avg_rank": 21.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 620.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "based",
+      "frequency": 2,
+      "avg_rank": 19.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 480.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "eliminates",
+      "frequency": 2,
+      "avg_rank": 17.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.1,
+      "avg_reviews": 478.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bacteria",
+      "frequency": 2,
+      "avg_rank": 15.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 484.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "plant based",
+      "frequency": 2,
+      "avg_rank": 19.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 480.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "no toxic",
+      "frequency": 2,
+      "avg_rank": 19.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 576.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "toxic fumes",
+      "frequency": 2,
+      "avg_rank": 19.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 576.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "shimmer",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 341.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mega",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 341.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "jar",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 341.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "all",
+      "frequency": 2,
+      "avg_rank": 16.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 559.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "shimmer toilet",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 341.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mega jar",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 341.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "original liquid",
+      "frequency": 2,
+      "avg_rank": 13.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 355.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "liquid cleaner",
+      "frequency": 2,
+      "avg_rank": 13.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 355.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaner powerful",
+      "frequency": 2,
+      "avg_rank": 10.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 351.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "vooki",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.75,
+      "avg_reviews": 966.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "heavy",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.75,
+      "avg_reviews": 966.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "duty",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.75,
+      "avg_reviews": 966.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fumeless",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.75,
+      "avg_reviews": 966.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "vooki heavy",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.75,
+      "avg_reviews": 966.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "heavy duty",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.75,
+      "avg_reviews": 966.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "duty toilet",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.75,
+      "avg_reviews": 966.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaner fumeless",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.75,
+      "avg_reviews": 966.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fumeless deep",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.75,
+      "avg_reviews": 966.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "deep action",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.75,
+      "avg_reviews": 966.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "action liquid",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.75,
+      "avg_reviews": 966.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "use ml",
+      "frequency": 2,
+      "avg_rank": 22.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 621.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "powder powerful",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 2.7,
+      "avg_reviews": 20.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "germ",
+      "frequency": 2,
+      "avg_rank": 23.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.6,
+      "avg_reviews": 1267.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaner citrus",
+      "frequency": 2,
+      "avg_rank": 23.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 1580.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "citrus ml",
+      "frequency": 2,
+      "avg_rank": 24.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 1566.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "scent",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.8,
+      "avg_reviews": 67.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "power foam",
+      "frequency": 2,
+      "avg_rank": 21.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.8,
+      "avg_reviews": 134.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bathroom cleaning",
+      "frequency": 2,
+      "avg_rank": 17.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.8,
+      "avg_reviews": 67.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stain removal",
+      "frequency": 2,
+      "avg_rank": 22.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 74.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "advanced toilet",
+      "frequency": 2,
+      "avg_rank": 17.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 490.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "limescale remover",
+      "frequency": 2,
+      "avg_rank": 21.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.15,
+      "avg_reviews": 486.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "germs provides",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 2534.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "jasmine",
+      "frequency": 2,
+      "avg_rank": 18.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 219.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "freshener",
+      "frequency": 2,
+      "avg_rank": 13.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 189.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "flush toilet",
+      "frequency": 2,
+      "avg_rank": 15.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 18.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cleaner tablets",
+      "frequency": 2,
+      "avg_rank": 15.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 18.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "toilet tank",
+      "frequency": 2,
+      "avg_rank": 15.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 18.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "born",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 119.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "good",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 119.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "arctic",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 119.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "eco-friendly",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 119.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "born good",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 119.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "arctic air",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 119.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "air fragrance",
+      "frequency": 2,
+      "avg_rank": 25.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 119.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "yellow stains",
+      "frequency": 2,
+      "avg_rank": 23.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 3.25,
+      "avg_reviews": 116.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "magic",
+      "frequency": 2,
+      "avg_rank": 17.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 1.15,
+      "avg_reviews": 48.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dual-action",
+      "frequency": 2,
+      "avg_rank": 17.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 1.15,
+      "avg_reviews": 48.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "drain",
+      "frequency": 2,
+      "avg_rank": 17.0,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 1.15,
+      "avg_reviews": 48.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "descaler",
+      "frequency": 2,
+      "avg_rank": 14.5,
+      "categories": [
+        "Toilet Cleaners"
+      ],
+      "avg_rating": 2.4,
+      "avg_reviews": 364.0,
+      "category_count": 1
+    }
+  ],
+  "category_tree": [
+    {
+      "name": "Hot New Releasesin Toilet Cleaners",
+      "url": "https://www.amazon.in/gp/new-releases/hpc/1374558031/ref=zg_bs_tab_t_hpc_bsnr",
+      "is_selected": false
+    }
+  ],
+  "metadata": {
+    "category": "toilet_cleaners",
+    "pages_scraped": 2,
+    "total_products": 60,
+    "total_keywords": 901,
+    "scraped_at": "2026-03-23T09:57:23.854893"
+  }
+}

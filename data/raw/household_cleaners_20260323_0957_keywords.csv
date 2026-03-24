@@ -1,0 +1,201 @@
+keyword,frequency,avg_rank,categories,avg_rating,avg_reviews,category_count
+cleaner,77,15.9,['Household Cleaners'],4.22,10624.0,1
+floor,24,14.6,['Household Cleaners'],4.3,16757.0,1
+liquid,23,16.6,['Household Cleaners'],4.36,17909.0,1
+bathroom,20,13.8,['Household Cleaners'],4.12,10844.0,1
+surface,19,16.9,['Household Cleaners'],4.25,19348.0,1
+cleaner liquid,18,16.9,['Household Cleaners'],4.34,15172.0,1
+floor cleaner,17,16.1,['Household Cleaners'],4.32,11151.0,1
+cleaning,17,17.9,['Household Cleaners'],4.14,12150.0,1
+disinfectant,15,14.9,['Household Cleaners'],4.37,31259.0,1
+toilet,15,17.0,['Household Cleaners'],4.28,16770.0,1
+suitable,14,15.1,['Household Cleaners'],4.21,7219.0,1
+suitable for,14,15.1,['Household Cleaners'],4.21,7219.0,1
+pack of,12,15.4,['Household Cleaners'],4.07,12174.0,1
+toilet cleaner,12,15.2,['Household Cleaners'],4.29,19436.0,1
+litre,11,15.6,['Household Cleaners'],4.25,13891.0,1
+stains,11,16.5,['Household Cleaners'],4.19,12112.0,1
+removes,10,13.6,['Household Cleaners'],4.17,11883.0,1
+tough,10,13.6,['Household Cleaners'],4.09,6952.0,1
+kitchen,10,16.6,['Household Cleaners'],4.1,4052.0,1
+harpic,10,15.5,['Household Cleaners'],4.37,21145.0,1
+fresh,10,18.1,['Household Cleaners'],4.32,18873.0,1
+spray,10,19.8,['Household Cleaners'],3.86,3675.0,1
+tiles,9,14.4,['Household Cleaners'],4.01,3141.0,1
+limescale,8,16.4,['Household Cleaners'],4.17,6653.0,1
+washing,8,15.8,['Household Cleaners'],4.17,3842.0,1
+presto,8,11.2,['Household Cleaners'],4.15,14312.0,1
+germs,8,12.4,['Household Cleaners'],4.27,23032.0,1
+surface cleaner,8,17.5,['Household Cleaners'],4.3,13856.0,1
+remover,7,16.3,['Household Cleaners'],4.19,3268.0,1
+machine,7,13.9,['Household Cleaners'],4.16,3178.0,1
+load,7,14.3,['Household Cleaners'],4.1,4386.0,1
+washing machine,7,13.9,['Household Cleaners'],4.16,3178.0,1
+amazon,7,10.9,['Household Cleaners'],4.14,15533.0,1
+brand,7,10.9,['Household Cleaners'],4.14,15533.0,1
+amazon brand,7,10.9,['Household Cleaners'],4.14,15533.0,1
+brand presto,7,10.9,['Household Cleaners'],4.14,15533.0,1
+powder,7,17.0,['Household Cleaners'],4.24,2809.0,1
+bathroom cleaner,7,12.6,['Household Cleaners'],4.34,13343.0,1
+stain,7,19.4,['Household Cleaners'],3.89,1423.0,1
+all,6,14.0,['Household Cleaners'],4.23,14190.0,1
+kills,6,11.5,['Household Cleaners'],4.3,27533.0,1
+surfaces,6,16.7,['Household Cleaners'],3.98,10749.0,1
+disinfectant surface,6,17.0,['Household Cleaners'],4.33,28146.0,1
+kills germs,6,11.5,['Household Cleaners'],4.3,27533.0,1
+clean,6,10.8,['Household Cleaners'],4.23,10725.0,1
+kitchen cleaner,6,13.0,['Household Cleaners'],4.12,3798.0,1
+disinfectant toilet,6,15.3,['Household Cleaners'],4.35,22780.0,1
+happi,5,10.2,['Household Cleaners'],3.98,6302.0,1
+planet,5,10.2,['Household Cleaners'],3.98,6302.0,1
+tap,5,11.8,['Household Cleaners'],4.16,10072.0,1
+happi planet,5,10.2,['Household Cleaners'],3.98,6302.0,1
+citrus,5,14.2,['Household Cleaners'],4.38,25569.0,1
+surface floor,5,16.8,['Household Cleaners'],4.32,20870.0,1
+tile,5,20.0,['Household Cleaners'],3.84,9918.0,1
+floors,5,11.8,['Household Cleaners'],3.86,8535.0,1
+power,5,14.2,['Household Cleaners'],4.22,6730.0,1
+lemon,5,15.2,['Household Cleaners'],4.4,11056.0,1
+bottle,5,18.8,['Household Cleaners'],3.92,4674.0,1
+glass,5,21.8,['Household Cleaners'],4.38,6990.0,1
+hard,5,21.6,['Household Cleaners'],3.92,3304.0,1
+shower,4,12.8,['Household Cleaners'],4.25,8495.0,1
+descaler,4,8.2,['Household Cleaners'],4.28,5089.0,1
+top,4,14.2,['Household Cleaners'],4.12,3930.0,1
+front,4,14.2,['Household Cleaners'],4.12,3930.0,1
+machine cleaner,4,14.2,['Household Cleaners'],4.12,3930.0,1
+removes tough,4,10.5,['Household Cleaners'],4.15,5189.0,1
+top load,4,14.2,['Household Cleaners'],4.12,3930.0,1
+bathroom floors,4,13.0,['Household Cleaners'],3.75,10658.0,1
+tough stains,4,14.8,['Household Cleaners'],4.12,14974.0,1
+natural,4,15.5,['Household Cleaners'],4.17,4051.0,1
+freshness,4,19.0,['Household Cleaners'],4.28,8154.0,1
+safe,4,18.2,['Household Cleaners'],4.28,13752.0,1
+surface cleaning,4,18.8,['Household Cleaners'],3.98,37200.0,1
+india's,4,19.2,['Household Cleaners'],4.45,26428.0,1
+lizol,4,21.0,['Household Cleaners'],4.42,23086.0,1
+friendly,4,17.5,['Household Cleaners'],4.35,9541.0,1
+anti,4,10.5,['Household Cleaners'],4.38,9020.0,1
+refill,4,19.2,['Household Cleaners'],4.42,7191.0,1
+multipurpose,4,21.5,['Household Cleaners'],3.95,8600.0,1
+zero,4,23.8,['Household Cleaners'],4.12,2298.0,1
+powder for,4,20.5,['Household Cleaners'],4.32,2796.0,1
+sink,4,16.5,['Household Cleaners'],3.75,1932.0,1
+removal,4,19.8,['Household Cleaners'],3.67,1926.0,1
+stain removal,4,19.8,['Household Cleaners'],3.67,1926.0,1
+ml pack,4,20.0,['Household Cleaners'],3.78,3547.0,1
+shine,4,18.5,['Household Cleaners'],4.3,5120.0,1
+india,3,7.0,['Household Cleaners'],4.0,8683.0,1
+foaming,3,7.0,['Household Cleaners'],4.0,8683.0,1
+scrubbing,3,7.0,['Household Cleaners'],4.0,8683.0,1
+purpose,3,8.3,['Household Cleaners'],4.1,22993.0,1
+limescale remover,3,10.3,['Household Cleaners'],4.27,6096.0,1
+india st,3,7.0,['Household Cleaners'],4.0,8683.0,1
+st foaming,3,7.0,['Household Cleaners'],4.0,8683.0,1
+all purpose,3,8.3,['Household Cleaners'],4.1,22993.0,1
+for bathroom,3,12.7,['Household Cleaners'],4.0,6643.0,1
+front load,3,14.3,['Household Cleaners'],4.07,4993.0,1
+presto disinfectant,3,5.7,['Household Cleaners'],4.2,30585.0,1
+grease,3,15.3,['Household Cleaners'],4.03,15431.0,1
+appliances,3,8.7,['Household Cleaners'],4.2,7268.0,1
+original,3,7.7,['Household Cleaners'],4.33,40973.0,1
+germs removes,3,12.3,['Household Cleaners'],4.23,18767.0,1
+harpic disinfectant,3,12.3,['Household Cleaners'],4.4,46018.0,1
+beco,3,19.3,['Household Cleaners'],4.2,1421.0,1
+instantly,3,17.3,['Household Cleaners'],4.37,5321.0,1
+maximum,3,14.3,['Household Cleaners'],4.4,713.0,1
+cleaner ml,3,14.0,['Household Cleaners'],4.2,6140.0,1
+ml instantly,3,17.3,['Household Cleaners'],4.37,5321.0,1
+instantly removes,3,17.3,['Household Cleaners'],4.37,5321.0,1
+descaling,3,18.3,['Household Cleaners'],4.2,4758.0,1
+descaling powder,3,18.3,['Household Cleaners'],4.2,4758.0,1
+load washing,3,18.3,['Household Cleaners'],4.2,4758.0,1
+stove,3,19.0,['Household Cleaners'],4.07,3113.0,1
+chimney,3,19.0,['Household Cleaners'],4.07,3113.0,1
+mirrors,3,15.7,['Household Cleaners'],4.37,1146.0,1
+phenyl,3,23.3,['Household Cleaners'],4.17,3598.0,1
+lizol disinfectant,3,20.3,['Household Cleaners'],4.47,30356.0,1
+nimyle,3,9.7,['Household Cleaners'],4.37,7711.0,1
+bacterial,3,9.7,['Household Cleaners'],4.37,7711.0,1
+protection,3,18.0,['Household Cleaners'],4.47,13731.0,1
+friendly floor,3,19.0,['Household Cleaners'],4.33,8407.0,1
+anti bacterial,3,9.7,['Household Cleaners'],4.37,7711.0,1
+liquid refill,3,17.3,['Household Cleaners'],4.4,5745.0,1
+refill pack,3,17.3,['Household Cleaners'],4.4,5745.0,1
+mops,3,15.3,['Household Cleaners'],4.43,5622.0,1
+for all,3,19.7,['Household Cleaners'],4.37,5388.0,1
+harpic bathroom,3,12.0,['Household Cleaners'],4.37,7021.0,1
+home,3,24.3,['Household Cleaners'],4.27,9255.0,1
+cleaner for,3,24.3,['Household Cleaners'],4.27,9255.0,1
+spray for,3,21.7,['Household Cleaners'],3.6,784.0,1
+cleaning liquid,3,17.7,['Household Cleaners'],4.33,1942.0,1
+stain remover,3,19.0,['Household Cleaners'],4.17,753.0,1
+taps,3,17.3,['Household Cleaners'],4.3,2057.0,1
+tiles sink,3,18.3,['Household Cleaners'],3.63,1680.0,1
+water,3,23.0,['Household Cleaners'],4.27,5501.0,1
+hard water,3,23.0,['Household Cleaners'],4.27,5501.0,1
+use,3,25.3,['Household Cleaners'],4.1,5407.0,1
+formulation,2,3.0,['Household Cleaners'],3.95,12032.0,1
+reduced,2,8.0,['Household Cleaners'],4.0,8508.0,1
+non-toxic,2,14.5,['Household Cleaners'],3.95,9521.0,1
+tap cleaner,2,8.0,['Household Cleaners'],4.35,8151.0,1
+cleaner limescale,2,8.0,['Household Cleaners'],4.35,8151.0,1
+foaming formulation,2,3.0,['Household Cleaners'],3.95,12032.0,1
+formulation for,2,3.0,['Household Cleaners'],3.95,12032.0,1
+for reduced,2,8.0,['Household Cleaners'],4.0,8508.0,1
+reduced scrubbing,2,8.0,['Household Cleaners'],4.0,8508.0,1
+purpose cleaner,2,10.5,['Household Cleaners'],4.15,15020.0,1
+tap shower,2,13.5,['Household Cleaners'],4.0,14518.0,1
+tablets,2,2.0,['Household Cleaners'],3.9,1447.0,1
+grime,2,14.0,['Household Cleaners'],3.95,1890.0,1
+soap,2,14.0,['Household Cleaners'],4.0,7726.0,1
+scum,2,14.0,['Household Cleaners'],4.0,7726.0,1
+protects,2,7.5,['Household Cleaners'],4.15,7196.0,1
+residue,2,6.5,['Household Cleaners'],4.05,1066.0,1
+soap scum,2,14.0,['Household Cleaners'],4.0,7726.0,1
+for top,2,7.0,['Household Cleaners'],3.95,3246.0,1
+ceramic,2,13.5,['Household Cleaners'],4.0,19697.0,1
+cleaner citrus,2,10.5,['Household Cleaners'],4.3,50628.0,1
+citrus litre,2,12.5,['Household Cleaners'],4.35,25439.0,1
+for floor,2,6.0,['Household Cleaners'],4.35,83072.0,1
+wall,2,6.5,['Household Cleaners'],4.1,21306.0,1
+tile floor,2,14.0,['Household Cleaners'],3.9,20801.0,1
+stoves,2,8.0,['Household Cleaners'],4.1,4860.0,1
+chimneys,2,8.0,['Household Cleaners'],4.1,4860.0,1
+counter,2,8.0,['Household Cleaners'],4.1,4860.0,1
+tops,2,8.0,['Household Cleaners'],4.1,4860.0,1
+walls,2,9.0,['Household Cleaners'],4.0,5120.0,1
+non,2,17.5,['Household Cleaners'],4.1,6216.0,1
+toxic,2,17.5,['Household Cleaners'],4.1,6216.0,1
+stoves chimneys,2,8.0,['Household Cleaners'],4.1,4860.0,1
+counter tops,2,8.0,['Household Cleaners'],4.1,4860.0,1
+non toxic,2,17.5,['Household Cleaners'],4.1,6216.0,1
+packs,2,7.5,['Household Cleaners'],4.2,10510.0,1
+litre packs,2,7.5,['Household Cleaners'],4.2,10510.0,1
+liquid original,2,8.5,['Household Cleaners'],4.4,52786.0,1
+dettol,2,12.5,['Household Cleaners'],4.55,66492.0,1
+multi-purpose,2,11.0,['Household Cleaners'],4.25,65308.0,1
+lime,2,18.5,['Household Cleaners'],4.2,65319.0,1
+fragrance,2,15.5,['Household Cleaners'],4.4,65200.0,1
+liquid for,2,12.5,['Household Cleaners'],4.55,66492.0,1
+max,2,14.0,['Household Cleaners'],4.2,433.0,1
+cleans,2,13.0,['Household Cleaners'],4.5,978.0,1
+seconds,2,13.0,['Household Cleaners'],4.5,978.0,1
+beco max,2,14.0,['Household Cleaners'],4.2,433.0,1
+cleans in,2,13.0,['Household Cleaners'],4.5,978.0,1
+in seconds,2,13.0,['Household Cleaners'],4.5,978.0,1
+seconds maximum,2,13.0,['Household Cleaners'],4.5,978.0,1
+cleaning power,2,14.0,['Household Cleaners'],4.1,3402.0,1
+drum,2,13.0,['Household Cleaners'],4.15,2894.0,1
+tub,2,13.0,['Household Cleaners'],4.15,2894.0,1
+pouch,2,6.5,['Household Cleaners'],4.25,3244.0,1
+cleaner descaling,2,20.5,['Household Cleaners'],4.15,6766.0,1
+descaler for,2,8.0,['Household Cleaners'],4.2,8818.0,1
+load and,2,20.5,['Household Cleaners'],4.15,6766.0,1
+machine drum,2,13.0,['Household Cleaners'],4.15,2894.0,1
+drum cleaner,2,13.0,['Household Cleaners'],4.15,2894.0,1
+cleaner tub,2,13.0,['Household Cleaners'],4.15,2894.0,1
+tub cleaner,2,13.0,['Household Cleaners'],4.15,2894.0,1
+kleenest,2,17.5,['Household Cleaners'],4.15,1097.0,1
+combo,2,18.5,['Household Cleaners'],4.2,1488.0,1
+cleaner combo,2,18.5,['Household Cleaners'],4.2,1488.0,1

@@ -1,0 +1,501 @@
+keyword,frequency,avg_rank,categories,avg_rating,avg_reviews,category_count,total_rank
+skin,237,16.0,"['Beauty', 'Pet Care', 'Skincare', 'Hair Care', 'Sun Care', 'Body Care']",4.26,26123.0,6,32.7
+hair,186,17.4,"['Beauty', 'Pet Care', 'Jewellery', 'Hair Care', 'Clothing Women']",4.35,417.0,5,30.4
+women,147,19.8,"['Beauty', 'Jewellery', 'Sun Care', 'Skincare', 'Hair Care', 'Clothing Women', 'Electronics', 'Body Care']",4.0,42546.0,8,36.5
+cleaner,145,15.9,"['Household Cleaners', 'Toilet Cleaners']",4.22,10624.0,2,31.9
+men,132,19.8,"['Beauty', 'Jewellery', 'Sun Care', 'Skincare', 'Hair Care', 'Clothing Women', 'Electronics', 'Body Care']",4.0,42546.0,8,37.8
+pack of,121,19.6,"['Beauty', 'Jewellery', 'Pet Care', 'Household Cleaners', 'Sun Care', 'Skincare', 'Hair Care', 'Toilet Cleaners', 'Clothing Women', 'Kitchen', 'Body Care']",4.3,530.0,11,34.0
+toilet,94,17.0,"['Household Cleaners', 'Toilet Cleaners']",4.28,16770.0,2,33.8
+all,93,24.7,"['Beauty', 'Books', 'Pet Care', 'Household Cleaners', 'Skincare', 'Hair Care', 'Toilet Cleaners', 'Sun Care', 'Electronics', 'Body Care']",4.03,22296.0,10,41.2
+for men,89,19.8,"['Beauty', 'Jewellery', 'Sun Care', 'Skincare', 'Hair Care', 'Clothing Women', 'Electronics', 'Body Care']",4.0,42546.0,8,38.7
+protection,89,12.8,"['Beauty', 'Jewellery', 'Pet Care', 'Household Cleaners', 'Sun Care', 'Skincare', 'Hair Care', 'Clothing Women', 'Kitchen', 'Body Care']",3.9,784.0,10,30.8
+dry,87,14.7,"['Beauty', 'Pet Care', 'Skincare', 'Hair Care', 'Sun Care', 'Kitchen', 'Body Care']",4.3,27070.0,7,30.6
+sunscreen,81,9.2,"['Beauty', 'Skincare', 'Sun Care']",4.2,16125.0,3,24.1
+kids,77,15.8,"['Books', 'Jewellery', 'Toys', 'Sun Care']",4.47,446.0,4,25.8
+for women,75,14.2,"['Beauty', 'Jewellery', 'Skincare', 'Hair Care', 'Clothing Women', 'Body Care']",3.95,905.0,6,31.0
+spf,74,11.9,"['Beauty', 'Skincare', 'Sun Care']",4.2,19178.0,3,27.4
+oil,72,18.2,"['Beauty', 'Toys', 'Food', 'Skincare', 'Hair Care', 'Body Care']",4.28,27066.0,6,29.7
+girls,66,16.6,"['Jewellery', 'Toys']",4.04,933.0,2,31.200000000000003
+acid,63,16.3,"['Beauty', 'Skincare', 'Hair Care', 'Sun Care', 'Body Care']",4.21,15356.0,5,32.7
+body,59,18.6,"['Beauty', 'Skincare', 'Sun Care', 'Body Care']",4.31,37819.0,4,33.2
+toilet cleaner,59,15.2,"['Household Cleaners', 'Toilet Cleaners']",4.29,19436.0,2,30.7
+for kids,58,19.0,"['Books', 'Jewellery', 'Toys', 'Sun Care']",4.3,130.0,4,32.2
+liquid,58,16.5,"['Skincare', 'Household Cleaners', 'Toilet Cleaners', 'Body Care']",4.4,47944.0,4,30.6
+for all,57,14.6,"['Beauty', 'Pet Care', 'Household Cleaners', 'Skincare', 'Hair Care', 'Sun Care', 'Body Care']",4.3,22619.0,7,34.3
+face,54,18.2,"['Beauty', 'Skincare', 'Sun Care', 'Body Care']",4.18,24000.0,4,35.599999999999994
+types,53,13.8,"['Beauty', 'Skincare', 'Hair Care', 'Sun Care', 'Body Care']",4.3,21049.0,5,29.6
+men women,49,16.0,"['Beauty', 'Jewellery', 'Sun Care', 'Skincare', 'Hair Care', 'Clothing Women', 'Body Care']",4.13,1515.0,7,30.7
+serum,47,21.0,"['Beauty', 'Skincare', 'Hair Care', 'Body Care']",4.24,23427.0,4,37.9
+food,47,14.0,"['Pet Care', 'Kitchen']",4.13,10324.0,2,31.2
+vitamin,45,20.8,"['Beauty', 'Skincare', 'Sun Care', 'Body Care']",4.21,21854.0,4,33.9
+all skin,45,14.0,"['Beauty', 'Skincare', 'Sun Care', 'Body Care']",4.3,17320.0,4,30.3
+gel,44,18.0,"['Beauty', 'Skincare', 'Sun Care', 'Body Care']",4.26,25614.0,4,32.6
+lotion,43,17.0,"['Beauty', 'Skincare', 'Sun Care', 'Body Care']",4.33,60197.0,4,34.7
+skin types,40,14.0,"['Beauty', 'Skincare', 'Sun Care', 'Body Care']",4.3,17320.0,4,31.0
+fresh,40,10.0,"['Household Cleaners', 'Food', 'Skincare', 'Hair Care', 'Toilet Cleaners', 'Kitchen']",4.2,363.0,6,25.0
+soft,39,15.8,"['Beauty', 'Toys', 'Food', 'Skincare', 'Hair Care', 'Clothing Women', 'Kitchen', 'Body Care']",4.32,34168.0,8,25.3
+cotton,39,21.1,"['Clothing Women', 'Kitchen']",4.09,27979.0,2,36.7
+socks,39,15.7,['Clothing Women'],4.08,6495.0,1,
+spf pa,38,10.2,"['Beauty', 'Skincare', 'Sun Care']",4.22,19536.0,3,24.0
+years,37,14.3,"['Pet Care', 'Books', 'Toys']",4.48,8459.0,3,35.0
+toy,37,15.7,['Toys'],4.07,3928.0,1,
+cleaning,37,17.9,"['Household Cleaners', 'Toilet Cleaners']",4.14,12150.0,2,36.5
+disinfectant,37,14.9,"['Household Cleaners', 'Toilet Cleaners']",4.37,31259.0,2,28.1
+boys,36,17.0,"['Jewellery', 'Toys']",3.98,704.0,2,32.0
+cleaner liquid,36,16.9,"['Household Cleaners', 'Toilet Cleaners']",4.34,15172.0,2,32.099999999999994
+niacinamide,35,18.0,"['Beauty', 'Skincare', 'Sun Care', 'Body Care']",4.2,21632.0,4,32.7
+water,34,3.0,"['Beauty', 'Household Cleaners', 'Skincare', 'Hair Care', 'Sun Care', 'Kitchen']",4.23,3929.0,6,26.0
+natural,32,13.0,"['Beauty', 'Household Cleaners', 'Pet Care', 'Food', 'Hair Care', 'Toilet Cleaners']",4.13,19448.0,6,24.0
+shampoo,32,13.2,"['Beauty', 'Hair Care']",4.15,12593.0,2,30.3
+control,32,18.0,"['Beauty', 'Toys', 'Pet Care', 'Skincare', 'Hair Care', 'Sun Care', 'Kitchen']",4.14,22612.0,7,28.5
+lightweight,31,10.0,"['Beauty', 'Skincare', 'Sun Care', 'Body Care']",4.18,25946.0,4,25.0
+healthy,31,18.5,"['Beauty', 'Books', 'Pet Care', 'Food', 'Skincare', 'Hair Care', 'Body Care']",4.3,37205.0,7,46.0
+dog,31,23.0,"['Pet Care', 'Toys']",3.9,464.0,2,37.6
+for dry,30,18.4,"['Beauty', 'Skincare', 'Hair Care', 'Sun Care', 'Kitchen', 'Body Care']",4.31,23980.0,6,39.4
+removes,30,21.6,"['Beauty', 'Household Cleaners', 'Skincare', 'Hair Care', 'Toilet Cleaners']",4.16,13689.0,5,35.5
+formula,30,15.3,"['Beauty', 'Skincare', 'Hair Care', 'Toilet Cleaners', 'Sun Care', 'Body Care']",4.13,25256.0,6,27.9
+uva,30,16.0,"['Skincare', 'Sun Care']",4.27,11140.0,2,30.5
+moisture,29,18.2,"['Beauty', 'Sun Care', 'Skincare', 'Hair Care', 'Clothing Women', 'Body Care']",4.34,33202.0,6,36.8
+gift,28,18.0,"['Jewellery', 'Clothing Women', 'Toys']",4.08,473.0,3,35.0
+wash,28,16.5,"['Beauty', 'Skincare', 'Body Care']",4.18,16874.0,3,29.2
+cast,28,9.7,"['Beauty', 'Skincare', 'Sun Care']",4.2,17604.0,3,26.099999999999998
+white cast,28,9.7,"['Beauty', 'Skincare', 'Sun Care']",4.2,17604.0,3,26.099999999999998
+health,28,14.9,"['Pet Care', 'Food']",4.23,7745.0,2,24.9
+bathroom,28,13.8,"['Household Cleaners', 'Toilet Cleaners']",4.12,10844.0,2,29.8
+glass,27,19.2,"['Household Cleaners', 'Kitchen', 'Jewellery', 'Electronics']",4.08,20823.0,4,41.0
+set for,27,12.9,"['Jewellery', 'Toys']",3.81,562.0,2,27.700000000000003
+hyaluronic,27,11.9,"['Beauty', 'Skincare', 'Hair Care', 'Sun Care', 'Body Care']",4.29,23375.0,5,26.1
+deep,27,17.2,"['Beauty', 'Skincare', 'Toilet Cleaners', 'Body Care']",4.34,41217.0,4,33.0
+fragrance,27,12.8,"['Beauty', 'Household Cleaners', 'Pet Care', 'Toilet Cleaners', 'Sun Care', 'Body Care']",4.28,14236.0,6,31.1
+spray,27,16.8,"['Hair Care', 'Household Cleaners', 'Toilet Cleaners', 'Sun Care']",4.16,2222.0,4,37.3
+uvb,27,16.0,"['Skincare', 'Sun Care']",4.28,9486.0,2,29.5
+uva uvb,27,16.0,"['Skincare', 'Sun Care']",4.28,9486.0,2,29.5
+harpic,27,15.5,"['Household Cleaners', 'Toilet Cleaners']",4.37,21145.0,2,31.5
+disinfectant toilet,27,15.3,"['Household Cleaners', 'Toilet Cleaners']",4.35,22780.0,2,28.6
+smooth,26,13.0,"['Beauty', 'Skincare', 'Hair Care', 'Body Care']",4.23,23278.0,4,29.4
+no white,26,9.7,"['Beauty', 'Skincare', 'Sun Care']",4.2,17604.0,3,26.599999999999998
+soap,26,16.6,"['Beauty', 'Skincare', 'Household Cleaners', 'Body Care']",4.22,19855.0,4,30.6
+cream,26,21.8,"['Beauty', 'Food', 'Skincare', 'Sun Care', 'Body Care']",4.3,26306.0,5,22.8
+book,26,17.5,"['Books', 'Toys']",4.37,2556.0,2,32.7
+adult,26,9.0,"['Pet Care', 'Toys']",4.25,44833.0,2,24.0
+suitable,26,10.7,"['Skincare', 'Household Cleaners', 'Toilet Cleaners', 'Sun Care']",4.2,4681.0,4,25.2
+suitable for,26,10.7,"['Skincare', 'Household Cleaners', 'Toilet Cleaners', 'Sun Care']",4.2,4681.0,4,25.2
+light,25,22.0,"['Beauty', 'Jewellery', 'Skincare', 'Sun Care', 'Electronics', 'Body Care']",4.12,2178.0,6,41.0
+oily,25,14.2,"['Beauty', 'Skincare', 'Sun Care', 'Body Care']",4.2,19976.0,4,27.2
+women men,25,20.0,"['Beauty', 'Skincare', 'Hair Care', 'Body Care']",4.24,31600.0,4,36.2
+broad,25,7.3,"['Beauty', 'Skincare', 'Sun Care']",4.2,25599.0,3,20.6
+spectrum,25,7.3,"['Beauty', 'Skincare', 'Sun Care']",4.2,25599.0,3,20.6
+broad spectrum,25,7.3,"['Beauty', 'Skincare', 'Sun Care']",4.2,25599.0,3,20.6
+long,24,18.3,"['Beauty', 'Jewellery', 'Skincare', 'Hair Care', 'Toilet Cleaners', 'Electronics', 'Body Care']",4.03,13973.0,7,26.3
+sensitive,24,13.5,"['Beauty', 'Skincare', 'Sun Care', 'Body Care']",4.27,17991.0,4,31.7
+size,24,17.9,"['Clothing Women', 'Kitchen']",4.14,15714.0,2,35.099999999999994
+floor,24,14.6,['Household Cleaners'],4.3,16757.0,1,
+battery,23,14.8,"['Toys', 'Electronics']",4.12,19692.0,2,32.900000000000006
+salicylic,23,16.9,"['Beauty', 'Skincare', 'Hair Care', 'Body Care']",4.15,14881.0,4,33.2
+body lotion,23,17.0,"['Beauty', 'Skincare', 'Sun Care', 'Body Care']",4.33,60197.0,4,33.7
+fall,23,14.7,"['Beauty', 'Hair Care']",4.13,9959.0,2,34.3
+chicken,23,15.6,['Pet Care'],4.26,10130.0,1,
+set of,22,12.7,"['Books', 'Jewellery', 'Toys', 'Kitchen']",3.83,288.0,4,28.4
+tested,22,11.5,"['Beauty', 'Skincare', 'Hair Care', 'Sun Care']",4.18,17428.0,4,27.7
+growth,22,10.6,"['Beauty', 'Hair Care']",4.2,13485.0,2,28.0
+hair growth,22,10.6,"['Beauty', 'Hair Care']",4.2,13485.0,2,28.0
+boys girls,22,13.6,['Toys'],4.08,6346.0,1,
+sun,22,15.0,"['Skincare', 'Sun Care']",4.1,12212.0,2,28.5
+cat,22,16.8,['Pet Care'],4.26,5844.0,1,
+flavour,22,15.0,['Pet Care'],4.27,10644.0,1,
+storage,21,13.6,"['Kitchen', 'Toys', 'Electronics']",4.08,3250.0,3,31.6
+jewellery,21,15.9,['Jewellery'],4.01,1976.0,1,
+bracelet,21,12.3,['Jewellery'],3.93,1389.0,1,
+stylish,21,15.7,"['Jewellery', 'Clothing Women']",4.01,1605.0,2,36.7
+combo,21,12.8,"['Household Cleaners', 'Jewellery', 'Sun Care', 'Toilet Cleaners', 'Clothing Women']",4.03,373.0,5,19.8
+acne,21,21.5,"['Beauty', 'Skincare', 'Body Care']",4.15,19831.0,3,33.5
+hydration,21,22.2,"['Beauty', 'Skincare', 'Body Care']",4.38,36051.0,3,37.7
+belt,21,15.0,['Clothing Women'],4.14,3350.0,1,
+stains,21,16.5,"['Household Cleaners', 'Toilet Cleaners']",4.19,12112.0,2,30.9
+fashion,20,17.9,['Jewellery'],4.04,1178.0,1,
+face wash,20,16.7,"['Beauty', 'Skincare']",4.17,16177.0,2,30.799999999999997
+paraben,20,9.4,"['Beauty', 'Skincare', 'Hair Care', 'Body Care']",4.2,22639.0,4,27.4
+unisex,20,10.8,"['Beauty', 'Skincare', 'Hair Care', 'Clothing Women']",4.12,14774.0,4,23.8
+moisturizer,20,19.3,"['Beauty', 'Skincare', 'Body Care']",4.37,38668.0,3,35.3
+brightening,20,13.0,"['Beauty', 'Skincare', 'Sun Care', 'Body Care']",4.0,24300.0,4,29.8
+original,20,21.5,"['Books', 'Household Cleaners', 'Food', 'Toilet Cleaners', 'Body Care']",4.5,33096.0,5,43.5
+length,20,16.8,['Clothing Women'],4.1,6684.0,1,
+fast,19,13.8,"['Sun Care', 'Electronics']",4.09,36277.0,2,18.1
+design,19,18.7,"['Pet Care', 'Jewellery', 'Toys', 'Electronics', 'Kitchen']",4.1,9379.0,5,34.9
+latest,19,17.3,"['Books', 'Jewellery']",3.95,1488.0,2,35.0
+non-greasy,19,9.7,"['Beauty', 'Skincare', 'Sun Care']",4.23,19684.0,3,23.6
+bath,19,1.6,"['Beauty', 'Skincare', 'Kitchen', 'Body Care']",4.14,20089.0,4,16.6
+normal,19,13.2,"['Beauty', 'Skincare', 'Sun Care', 'Body Care']",4.28,25973.0,4,28.6
+sensitive skin,19,12.6,"['Beauty', 'Skincare', 'Sun Care', 'Body Care']",4.32,21550.0,4,30.200000000000003
+hyaluronic acid,19,10.6,"['Beauty', 'Skincare', 'Hair Care', 'Sun Care', 'Body Care']",4.3,23008.0,5,26.6
+pure,19,15.8,"['Beauty', 'Food', 'Skincare', 'Hair Care', 'Body Care']",4.28,22949.0,5,28.3
+sunscreen spf,19,11.5,"['Beauty', 'Skincare', 'Sun Care']",4.18,14930.0,3,27.9
+dry skin,19,17.0,"['Beauty', 'Skincare', 'Sun Care', 'Body Care']",4.33,60197.0,4,36.2
+home,19,17.4,"['Household Cleaners', 'Toys', 'Toilet Cleaners', 'Kitchen']",3.96,8360.0,4,28.4
+books,19,15.0,"['Books', 'Toys']",4.45,13004.0,2,28.3
+for boys,19,15.2,['Toys'],4.11,6327.0,1,
+ankle,19,11.9,['Clothing Women'],4.05,6529.0,1,
+cap,19,18.6,['Clothing Women'],4.13,1796.0,1,
+germs,19,12.3,"['Household Cleaners', 'Toilet Cleaners', 'Body Care']",4.37,6036.0,3,22.9
+surface,19,16.9,['Household Cleaners'],4.25,19348.0,1,
+power,18,14.5,"['Books', 'Household Cleaners', 'Toilet Cleaners', 'Electronics']",4.03,29895.0,4,33.9
+gifts,18,14.2,"['Jewellery', 'Toys']",4.09,630.0,2,29.4
+salicylic acid,18,20.2,"['Beauty', 'Skincare', 'Hair Care', 'Body Care']",4.12,16894.0,4,39.4
+kills,18,14.0,"['Beauty', 'Household Cleaners', 'Toilet Cleaners', 'Body Care']",4.33,10409.0,4,18.8
+bottle,18,14.0,"['Hair Care', 'Household Cleaners', 'Kitchen', 'Food']",4.18,11050.0,4,24.8
+use,18,3.7,"['Household Cleaners', 'Toilet Cleaners', 'Clothing Women', 'Kitchen', 'Body Care']",4.53,6863.0,5,21.8
+traditional,17,14.2,['Jewellery'],3.89,580.0,1,
+silver,17,18.2,"['Jewellery', 'Kitchen']",4.16,797.0,2,33.7
+gift for,17,19.9,"['Jewellery', 'Toys']",4.15,530.0,2,38.4
+adjustable,17,6.5,"['Jewellery', 'Clothing Women']",4.03,925.0,2,25.7
+bar,17,21.0,"['Beauty', 'Jewellery', 'Food', 'Body Care']",4.15,311.0,4,43.0
+paris,17,12.0,"['Beauty', 'Hair Care']",4.27,21185.0,2,26.5
+paraben free,17,9.4,"['Beauty', 'Skincare', 'Hair Care', 'Body Care']",4.2,22639.0,4,27.4
+glowing,17,14.7,"['Beauty', 'Skincare', 'Body Care']",4.07,20281.0,3,30.1
+reduces,17,24.0,"['Beauty', 'Skincare', 'Hair Care', 'Body Care']",4.1,23285.0,4,40.9
+kitchen,17,17.7,"['Household Cleaners', 'Kitchen']",4.24,8357.0,2,34.3
+premium,17,19.5,"['Books', 'Pet Care', 'Food', 'Clothing Women', 'Kitchen']",4.27,33316.0,5,32.0
+clean,17,12.0,"['Household Cleaners', 'Toilet Cleaners', 'Kitchen']",4.1,16053.0,3,25.0
+learning,17,6.0,"['Books', 'Toys']",4.47,30235.0,2,17.1
+toys,17,13.4,['Toys'],4.09,9829.0,1,
+hair fall,17,18.9,['Hair Care'],4.26,27189.0,1,
+powder,17,8.0,"['Hair Care', 'Household Cleaners', 'Toilet Cleaners']",4.05,7150.0,3,21.7
+food kg,17,13.5,['Pet Care'],4.21,7580.0,1,
+dog food,17,14.4,['Pet Care'],4.24,9387.0,1,
+kg pack,17,16.4,"['Pet Care', 'Food']",4.22,6208.0,2,35.4
+floor cleaner,17,16.1,['Household Cleaners'],4.32,11151.0,1,
+litre,17,15.6,"['Household Cleaners', 'Toilet Cleaners']",4.25,13891.0,2,31.6
+charging,16,13.1,"['Toys', 'Electronics']",4.14,21858.0,2,28.1
+ultra,16,16.7,"['Kitchen', 'Clothing Women', 'Electronics', 'Sun Care']",4.14,16610.0,4,33.9
+necklace,16,17.4,['Jewellery'],3.94,1061.0,1,
+gold,16,18.0,['Jewellery'],4.01,1748.0,1,
+daily,16,17.0,"['Beauty', 'Hair Care', 'Toilet Cleaners', 'Sun Care', 'Body Care']",4.14,21397.0,5,40.3
+skin for,16,14.0,"['Beauty', 'Skincare', 'Body Care']",4.17,16536.0,3,31.8
+minimalist,16,19.5,"['Beauty', 'Skincare', 'Body Care']",4.15,25329.0,3,37.6
+rosemary,16,10.2,"['Beauty', 'Hair Care']",4.2,14040.0,2,28.4
+color,16,20.7,"['Beauty', 'Hair Care', 'Toys']",4.07,26491.0,3,34.0
+men's,16,18.7,['Clothing Women'],4.1,4009.0,1,
+tan,16,22.8,"['Skincare', 'Sun Care', 'Body Care']",3.78,3148.0,3,39.0
+tough,16,13.6,"['Household Cleaners', 'Toilet Cleaners']",4.09,6952.0,2,21.6
+limescale,16,16.4,"['Household Cleaners', 'Toilet Cleaners']",4.17,6653.0,2,37.5
+bluetooth,15,19.7,['Electronics'],4.01,35929.0,1,
+mic,15,14.8,"['Toys', 'Electronics']",4.0,69373.0,2,21.8
+display,15,17.4,"['Kitchen', 'Electronics']",4.07,26418.0,2,29.4
+active,15,13.6,"['Skincare', 'Pet Care', 'Toilet Cleaners', 'Electronics']",3.98,53445.0,4,33.6
+shining,15,18.1,['Jewellery'],4.0,1409.0,1,
+diva,15,18.1,['Jewellery'],4.0,1409.0,1,
+shining diva,15,18.1,['Jewellery'],4.0,1409.0,1,
+diva fashion,15,18.1,['Jewellery'],4.0,1409.0,1,
+weight,15,7.7,"['Jewellery', 'Toys', 'Food']",3.37,14.0,3,18.7
+hydrating,15,4.4,"['Beauty', 'Skincare', 'Sun Care']",4.32,32127.0,3,9.9
+repair,15,26.0,"['Beauty', 'Skincare', 'Hair Care', 'Sun Care', 'Body Care']",4.27,9032.0,5,42.0
+amazon,15,10.2,"['Household Cleaners', 'Pet Care', 'Kitchen']",4.3,57764.0,3,21.1
+car,15,18.3,['Toys'],4.04,5041.0,1,
+shine,15,20.2,"['Hair Care', 'Household Cleaners', 'Toilet Cleaners']",4.3,10889.0,3,26.5
+removal,15,14.5,"['Household Cleaners', 'Toilet Cleaners', 'Sun Care', 'Body Care']",4.02,762.0,4,32.5
+stain,15,19.4,"['Household Cleaners', 'Toilet Cleaners']",3.89,1423.0,2,36.599999999999994
+wireless,14,15.5,['Electronics'],4.01,40878.0,1,
+tablets,14,8.7,"['Household Cleaners', 'Toilet Cleaners', 'Electronics']",4.03,66873.0,3,28.7
+and girls,14,17.8,"['Jewellery', 'Toys']",4.01,882.0,2,38.6
+birthday,14,16.2,"['Jewellery', 'Toys']",4.57,934.0,2,30.1
+stainless,14,16.5,"['Jewellery', 'Kitchen']",4.02,711.0,2,33.4
+steel,14,16.5,"['Jewellery', 'Kitchen']",4.02,711.0,2,33.4
+stainless steel,14,16.5,"['Jewellery', 'Kitchen']",4.02,711.0,2,33.4
+gentle,14,14.0,"['Beauty', 'Skincare']",4.26,19142.0,2,27.8
+for oily,14,12.4,"['Beauty', 'Skincare', 'Sun Care']",4.2,15363.0,3,25.700000000000003
+glowing skin,14,14.7,"['Beauty', 'Skincare', 'Body Care']",4.07,20281.0,3,27.7
+barrier,14,24.7,"['Beauty', 'Skincare', 'Sun Care', 'Body Care']",4.3,14905.0,4,40.3
+glow,14,22.0,"['Beauty', 'Skincare', 'Sun Care', 'Body Care']",4.17,20266.0,4,46.7
+english,14,15.9,['Books'],4.44,1962.0,1,
+activity,14,17.6,"['Books', 'Toys']",4.46,1969.0,2,27.0
+refill,14,25.0,"['Skincare', 'Books', 'Household Cleaners', 'Body Care']",4.05,5000.0,4,44.2
+educational,14,12.1,['Toys'],4.08,3853.0,1,
+toy for,14,11.4,['Toys'],4.16,4043.0,1,
+socks for,14,13.5,['Clothing Women'],4.05,6121.0,1,
+advanced,14,15.7,"['Hair Care', 'Toilet Cleaners', 'Sun Care', 'Body Care']",4.03,4078.0,4,25.1
+uvb protection,14,16.7,"['Skincare', 'Sun Care']",4.3,10576.0,2,32.9
+earbuds,13,14.7,['Electronics'],4.03,39157.0,1,
+cable,13,9.1,['Electronics'],4.3,18633.0,1,
+samsung,13,12.8,['Electronics'],4.18,14468.0,1,
+ear,13,14.6,"['Jewellery', 'Electronics']",3.96,34014.0,2,36.6
+heart,13,19.3,"['Pet Care', 'Jewellery', 'Electronics']",3.97,61259.0,3,31.8
+wedding,13,16.5,['Jewellery'],3.88,346.0,1,
+box,13,11.8,"['Jewellery', 'Clothing Women', 'Toys', 'Kitchen']",4.03,229.0,4,28.8
+baby,13,17.0,"['Jewellery', 'Toys']",4.3,826.0,2,31.2
+in-vivo,13,10.6,"['Beauty', 'Skincare']",4.18,15722.0,2,23.1
+with niacinamide,13,14.8,"['Beauty', 'Skincare', 'Body Care']",4.2,27971.0,3,27.1
+lasting,13,13.0,"['Beauty', 'Skincare', 'Toilet Cleaners', 'Body Care']",4.1,11358.0,4,21.0
+long lasting,13,13.0,"['Beauty', 'Skincare', 'Toilet Cleaners', 'Body Care']",4.1,11358.0,4,21.0
+bright,13,22.7,"['Beauty', 'Skincare', 'Body Care']",4.1,20578.0,3,37.9
+for hair,13,9.3,"['Beauty', 'Hair Care']",4.2,8150.0,2,28.3
+bags,13,13.2,['Kitchen'],4.34,36261.0,1,
+breathable,13,21.0,"['Clothing Women', 'Kitchen']",4.27,54394.0,2,35.3
+edition,13,15.5,['Books'],4.42,6470.0,1,
+pouch,13,15.0,"['Household Cleaners', 'Toys', 'Food']",4.33,386.0,3,25.1
+free size,13,16.8,['Clothing Women'],4.07,7256.0,1,
+cap for,13,19.3,['Clothing Women'],4.12,1524.0,1,
+germ,13,18.8,"['Skincare', 'Toilet Cleaners', 'Body Care']",4.47,67639.0,3,42.3
+cat food,13,17.2,['Pet Care'],4.32,7013.0,1,
+dogs,13,14.0,['Pet Care'],4.18,25497.0,1,
+freshness,13,19.0,"['Household Cleaners', 'Toilet Cleaners']",4.28,8154.0,2,29.8
+bowl,13,18.3,['Toilet Cleaners'],3.94,311.0,1,
+toilet bowl,13,18.3,['Toilet Cleaners'],3.94,311.0,1,
+fast charging,12,13.0,['Electronics'],4.12,25414.0,1,
+galaxy,12,12.9,['Electronics'],4.18,14631.0,1,
+sports,12,20.0,"['Clothing Women', 'Electronics']",3.97,51759.0,2,35.1
+crystal,12,16.0,"['Kitchen', 'Jewellery', 'Electronics']",4.13,17829.0,3,32.7
+bangles,12,13.2,['Jewellery'],3.8,47.0,1,
+women girls,12,17.6,['Jewellery'],4.05,314.0,1,
+colour,12,9.8,"['Beauty', 'Hair Care']",4.1,9679.0,2,22.9
+prevents,12,13.8,"['Beauty', 'Skincare', 'Hair Care', 'Body Care']",4.25,18446.0,4,29.5
+coconut,12,14.5,"['Beauty', 'Hair Care']",4.35,38940.0,2,26.7
+strong,12,13.3,"['Beauty', 'Hair Care', 'Pet Care']",4.13,14197.0,3,27.3
+pigmentation,12,12.7,"['Beauty', 'Skincare', 'Body Care']",4.23,11471.0,3,24.9
+presto,12,5.0,"['Household Cleaners', 'Toilet Cleaners', 'Kitchen']",4.4,36837.0,3,7.5
+game,12,16.3,['Toys'],4.15,14400.0,1,
+ankle length,12,11.2,['Clothing Women'],4.08,7358.0,1,
+leather,12,14.3,['Clothing Women'],4.08,4071.0,1,
+belt for,12,15.3,['Clothing Women'],4.04,2642.0,1,
+shampoo for,12,18.1,['Hair Care'],4.21,27716.0,1,
+face serum,12,8.8,"['Skincare', 'Body Care']",4.2,22419.0,2,26.8
+care,12,7.3,"['Skincare', 'Pet Care', 'Body Care']",4.33,44507.0,3,26.900000000000002
+instant,12,23.7,"['Skincare', 'Toilet Cleaners', 'Food', 'Body Care']",3.97,18448.0,4,34.7
+spectrum uva,12,13.4,['Sun Care'],4.25,934.0,1,
+lotion for,12,10.6,"['Sun Care', 'Body Care']",4.3,193.0,2,33.4
+ml pack,12,13.6,"['Household Cleaners', 'Toilet Cleaners', 'Sun Care']",4.0,989.0,3,35.9
+dry dog,12,14.1,['Pet Care'],4.2,10521.0,1,
+remover,12,16.3,"['Household Cleaners', 'Toilet Cleaners']",4.19,3268.0,2,33.7
+type,11,7.8,['Electronics'],4.1,29543.0,1,
+mah,11,12.0,['Electronics'],4.18,12229.0,1,
+samsung galaxy,11,13.4,['Electronics'],4.16,14279.0,1,
+pro,11,19.0,['Electronics'],4.22,33794.0,1,
+smart,11,17.3,['Electronics'],4.05,35188.0,1,
+case,11,16.9,"['Toys', 'Electronics']",4.2,18127.0,2,33.4
+for girls,11,15.5,['Jewellery'],3.94,1753.0,1,
+bracelet for,11,13.4,['Jewellery'],3.94,884.0,1,
+multicolor,11,21.7,"['Jewellery', 'Clothing Women', 'Toys']",4.2,425.0,3,31.4
+lactic,11,18.5,"['Beauty', 'Skincare', 'Body Care']",4.3,9744.0,3,30.7
+soaps,11,1.0,"['Beauty', 'Skincare', 'Body Care']",3.9,27506.0,3,9.2
+scalp,11,9.7,"['Beauty', 'Hair Care']",4.2,12375.0,2,25.6
+year,11,9.7,"['Toys', 'Kitchen']",4.27,16862.0,2,16.1
+brand,11,5.0,"['Household Cleaners', 'Clothing Women', 'Kitchen']",4.4,36837.0,3,15.9
+life,11,13.7,"['Books', 'Pet Care']",4.47,20556.0,2,26.6
+leather belt,11,14.5,['Clothing Women'],4.06,4261.0,1,
+all hair,11,17.0,['Hair Care'],4.25,11730.0,1,
+roll,11,7.5,"['Skincare', 'Body Care']",4.32,33944.0,2,28.9
+roll on,11,7.5,"['Skincare', 'Body Care']",4.32,33944.0,2,28.9
+nivea,11,15.8,"['Skincare', 'Body Care']",4.33,44273.0,2,28.6
+butter,11,25.7,"['Skincare', 'Food', 'Body Care']",4.37,31032.0,3,51.5
+dry cat,11,15.3,['Pet Care'],4.31,7800.0,1,
+coat,11,15.6,['Pet Care'],4.26,9290.0,1,
+cats,11,16.1,['Pet Care'],4.28,7398.0,1,
+complete,11,19.2,['Pet Care'],4.37,10517.0,1,
+balanced,11,19.2,['Pet Care'],4.37,10517.0,1,
+kills germs,11,11.5,"['Household Cleaners', 'Toilet Cleaners']",4.3,27533.0,2,16.3
+india's,11,19.2,"['Household Cleaners', 'Toilet Cleaners']",4.45,26428.0,2,36.3
+fortune,11,12.4,['Food'],4.41,20284.0,1,
+iphone,10,17.4,['Electronics'],4.24,11319.0,1,
+with mic,10,17.2,"['Toys', 'Electronics']",3.95,92476.0,2,25.7
+cover,10,17.7,"['Kitchen', 'Electronics']",4.22,13214.0,2,32.9
+series,10,7.8,"['Books', 'Electronics']",4.28,8127.0,2,17.0
+led,10,16.0,"['Kitchen', 'Electronics']",4.12,13118.0,2,25.0
+hours,10,10.3,"['Books', 'Sun Care', 'Electronics']",4.23,26335.0,3,24.3
+plated,10,17.6,['Jewellery'],3.98,2166.0,1,
+gold plated,10,17.6,['Jewellery'],3.98,2166.0,1,
+earrings,10,17.7,['Jewellery'],4.1,894.0,1,
+and women,10,12.0,"['Skincare', 'Jewellery', 'Clothing Women']",4.0,4749.0,3,31.0
+hair colour,10,11.5,"['Beauty', 'Hair Care']",4.05,10395.0,2,26.7
+parachute,10,14.5,"['Beauty', 'Hair Care']",4.35,38940.0,2,29.7
+up to,10,4.0,"['Beauty', 'Hair Care', 'Clothing Women', 'Sun Care']",4.23,9011.0,4,13.5
+exfoliating,10,25.3,"['Beauty', 'Skincare', 'Body Care']",4.13,6409.0,3,37.3
+for glowing,10,13.0,"['Beauty', 'Skincare', 'Body Care']",4.0,24300.0,3,22.2
+cooktop,10,14.7,['Kitchen'],3.56,18670.0,1,
+warranty,10,12.5,['Kitchen'],4.14,18222.0,1,
+air,10,21.7,"['Toilet Cleaners', 'Kitchen']",4.22,16572.0,2,40.7
+easy,10,18.7,"['Books', 'Toys', 'Toilet Cleaners', 'Kitchen']",4.07,22568.0,4,32.7
+books for,10,13.8,['Books'],4.43,19974.0,1,
+fun,10,15.8,"['Books', 'Toys']",4.45,3208.0,2,32.1
+old,10,19.2,"['Books', 'Toys']",4.47,2466.0,2,31.9
+rich,10,12.7,"['Books', 'Pet Care', 'Food']",4.5,24621.0,3,25.5
+length socks,10,10.9,['Clothing Women'],4.13,5563.0,1,
+hair types,10,16.0,['Hair Care'],4.24,12812.0,1,
+types ml,10,21.2,"['Hair Care', 'Sun Care', 'Body Care']",4.24,5222.0,3,30.9
+rice,10,16.8,"['Skincare', 'Hair Care', 'Food']",4.3,3431.0,3,25.3
+dark,10,21.0,"['Skincare', 'Body Care']",4.12,13000.0,2,34.5
+sunscreen lotion,10,9.8,['Sun Care'],4.12,818.0,1,
+sun protection,10,15.2,['Sun Care'],4.13,200.0,1,
+drools,10,19.3,['Pet Care'],4.22,8247.0,1,
+foaming,10,7.0,"['Household Cleaners', 'Toilet Cleaners']",4.0,8683.0,2,19.9
+may,10,11.0,['Food'],4.38,18211.0,1,
+vary,10,11.0,['Food'],4.38,18211.0,1,
+weight may,10,11.0,['Food'],4.38,18211.0,1,
+may vary,10,11.0,['Food'],4.38,18211.0,1,
+whole,10,17.4,['Food'],4.42,9948.0,1,
+atta,10,20.4,['Food'],4.42,23114.0,1,
+buds,9,14.8,['Electronics'],4.04,27166.0,1,
+mobile,9,20.6,['Electronics'],4.05,10965.0,1,
+hrs,9,16.2,['Electronics'],4.08,60567.0,1,
+inch,9,20.2,"['Toys', 'Electronics']",4.05,14916.0,2,42.9
+bangle,9,11.7,['Jewellery'],3.71,1938.0,1,
+pendant,9,15.7,['Jewellery'],3.97,661.0,1,
+latest stylish,9,18.6,['Jewellery'],3.94,1249.0,1,
+women and,9,19.6,['Jewellery'],4.03,968.0,1,
+indian,9,11.0,"['Books', 'Jewellery', 'Kitchen']",4.13,143.0,3,28.5
+toddlers,9,13.5,"['Books', 'Jewellery', 'Toys']",4.3,1108.0,3,27.8
+al paris,9,11.5,"['Beauty', 'Hair Care']",4.25,15660.0,2,24.1
+cetaphil,9,12.2,"['Beauty', 'Skincare', 'Sun Care']",4.25,20456.0,3,13.7
+soap for,9,19.0,"['Beauty', 'Skincare', 'Body Care']",4.27,22502.0,3,31.3
+l'or,9,16.0,"['Beauty', 'Hair Care']",4.2,17142.0,2,30.8
+l'or al,9,16.0,"['Beauty', 'Hair Care']",4.2,17142.0,2,30.8
+matte,9,12.3,"['Beauty', 'Sun Care']",4.27,20471.0,2,25.6
+in-vivo tested,9,13.7,"['Beauty', 'Skincare']",4.17,10359.0,2,29.0
+women ml,9,17.3,"['Beauty', 'Skincare', 'Hair Care']",4.1,20292.0,3,29.8
+skin with,9,20.0,"['Beauty', 'Skincare', 'Body Care']",4.27,30244.0,3,39.7
+hair color,9,20.7,"['Beauty', 'Hair Care']",4.07,26491.0,2,34.0
+blue light,9,11.0,"['Beauty', 'Skincare', 'Sun Care']",4.2,24044.0,3,24.2
+light protection,9,11.0,"['Beauty', 'Skincare', 'Sun Care']",4.2,24044.0,3,24.2
+induction,9,14.8,['Kitchen'],3.67,23029.0,1,
+auto,9,13.3,"['Clothing Women', 'Kitchen']",3.41,36485.0,2,23.3
+inches,9,14.0,"['Clothing Women', 'Kitchen']",4.33,30944.0,2,28.7
+medium,9,14.6,"['Books', 'Kitchen']",4.32,56414.0,2,30.799999999999997
+touch,9,19.0,"['Sun Care', 'Kitchen']",3.62,11321.0,2,37.2
+amazon brand,9,5.0,"['Household Cleaners', 'Kitchen']",4.4,36837.0,2,15.9
+brand presto,9,5.0,"['Household Cleaners', 'Kitchen']",4.4,36837.0,2,15.9
+machine,9,7.5,"['Household Cleaners', 'Kitchen']",4.0,11964.0,2,21.4
+book for,9,17.1,['Books'],4.37,2244.0,1,
+children,9,16.3,"['Books', 'Toys']",4.47,4909.0,2,35.0
+magic,9,25.6,"['Skincare', 'Books', 'Toilet Cleaners']",4.16,6331.0,3,42.6
+rechargeable,9,16.8,['Toys'],3.89,3310.0,1,
+caps,9,19.6,['Clothing Women'],4.01,1080.0,1,
+casual,9,16.8,['Clothing Women'],4.03,4009.0,1,
+spray for,9,17.3,"['Hair Care', 'Household Cleaners']",4.18,1899.0,2,39.0
+underarm,9,10.2,"['Skincare', 'Body Care']",4.3,36708.0,2,30.0
+ceramides,9,18.0,"['Skincare', 'Sun Care', 'Body Care']",4.23,10618.0,3,34.7
+skin ml,9,13.7,"['Skincare', 'Sun Care', 'Body Care']",4.33,14288.0,3,33.5
+spots,9,16.3,"['Skincare', 'Body Care']",4.03,20618.0,2,33.6
+sunscreen for,9,13.5,"['Skincare', 'Sun Care']",4.2,11824.0,2,24.5
+resistant,9,11.6,['Sun Care'],4.03,526.0,1,
+milk,9,8.0,"['Sun Care', 'Food', 'Body Care']",4.2,5190.0,3,30.3
+zero,9,13.5,"['Household Cleaners', 'Sun Care', 'Food']",4.1,622.0,3,35.8
+better,9,7.0,"['Pet Care', 'Body Care']",4.5,73799.0,2,25.6
+adult dry,9,10.7,['Pet Care'],4.28,10400.0,1,
+complete balanced,9,17.1,['Pet Care'],4.42,12362.0,1,
+puppy,9,16.8,['Pet Care'],4.2,8912.0,1,
+real,9,16.7,"['Pet Care', 'Food']",4.21,12716.0,2,38.2
+tiles,9,14.4,['Household Cleaners'],4.01,3141.0,1,
+citrus,9,14.2,"['Household Cleaners', 'Toilet Cleaners']",4.38,25569.0,2,40.2
+lemon,9,15.2,"['Household Cleaners', 'Toilet Cleaners']",4.4,11056.0,2,37.2
+safe,9,18.2,"['Household Cleaners', 'Toilet Cleaners']",4.28,13752.0,2,41.2
+harpic disinfectant,9,12.3,"['Household Cleaners', 'Toilet Cleaners']",4.4,46018.0,2,24.5
+powerful,9,18.8,['Toilet Cleaners'],3.44,122.0,1,
+bowl cleaner,9,19.8,['Toilet Cleaners'],4.09,388.0,1,
+charge,8,11.2,['Electronics'],3.99,71181.0,1,
+music,8,15.2,"['Toys', 'Electronics']",3.98,29492.0,2,34.2
+modes,8,19.0,"['Kitchen', 'Electronics']",3.98,44378.0,2,37.5
+portable,8,21.0,"['Kitchen', 'Toys', 'Electronics']",3.87,19852.0,3,26.0
+pendant necklace,8,15.5,['Jewellery'],3.94,675.0,1,
+gifts for,8,14.4,['Jewellery'],4.03,828.0,1,
+transparent,8,7.7,"['Jewellery', 'Kitchen']",3.37,14.0,2,17.1
+cute,8,19.7,"['Jewellery', 'Toys']",4.3,87.0,2,30.1
+wash ml,8,10.0,"['Beauty', 'Skincare']",4.3,25604.0,2,22.2
+cleanser,8,10.5,"['Beauty', 'Skincare']",4.22,22043.0,2,25.5
+hyaluron,8,14.5,"['Beauty', 'Hair Care']",4.3,24177.0,2,26.0
+refreshing,8,9.0,"['Beauty', 'Skincare', 'Body Care']",4.2,21426.0,3,23.7
+brown,8,18.0,"['Beauty', 'Hair Care']",4.2,15273.0,2,28.2
+bare,8,7.3,"['Beauty', 'Hair Care']",4.13,6282.0,2,19.1
+anatomy,8,7.3,"['Beauty', 'Hair Care']",4.13,6282.0,2,19.1
+bare anatomy,8,7.3,"['Beauty', 'Hair Care']",4.13,6282.0,2,19.1
+coconut oil,8,16.0,"['Beauty', 'Hair Care']",4.4,29751.0,2,27.2
+wash with,8,21.0,"['Beauty', 'Skincare']",4.1,6090.0,2,35.2
+induction cooktop,8,14.6,['Kitchen'],3.57,23234.0,1,
+king,8,18.4,['Kitchen'],4.17,27492.0,1,
+wall,8,10.5,"['Household Cleaners', 'Kitchen']",4.1,10481.0,2,17.0
+cooking,8,15.8,"['Kitchen', 'Food']",3.62,6117.0,2,26.8
+automatic,8,12.0,"['Toilet Cleaners', 'Kitchen']",3.97,10134.0,2,33.2
+wet,8,5.0,"['Pet Care', 'Kitchen']",4.4,36837.0,2,23.0
+class,8,11.9,['Books'],4.47,5137.0,1,
+practice,8,13.4,['Books'],4.36,1822.0,1,
+ages,8,13.2,"['Books', 'Toys']",4.47,26427.0,2,25.2
+years old,8,19.2,"['Books', 'Toys']",4.47,2466.0,2,33.7
+science,8,14.0,"['Books', 'Toys', 'Hair Care']",4.5,823.0,3,24.5
+toys for,8,12.6,['Toys'],4.12,7151.0,1,
+for adult,8,9.0,"['Pet Care', 'Toys']",4.25,44833.0,2,27.0
+socks pack,8,18.8,['Clothing Women'],4.12,4209.0,1,
+serum for,8,20.0,"['Hair Care', 'Body Care']",4.27,17809.0,2,40.2
+protein,8,16.7,"['Hair Care', 'Food']",4.2,28749.0,2,35.9
+fades,8,20.0,"['Skincare', 'Body Care']",4.17,8972.0,2,29.8
+for face,8,16.0,"['Skincare', 'Body Care']",4.33,20272.0,2,29.8
+oily skin,8,19.3,"['Skincare', 'Sun Care']",4.3,11059.0,2,29.5
+handwash,8,18.3,"['Skincare', 'Body Care']",4.47,59844.0,2,26.5
+handwash refill,8,18.3,"['Skincare', 'Body Care']",4.47,59844.0,2,26.5
+germ protection,8,18.3,"['Skincare', 'Body Care']",4.47,59844.0,2,29.1
+very,8,16.3,"['Skincare', 'Sun Care']",4.4,36942.0,2,24.1
+barrier repair,8,12.7,"['Skincare', 'Sun Care', 'Body Care']",4.3,9452.0,3,28.7
+fish,8,14.6,['Pet Care'],4.3,8020.0,1,
+treats,8,17.5,['Pet Care'],4.36,10400.0,1,
+kg kg,8,11.4,['Pet Care'],4.16,13362.0,1,
+free kg,8,12.0,['Pet Care'],4.16,15824.0,1,
+stages,8,12.9,['Pet Care'],4.26,1588.0,1,
+all life,8,12.9,['Pet Care'],4.26,1588.0,1,
+life stages,8,12.9,['Pet Care'],4.26,1588.0,1,
+pet,8,18.2,"['Pet Care', 'Food']",4.02,59413.0,2,25.5
+washing,8,15.8,['Household Cleaners'],4.17,3842.0,1,
+surface cleaner,8,17.5,['Household Cleaners'],4.3,13856.0,1,
+removes tough,8,10.5,"['Household Cleaners', 'Toilet Cleaners']",4.15,5189.0,2,18.5
+tough stains,8,14.8,"['Household Cleaners', 'Toilet Cleaners']",4.12,14974.0,2,22.8
+dal,8,9.4,['Food'],4.45,15818.0,1,
+tws,7,16.6,['Electronics'],4.0,27348.0,1,
+ram,7,12.9,['Electronics'],4.16,2938.0,1,
+gb ram,7,12.9,['Electronics'],4.16,2938.0,1,
+ram gb,7,12.9,['Electronics'],4.16,2938.0,1,
+gb storage,7,12.9,['Electronics'],4.16,2938.0,1,
+gen,7,15.1,['Electronics'],4.13,15930.0,1,
+boat,7,16.3,['Electronics'],3.93,101178.0,1,
+output,7,17.0,['Electronics'],4.1,33677.0,1,
+usb,7,17.2,"['Toys', 'Electronics']",4.25,19832.0,2,43.9
+bag,7,20.0,"['Kitchen', 'Electronics']",4.13,21286.0,2,39.8
+fancy,7,16.1,['Jewellery'],3.83,740.0,1,
+accessories,7,14.7,['Jewellery'],4.34,381.0,1,
+clips,7,16.1,['Jewellery'],4.42,367.0,1,
+chain,7,22.3,['Jewellery'],4.06,592.0,1,
+rose,7,19.8,"['Jewellery', 'Toilet Cleaners']",4.1,4607.0,2,39.1
+return,7,16.7,"['Jewellery', 'Toys']",4.8,3.0,2,37.9
+wash for,7,19.5,"['Beauty', 'Skincare']",4.12,16233.0,2,30.5
+dandruff,7,14.0,"['Beauty', 'Hair Care']",4.1,16142.0,2,22.2
+acid for,7,19.0,"['Beauty', 'Hair Care']",4.2,27246.0,2,36.0
+dot,7,17.3,"['Beauty', 'Skincare']",4.27,11683.0,2,31.3
+key,7,17.3,"['Beauty', 'Skincare']",4.27,11683.0,2,31.3
+dot key,7,17.3,"['Beauty', 'Skincare']",4.27,11683.0,2,31.3
+oil ml,7,17.3,"['Beauty', 'Hair Care']",4.33,16109.0,2,30.3
+soaps for,7,1.0,"['Beauty', 'Skincare', 'Body Care']",3.9,27506.0,3,11.7
+skin brightening,7,13.0,"['Beauty', 'Skincare', 'Body Care']",4.0,24300.0,3,17.3
+cast broad,7,7.0,"['Beauty', 'Skincare', 'Sun Care']",4.15,33367.0,3,16.3
+bed,7,21.3,['Kitchen'],4.19,27114.0,1,
+fridge,7,9.7,['Kitchen'],4.2,8869.0,1,
+electric,7,20.6,['Kitchen'],3.77,29846.0,1,
+large,7,18.4,"['Toys', 'Kitchen']",4.26,12953.0,2,34.9
+exam,7,12.9,['Books'],4.46,673.0,1,
+arihant,7,17.7,['Books'],4.46,614.0,1,
+exams,7,17.9,['Books'],4.47,557.0,1,
+mind,7,18.9,['Books'],4.51,10220.0,1,
+activity book,7,17.6,['Books'],4.46,1969.0,1,
+based,7,17.2,"['Books', 'Toilet Cleaners']",4.46,381.0,2,36.7
+numbers,7,7.0,"['Books', 'Toys']",4.5,45092.0,2,20.4
+kit,7,14.4,['Toys'],4.13,9342.0,1,
+made,7,16.0,"['Toys', 'Food']",3.9,5695.0,2,29.8
+cotton socks,7,23.0,['Clothing Women'],4.03,7876.0,1,
+formal,7,17.6,['Clothing Women'],3.99,3766.0,1,
+winter,7,12.4,['Clothing Women'],4.29,4217.0,1,
+men and,7,13.5,"['Skincare', 'Clothing Women']",4.0,7152.0,2,32.5
+heat,7,16.6,['Hair Care'],4.1,27132.0,1,
+fall control,7,19.4,['Hair Care'],4.2,31778.0,1,
+organic,7,20.2,"['Hair Care', 'Toilet Cleaners']",4.08,14412.0,2,43.2
+anti,7,22.0,"['Hair Care', 'Household Cleaners']",4.43,18756.0,2,32.5
+deodorant,7,5.5,"['Skincare', 'Body Care']",4.25,40709.0,2,25.5
+moisturizer for,7,15.8,"['Skincare', 'Body Care']",4.3,10305.0,2,29.1
+kojic,7,12.3,"['Skincare', 'Body Care']",4.17,9982.0,2,25.5
+alcohol,7,12.7,"['Skincare', 'Body Care']",4.3,30830.0,2,30.2
+liquid handwash,7,18.3,"['Skincare', 'Body Care']",4.47,59844.0,2,27.8
+gel spf,7,5.5,"['Skincare', 'Sun Care']",4.25,23070.0,2,19.7
+high,7,5.2,"['Sun Care', 'Food']",4.16,1125.0,2,17.2
+aloe,7,14.2,"['Sun Care', 'Body Care']",4.02,101.0,2,26.2

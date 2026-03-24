@@ -1,0 +1,201 @@
+keyword,frequency,avg_rank,categories,avg_rating,avg_reviews,category_count
+skin,71,15.1,['Skincare'],4.24,17846.0,1
+men,23,15.1,['Skincare'],4.2,20605.0,1
+face,22,15.1,['Skincare'],4.23,17904.0,1
+women,19,16.6,['Skincare'],4.21,15398.0,1
+spf,16,16.0,['Skincare'],4.26,13038.0,1
+all,15,16.7,['Skincare'],4.23,11858.0,1
+sunscreen,15,14.6,['Skincare'],4.26,13440.0,1
+wash,14,14.1,['Skincare'],4.25,20338.0,1
+dry,14,13.1,['Skincare'],4.35,17662.0,1
+protection,14,16.4,['Skincare'],4.29,25643.0,1
+acid,14,11.8,['Skincare'],4.21,17613.0,1
+all skin,13,14.7,['Skincare'],4.26,13156.0,1
+body,13,15.6,['Skincare'],4.35,29200.0,1
+for men,12,10.7,['Skincare'],4.16,22240.0,1
+for all,12,14.4,['Skincare'],4.24,13465.0,1
+niacinamide,12,17.2,['Skincare'],4.22,14282.0,1
+oil,12,14.1,['Skincare'],4.28,23207.0,1
+gel,11,17.4,['Skincare'],4.19,14688.0,1
+vitamin,11,12.1,['Skincare'],4.19,22295.0,1
+face wash,11,14.1,['Skincare'],4.24,19554.0,1
+serum,11,16.4,['Skincare'],4.24,21824.0,1
+types,10,12.6,['Skincare'],4.27,12818.0,1
+skin types,10,12.6,['Skincare'],4.27,12818.0,1
+spf pa,10,15.0,['Skincare'],4.27,13160.0,1
+acne,10,16.2,['Skincare'],4.2,22594.0,1
+tested,9,14.9,['Skincare'],4.28,13355.0,1
+oily,9,17.0,['Skincare'],4.23,14016.0,1
+brightening,8,14.4,['Skincare'],4.22,11194.0,1
+men women,8,10.8,['Skincare'],4.06,15420.0,1
+skin for,8,16.1,['Skincare'],4.29,18152.0,1
+lightweight,8,13.2,['Skincare'],4.22,14764.0,1
+cast,8,12.2,['Skincare'],4.25,17066.0,1
+in-vivo,8,12.5,['Skincare'],4.25,14869.0,1
+no white,8,12.2,['Skincare'],4.25,17066.0,1
+white cast,8,12.2,['Skincare'],4.25,17066.0,1
+soap,7,10.6,['Skincare'],4.13,21569.0,1
+glowing,7,14.9,['Skincare'],4.13,18545.0,1
+hyaluronic,7,15.4,['Skincare'],4.23,20370.0,1
+cream,7,12.0,['Skincare'],4.31,16362.0,1
+sunscreen spf,7,18.6,['Skincare'],4.26,12520.0,1
+hydration,7,18.0,['Skincare'],4.33,20911.0,1
+dry skin,7,14.1,['Skincare'],4.39,18335.0,1
+women men,7,21.4,['Skincare'],4.3,11793.0,1
+moisturizer,7,18.9,['Skincare'],4.27,14981.0,1
+hydrating,6,10.0,['Skincare'],4.3,22922.0,1
+broad,6,14.3,['Skincare'],4.23,18506.0,1
+spectrum,6,14.3,['Skincare'],4.23,18506.0,1
+broad spectrum,6,14.3,['Skincare'],4.23,18506.0,1
+gentle,6,13.8,['Skincare'],4.3,22716.0,1
+normal,6,12.8,['Skincare'],4.23,14486.0,1
+sensitive,6,17.8,['Skincare'],4.3,15368.0,1
+for dry,6,10.7,['Skincare'],4.33,13264.0,1
+for oily,6,15.0,['Skincare'],4.25,15700.0,1
+roll,6,7.5,['Skincare'],4.32,33944.0,1
+salicylic,6,9.2,['Skincare'],4.18,21008.0,1
+roll on,6,7.5,['Skincare'],4.32,33944.0,1
+nivea,6,15.8,['Skincare'],4.33,44273.0,1
+deep,6,16.2,['Skincare'],4.33,29904.0,1
+for women,6,19.7,['Skincare'],4.33,14885.0,1
+bright,6,13.8,['Skincare'],4.03,16581.0,1
+uva,6,16.0,['Skincare'],4.27,11140.0,1
+in-vivo tested,6,15.3,['Skincare'],4.27,11904.0,1
+formula,6,20.2,['Skincare'],4.27,37420.0,1
+glow,6,18.7,['Skincare'],4.25,25630.0,1
+pack of,5,14.2,['Skincare'],4.24,23534.0,1
+glowing skin,5,15.4,['Skincare'],4.06,13425.0,1
+non-greasy,5,12.2,['Skincare'],4.28,21880.0,1
+sensitive skin,5,15.8,['Skincare'],4.28,17474.0,1
+minimalist,5,10.4,['Skincare'],4.16,25203.0,1
+lotion,5,21.2,['Skincare'],4.38,32749.0,1
+salicylic acid,5,9.6,['Skincare'],4.16,22492.0,1
+uvb,5,16.0,['Skincare'],4.28,9486.0,1
+uva uvb,5,16.0,['Skincare'],4.28,9486.0,1
+wash with,5,14.2,['Skincare'],4.24,11917.0,1
+water,5,21.0,['Skincare'],4.18,3831.0,1
+soaps,4,6.0,['Skincare'],3.95,20950.0,1
+paraben,4,14.2,['Skincare'],4.17,25787.0,1
+for glowing,4,17.0,['Skincare'],4.1,26280.0,1
+wash ml,4,12.2,['Skincare'],4.28,24637.0,1
+light,4,11.5,['Skincare'],4.25,30026.0,1
+cleanser,4,15.0,['Skincare'],4.3,25897.0,1
+combination,4,19.5,['Skincare'],4.22,8566.0,1
+underarm,4,10.2,['Skincare'],4.3,36708.0,1
+deodorant,4,5.5,['Skincare'],4.25,40709.0,1
+fades,4,20.0,['Skincare'],4.17,8972.0,1
+liquid,4,16.5,['Skincare'],4.4,47944.0,1
+germ,4,18.8,['Skincare'],4.47,67639.0,1
+moisture,4,19.8,['Skincare'],4.43,31388.0,1
+dot,4,14.0,['Skincare'],4.28,8836.0,1
+key,4,14.0,['Skincare'],4.28,8836.0,1
+dot key,4,14.0,['Skincare'],4.28,8836.0,1
+clears,4,17.2,['Skincare'],4.22,26184.0,1
+dark,4,21.0,['Skincare'],4.12,13000.0,1
+face serum,4,8.8,['Skincare'],4.2,22419.0,1
+barrier,4,13.2,['Skincare'],4.3,10274.0,1
+repair,4,9.8,['Skincare'],4.33,7713.0,1
+moisturizer for,4,15.8,['Skincare'],4.3,10305.0,1
+soft,4,22.8,['Skincare'],4.4,35929.0,1
+for face,4,16.0,['Skincare'],4.33,20272.0,1
+reduces,4,10.2,['Skincare'],4.12,26326.0,1
+tan,4,22.8,['Skincare'],3.78,3148.0,1
+neem,4,22.0,['Skincare'],4.35,37744.0,1
+women ml,4,12.5,['Skincare'],4.22,32174.0,1
+rice,4,15.8,['Skincare'],4.2,6667.0,1
+fresh,4,18.5,['Skincare'],4.2,32569.0,1
+cocoa,4,26.5,['Skincare'],4.45,41948.0,1
+ice,4,27.0,['Skincare'],4.0,193.0,1
+bath,3,9.7,['Skincare'],3.93,18402.0,1
+paraben free,3,11.0,['Skincare'],4.17,31316.0,1
+soap for,3,9.0,['Skincare'],4.1,20527.0,1
+facial,3,18.0,['Skincare'],4.23,12785.0,1
+derma,3,11.0,['Skincare'],4.17,20427.0,1
+clinically,3,15.7,['Skincare'],4.3,37110.0,1
+the derma,3,11.0,['Skincare'],4.17,20427.0,1
+derma co,3,11.0,['Skincare'],4.17,20427.0,1
+blue light,3,10.0,['Skincare'],4.2,22500.0,1
+light protection,3,10.0,['Skincare'],4.2,22500.0,1
+cetaphil,3,17.7,['Skincare'],4.27,22576.0,1
+with niacinamide,3,12.0,['Skincare'],4.1,29639.0,1
+oily skin,3,19.3,['Skincare'],4.3,11059.0,1
+normal skin,3,15.3,['Skincare'],4.17,7862.0,1
+unisex,3,13.0,['Skincare'],4.2,16584.0,1
+lactic,3,8.7,['Skincare'],4.3,8532.0,1
+kojic,3,12.3,['Skincare'],4.17,9982.0,1
+prevents,3,17.0,['Skincare'],4.33,29690.0,1
+odour,3,6.3,['Skincare'],4.23,36165.0,1
+pigmentation,3,14.7,['Skincare'],4.07,7949.0,1
+alcohol,3,12.7,['Skincare'],4.3,30830.0,1
+underarm roll,3,12.7,['Skincare'],4.3,30830.0,1
+kojic acid,3,12.3,['Skincare'],4.17,9982.0,1
+handwash,3,18.3,['Skincare'],4.47,59844.0,1
+refill,3,18.3,['Skincare'],4.47,59844.0,1
+liquid handwash,3,18.3,['Skincare'],4.47,59844.0,1
+handwash refill,3,18.3,['Skincare'],4.47,59844.0,1
+germ protection,3,18.3,['Skincare'],4.47,59844.0,1
+care,3,7.3,['Skincare'],4.33,44507.0,1
+very,3,16.3,['Skincare'],4.4,36942.0,1
+smooth,3,17.0,['Skincare'],4.07,38227.0,1
+healthy,3,18.3,['Skincare'],4.43,48720.0,1
+body lotion,3,19.7,['Skincare'],4.43,34342.0,1
+lotion with,3,19.7,['Skincare'],4.43,34342.0,1
+hyaluronic acid,3,10.3,['Skincare'],4.33,29055.0,1
+very dry,3,16.3,['Skincare'],4.4,36942.0,1
+anti-acne,3,9.3,['Skincare'],4.2,20301.0,1
+cleansing,3,19.7,['Skincare'],4.23,18652.0,1
+control,3,8.3,['Skincare'],4.17,32848.0,1
+wash for,3,11.0,['Skincare'],4.17,17035.0,1
+skin with,3,17.0,['Skincare'],4.13,14274.0,1
+pimples,3,18.7,['Skincare'],4.23,31371.0,1
+marks,3,15.7,['Skincare'],4.17,16396.0,1
+removes,3,19.0,['Skincare'],3.93,7012.0,1
+acne marks,3,15.7,['Skincare'],4.17,16396.0,1
+ceramides,3,18.0,['Skincare'],4.23,10618.0,1
+non-comedogenic,3,12.7,['Skincare'],4.33,10026.0,1
+barrier repair,3,12.7,['Skincare'],4.3,9452.0,1
+instant,3,23.7,['Skincare'],3.97,18448.0,1
+serum with,3,16.0,['Skincare'],4.27,13468.0,1
+skin ml,3,13.7,['Skincare'],4.33,14288.0,1
+exfoliating,3,20.7,['Skincare'],3.93,6642.0,1
+wishcare,3,23.7,['Skincare'],4.37,8469.0,1
+gently,3,18.3,['Skincare'],4.33,27462.0,1
+cleanses,3,18.3,['Skincare'],4.33,27462.0,1
+gently cleanses,3,18.3,['Skincare'],4.33,27462.0,1
+men and,3,19.0,['Skincare'],4.37,25184.0,1
+and women,3,19.0,['Skincare'],4.37,25184.0,1
+spots,3,16.3,['Skincare'],4.03,20618.0,1
+long,3,8.0,['Skincare'],4.23,34542.0,1
+lasting,3,8.0,['Skincare'],4.23,34542.0,1
+nivea men,3,13.3,['Skincare'],4.23,39826.0,1
+long lasting,3,8.0,['Skincare'],4.23,34542.0,1
+rice water,3,19.7,['Skincare'],4.2,5167.0,1
+types for,3,12.3,['Skincare'],4.33,6901.0,1
+sun,3,15.0,['Skincare'],4.1,12212.0,1
+suitable,3,10.7,['Skincare'],4.2,4681.0,1
+suitable for,3,10.7,['Skincare'],4.2,4681.0,1
+uvb protection,3,16.7,['Skincare'],4.3,10576.0,1
+active,3,15.3,['Skincare'],4.17,35237.0,1
+pure,3,21.7,['Skincare'],4.4,30162.0,1
+butter,3,25.7,['Skincare'],4.37,31032.0,1
+ghar,2,11.0,['Skincare'],4.0,14395.0,1
+sandalwood,2,5.0,['Skincare'],4.0,34039.0,1
+saffron,2,11.0,['Skincare'],4.0,14395.0,1
+magic,2,11.0,['Skincare'],4.0,14395.0,1
+gms,2,11.0,['Skincare'],4.15,23494.0,1
+ghar soaps,2,11.0,['Skincare'],4.0,14395.0,1
+soaps for,2,1.0,['Skincare'],3.9,27506.0,1
+skin brightening,2,7.5,['Skincare'],4.0,24300.0,1
+refreshing,2,7.0,['Skincare'],4.15,24566.0,1
+facewash,2,13.0,['Skincare'],4.25,22116.0,1
+your,2,13.5,['Skincare'],4.3,23580.0,1
+gel spf,2,5.5,['Skincare'],4.25,23070.0,1
+cast broad,2,4.5,['Skincare'],4.15,33367.0,1
+gentle skin,2,4.0,['Skincare'],4.3,41875.0,1
+skin hydrating,2,4.0,['Skincare'],4.3,41875.0,1
+dry to,2,7.0,['Skincare'],4.3,29574.0,1
+filters,2,10.5,['Skincare'],4.2,15550.0,1
+gel sunscreen,2,10.5,['Skincare'],4.2,15550.0,1
+sunscreen for,2,13.5,['Skincare'],4.2,11824.0,1
+skin spf,2,5.5,['Skincare'],4.2,12611.0,1
+oily combination,2,17.5,['Skincare'],4.1,8343.0,1
