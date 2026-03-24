@@ -37,7 +37,7 @@ jobs:
 
       - name: Run preprocessing
         run: |
-          python preprocess_pipeline.py
+          python preprocess.py
 
       - name: Train model
         run: |
