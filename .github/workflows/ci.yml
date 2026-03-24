@@ -47,4 +47,4 @@ jobs:
 
       - name: Test app import
         run: |
-          python -c "import app; print('App works ✅')"
+          python -c "import main; print('App works ✅')"
