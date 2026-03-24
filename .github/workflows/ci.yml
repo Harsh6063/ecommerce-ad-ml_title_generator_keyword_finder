@@ -2,12 +2,15 @@ name: CI Pipeline
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   pull_request:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    env:
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
 
     steps:
       - name: Checkout code
@@ -18,6 +21,15 @@ jobs:
         with:
           python-version: "3.10"
 
+      - name: Check API Key
+        run: |
+          if [ -z "$GROQ_API_KEY" ]; then
+            echo "❌ GROQ_API_KEY is NOT set"
+            exit 1
+          else
+            echo "✅ GROQ_API_KEY is set"
+          fi
+
       - name: Install dependencies
         run: |
           pip install --upgrade pip
@@ -25,7 +37,7 @@ jobs:
 
       - name: Run preprocessing
         run: |
-          python preprocess.py
+          python preprocess_pipeline.py
 
       - name: Train model
         run: |
@@ -33,4 +45,4 @@ jobs:
 
       - name: Test app import
         run: |
-          python -c "import app; print('App loads successfully')"
+          python -c "import app; print('App works ✅')"

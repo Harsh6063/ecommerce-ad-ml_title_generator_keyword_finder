@@ -13,6 +13,12 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score
 import joblib
 from pathlib import Path
+import mlflow
+import os
+
+# ✅ FIX: set local safe path
+mlflow.set_tracking_uri("file:./mlruns")
+os.makedirs("mlruns", exist_ok=True)
 
 df = pd.read_csv("data/processed/final_dataset.csv")
 
@@ -68,7 +74,7 @@ for name, model in models.items():
 
         mlflow.log_param("model", name)
         mlflow.log_metric("r2", r2)
-        mlflow.sklearn.log_model(pipe, name)
+        mlflow.sklearn.log_model(pipe, artifact_path="model")
 
         print(name, r2)
 
