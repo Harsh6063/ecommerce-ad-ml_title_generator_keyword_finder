@@ -1,0 +1,201 @@
+keyword,frequency,avg_rank,categories,avg_rating,avg_reviews,category_count
+bags,15,18.5,['Kitchen'],4.4,30189.0,1
+warranty,12,14.9,['Kitchen'],4.08,13637.0,1
+home,12,17.4,['Kitchen'],4.01,6436.0,1
+induction,11,14.7,['Kitchen'],3.75,15341.0,1
+cooktop,10,14.3,['Kitchen'],3.69,14735.0,1
+induction cooktop,10,14.3,['Kitchen'],3.69,14735.0,1
+king,8,20.1,['Kitchen'],4.23,25998.0,1
+soft,8,16.6,['Kitchen'],4.11,31468.0,1
+stainless,8,13.4,['Kitchen'],4.03,29284.0,1
+steel,8,13.4,['Kitchen'],4.03,29284.0,1
+stainless steel,8,13.4,['Kitchen'],4.03,29284.0,1
+water,8,16.8,['Kitchen'],4.15,29583.0,1
+office,8,17.5,['Kitchen'],4.03,9767.0,1
+for home,8,17.4,['Kitchen'],3.95,7588.0,1
+electric,8,14.4,['Kitchen'],3.92,28946.0,1
+glass,7,17.1,['Kitchen'],3.73,15601.0,1
+auto,7,18.6,['Kitchen'],3.6,36399.0,1
+inches,7,16.4,['Kitchen'],4.34,30161.0,1
+size,7,18.0,['Kitchen'],4.22,15306.0,1
+bottle,7,15.9,['Kitchen'],4.13,9534.0,1
+storage,7,21.7,['Kitchen'],4.17,28660.0,1
+protection,7,19.3,['Kitchen'],3.64,2358.0,1
+air,7,24.9,['Kitchen'],4.1,15766.0,1
+led,6,16.5,['Kitchen'],3.6,21100.0,1
+display,6,15.7,['Kitchen'],3.58,16205.0,1
+kitchen,6,18.3,['Kitchen'],4.12,10190.0,1
+year,6,11.5,['Kitchen'],4.22,17738.0,1
+year warranty,6,11.5,['Kitchen'],4.22,17738.0,1
+cotton,6,23.5,['Kitchen'],4.25,27533.0,1
+bed,6,21.7,['Kitchen'],4.24,10700.0,1
+king size,6,20.5,['Kitchen'],4.22,9236.0,1
+wall,6,13.5,['Kitchen'],4.1,10504.0,1
+pack of,6,21.3,['Kitchen'],4.15,14939.0,1
+pillow,6,21.2,['Kitchen'],4.28,16965.0,1
+philips,5,11.6,['Kitchen'],4.1,23472.0,1
+cooktop with,5,12.2,['Kitchen'],3.9,18035.0,1
+led display,5,17.8,['Kitchen'],3.48,15026.0,1
+amazon,5,14.2,['Kitchen'],4.32,51313.0,1
+garbage,5,16.0,['Kitchen'],4.38,32298.0,1
+medium,5,16.4,['Kitchen'],4.35,52972.0,1
+dry,5,13.8,['Kitchen'],4.48,21353.0,1
+wet,5,13.8,['Kitchen'],4.48,21353.0,1
+garbage bags,5,16.0,['Kitchen'],4.38,32298.0,1
+cooking,5,17.0,['Kitchen'],3.78,6102.0,1
+premium,5,18.0,['Kitchen'],4.26,17277.0,1
+protector,5,20.0,['Kitchen'],4.26,42583.0,1
+cover,5,20.8,['Kitchen'],4.23,36917.0,1
+hooks,5,12.6,['Kitchen'],4.1,9959.0,1
+transparent,5,13.2,['Kitchen'],4.16,13123.0,1
+fridge,5,14.6,['Kitchen'],4.12,5426.0,1
+water bottle,5,16.0,['Kitchen'],4.16,10629.0,1
+shut-off,5,23.0,['Kitchen'],3.72,36252.0,1
+auto shut-off,5,23.0,['Kitchen'],3.72,36252.0,1
+room,5,13.2,['Kitchen'],4.12,8640.0,1
+vacuum,5,18.8,['Kitchen'],4.4,35163.0,1
+fan,5,21.4,['Kitchen'],4.1,29283.0,1
+watt,4,7.0,['Kitchen'],3.95,78603.0,1
+count,4,14.5,['Kitchen'],4.35,34524.0,1
+rolls,4,16.2,['Kitchen'],4.43,30611.0,1
+bags rolls,4,16.2,['Kitchen'],4.43,30611.0,1
+machine,4,8.2,['Kitchen'],4.32,13070.0,1
+warranty black,4,17.0,['Kitchen'],3.95,3731.0,1
+watts,4,14.0,['Kitchen'],3.97,10221.0,1
+feel,4,23.2,['Kitchen'],4.27,40818.0,1
+cotton feel,4,23.2,['Kitchen'],4.27,40818.0,1
+home office,4,16.2,['Kitchen'],3.95,6998.0,1
+set of,4,7.5,['Kitchen'],4.1,27529.0,1
+large,4,20.8,['Kitchen'],4.37,10218.0,1
+preset,4,15.0,['Kitchen'],3.65,1643.0,1
+touch,4,15.0,['Kitchen'],3.65,1643.0,1
+boiling,4,11.0,['Kitchen'],3.77,48478.0,1
+control,4,19.8,['Kitchen'],3.68,14701.0,1
+modes,4,20.8,['Kitchen'],3.73,3401.0,1
+bag,4,22.5,['Kitchen'],4.47,16029.0,1
+lid,4,21.0,['Kitchen'],4.03,12284.0,1
+plastic,4,18.0,['Kitchen'],4.03,6566.0,1
+crystal,3,18.7,['Kitchen'],3.43,24638.0,1
+off,3,9.3,['Kitchen'],3.93,27344.0,1
+crystal glass,3,18.7,['Kitchen'],3.43,24638.0,1
+brand,3,14.3,['Kitchen'],4.4,33017.0,1
+presto,3,14.3,['Kitchen'],4.4,33017.0,1
+waste,3,14.3,['Kitchen'],4.4,33017.0,1
+amazon brand,3,14.3,['Kitchen'],4.4,33017.0,1
+brand presto,3,14.3,['Kitchen'],4.4,33017.0,1
+presto garbage,3,14.3,['Kitchen'],4.4,33017.0,1
+count bags,3,14.3,['Kitchen'],4.4,33017.0,1
+rolls inches,3,14.3,['Kitchen'],4.4,33017.0,1
+inches for,3,14.3,['Kitchen'],4.4,33017.0,1
+for dry,3,14.3,['Kitchen'],4.4,33017.0,1
+dry wet,3,14.3,['Kitchen'],4.4,33017.0,1
+wet waste,3,14.3,['Kitchen'],4.4,33017.0,1
+waste black,3,14.3,['Kitchen'],4.4,33017.0,1
+button,3,17.3,['Kitchen'],3.47,713.0,1
+food,3,7.7,['Kitchen'],4.17,10345.0,1
+automatic,3,7.0,['Kitchen'],3.97,10147.0,1
+indian,3,18.0,['Kitchen'],3.33,4447.0,1
+menu,3,12.3,['Kitchen'],3.5,4521.0,1
+saver,3,17.3,['Kitchen'],3.8,3877.0,1
+timer,3,14.0,['Kitchen'],3.87,6562.0,1
+silver,3,14.0,['Kitchen'],4.27,74617.0,1
+waterproof,3,21.7,['Kitchen'],4.27,54424.0,1
+mattress,3,21.7,['Kitchen'],4.27,54424.0,1
+x72,3,14.3,['Kitchen'],4.23,29525.0,1
+breathable,3,21.7,['Kitchen'],4.27,54424.0,1
+ultra,3,21.7,['Kitchen'],4.27,54424.0,1
+fitted,3,21.0,['Kitchen'],4.25,16547.0,1
+mattress protector,3,21.7,['Kitchen'],4.27,54424.0,1
+ultra soft,3,21.7,['Kitchen'],4.27,54424.0,1
+photo,3,10.7,['Kitchen'],4.07,11446.0,1
+hanging,3,10.7,['Kitchen'],4.07,11446.0,1
+hooks for,3,10.7,['Kitchen'],4.07,11446.0,1
+clothes,3,19.0,['Kitchen'],4.25,12882.0,1
+for clothes,3,19.0,['Kitchen'],4.25,12882.0,1
+overheat,3,17.3,['Kitchen'],3.2,4081.0,1
+overheat protection,3,17.3,['Kitchen'],3.2,4081.0,1
+bags for,3,20.3,['Kitchen'],4.2,13015.0,1
+kettle,3,22.0,['Kitchen'],3.87,61483.0,1
+electric kettle,3,22.0,['Kitchen'],3.87,61483.0,1
+star,3,19.0,['Kitchen'],4.13,24176.0,1
+hand,3,18.0,['Kitchen'],4.3,49267.0,1
+bis,3,20.7,['Kitchen'],4.0,1097.0,1
+cooking modes,3,24.7,['Kitchen'],3.6,534.0,1
+modes auto,3,24.7,['Kitchen'],3.6,534.0,1
+protection led,3,24.7,['Kitchen'],3.6,534.0,1
+design,3,15.0,['Kitchen'],4.13,6463.0,1
+proof,3,26.0,['Kitchen'],4.13,17999.0,1
+milton,3,21.7,['Kitchen'],3.9,9246.0,1
+school,3,15.0,['Kitchen'],3.97,7836.0,1
+for office,3,15.3,['Kitchen'],4.17,12024.0,1
+ceiling,3,16.3,['Kitchen'],4.17,39214.0,1
+energy,3,23.0,['Kitchen'],3.6,22060.0,1
+years,3,26.3,['Kitchen'],3.97,9913.0,1
+ceiling fan,3,16.3,['Kitchen'],4.17,39214.0,1
+coffee,3,2.0,['Kitchen'],4.6,14150.0,1
+frother,3,2.0,['Kitchen'],4.6,14150.0,1
+egg,3,7.0,['Kitchen'],4.03,8540.0,1
+soft touch,3,15.7,['Kitchen'],3.87,2113.0,1
+paper,3,11.0,['Kitchen'],4.1,2003.0,1
+travel,3,17.3,['Kitchen'],4.1,4424.0,1
+cooker,3,19.0,['Kitchen'],4.4,21398.0,1
+satin,3,26.0,['Kitchen'],4.3,6552.0,1
+watt induction,2,1.5,['Kitchen'],3.85,63771.0,1
+pigeon,2,9.0,['Kitchen'],3.8,124082.0,1
+with crystal,2,13.0,['Kitchen'],3.9,36952.0,1
+bags medium,2,12.5,['Kitchen'],4.45,40152.0,1
+fresh,2,10.5,['Kitchen'],4.2,366.0,1
+roses,2,4.0,['Kitchen'],4.2,430.0,1
+prestige,2,12.0,['Kitchen'],3.75,6665.0,1
+iris,2,12.0,['Kitchen'],3.75,6665.0,1
+prestige iris,2,12.0,['Kitchen'],3.75,6665.0,1
+indian menu,2,12.0,['Kitchen'],3.75,6665.0,1
+maker,2,4.5,['Kitchen'],4.5,20868.0,1
+hypoallergenic,2,19.0,['Kitchen'],4.25,76283.0,1
+waterproof premium,2,17.5,['Kitchen'],4.25,24820.0,1
+premium cotton,2,17.5,['Kitchen'],4.25,24820.0,1
+feel mattress,2,17.5,['Kitchen'],4.25,24820.0,1
+protector king,2,17.5,['Kitchen'],4.25,24820.0,1
+size x72,2,17.5,['Kitchen'],4.25,24820.0,1
+fitted bed,2,17.5,['Kitchen'],4.25,24820.0,1
+bed protector,2,17.5,['Kitchen'],4.25,24820.0,1
+frame,2,9.0,['Kitchen'],4.0,15929.0,1
+self,2,11.5,['Kitchen'],4.1,9205.0,1
+adhesive,2,11.5,['Kitchen'],4.1,9205.0,1
+strong,2,19.0,['Kitchen'],3.95,15001.0,1
+nail,2,11.5,['Kitchen'],4.1,9205.0,1
+hook,2,11.5,['Kitchen'],4.1,9205.0,1
+photo frame,2,9.0,['Kitchen'],4.0,15929.0,1
+for wall,2,9.0,['Kitchen'],4.0,15929.0,1
+self adhesive,2,11.5,['Kitchen'],4.1,9205.0,1
+adhesive hooks,2,11.5,['Kitchen'],4.1,9205.0,1
+gym,2,18.0,['Kitchen'],4.1,13478.0,1
+travelling,2,7.5,['Kitchen'],4.05,2464.0,1
+bpa,2,7.5,['Kitchen'],4.05,2464.0,1
+office gym,2,18.0,['Kitchen'],4.1,13478.0,1
+bpa free,2,7.5,['Kitchen'],4.05,2464.0,1
+printed,2,19.5,['Kitchen'],4.1,10656.0,1
+tank,2,12.0,['Kitchen'],4.35,12584.0,1
+diamond,2,10.0,['Kitchen'],3.65,3583.0,1
+full,2,18.5,['Kitchen'],3.5,1058.0,1
+milk,2,7.5,['Kitchen'],3.8,7191.0,1
+ezee,2,15.0,['Kitchen'],4.2,39045.0,1
+dustbin,2,18.5,['Kitchen'],4.35,31218.0,1
+medium inches,2,18.5,['Kitchen'],4.35,31218.0,1
+plus,2,17.0,['Kitchen'],3.85,88283.0,1
+body,2,22.5,['Kitchen'],3.95,94470.0,1
+projector,2,18.0,['Kitchen'],4.1,6357.0,1
+rotating,2,21.0,['Kitchen'],4.05,4120.0,1
+remote,2,14.0,['Kitchen'],4.15,28914.0,1
+adjustable,2,9.5,['Kitchen'],4.2,43283.0,1
+space,2,20.5,['Kitchen'],4.1,3178.0,1
+bedroom,2,11.0,['Kitchen'],4.15,7298.0,1
+with remote,2,14.0,['Kitchen'],4.15,28914.0,1
+remote control,2,14.0,['Kitchen'],4.15,28914.0,1
+basics,2,14.0,['Kitchen'],4.2,78756.0,1
+compression,2,21.0,['Kitchen'],4.3,72755.0,1
+pump,2,21.0,['Kitchen'],4.3,72755.0,1
+amazon basics,2,14.0,['Kitchen'],4.2,78756.0,1
+compression storage,2,21.0,['Kitchen'],4.3,72755.0,1
+storage bags,2,21.0,['Kitchen'],4.3,72755.0,1
+with hand,2,21.0,['Kitchen'],4.3,72755.0,1

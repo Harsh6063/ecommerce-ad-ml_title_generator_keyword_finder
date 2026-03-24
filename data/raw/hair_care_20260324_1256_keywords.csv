@@ -1,0 +1,201 @@
+keyword,frequency,avg_rank,categories,avg_rating,avg_reviews,category_count
+hair,129,16.6,['Hair Care'],4.21,17102.0,1
+shampoo,30,18.5,['Hair Care'],4.21,21303.0,1
+women,21,15.5,['Hair Care'],4.19,19026.0,1
+men,20,15.2,['Hair Care'],4.21,19277.0,1
+oil,18,11.8,['Hair Care'],4.31,25287.0,1
+fall,18,19.1,['Hair Care'],4.25,25912.0,1
+hair fall,17,19.2,['Hair Care'],4.26,27197.0,1
+growth,16,17.0,['Hair Care'],4.24,14306.0,1
+hair growth,16,17.0,['Hair Care'],4.24,14306.0,1
+shampoo for,15,20.2,['Hair Care'],4.21,25054.0,1
+rosemary,12,16.5,['Hair Care'],4.23,6020.0,1
+for men,12,15.6,['Hair Care'],4.23,24564.0,1
+men women,12,15.6,['Hair Care'],4.23,24564.0,1
+dry,12,16.1,['Hair Care'],4.27,19973.0,1
+control,11,16.6,['Hair Care'],4.2,29085.0,1
+paris,10,12.6,['Hair Care'],4.28,15368.0,1
+smooth,10,12.9,['Hair Care'],4.23,18196.0,1
+all,10,16.7,['Hair Care'],4.23,12822.0,1
+types,10,16.7,['Hair Care'],4.23,12822.0,1
+all hair,10,16.7,['Hair Care'],4.23,12822.0,1
+hair types,10,16.7,['Hair Care'],4.23,12822.0,1
+natural,9,17.9,['Hair Care'],4.17,10853.0,1
+serum,9,15.3,['Hair Care'],4.2,17190.0,1
+scalp,9,15.7,['Hair Care'],4.18,8382.0,1
+for hair,9,21.4,['Hair Care'],4.22,12925.0,1
+for women,8,16.1,['Hair Care'],4.15,12697.0,1
+for all,8,15.0,['Hair Care'],4.16,15597.0,1
+shine,8,19.5,['Hair Care'],4.3,10898.0,1
+for dry,8,15.0,['Hair Care'],4.26,21858.0,1
+keratin,8,14.5,['Hair Care'],4.24,34099.0,1
+spray,8,17.4,['Hair Care'],4.15,2226.0,1
+paraben,8,15.4,['Hair Care'],4.2,16087.0,1
+l'or,7,15.9,['Hair Care'],4.2,13740.0,1
+colour,7,12.6,['Hair Care'],4.1,10622.0,1
+l'or al,7,15.9,['Hair Care'],4.2,13740.0,1
+women men,7,12.6,['Hair Care'],4.19,12397.0,1
+heat,7,16.7,['Hair Care'],4.1,27147.0,1
+conditioner,7,12.7,['Hair Care'],4.3,15639.0,1
+fall control,7,19.4,['Hair Care'],4.2,31790.0,1
+hair colour,6,14.5,['Hair Care'],4.07,11256.0,1
+acid,6,13.8,['Hair Care'],4.27,9939.0,1
+strong,6,16.2,['Hair Care'],4.18,19750.0,1
+redensyl,6,15.3,['Hair Care'],4.22,4470.0,1
+gloss,6,20.3,['Hair Care'],4.3,11693.0,1
+color,6,13.8,['Hair Care'],4.03,17690.0,1
+hair color,6,13.8,['Hair Care'],4.03,17690.0,1
+coconut,6,13.3,['Hair Care'],4.28,27958.0,1
+damaged,6,18.2,['Hair Care'],4.23,26417.0,1
+hair ml,6,16.7,['Hair Care'],4.15,8370.0,1
+hair with,6,14.5,['Hair Care'],4.2,11441.0,1
+spray for,6,17.3,['Hair Care'],4.17,1902.0,1
+paraben free,6,14.0,['Hair Care'],4.25,18095.0,1
+brown,5,10.8,['Hair Care'],4.12,13918.0,1
+al paris,5,12.4,['Hair Care'],4.26,12786.0,1
+bare,5,9.4,['Hair Care'],4.18,4757.0,1
+anatomy,5,9.4,['Hair Care'],4.18,4757.0,1
+bare anatomy,5,9.4,['Hair Care'],4.18,4757.0,1
+l'oreal,5,12.8,['Hair Care'],4.3,17950.0,1
+powered,5,13.0,['Hair Care'],4.34,13706.0,1
+l'oreal paris,5,12.8,['Hair Care'],4.3,17950.0,1
+powered by,5,13.0,['Hair Care'],4.34,13706.0,1
+moisture,5,11.0,['Hair Care'],4.3,16525.0,1
+glycolic,5,22.6,['Hair Care'],4.32,7479.0,1
+parachute,5,15.8,['Hair Care'],4.32,18780.0,1
+damaged hair,5,19.4,['Hair Care'],4.22,24248.0,1
+pack of,5,18.0,['Hair Care'],4.06,6837.0,1
+water,5,20.8,['Hair Care'],4.44,1297.0,1
+strengthens,5,20.6,['Hair Care'],4.26,13544.0,1
+frizzy,5,11.4,['Hair Care'],4.28,27928.0,1
+frizzy hair,5,11.4,['Hair Care'],4.28,27928.0,1
+hair oil,5,9.0,['Hair Care'],4.3,16899.0,1
+types ml,5,21.4,['Hair Care'],4.22,5226.0,1
+dandruff,4,7.5,['Hair Care'],4.05,17009.0,1
+smooth hair,4,11.8,['Hair Care'],4.15,5742.0,1
+hairfall,4,9.0,['Hair Care'],4.18,12294.0,1
+growth serum,4,13.0,['Hair Care'],4.17,6598.0,1
+protection,4,11.0,['Hair Care'],4.08,13353.0,1
+hyaluron,4,11.2,['Hair Care'],4.28,11620.0,1
+acid for,4,16.5,['Hair Care'],4.32,10515.0,1
+shampoo ml,4,14.8,['Hair Care'],4.25,25913.0,1
+hair for,4,16.8,['Hair Care'],4.15,28396.0,1
+coconut oil,4,13.5,['Hair Care'],4.33,40784.0,1
+oil ml,4,12.5,['Hair Care'],4.28,30550.0,1
+anagain,4,18.5,['Hair Care'],4.35,3846.0,1
+advanced,4,16.0,['Hair Care'],4.05,3787.0,1
+rice,4,15.5,['Hair Care'],4.3,3432.0,1
+density,4,19.2,['Hair Care'],4.15,4473.0,1
+redensyl anagain,4,18.5,['Hair Care'],4.35,3846.0,1
+professionnel,4,20.8,['Hair Care'],4.17,10762.0,1
+repair,4,15.8,['Hair Care'],4.2,21341.0,1
+professional,4,20.8,['Hair Care'],4.17,10762.0,1
+strengthening,4,19.5,['Hair Care'],4.23,20232.0,1
+protein,4,15.8,['Hair Care'],4.22,27979.0,1
+al professionnel,4,20.8,['Hair Care'],4.17,10762.0,1
+ml professional,4,20.8,['Hair Care'],4.17,10762.0,1
+ammonia,4,22.5,['Hair Care'],4.0,10690.0,1
+extracts,4,18.5,['Hair Care'],4.05,7653.0,1
+healthy,4,22.2,['Hair Care'],4.15,20552.0,1
+with keratin,4,11.8,['Hair Care'],4.28,35040.0,1
+pure,4,14.2,['Hair Care'],4.25,7843.0,1
+extract,4,16.5,['Hair Care'],4.23,1253.0,1
+frizz,4,13.2,['Hair Care'],4.3,32810.0,1
+dry frizzy,4,12.0,['Hair Care'],4.3,31537.0,1
+skin,4,13.5,['Hair Care'],4.12,2222.0,1
+long,4,20.8,['Hair Care'],4.15,13029.0,1
+anti,4,20.5,['Hair Care'],4.4,20474.0,1
+ml hair,4,13.2,['Hair Care'],4.15,34125.0,1
+permanent,3,10.7,['Hair Care'],4.1,3842.0,1
+darkest,3,7.7,['Hair Care'],4.17,20496.0,1
+permanent hair,3,10.7,['Hair Care'],4.1,3842.0,1
+up to,3,1.3,['Hair Care'],4.23,9029.0,1
+darkest brown,3,7.7,['Hair Care'],4.17,20496.0,1
+anti-dandruff,3,4.3,['Hair Care'],4.1,16186.0,1
+unisex,3,15.3,['Hair Care'],4.17,6884.0,1
+anti-dandruff shampoo,3,4.3,['Hair Care'],4.1,16186.0,1
+serum for,3,17.0,['Hair Care'],4.23,17818.0,1
+irritation,3,9.3,['Hair Care'],4.03,18196.0,1
+hair serum,3,15.0,['Hair Care'],4.23,40687.0,1
+heat protection,3,10.3,['Hair Care'],4.1,16734.0,1
+hyaluronic,3,9.7,['Hair Care'],4.27,14624.0,1
+hyaluronic acid,3,9.7,['Hair Care'],4.27,14624.0,1
+or al,3,17.3,['Hair Care'],4.27,8115.0,1
+complex,3,13.0,['Hair Care'],4.27,12451.0,1
+glycolic gloss,3,20.3,['Hair Care'],4.3,11693.0,1
+bottle,3,10.0,['Hair Care'],4.3,40295.0,1
+parachute coconut,3,17.7,['Hair Care'],4.4,29762.0,1
+regrowth,3,19.3,['Hair Care'],4.37,4108.0,1
+ml for,3,20.3,['Hair Care'],4.17,4732.0,1
+hair regrowth,3,19.3,['Hair Care'],4.37,4108.0,1
+repairing,3,17.0,['Hair Care'],4.17,16035.0,1
+repair shampoo,3,12.7,['Hair Care'],4.23,24494.0,1
+professional shampoo,3,19.3,['Hair Care'],4.2,10388.0,1
+organic,3,19.0,['Hair Care'],4.0,19224.0,1
+free hair,3,13.3,['Hair Care'],4.2,22605.0,1
+controls,3,15.7,['Hair Care'],4.3,7644.0,1
+rosemary water,3,21.0,['Hair Care'],4.4,1611.0,1
+roots,3,21.3,['Hair Care'],4.37,2505.0,1
+reduces,3,18.3,['Hair Care'],4.0,23402.0,1
+breakage,3,12.3,['Hair Care'],4.13,13533.0,1
+control with,3,15.7,['Hair Care'],4.2,43995.0,1
+ppd,3,25.7,['Hair Care'],4.0,6953.0,1
+rosemary hair,3,18.3,['Hair Care'],4.27,9594.0,1
+mask,3,17.3,['Hair Care'],4.2,8481.0,1
+mask for,3,17.3,['Hair Care'],4.2,8481.0,1
+dove,3,19.3,['Hair Care'],4.3,36798.0,1
+mild,3,22.0,['Hair Care'],4.3,31077.0,1
+hair mild,3,22.0,['Hair Care'],4.3,31077.0,1
+anti hair,3,24.7,['Hair Care'],4.43,18761.0,1
+dryer,3,17.3,['Hair Care'],4.13,24874.0,1
+for smooth,3,15.7,['Hair Care'],4.3,20056.0,1
+smoothens,3,20.7,['Hair Care'],4.2,20432.0,1
+strengthens hair,3,21.7,['Hair Care'],4.4,5665.0,1
+coverage,2,11.0,['Hair Care'],4.05,10407.0,1
+pro-keratin,2,9.5,['Hair Care'],4.25,10184.0,1
+colour with,2,11.0,['Hair Care'],4.05,10407.0,1
+grey coverage,2,11.0,['Hair Care'],4.05,10407.0,1
+cr me,2,5.0,['Hair Care'],4.25,19792.0,1
+brown ml,2,5.0,['Hair Care'],4.25,19792.0,1
+reduction,2,2.5,['Hair Care'],4.1,12360.0,1
+salicylic,2,8.5,['Hair Care'],4.15,8788.0,1
+biotin,2,6.0,['Hair Care'],4.1,8324.0,1
+non-drying,2,4.5,['Hair Care'],4.1,10468.0,1
+formula,2,3.5,['Hair Care'],4.2,28614.0,1
+for strong,2,13.0,['Hair Care'],4.1,17452.0,1
+strong smooth,2,4.5,['Hair Care'],4.1,10468.0,1
+unisex ml,2,9.5,['Hair Care'],4.1,8759.0,1
+saw,2,3.0,['Hair Care'],4.1,11271.0,1
+tested,2,3.5,['Hair Care'],4.1,19447.0,1
+for scalp,2,7.0,['Hair Care'],4.1,10076.0,1
+redensyl rosemary,2,9.0,['Hair Care'],3.95,5716.0,1
+rosemary oil,2,8.5,['Hair Care'],4.45,6668.0,1
+tested for,2,3.5,['Hair Care'],4.1,19447.0,1
+women ml,2,12.0,['Hair Care'],4.05,28965.0,1
+scalpe,2,4.0,['Hair Care'],4.1,27623.0,1
+daily,2,15.5,['Hair Care'],4.2,40230.0,1
+removes,2,5.5,['Hair Care'],4.1,17554.0,1
+source,2,5.5,['Hair Care'],4.1,17554.0,1
+prevents,2,5.5,['Hair Care'],4.2,30470.0,1
+itching,2,5.5,['Hair Care'],4.1,17554.0,1
+science,2,10.0,['Hair Care'],4.15,14505.0,1
+removes dandruff,2,5.5,['Hair Care'],4.1,17554.0,1
+dandruff from,2,5.5,['Hair Care'],4.1,17554.0,1
+from source,2,5.5,['Hair Care'],4.1,17554.0,1
+itching irritation,2,5.5,['Hair Care'],4.1,17554.0,1
+men ml,2,7.0,['Hair Care'],4.1,15411.0,1
+floral,2,14.0,['Hair Care'],4.35,22434.0,1
+frizz-free,2,5.5,['Hair Care'],4.3,32268.0,1
+stronger,2,6.0,['Hair Care'],4.3,38549.0,1
+provides,2,11.0,['Hair Care'],4.2,23924.0,1
+oil hair,2,14.0,['Hair Care'],4.25,32776.0,1
+fresh,2,16.0,['Hair Care'],4.2,13506.0,1
+sealing,2,14.5,['Hair Care'],4.35,10922.0,1
+millilitres,2,11.0,['Hair Care'],4.3,11682.0,1
+hyaluron moisture,2,7.0,['Hair Care'],4.3,19873.0,1
+sealing conditioner,2,14.5,['Hair Care'],4.35,10922.0,1
+conditioner powered,2,14.5,['Hair Care'],4.35,10922.0,1
+pilgrim,2,9.0,['Hair Care'],4.1,8183.0,1
+tea,2,16.5,['Hair Care'],4.1,6872.0,1
+adds,2,12.0,['Hair Care'],4.25,10189.0,1
+shampoo with,2,18.5,['Hair Care'],4.3,18034.0,1

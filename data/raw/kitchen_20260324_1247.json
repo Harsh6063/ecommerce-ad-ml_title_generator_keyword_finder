@@ -1,0 +1,3485 @@
+{
+  "products": [
+    {
+      "rank": 1,
+      "asin": "B00EDJJ7FS",
+      "title": "Philips Viva Collection HD4928/01 2100-Watt Induction Cooktop (Black)",
+      "brand": "Philips",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 54245,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61TDmpQ6-2L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Philips-Collection-HD4928-01-2100-Watt/dp/B00EDJJ7FS/ref=zg_bs_g_kitchen_d_sccl_1/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.693143",
+      "page_number": 1,
+      "title_word_count": 8,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 2,
+      "asin": "B01GFTEV5Y",
+      "title": "Pigeon by Stovekraft Cruise 1800 watt Induction Cooktop With Crystal Glass,7 Segments LED Display, Auto Switch Off - Black",
+      "brand": "Pigeon",
+      "price": null,
+      "currency": "INR",
+      "rating": 3.6,
+      "review_count": 73297,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61aM36RGwgL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Pigeon-Stovekraft-Cruise-1800-Watt-Induction/dp/B01GFTEV5Y/ref=zg_bs_g_kitchen_d_sccl_2/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.694382",
+      "page_number": 1,
+      "title_word_count": 19,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 3,
+      "asin": "B0821PN8L4",
+      "title": "Amazon Brand - Presto! Garbage Bags | Medium | 180 Count | 30 Bags X 6 Rolls | 19 X 21 Inches | For Dry & Wet Waste | Black",
+      "brand": "Amazon",
+      "price": 335.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 56913,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61fn1xtHO4L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Amazon-Brand-Presto-Oxo-Biodegradable-Garbage/dp/B0821PN8L4/ref=zg_bs_g_kitchen_d_sccl_3/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.695426",
+      "page_number": 1,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 4,
+      "asin": "B0FQ5JVLL8",
+      "title": "Fresh Assorted Roses (Button Roses), 100g",
+      "brand": "Fresh",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 430,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61tZVx+LpKL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Fresh-Assorted-Roses-Button-100g/dp/B0FQ5JVLL8/ref=zg_bs_g_kitchen_d_sccl_4/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.696991",
+      "page_number": 1,
+      "title_word_count": 6,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 5,
+      "asin": "B083C6XMKQ",
+      "title": "ATOM ALISTON K1 Series Digital Kitchen Weighing Scale 10 kg, Electronic Weight Machine with LCD Display for Baking, Cooking, Food & Diet, SF-400/A121. 6Months Warranty (Colour May Vary)",
+      "brand": "ATOM",
+      "price": 215.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 22097,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71775fRr+gL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Kitchen-Manufacturer-Warranty-capacity-SF400/dp/B083C6XMKQ/ref=zg_bs_g_kitchen_d_sccl_5/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.697999",
+      "page_number": 1,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 6,
+      "asin": "B0C4DMRHYG",
+      "title": "Prestige IRIS ECO 1200 W Induction Cooktop with automatic voltage regulator |Indian Menu option|Power Saver|Timer with User Pre-Set|1 year warranty|Black",
+      "brand": "1 offer from\u20b92,299.00",
+      "price": 2299.0,
+      "currency": "INR",
+      "rating": 3.8,
+      "review_count": 11631,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Vu80YcolL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Prestige-IRIS-ECO-Induction-automatic/dp/B0C4DMRHYG/ref=zg_bs_g_kitchen_d_sccl_6/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.699022",
+      "page_number": 1,
+      "title_word_count": 20,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "high"
+    },
+    {
+      "rank": 7,
+      "asin": "B09J2T124D",
+      "title": "NutriPro Juicer Mixer Grinder - Smoothie Maker - 500 Watts (2 Jars & 1 Blade, Silver) - 2 Year Warranty",
+      "brand": "NutriPro",
+      "price": 1599.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 27585,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71rH4vEE4nL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/NutriPro-Bullet-Juicer-Grinder-Blades/dp/B09J2T124D/ref=zg_bs_g_kitchen_d_sccl_7/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.700017",
+      "page_number": 1,
+      "title_word_count": 20,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 8,
+      "asin": "B01A57IV58",
+      "title": "Trance 100% Waterproof Premium Cotton Feel Mattress Protector King Size 78x72 Inches | Breathable and Hypoallergenic Ultra Soft Fitted Bed Protector Cover (78\"x72\" King, Grey)",
+      "brand": "Trance",
+      "price": 574.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 38935,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Mx6KEz3QL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Trance-Home-Linen-Waterproof-Dustproof/dp/B01A57IV58/ref=zg_bs_g_kitchen_d_sccl_8/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.701045",
+      "page_number": 1,
+      "title_word_count": 25,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 9,
+      "asin": "B0CCM8L54V",
+      "title": "Zulaxy Photo Frame Hooks for Wall Without Drilling, 10 Pack Self Adhesive Hooks for Wall Heavy Duty Strong Nail Free for Hanging Photo Frame (Hanging Hook, Transparent) Stainless Steel",
+      "brand": "Zulaxy",
+      "price": 269.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 15929,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61WnmpLwAQL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Zulaxy-Drilling-Adhesive-Transparent-Stainless/dp/B0CCM8L54V/ref=zg_bs_g_kitchen_d_sccl_9/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.702077",
+      "page_number": 1,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 10,
+      "asin": "B0DRCYP93L",
+      "title": "PEXPO Water Bottle 1 ltr Stainless Steel Sports/Fridge Bottle with Sipper Cap | Single Wall | For Home, Office, Gym, Travelling | Lightweight | BPA Free | Craft Pro 950ml | Pink-Purple Ombre",
+      "brand": "PEXPO",
+      "price": 298.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 4365,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/5178rwvPctL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/PEXPO-Certified-Stainless-Purple-Pink-Friendly/dp/B0DRCYP93L/ref=zg_bs_g_kitchen_d_sccl_10/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.703137",
+      "page_number": 1,
+      "title_word_count": 33,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 11,
+      "asin": "B08LQRXXNB",
+      "title": "Homestrap Set of 6 Non-Woven Printed Saree Cover/Cloth Storage/Wardrobe Organizer For Clothes with Transparent Window (Grey)(Shark Tank Featured) 45cmx33cmx22cm",
+      "brand": "Homestrap",
+      "price": 327.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 21312,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71zjvUApaRL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Homestrap-Non-Woven-Organizer-Transparent-Featured/dp/B08LQRXXNB/ref=zg_bs_g_kitchen_d_sccl_11/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.704223",
+      "page_number": 1,
+      "title_word_count": 19,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 12,
+      "asin": "B0821PYKVK",
+      "title": "Amazon Brand - Presto! Garbage Bags | Large | 90 Count | 15 Bags X 6 Rolls | 24 X 32 Inches | For Dry & Wet Waste | Black",
+      "brand": "Amazon",
+      "price": 329.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 16793,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61fn1xtHO4L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Amazon-Brand-Presto-Oxo-Biodegradable-Garbage/dp/B0821PYKVK/ref=zg_bs_g_kitchen_d_sccl_12/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.705315",
+      "page_number": 1,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 13,
+      "asin": "B0C6LZV3W2",
+      "title": "KENT Diamond Induction Cooktop 2000W|8 Preset Menu|Full Microcrystalline Glass|Feather Touch Buttons & Led Display|Milk Boiling & Keep Warm Function|Overheat Protection & Auto Turn-Off, Radiant,Black",
+      "brand": "KENT",
+      "price": 4498.0,
+      "currency": "INR",
+      "rating": 3.0,
+      "review_count": 232,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/617LpMjiSSL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/KENT-Induction-Microcrystalline-Function-Protection/dp/B0C6LZV3W2/ref=zg_bs_g_kitchen_d_sccl_13/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.707178",
+      "page_number": 1,
+      "title_word_count": 24,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 14,
+      "asin": "B0CMTZ92DC",
+      "title": "JIALTO 20 Pcs Self Adhesive Hooks for Secure Wall Hanging - Versatile 6mm Nail Hook for Photo Frames Hooks, Clocks, and More - Transparent, Heavy-Duty, No-Drill Solution",
+      "brand": "JIALTO",
+      "price": 199.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 2481,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61dhl+OHAhL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/JIALTO-Adhesive-Hooks-Secure-Hanging/dp/B0CMTZ92DC/ref=zg_bs_g_kitchen_d_sccl_14/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.709038",
+      "page_number": 1,
+      "title_word_count": 27,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 15,
+      "asin": "B06VX8YR6Q",
+      "title": "Ezee Live Life Ezee Way Black Garbage Bags for Dustbin|90 Pcs|Medium 19 X 21 Inches|30 Pcs X Pack of 3, 3 count",
+      "brand": "Ezee",
+      "price": 169.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 39045,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71erHCKJ3WL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Ezee-Garbage-Bag-inches-Pieces/dp/B06VX8YR6Q/ref=zg_bs_g_kitchen_d_sccl_15/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.710881",
+      "page_number": 1,
+      "title_word_count": 22,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 16,
+      "asin": "B07WMS7TWB",
+      "title": "Pigeon Amaze Plus Electric Kettle 1.5 L, 1300 Watt, Stainless Steel Body with Auto Shut-off Feature Used for Boiling Water - (Silver)",
+      "brand": "Pigeon",
+      "price": 579.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 174867,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51DGcy8eBCL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Pigeon-Electric-Stainless-Shut-off-Feature/dp/B07WMS7TWB/ref=zg_bs_g_kitchen_d_sccl_16/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.712429",
+      "page_number": 1,
+      "title_word_count": 22,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 17,
+      "asin": "B0BPYPDN96",
+      "title": "Fresh Chrysanthemum/Shevanti Flower Yellow, 100 g",
+      "brand": "Fresh",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 303,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61y171hdhJL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Fresh-Chrysanthemum-Shevanti-Flower-Yellow/dp/B0BPYPDN96/ref=zg_bs_g_kitchen_d_sccl_17/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.714629",
+      "page_number": 1,
+      "title_word_count": 6,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 18,
+      "asin": "B0DN1RWNSQ",
+      "title": "One94Store Astronaut Galaxy Projector Night Light \u2013 360\u00b0 Rotating Nebula Star Projector with Remote Control, Timer & Adjustable Head \u2013 Space Lamp for Kids\u2019 Bedroom, Gifts, Gaming Room, Home & D\u00e9cor",
+      "brand": "One94Store",
+      "price": 649.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 6357,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81r6tIbS1cL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/One94store-Astronaut-Galaxy-Projector-Night/dp/B0DN1RWNSQ/ref=zg_bs_g_kitchen_d_sccl_18/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.715785",
+      "page_number": 1,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 19,
+      "asin": "B07RTJV6G4",
+      "title": "amazon basics Vacuum Compression Storage Bags with Hand Pump - Medium, 5-Pack",
+      "brand": "amazon",
+      "price": 526.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 145510,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71qEqnkZg8L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/AmazonBasics-Vacuum-Compression-Storage-Medium/dp/B07RTJV6G4/ref=zg_bs_g_kitchen_d_sccl_19/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.716935",
+      "page_number": 1,
+      "title_word_count": 12,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 20,
+      "asin": "B0FHQB7HXR",
+      "title": "Cadlec CookEase 2000W Induction Cooktop | 8 Cooking Modes, Auto Shut-Off, Over-Heat Protection, LED Display, BIS Approved, 2-Year Warranty | Black",
+      "brand": "Cadlec",
+      "price": 3149.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 986,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71UpjvAGchL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/CookEase-Induction-Shut-Off-Over-Heat-Protection/dp/B0FHQB7HXR/ref=zg_bs_g_kitchen_d_sccl_20/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.718097",
+      "page_number": 1,
+      "title_word_count": 21,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 21,
+      "asin": "B0DH4WS3B4",
+      "title": "Misamo Enterprise Glass Oil Sprayer and Dispenser Bottle, 500ml Capacity, 2-in-1 Design, Black",
+      "brand": "Misamo",
+      "price": 249.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 9223,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/713+2UPOISL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Misamo-Enterprise-OIL-DISPENSER-SPRAYER/dp/B0DH4WS3B4/ref=zg_bs_g_kitchen_d_sccl_21/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.719224",
+      "page_number": 1,
+      "title_word_count": 13,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 22,
+      "asin": "B07KT9Q54M",
+      "title": "Shalimar Premium (Lavender Fragrance) Scented Garbage Bags | Medium 19 X 21 Inches | 120 Bags (30 Bags X 4 Rolls) | Dustbin Bag/Trash Bag | (Black) - Perforated Box for Easy Dispensing",
+      "brand": "Shalimar",
+      "price": 299.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 23391,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81UM3i0sUbL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Shalimar-Premium-Garbage-Medium-Rolls/dp/B07KT9Q54M/ref=zg_bs_g_kitchen_d_sccl_22/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.720345",
+      "page_number": 1,
+      "title_word_count": 33,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 23,
+      "asin": "B07BZ1XZ77",
+      "title": "Storite 4 Pack Nylon Big Moisture Proof Underbed Storage Bag For Clothes Large (54 x 46 x 28 cm) - Black Rectangular",
+      "brand": "Storite",
+      "price": 998.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 17333,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81dpiLxIVPL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Storite-Big-Underbed-Moisture-Pack/dp/B07BZ1XZ77/ref=zg_bs_g_kitchen_d_sccl_23/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.721490",
+      "page_number": 1,
+      "title_word_count": 22,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 24,
+      "asin": "B0DP9GKKPL",
+      "title": "Cadlec CookMate 2000W Induction Cooktop with Crystal Glass | 7 Cooking Modes, Auto Shut-Off, Over-Heat Protection, LED Display, BIS Approved, 2-Year Warranty | Black",
+      "brand": "Cadlec",
+      "price": 3149.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 607,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71JMUnpVOUL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/CookMate-Induction-Shut-Off-Over-Heat-Protection/dp/B0DP9GKKPL/ref=zg_bs_g_kitchen_d_sccl_24/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.723512",
+      "page_number": 1,
+      "title_word_count": 24,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 25,
+      "asin": "B0F54GKQ38",
+      "title": "Milton Rapid Electric Kettle 1.8L | 1500 Watts | Stainless Steel Hot Water portable Electric Kettle for Home, Office | Auto Shut-Off with Wide Mouth | Cool-touch Handle and Single-Touch Lid Lock",
+      "brand": "Milton",
+      "price": 636.0,
+      "currency": "INR",
+      "rating": 3.8,
+      "review_count": 4791,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51lYFOP2mUL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Electric-Stainless-portable-Cool-touch-Single-Touch/dp/B0F54GKQ38/ref=zg_bs_g_kitchen_d_sccl_25/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.725291",
+      "page_number": 1,
+      "title_word_count": 32,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 26,
+      "asin": "B0B4RZ3XNP",
+      "title": "Milton Aura 1000 Thermosteel Water Bottle, 24 Hr Hot and Cold I Leak Proof Lid, ISI Certified I Vacuum Insulated I for Office, Gym, School I Dark Blue",
+      "brand": "Milton",
+      "price": 850.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 22591,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/6161augbo-L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Milton-Thermosteel-Bottle-Kitchen-Trekking/dp/B0B4RZ3XNP/ref=zg_bs_g_kitchen_d_sccl_26/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.726917",
+      "page_number": 1,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 27,
+      "asin": "B09VL787WJ",
+      "title": "GADDA CO 100% Waterproof Premium Cotton Feel Mattress Protector King Size 78x72 Inch|Ultra Soft Breathable & Fitted Bed Protector Terry Cover Double Bed (6.5x6 feet, Fits 10 Inches, Grey)",
+      "brand": "GADDA",
+      "price": 572.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 10706,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71yu3d1QjjL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/GADDA-CO-Waterproof-Protector-Mattress/dp/B09VL787WJ/ref=zg_bs_g_kitchen_d_sccl_27/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.728495",
+      "page_number": 1,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 28,
+      "asin": "B0821PKWBW",
+      "title": "Amazon Brand - Presto! Garbage Bags | Small | 180 Count | 30 Bags X 6 Rolls | 17 X 19 Inches | For Dry & Wet Waste | Black",
+      "brand": "Amazon",
+      "price": 269.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 25346,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71CxGC97O9L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Amazon-Brand-Presto-Oxo-Biodegradable-Garbage/dp/B0821PKWBW/ref=zg_bs_g_kitchen_d_sccl_28/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.730431",
+      "page_number": 1,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 29,
+      "asin": "B0GC54GBWJ",
+      "title": "Crompton SUREBREEZE SEA SAPPHIRA 1200 mm Ceiling Fan for Home | BEE Star Rated Energy Efficient Fan | Superior Air Delivery | HighSpeed | 2 Years Warranty | (Lustre Brown), Pack of 1",
+      "brand": "Crompton",
+      "price": 1489.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 14699,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41yP3DAJAgL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Crompton-SUREBREEZE-SAPPHIRA-Efficient-HighSpeed/dp/B0GC54GBWJ/ref=zg_bs_g_kitchen_d_sccl_29/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.732379",
+      "page_number": 1,
+      "title_word_count": 33,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 30,
+      "asin": "B0BL7LJYCQ",
+      "title": "Wakefit Cotton Feel Ultra Soft Waterproof Mattress Protector | Breathable - Hypoallergenic Mattresses Cover 78\" x 72\" - King, Blue",
+      "brand": "Wakefit",
+      "price": 768.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 113631,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61dUKdL2vQL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Wakefit-Waterproof-Mattress-Protector-Breathable/dp/B0BL7LJYCQ/ref=zg_bs_g_kitchen_d_sccl_30/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:46:52.733954",
+      "page_number": 1,
+      "title_word_count": 20,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 1,
+      "asin": "B07L6GZYDV",
+      "title": "Wakefit Hollow Fiber Sleeping Pillow | Height Adjustable | Soft & Fluffy Comfort | White & Grey | 27 x 16 Inch | Set of 2 |Free Extra Fiber for Custom Comfort (300 Grams)",
+      "brand": "Wakefit",
+      "price": 845.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 80209,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51vGM0VK10L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Wakefit-Sleeping-Pillow-Set-27/dp/B07L6GZYDV/ref=zg_bs_g_kitchen_d_sccl_1/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.875571",
+      "page_number": 2,
+      "title_word_count": 34,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 2,
+      "asin": "B0DK99N95L",
+      "title": "Coffee Frother Electric Rechargeable Coffee Maker Machine for Home Electric Coffee Frother Machine & Milk Whisker with Dual Spring Tech GetSetNova | 1 Year Warranty | Free Recipe Book (Frother)",
+      "brand": "Coffee",
+      "price": 301.0,
+      "currency": "INR",
+      "rating": 4.6,
+      "review_count": 14150,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61mbLfJYofL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Nova-Rechargeable-Milk-Frother-Replacement/dp/B0DK99N95L/ref=zg_bs_g_kitchen_d_sccl_2/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.877366",
+      "page_number": 2,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 3,
+      "asin": "B008QTK47Q",
+      "title": "Philips Steam Iron (Gc1905/21) (Blue_Free Size)",
+      "brand": "Philips",
+      "price": 1799.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 51728,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51Y8qkK8OTL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Philips-GC1905-1440-Watt-Steam-Spray/dp/B008QTK47Q/ref=zg_bs_g_kitchen_d_sccl_3/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.879225",
+      "page_number": 2,
+      "title_word_count": 6,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 4,
+      "asin": "B06XDP2C1S",
+      "title": "Story@Home 100% True Blackout Door Curtains 7 Feet Long Set of 2 | Plain Design | Room Darkening Curtain | Thermal Insulated Curtains for Living Room, Bedroom | (116 x 215 cm, Beige)",
+      "brand": "Story@Home",
+      "price": 1199.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 8240,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71fbk-b5ObL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Story-Home-Darkening-Blackout-Premium/dp/B06XDP2C1S/ref=zg_bs_g_kitchen_d_sccl_4/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.880970",
+      "page_number": 2,
+      "title_word_count": 33,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 5,
+      "asin": "B0FPXKMT65",
+      "title": "WARMEO MICROMATE Microwave-Safe Stainless Steel Lunch Box, Bpa Free, Perfect for Office, School, Travelling, Combo(800ml+150 ml),Green",
+      "brand": "WARMEO",
+      "price": 499.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 562,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61dcjkw9fjL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/WARMEO-MICROMATE-Microwave-Safe-Stainless-Travelling/dp/B0FPXKMT65/ref=zg_bs_g_kitchen_d_sccl_5/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.882523",
+      "page_number": 2,
+      "title_word_count": 16,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 6,
+      "asin": "B07GMFY9QM",
+      "title": "SOFLIN Egg Boiler Electric Automatic Off 7 Egg Poacher For Steaming, Cooking, Boiling And Frying, (350 Watts,Multicolor)",
+      "brand": "SOFLIN",
+      "price": 270.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 6809,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41zR1WhC8eL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/SOFLIN-Electric-Automatic-Poacher-Steaming/dp/B07GMFY9QM/ref=zg_bs_g_kitchen_d_sccl_6/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.884136",
+      "page_number": 2,
+      "title_word_count": 17,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 7,
+      "asin": "B0831486NM",
+      "title": "ElastPro EVA Food Grade Washable Anti Slip Mat/Sheet for Fridge, Shelf Liner, Table, Kitchen Drawer mat (Diamond Clear, 5 Meter)",
+      "brand": "ElastPro",
+      "price": 398.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 6934,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81sFaaaxLbL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/ElastPro-Multipurpose-Bathroom-Kitchen-Transparent/dp/B0831486NM/ref=zg_bs_g_kitchen_d_sccl_7/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.885728",
+      "page_number": 2,
+      "title_word_count": 20,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 8,
+      "asin": "B0DGV5P3L4",
+      "title": "Philips HD4995/00 2100W Induction Cooktop With Soft Touch Panel | 11 Preset Menus | 3Yrs Warranty On Coil, black and blue",
+      "brand": "Philips",
+      "price": 5099.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 3674,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71LBY5HSQfL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Philips-HD4995-00-Induction-warranty/dp/B0DGV5P3L4/ref=zg_bs_g_kitchen_d_sccl_8/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.887327",
+      "page_number": 2,
+      "title_word_count": 21,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "high"
+    },
+    {
+      "rank": 9,
+      "asin": "B0BT1M24FN",
+      "title": "amazon basics Electric Egg Boiler | 350 Watt | Boils Upto 7 Eggs | Automatic Operation, 3 Boiling Modes | Overheat Protection | Stainless Steel Heating Plate, Measuring Cup | 75ml | Plastic | White",
+      "brand": "amazon",
+      "price": 429.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 12002,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71p1L3X-ViL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Electric-Automatic-Operation-Overheat-Protection/dp/B0BT1M24FN/ref=zg_bs_g_kitchen_d_sccl_9/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.888936",
+      "page_number": 2,
+      "title_word_count": 35,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 10,
+      "asin": "B0CHJNJJDP",
+      "title": "atomberg Renesa Enzel 1200mm BLDC Ceiling Fan with Remote Control | BEE 5 star Rated Energy Efficient Ceiling Fan | High Air Delivery with LED Indicators| 3 Year Warranty (Gloss White)",
+      "brand": "atomberg",
+      "price": 3599.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 51471,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51GZwXVUYbL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/atomberg-Renesa-Enzel-Ceiling-Warranty/dp/B0CHJNJJDP/ref=zg_bs_g_kitchen_d_sccl_10/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.890575",
+      "page_number": 2,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "high"
+    },
+    {
+      "rank": 11,
+      "asin": "B0DJBFR9GZ",
+      "title": "upyog Herbal 100 Meter Food Wrapping Paper Roll - Premium Non-Stick Butter Wrapping, Re-Heatable Non Stick Paper, Parchment Paper",
+      "brand": "upyog",
+      "price": 199.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 2003,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Va+pM+mQL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/HERBA-Meters-Food-Wrapping-Paper/dp/B0DJBFR9GZ/ref=zg_bs_g_kitchen_d_sccl_11/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.892358",
+      "page_number": 2,
+      "title_word_count": 19,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 12,
+      "asin": "B09Z7Y4849",
+      "title": "Ganga Acrowools Acrylic Desire Hand Knitting and Crochet Yarn. Pack of 1 Ball - 100Gms. Shade No - Dsr004, Cream",
+      "brand": "Ganga",
+      "price": 96.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 2291,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/716jUnoUA5L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Ganga-Acrowools-Desire-Knitting-Crochet/dp/B09Z7Y4849/ref=zg_bs_g_kitchen_d_sccl_12/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.894151",
+      "page_number": 2,
+      "title_word_count": 20,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 13,
+      "asin": "B0D8G9J1P5",
+      "title": "SEZNIK Vacuum Cleaner for Home Use Wet and Dry | Floor Mopping & Wet Spills + Dry Vacuuming | Turbo Sweep 3-in-1 Handheld Vacuum Cleaner | Corded, 600W, 20kpa Suction | 200ml Water Tank (SZ-V07)",
+      "brand": "SEZNIK",
+      "price": 3992.99,
+      "currency": "INR",
+      "rating": 4.6,
+      "review_count": 3856,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/819Jw6LziOL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/SEZNIK-Handheld-Cleaner-Suction-Mopping/dp/B0D8G9J1P5/ref=zg_bs_g_kitchen_d_sccl_13/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.895694",
+      "page_number": 2,
+      "title_word_count": 35,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "high"
+    },
+    {
+      "rank": 14,
+      "asin": "B0FL7ZD71M",
+      "title": "MILTON Costa 1000 Pet Water Bottle Set of 2, 1 Litre Each | Airtight & Leakproof Stainless Steel Lid | Unbreakable, BPA-Free, Reusable Plastic Fridge Bottles for Home, Office, School, Travel",
+      "brand": "MILTON",
+      "price": 199.0,
+      "currency": "INR",
+      "rating": 3.8,
+      "review_count": 355,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61PJL+wuEtL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/MILTON-Airtight-Leakproof-Stainless-Unbreakable/dp/B0FL7ZD71M/ref=zg_bs_g_kitchen_d_sccl_14/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.897296",
+      "page_number": 2,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 15,
+      "asin": "B092R6DLGS",
+      "title": "CELLO H2O Glass Water Bottle for Office & Daily Use 920 ml, Transparent | Durable & Stylish, Freezable & Fridge Safe, Leakproof Wide Mouth Leadfree Toughened Glass Water Bottle For Kitchen & Travel",
+      "brand": "CELLO",
+      "price": 189.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 12918,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/6193kFOYj+L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/CELLO-Transparent-Freezable-Leakproof-Toughened/dp/B092R6DLGS/ref=zg_bs_g_kitchen_d_sccl_15/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.899030",
+      "page_number": 2,
+      "title_word_count": 33,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 16,
+      "asin": "B00OHNGJ2Y",
+      "title": "Godrej aer Spray | Room Freshener for Home & Office - Cool Aqua (200 ml) | Long-Lasting Fragrance",
+      "brand": "Godrej",
+      "price": 78.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 18480,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51OTTROkGsL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Godrej-aer-Home-Freshener-Spray/dp/B00OHNGJ2Y/ref=zg_bs_g_kitchen_d_sccl_16/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.900772",
+      "page_number": 2,
+      "title_word_count": 18,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 17,
+      "asin": "B09SLQPK3T",
+      "title": "Misamo Enterprise PVC Wall Hooks, Pack of 15, Transparent",
+      "brand": "Misamo",
+      "price": 169.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 12974,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61ihAmUosAL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Misamo-Enterprise-Bathroom-Hangings-Transparent/dp/B09SLQPK3T/ref=zg_bs_g_kitchen_d_sccl_17/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.902506",
+      "page_number": 2,
+      "title_word_count": 9,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 18,
+      "asin": "B0D6YXYKPC",
+      "title": "Prestige Iris Plus 1600 Watts Induction Cooktop | 4KV Surge Protection | 6 Preset Indian Menu Options & Timer | Soft Touch Button | Easy to Clean | Portable | 1Y Warranty | Black | BIS Certified",
+      "brand": "1 offer from\u20b92,599.00",
+      "price": 2599.0,
+      "currency": "INR",
+      "rating": 3.7,
+      "review_count": 1699,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71FHDgBLfXL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Prestige-Induction-Automatic-Regulator-Anti-Magnetic/dp/B0D6YXYKPC/ref=zg_bs_g_kitchen_d_sccl_18/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.904361",
+      "page_number": 2,
+      "title_word_count": 37,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "high"
+    },
+    {
+      "rank": 19,
+      "asin": "B002MPQH8U",
+      "title": "Hawkins 3 Litre Inner Lid Pressure Cooker, Stainless Steel Cooker, Induction Cooker, Silver (HSS3W)",
+      "brand": "Hawkins",
+      "price": 2700.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 21398,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61W+5VjoziL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Hawkins-Stainless-Pressure-Cooker-Litres/dp/B002MPQH8U/ref=zg_bs_g_kitchen_d_sccl_19/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.906154",
+      "page_number": 2,
+      "title_word_count": 14,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "high"
+    },
+    {
+      "rank": 20,
+      "asin": "B0DJQQWBS4",
+      "title": "Story@Home King Size Bedsheet | Cloud Cotton Flatsheet King Size with Two Pillow Covers| Super Soft Bed Sheet for King Size Bed | Floral Design (270 x 250 cm, Off White & Red)",
+      "brand": "Story@Home",
+      "price": 799.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 1925,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91pImXMmF7L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Story-Home-Bedsheet-Cotton-Flatsheet/dp/B0DJQQWBS4/ref=zg_bs_g_kitchen_d_sccl_20/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.907956",
+      "page_number": 2,
+      "title_word_count": 33,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 21,
+      "asin": "B0DGKWNGKZ",
+      "title": "Philips HD4934/00 1300W Induction Cooktop With Triple MOV For 4Kw Surge Protection With Soft Touch Control | 7 Preset Menus | 3 Years Warranty On Coil, Black",
+      "brand": "Philips",
+      "price": null,
+      "currency": "INR",
+      "rating": 3.9,
+      "review_count": 967,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51CdR8C6hHL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Philips-HD4934-00-Induction-protection/dp/B0DGKWNGKZ/ref=zg_bs_g_kitchen_d_sccl_21/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.910232",
+      "page_number": 2,
+      "title_word_count": 27,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 22,
+      "asin": "B0DH89XCRX",
+      "title": "Happer Plastic Premium Multipurpose Wall Mounted Storage Cabinet with Mirror, Prime Look (Black)",
+      "brand": "Happer",
+      "price": 999.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 11349,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81DzrbVvfFL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Happer-Plastic-Premium-Multipurpose-Mounted/dp/B0DH89XCRX/ref=zg_bs_g_kitchen_d_sccl_22/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.912317",
+      "page_number": 2,
+      "title_word_count": 13,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 23,
+      "asin": "B08GLXK8MN",
+      "title": "Smart Saver Vacuum Bags for Travel, Space Saver Bags 5 Pack (1 Large 2 Medium 2 Small) Compression Storage Bags for Clothes, Sealer Bags, Vaccine Sealed Airtight Packing Ziplock Bag with Hand Pump",
+      "brand": "Smart",
+      "price": 385.0,
+      "currency": "INR",
+      "rating": null,
+      "review_count": null,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71cNzC0sXnL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/BIGOWL-Storage-Reusable-Ziplock-Compression/dp/B08GLXK8MN/ref=zg_bs_g_kitchen_d_sccl_23/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.914767",
+      "page_number": 2,
+      "title_word_count": 33,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": ""
+    },
+    {
+      "rank": 24,
+      "asin": "B09MRZ6HHF",
+      "title": "BUILDSKILL Full Metal Washing Machine Stand | 360\u00b0 Rotating Wheels | Anti-skid Rubber Pads | Compatible with Front & Top Load 7kg-10kg, Refrigerators, Dishwashers, Room Coolers | 160Kg Load Capacity",
+      "brand": "BUILDSKILL",
+      "price": 999.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 1883,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/716Q7ZJd3-L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/BUILDSKILL-Adjustable-Vibration-Anti-skid-Dishwasher/dp/B09MRZ6HHF/ref=zg_bs_g_kitchen_d_sccl_24/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.916593",
+      "page_number": 2,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 25,
+      "asin": "B0D14BB5XY",
+      "title": "PHILIPS Air Fryer NA120/00, uses up to 90% less fat, 1500W, 4.2 Liter, with Rapid Air Technology (Black), Large",
+      "brand": "PHILIPS",
+      "price": 4802.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 6745,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41Z5ldkAeYL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/PHILIPS-Fryer-NA120-00-Technology/dp/B0D14BB5XY/ref=zg_bs_g_kitchen_d_sccl_25/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.918378",
+      "page_number": 2,
+      "title_word_count": 19,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "high"
+    },
+    {
+      "rank": 26,
+      "asin": "B09PK3QPLR",
+      "title": "GO WELL Solid Satin Silk Pillow Covers Pack of 2 for Hair and Skin-with Satin Scrunchies |Satin Pillow coves for Hair and Skin|scrunchies for Women 3-Pieces|Silk Pillow case (RoseTaupe) 600TC",
+      "brand": "GO",
+      "price": 265.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 6552,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51uItNpbgbL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Pillow-Scrunchies-Stylish-scrunchies-3-Piece/dp/B09PK3QPLR/ref=zg_bs_g_kitchen_d_sccl_26/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.920123",
+      "page_number": 2,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 27,
+      "asin": "B0DVLBTKPH",
+      "title": "SATVIKAYA Air Tight Plastic Storage Containers Set for Kitchen | Pantry Organizers Kitchen Accessories Items,Fridge Storage Boxes | Leak-Proof, Durable, and Space-Saving (4, 2500ml) (1200 ML, 6)",
+      "brand": "SATVIKAYA",
+      "price": 389.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 2558,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/714THosaxdL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/SATVIKAYA-Containers-Organizers-Accessories-Space-Saving/dp/B0DVLBTKPH/ref=zg_bs_g_kitchen_d_sccl_27/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.921869",
+      "page_number": 2,
+      "title_word_count": 27,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 28,
+      "asin": "B0981D48NP",
+      "title": "THE HOME STYLE Cotton Feel Glace Cotton Elastic Fitted Printed King Size Double Bed Bedsheet with 2 Pillow Cover(72\"x78\", Pastel Green) , 300 - 350 threadcount",
+      "brand": "THE",
+      "price": 599.0,
+      "currency": "INR",
+      "rating": null,
+      "review_count": null,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71fa0Niq9VL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/STYLE-Fitted-Bedsheet-Pastel-Green/dp/B0981D48NP/ref=zg_bs_g_kitchen_d_sccl_28/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.924079",
+      "page_number": 2,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": ""
+    },
+    {
+      "rank": 29,
+      "asin": "B091FBFFMM",
+      "title": "Havells Ventil Air DSP 230mm Exhaust Fan | Strong Air Suction, Rust Proof Body |Suitable for Bathroom, Kitchen, and Office| Warranty: 2 Years | (Pack of 1, Choco Brown)",
+      "brand": "Havells",
+      "price": 1390.0,
+      "currency": "INR",
+      "rating": 3.9,
+      "review_count": 14073,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Q5CYTXM4L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Havells-Ventil-230mm-Exhaust-FHVVEMTBRN09/dp/B091FBFFMM/ref=zg_bs_g_kitchen_d_sccl_29/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.925883",
+      "page_number": 2,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 30,
+      "asin": "B0GS7QYVC6",
+      "title": "SURYA 2000W Induction Cooktop for Home | Crystal Glass Top | 8 Indian Cooking Modes | Auto Shut-Off & Overheat Protection | LED Display | Push Button Control | Energy Saving Electric Stove | Black",
+      "brand": "SURYA",
+      "price": 2650.0,
+      "currency": "INR",
+      "rating": 2.5,
+      "review_count": 10,
+      "category": "Kitchen",
+      "subcategory": "Kitchen",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/612ByqM+bUL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Induction-Shut-Off-Overheat-Protection-Electric/dp/B0GS7QYVC6/ref=zg_bs_g_kitchen_d_sccl_30/520-4739001-5594560?psc=1",
+      "scraped_at": "2026-03-24T12:47:00.928009",
+      "page_number": 2,
+      "title_word_count": 35,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "low"
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "bags",
+      "frequency": 15,
+      "avg_rank": 18.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 30189.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "warranty",
+      "frequency": 12,
+      "avg_rank": 14.9,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.08,
+      "avg_reviews": 13637.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "home",
+      "frequency": 12,
+      "avg_rank": 17.4,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.01,
+      "avg_reviews": 6436.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "induction",
+      "frequency": 11,
+      "avg_rank": 14.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.75,
+      "avg_reviews": 15341.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cooktop",
+      "frequency": 10,
+      "avg_rank": 14.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.69,
+      "avg_reviews": 14735.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "induction cooktop",
+      "frequency": 10,
+      "avg_rank": 14.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.69,
+      "avg_reviews": 14735.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "king",
+      "frequency": 8,
+      "avg_rank": 20.1,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 25998.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "soft",
+      "frequency": 8,
+      "avg_rank": 16.6,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.11,
+      "avg_reviews": 31468.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stainless",
+      "frequency": 8,
+      "avg_rank": 13.4,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 29284.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "steel",
+      "frequency": 8,
+      "avg_rank": 13.4,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 29284.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stainless steel",
+      "frequency": 8,
+      "avg_rank": 13.4,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 29284.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "water",
+      "frequency": 8,
+      "avg_rank": 16.8,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 29583.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "office",
+      "frequency": 8,
+      "avg_rank": 17.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 9767.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for home",
+      "frequency": 8,
+      "avg_rank": 17.4,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.95,
+      "avg_reviews": 7588.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "electric",
+      "frequency": 8,
+      "avg_rank": 14.4,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.92,
+      "avg_reviews": 28946.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "glass",
+      "frequency": 7,
+      "avg_rank": 17.1,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.73,
+      "avg_reviews": 15601.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "auto",
+      "frequency": 7,
+      "avg_rank": 18.6,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.6,
+      "avg_reviews": 36399.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "inches",
+      "frequency": 7,
+      "avg_rank": 16.4,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.34,
+      "avg_reviews": 30161.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "size",
+      "frequency": 7,
+      "avg_rank": 18.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.22,
+      "avg_reviews": 15306.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bottle",
+      "frequency": 7,
+      "avg_rank": 15.9,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 9534.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "storage",
+      "frequency": 7,
+      "avg_rank": 21.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 28660.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "protection",
+      "frequency": 7,
+      "avg_rank": 19.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.64,
+      "avg_reviews": 2358.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "air",
+      "frequency": 7,
+      "avg_rank": 24.9,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 15766.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "led",
+      "frequency": 6,
+      "avg_rank": 16.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.6,
+      "avg_reviews": 21100.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "display",
+      "frequency": 6,
+      "avg_rank": 15.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.58,
+      "avg_reviews": 16205.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "kitchen",
+      "frequency": 6,
+      "avg_rank": 18.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 10190.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "year",
+      "frequency": 6,
+      "avg_rank": 11.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.22,
+      "avg_reviews": 17738.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "year warranty",
+      "frequency": 6,
+      "avg_rank": 11.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.22,
+      "avg_reviews": 17738.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cotton",
+      "frequency": 6,
+      "avg_rank": 23.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 27533.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bed",
+      "frequency": 6,
+      "avg_rank": 21.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.24,
+      "avg_reviews": 10700.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "king size",
+      "frequency": 6,
+      "avg_rank": 20.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.22,
+      "avg_reviews": 9236.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "wall",
+      "frequency": 6,
+      "avg_rank": 13.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 10504.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pack of",
+      "frequency": 6,
+      "avg_rank": 21.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 14939.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pillow",
+      "frequency": 6,
+      "avg_rank": 21.2,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.28,
+      "avg_reviews": 16965.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "philips",
+      "frequency": 5,
+      "avg_rank": 11.6,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 23472.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cooktop with",
+      "frequency": 5,
+      "avg_rank": 12.2,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 18035.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "led display",
+      "frequency": 5,
+      "avg_rank": 17.8,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.48,
+      "avg_reviews": 15026.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "amazon",
+      "frequency": 5,
+      "avg_rank": 14.2,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.32,
+      "avg_reviews": 51313.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "garbage",
+      "frequency": 5,
+      "avg_rank": 16.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.38,
+      "avg_reviews": 32298.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "medium",
+      "frequency": 5,
+      "avg_rank": 16.4,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 52972.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dry",
+      "frequency": 5,
+      "avg_rank": 13.8,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.48,
+      "avg_reviews": 21353.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "wet",
+      "frequency": 5,
+      "avg_rank": 13.8,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.48,
+      "avg_reviews": 21353.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "garbage bags",
+      "frequency": 5,
+      "avg_rank": 16.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.38,
+      "avg_reviews": 32298.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cooking",
+      "frequency": 5,
+      "avg_rank": 17.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.78,
+      "avg_reviews": 6102.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "premium",
+      "frequency": 5,
+      "avg_rank": 18.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.26,
+      "avg_reviews": 17277.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "protector",
+      "frequency": 5,
+      "avg_rank": 20.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.26,
+      "avg_reviews": 42583.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cover",
+      "frequency": 5,
+      "avg_rank": 20.8,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 36917.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hooks",
+      "frequency": 5,
+      "avg_rank": 12.6,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 9959.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "transparent",
+      "frequency": 5,
+      "avg_rank": 13.2,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.16,
+      "avg_reviews": 13123.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fridge",
+      "frequency": 5,
+      "avg_rank": 14.6,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 5426.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "water bottle",
+      "frequency": 5,
+      "avg_rank": 16.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.16,
+      "avg_reviews": 10629.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "shut-off",
+      "frequency": 5,
+      "avg_rank": 23.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.72,
+      "avg_reviews": 36252.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "auto shut-off",
+      "frequency": 5,
+      "avg_rank": 23.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.72,
+      "avg_reviews": 36252.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "room",
+      "frequency": 5,
+      "avg_rank": 13.2,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 8640.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "vacuum",
+      "frequency": 5,
+      "avg_rank": 18.8,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 35163.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fan",
+      "frequency": 5,
+      "avg_rank": 21.4,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 29283.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "watt",
+      "frequency": 4,
+      "avg_rank": 7.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.95,
+      "avg_reviews": 78603.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "count",
+      "frequency": 4,
+      "avg_rank": 14.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 34524.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "rolls",
+      "frequency": 4,
+      "avg_rank": 16.2,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 30611.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bags rolls",
+      "frequency": 4,
+      "avg_rank": 16.2,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 30611.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "machine",
+      "frequency": 4,
+      "avg_rank": 8.2,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.32,
+      "avg_reviews": 13070.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "warranty black",
+      "frequency": 4,
+      "avg_rank": 17.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.95,
+      "avg_reviews": 3731.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "watts",
+      "frequency": 4,
+      "avg_rank": 14.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.97,
+      "avg_reviews": 10221.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "feel",
+      "frequency": 4,
+      "avg_rank": 23.2,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 40818.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cotton feel",
+      "frequency": 4,
+      "avg_rank": 23.2,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 40818.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "home office",
+      "frequency": 4,
+      "avg_rank": 16.2,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.95,
+      "avg_reviews": 6998.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "set of",
+      "frequency": 4,
+      "avg_rank": 7.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 27529.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "large",
+      "frequency": 4,
+      "avg_rank": 20.8,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 10218.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "preset",
+      "frequency": 4,
+      "avg_rank": 15.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.65,
+      "avg_reviews": 1643.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "touch",
+      "frequency": 4,
+      "avg_rank": 15.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.65,
+      "avg_reviews": 1643.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "boiling",
+      "frequency": 4,
+      "avg_rank": 11.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.77,
+      "avg_reviews": 48478.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "control",
+      "frequency": 4,
+      "avg_rank": 19.8,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.68,
+      "avg_reviews": 14701.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "modes",
+      "frequency": 4,
+      "avg_rank": 20.8,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.73,
+      "avg_reviews": 3401.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bag",
+      "frequency": 4,
+      "avg_rank": 22.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 16029.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "lid",
+      "frequency": 4,
+      "avg_rank": 21.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 12284.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "plastic",
+      "frequency": 4,
+      "avg_rank": 18.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 6566.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "crystal",
+      "frequency": 3,
+      "avg_rank": 18.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.43,
+      "avg_reviews": 24638.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "off",
+      "frequency": 3,
+      "avg_rank": 9.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.93,
+      "avg_reviews": 27344.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "crystal glass",
+      "frequency": 3,
+      "avg_rank": 18.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.43,
+      "avg_reviews": 24638.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "brand",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 33017.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "presto",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 33017.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "waste",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 33017.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "amazon brand",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 33017.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "brand presto",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 33017.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "presto garbage",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 33017.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "count bags",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 33017.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "rolls inches",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 33017.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "inches for",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 33017.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for dry",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 33017.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dry wet",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 33017.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "wet waste",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 33017.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "waste black",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 33017.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "button",
+      "frequency": 3,
+      "avg_rank": 17.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.47,
+      "avg_reviews": 713.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "food",
+      "frequency": 3,
+      "avg_rank": 7.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 10345.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "automatic",
+      "frequency": 3,
+      "avg_rank": 7.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.97,
+      "avg_reviews": 10147.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "indian",
+      "frequency": 3,
+      "avg_rank": 18.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.33,
+      "avg_reviews": 4447.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "menu",
+      "frequency": 3,
+      "avg_rank": 12.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.5,
+      "avg_reviews": 4521.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "saver",
+      "frequency": 3,
+      "avg_rank": 17.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.8,
+      "avg_reviews": 3877.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "timer",
+      "frequency": 3,
+      "avg_rank": 14.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.87,
+      "avg_reviews": 6562.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "silver",
+      "frequency": 3,
+      "avg_rank": 14.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 74617.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "waterproof",
+      "frequency": 3,
+      "avg_rank": 21.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 54424.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mattress",
+      "frequency": 3,
+      "avg_rank": 21.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 54424.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "x72",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 29525.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "breathable",
+      "frequency": 3,
+      "avg_rank": 21.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 54424.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ultra",
+      "frequency": 3,
+      "avg_rank": 21.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 54424.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fitted",
+      "frequency": 3,
+      "avg_rank": 21.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 16547.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mattress protector",
+      "frequency": 3,
+      "avg_rank": 21.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 54424.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ultra soft",
+      "frequency": 3,
+      "avg_rank": 21.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 54424.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "photo",
+      "frequency": 3,
+      "avg_rank": 10.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 11446.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hanging",
+      "frequency": 3,
+      "avg_rank": 10.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 11446.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hooks for",
+      "frequency": 3,
+      "avg_rank": 10.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 11446.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "clothes",
+      "frequency": 3,
+      "avg_rank": 19.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 12882.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for clothes",
+      "frequency": 3,
+      "avg_rank": 19.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 12882.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "overheat",
+      "frequency": 3,
+      "avg_rank": 17.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.2,
+      "avg_reviews": 4081.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "overheat protection",
+      "frequency": 3,
+      "avg_rank": 17.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.2,
+      "avg_reviews": 4081.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bags for",
+      "frequency": 3,
+      "avg_rank": 20.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 13015.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "kettle",
+      "frequency": 3,
+      "avg_rank": 22.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.87,
+      "avg_reviews": 61483.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "electric kettle",
+      "frequency": 3,
+      "avg_rank": 22.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.87,
+      "avg_reviews": 61483.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "star",
+      "frequency": 3,
+      "avg_rank": 19.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 24176.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hand",
+      "frequency": 3,
+      "avg_rank": 18.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 49267.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bis",
+      "frequency": 3,
+      "avg_rank": 20.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 1097.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cooking modes",
+      "frequency": 3,
+      "avg_rank": 24.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.6,
+      "avg_reviews": 534.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "modes auto",
+      "frequency": 3,
+      "avg_rank": 24.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.6,
+      "avg_reviews": 534.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "protection led",
+      "frequency": 3,
+      "avg_rank": 24.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.6,
+      "avg_reviews": 534.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "design",
+      "frequency": 3,
+      "avg_rank": 15.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 6463.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "proof",
+      "frequency": 3,
+      "avg_rank": 26.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 17999.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "milton",
+      "frequency": 3,
+      "avg_rank": 21.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 9246.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "school",
+      "frequency": 3,
+      "avg_rank": 15.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.97,
+      "avg_reviews": 7836.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for office",
+      "frequency": 3,
+      "avg_rank": 15.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 12024.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ceiling",
+      "frequency": 3,
+      "avg_rank": 16.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 39214.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "energy",
+      "frequency": 3,
+      "avg_rank": 23.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.6,
+      "avg_reviews": 22060.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "years",
+      "frequency": 3,
+      "avg_rank": 26.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.97,
+      "avg_reviews": 9913.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ceiling fan",
+      "frequency": 3,
+      "avg_rank": 16.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 39214.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "coffee",
+      "frequency": 3,
+      "avg_rank": 2.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.6,
+      "avg_reviews": 14150.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "frother",
+      "frequency": 3,
+      "avg_rank": 2.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.6,
+      "avg_reviews": 14150.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "egg",
+      "frequency": 3,
+      "avg_rank": 7.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 8540.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "soft touch",
+      "frequency": 3,
+      "avg_rank": 15.7,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.87,
+      "avg_reviews": 2113.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "paper",
+      "frequency": 3,
+      "avg_rank": 11.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 2003.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "travel",
+      "frequency": 3,
+      "avg_rank": 17.3,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 4424.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cooker",
+      "frequency": 3,
+      "avg_rank": 19.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 21398.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "satin",
+      "frequency": 3,
+      "avg_rank": 26.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 6552.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "watt induction",
+      "frequency": 2,
+      "avg_rank": 1.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.85,
+      "avg_reviews": 63771.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pigeon",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.8,
+      "avg_reviews": 124082.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "with crystal",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 36952.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bags medium",
+      "frequency": 2,
+      "avg_rank": 12.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 40152.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fresh",
+      "frequency": 2,
+      "avg_rank": 10.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 366.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "roses",
+      "frequency": 2,
+      "avg_rank": 4.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 430.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "prestige",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.75,
+      "avg_reviews": 6665.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "iris",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.75,
+      "avg_reviews": 6665.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "prestige iris",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.75,
+      "avg_reviews": 6665.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "indian menu",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.75,
+      "avg_reviews": 6665.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "maker",
+      "frequency": 2,
+      "avg_rank": 4.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 20868.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hypoallergenic",
+      "frequency": 2,
+      "avg_rank": 19.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 76283.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "waterproof premium",
+      "frequency": 2,
+      "avg_rank": 17.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 24820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "premium cotton",
+      "frequency": 2,
+      "avg_rank": 17.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 24820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "feel mattress",
+      "frequency": 2,
+      "avg_rank": 17.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 24820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "protector king",
+      "frequency": 2,
+      "avg_rank": 17.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 24820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "size x72",
+      "frequency": 2,
+      "avg_rank": 17.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 24820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fitted bed",
+      "frequency": 2,
+      "avg_rank": 17.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 24820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bed protector",
+      "frequency": 2,
+      "avg_rank": 17.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 24820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "frame",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 15929.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "self",
+      "frequency": 2,
+      "avg_rank": 11.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 9205.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "adhesive",
+      "frequency": 2,
+      "avg_rank": 11.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 9205.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "strong",
+      "frequency": 2,
+      "avg_rank": 19.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.95,
+      "avg_reviews": 15001.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "nail",
+      "frequency": 2,
+      "avg_rank": 11.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 9205.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hook",
+      "frequency": 2,
+      "avg_rank": 11.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 9205.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "photo frame",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 15929.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for wall",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 15929.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "self adhesive",
+      "frequency": 2,
+      "avg_rank": 11.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 9205.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "adhesive hooks",
+      "frequency": 2,
+      "avg_rank": 11.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 9205.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "gym",
+      "frequency": 2,
+      "avg_rank": 18.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 13478.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "travelling",
+      "frequency": 2,
+      "avg_rank": 7.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 2464.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bpa",
+      "frequency": 2,
+      "avg_rank": 7.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 2464.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "office gym",
+      "frequency": 2,
+      "avg_rank": 18.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 13478.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bpa free",
+      "frequency": 2,
+      "avg_rank": 7.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 2464.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "printed",
+      "frequency": 2,
+      "avg_rank": 19.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 10656.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tank",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 12584.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "diamond",
+      "frequency": 2,
+      "avg_rank": 10.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.65,
+      "avg_reviews": 3583.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "full",
+      "frequency": 2,
+      "avg_rank": 18.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.5,
+      "avg_reviews": 1058.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "milk",
+      "frequency": 2,
+      "avg_rank": 7.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.8,
+      "avg_reviews": 7191.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ezee",
+      "frequency": 2,
+      "avg_rank": 15.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 39045.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dustbin",
+      "frequency": 2,
+      "avg_rank": 18.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 31218.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "medium inches",
+      "frequency": 2,
+      "avg_rank": 18.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 31218.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "plus",
+      "frequency": 2,
+      "avg_rank": 17.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.85,
+      "avg_reviews": 88283.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "body",
+      "frequency": 2,
+      "avg_rank": 22.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 3.95,
+      "avg_reviews": 94470.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "projector",
+      "frequency": 2,
+      "avg_rank": 18.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 6357.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "rotating",
+      "frequency": 2,
+      "avg_rank": 21.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 4120.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "remote",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 28914.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "adjustable",
+      "frequency": 2,
+      "avg_rank": 9.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 43283.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "space",
+      "frequency": 2,
+      "avg_rank": 20.5,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 3178.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bedroom",
+      "frequency": 2,
+      "avg_rank": 11.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 7298.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "with remote",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 28914.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "remote control",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 28914.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "basics",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 78756.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "compression",
+      "frequency": 2,
+      "avg_rank": 21.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 72755.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pump",
+      "frequency": 2,
+      "avg_rank": 21.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 72755.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "amazon basics",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 78756.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "compression storage",
+      "frequency": 2,
+      "avg_rank": 21.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 72755.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "storage bags",
+      "frequency": 2,
+      "avg_rank": 21.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 72755.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "with hand",
+      "frequency": 2,
+      "avg_rank": 21.0,
+      "categories": [
+        "Kitchen"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 72755.0,
+      "category_count": 1
+    }
+  ],
+  "category_tree": [
+    {
+      "name": "Hot New Releasesin Home & Kitchen",
+      "url": "https://www.amazon.in/gp/new-releases/kitchen/ref=zg_bs_tab_t_kitchen_bsnr",
+      "is_selected": false
+    },
+    {
+      "name": "Movers and Shakersin Home & Kitchen",
+      "url": "https://www.amazon.in/gp/movers-and-shakers/kitchen/ref=zg_bs_tab_t_kitchen_bsms",
+      "is_selected": false
+    }
+  ],
+  "metadata": {
+    "category": "kitchen",
+    "pages_scraped": 2,
+    "total_products": 60,
+    "total_keywords": 1491,
+    "scraped_at": "2026-03-24T12:47:06.078232"
+  }
+}

@@ -1,0 +1,201 @@
+keyword,frequency,avg_rank,categories,avg_rating,avg_reviews,category_count
+book,21,15.8,['Books'],4.36,6551.0,1
+books,13,14.0,['Books'],4.45,15866.0,1
+kids,13,16.6,['Books'],4.39,16330.0,1
+edition,13,17.4,['Books'],4.31,6925.0,1
+years,12,12.7,['Books'],4.47,11509.0,1
+for kids,12,16.8,['Books'],4.38,14612.0,1
+class,12,15.0,['Books'],4.2,3582.0,1
+english,11,17.0,['Books'],4.4,3224.0,1
+all,9,14.4,['Books'],4.38,1173.0,1
+exams,9,17.4,['Books'],4.42,1016.0,1
+books for,8,12.1,['Books'],4.41,24830.0,1
+exam,8,12.9,['Books'],4.49,610.0,1
+practice,8,14.2,['Books'],4.45,5147.0,1
+bestseller,8,18.1,['Books'],4.42,148255.0,1
+cbse,7,12.0,['Books'],4.23,471.0,1
+solved,7,13.7,['Books'],4.57,433.0,1
+questions,7,9.7,['Books'],4.51,571.0,1
+neet,7,11.6,['Books'],4.51,432.0,1
+papers,7,12.6,['Books'],4.47,594.0,1
+book for,7,18.6,['Books'],4.34,10907.0,1
+one,6,12.5,['Books'],4.38,1442.0,1
+set of,6,16.5,['Books'],4.5,1398.0,1
+pattern,6,16.0,['Books'],4.38,11628.0,1
+ncert,6,10.7,['Books'],4.47,754.0,1
+board,5,5.4,['Books'],4.42,36059.0,1
+ages,5,17.4,['Books'],4.38,25733.0,1
+series,5,7.6,['Books'],4.36,134085.0,1
+story,5,12.4,['Books'],4.42,3116.0,1
+science,5,8.2,['Books'],4.38,503.0,1
+latest,5,15.6,['Books'],4.5,1551.0,1
+mind,5,14.2,['Books'],4.46,13784.0,1
+fun,5,19.8,['Books'],4.42,9111.0,1
+activities,5,19.6,['Books'],4.38,12104.0,1
+tracing,5,22.6,['Books'],4.3,15202.0,1
+stories,5,12.6,['Books'],4.42,3610.0,1
+question,5,13.6,['Books'],4.48,465.0,1
+first,4,13.2,['Books'],4.45,30972.0,1
+early,4,12.8,['Books'],4.43,30866.0,1
+learning,4,12.8,['Books'],4.43,30866.0,1
+toddlers,4,10.2,['Books'],4.45,24062.0,1
+early learning,4,12.8,['Books'],4.43,30866.0,1
+mathematics,4,14.0,['Books'],4.03,128.0,1
+sharma,4,15.5,['Books'],3.75,20.0,1
+guide,4,11.8,['Books'],4.28,112.0,1
+upsc,4,18.2,['Books'],4.47,517.0,1
+test,4,11.0,['Books'],4.32,1362.0,1
+arihant,4,9.0,['Books'],4.43,664.0,1
+revised,4,15.8,['Books'],4.43,752.0,1
+maps,4,13.0,['Books'],4.47,810.0,1
+cbqs,4,8.8,['Books'],4.4,657.0,1
+theory,4,11.2,['Books'],4.43,964.0,1
+exercises,4,9.8,['Books'],4.4,1213.0,1
+all in,4,8.8,['Books'],4.4,657.0,1
+in one,4,8.8,['Books'],4.4,657.0,1
+science class,4,5.8,['Books'],4.35,472.0,1
+revised edition,4,15.8,['Books'],4.43,752.0,1
+mind maps,4,13.0,['Books'],4.47,810.0,1
+ssc,4,16.0,['Books'],4.32,908.0,1
+competitive,4,20.0,['Books'],4.4,613.0,1
+activity,4,13.0,['Books'],4.4,2002.0,1
+children,4,13.2,['Books'],4.43,4151.0,1
+hours,4,18.2,['Books'],4.38,10046.0,1
+activity book,4,13.0,['Books'],4.4,2002.0,1
+hours of,4,18.2,['Books'],4.38,10046.0,1
+original,4,20.0,['Books'],4.43,21428.0,1
+writing,4,24.0,['Books'],4.28,18258.0,1
+physics,4,15.0,['Books'],4.47,360.0,1
+biology,4,10.0,['Books'],4.5,378.0,1
+of books,4,20.2,['Books'],4.47,1756.0,1
+library,3,7.7,['Books'],4.5,30397.0,1
+animals,3,1.7,['Books'],4.47,61969.0,1
+my first,3,14.0,['Books'],4.43,40980.0,1
+first library,3,7.7,['Books'],4.5,30397.0,1
+board books,3,4.3,['Books'],4.5,59842.0,1
+for upsc,3,15.3,['Books'],4.5,321.0,1
+practice questions,3,12.3,['Books'],4.67,538.0,1
+life,3,14.7,['Books'],4.47,20561.0,1
+love,3,6.7,['Books'],4.33,1907.0,1
+classic,3,11.7,['Books'],4.47,28305.0,1
+fiction,3,14.7,['Books'],4.37,2483.0,1
+syllabus,3,7.3,['Books'],4.4,625.0,1
+sample,3,11.3,['Books'],4.47,871.0,1
+arihant all,3,11.3,['Books'],4.47,871.0,1
+class for,3,11.3,['Books'],4.47,871.0,1
+for cbse,3,11.3,['Books'],4.47,871.0,1
+cbse exams,3,11.3,['Books'],4.47,871.0,1
+competitive exams,3,23.0,['Books'],4.43,403.0,1
+for children,3,11.3,['Books'],4.4,4049.0,1
+your,3,13.7,['Books'],4.5,22092.0,1
+power,3,24.3,['Books'],4.4,30265.0,1
+premium,3,19.0,['Books'],4.37,37704.0,1
+paperback,3,18.3,['Books'],4.47,26968.0,1
+easy,3,24.7,['Books'],4.37,8403.0,1
+living,3,16.0,['Books'],4.33,4973.0,1
+handwriting,3,25.0,['Books'],4.3,1862.0,1
+india,3,20.0,['Books'],4.43,13364.0,1
+other,3,14.7,['Books'],4.37,637.0,1
+combo,3,10.3,['Books'],4.37,184.0,1
+chemistry,3,12.0,['Books'],4.47,306.0,1
+physics chemistry,3,12.0,['Books'],4.47,306.0,1
+aptitude,3,16.3,['Books'],4.57,383.0,1
+chapterwise,3,12.3,['Books'],4.5,315.0,1
+notes,3,8.0,['Books'],4.47,420.0,1
+bank,3,15.7,['Books'],4.4,591.0,1
+based,3,6.3,['Books'],4.43,463.0,1
+mcqs,3,6.3,['Books'],4.43,463.0,1
+for exam,3,9.7,['Books'],4.57,543.0,1
+topicwise,3,16.0,['Books'],4.53,552.0,1
+solutions,3,14.0,['Books'],4.6,438.0,1
+question papers,3,16.0,['Books'],4.53,552.0,1
+paper,3,21.3,['Books'],4.83,174.0,1
+includes,2,9.5,['Books'],4.5,44956.0,1
+numbers,2,6.0,['Books'],4.5,45120.0,1
+shapes,2,9.0,['Books'],4.45,46132.0,1
+colors,2,9.0,['Books'],4.45,46132.0,1
+babies,2,6.0,['Books'],4.5,45120.0,1
+preschoolers,2,12.5,['Books'],4.3,47125.0,1
+of board,2,6.0,['Books'],4.5,45120.0,1
+for babies,2,6.0,['Books'],4.5,45120.0,1
+babies toddlers,2,6.0,['Books'],4.5,45120.0,1
+ages years,2,15.5,['Books'],4.4,60994.0,1
+preparation,2,15.5,['Books'],4.3,2408.0,1
+new edition,2,8.5,['Books'],4.25,40.0,1
+edition sharma,2,15.5,['Books'],3.75,20.0,1
+pyqs,2,5.5,['Books'],4.6,635.0,1
+nta,2,3.5,['Books'],4.3,132.0,1
+sheets,2,13.5,['Books'],4.4,3922.0,1
+rank,2,4.5,['Books'],4.45,408.0,1
+predictor,2,4.5,['Books'],4.45,408.0,1
+test series,2,5.0,['Books'],4.3,222.0,1
+rank predictor,2,4.5,['Books'],4.45,408.0,1
+money,2,11.0,['Books'],4.5,58420.0,1
+timeless,2,5.5,['Books'],4.5,5918.0,1
+story of,2,7.0,['Books'],4.4,2556.0,1
+per,2,10.5,['Books'],4.5,930.0,1
+focused,2,10.5,['Books'],4.5,930.0,1
+exams revised,2,10.5,['Books'],4.5,930.0,1
+edition as,2,10.5,['Books'],4.5,930.0,1
+as per,2,10.5,['Books'],4.5,930.0,1
+per latest,2,10.5,['Books'],4.5,930.0,1
+latest syllabus,2,10.5,['Books'],4.5,930.0,1
+syllabus mind,2,10.5,['Books'],4.5,930.0,1
+maps cbqs,2,10.5,['Books'],4.5,930.0,1
+cbqs focused,2,10.5,['Books'],4.5,930.0,1
+focused theory,2,10.5,['Books'],4.5,930.0,1
+theory practice,2,10.5,['Books'],4.5,930.0,1
+practice exercises,2,10.5,['Books'],4.5,930.0,1
+exercises sample,2,10.5,['Books'],4.5,930.0,1
+sample papers,2,10.5,['Books'],4.5,930.0,1
+project,2,11.5,['Books'],4.55,99637.0,1
+mary,2,18.0,['Books'],4.7,101210.0,1
+author,2,18.0,['Books'],4.7,101210.0,1
+from the,2,18.0,['Books'],4.7,101210.0,1
+of the,2,20.0,['Books'],4.5,100428.0,1
+kids early,2,10.0,['Books'],4.45,738.0,1
+one science,2,6.5,['Books'],4.35,478.0,1
+general,2,8.5,['Books'],4.3,43.0,1
+banking,2,21.0,['Books'],4.35,574.0,1
+edition for,2,21.0,['Books'],4.35,574.0,1
+brain,2,13.0,['Books'],4.4,1750.0,1
+booster,2,13.0,['Books'],4.4,1750.0,1
+time,2,23.5,['Books'],4.35,17838.0,1
+brain booster,2,13.0,['Books'],4.4,1750.0,1
+exercises for,2,9.0,['Books'],4.3,1496.0,1
+and up,2,14.5,['Books'],4.4,2824.0,1
+up hours,2,14.5,['Books'],4.4,2824.0,1
+of fun,2,23.5,['Books'],4.35,17838.0,1
+fun time,2,23.5,['Books'],4.35,17838.0,1
+to be,2,19.0,['Books'],4.4,48.0,1
+premium paperback,2,13.5,['Books'],4.4,40206.0,1
+healthy,2,20.0,['Books'],4.3,95.0,1
+guide to,2,20.0,['Books'],4.3,95.0,1
+tales,2,12.0,['Books'],4.5,5244.0,1
+collection,2,21.0,['Books'],4.6,3156.0,1
+moral,2,20.0,['Books'],4.55,3806.0,1
+stories for,2,12.0,['Books'],4.5,5244.0,1
+mathematics edition,2,26.0,['Books'],3.85,220.0,1
+magic,2,24.0,['Books'],4.1,4962.0,1
+pen,2,24.0,['Books'],4.1,4962.0,1
+tracing book,2,27.0,['Books'],4.2,18831.0,1
+cursive,2,25.0,['Books'],4.3,1862.0,1
+workbook,2,25.0,['Books'],4.3,1862.0,1
+for class,2,23.0,['Books'],4.45,1458.0,1
+word,2,27.0,['Books'],4.4,12556.0,1
+made,2,27.0,['Books'],4.4,12556.0,1
+language,2,15.5,['Books'],4.35,2412.0,1
+over,2,27.0,['Books'],4.4,12556.0,1
+copies,2,27.0,['Books'],4.4,12556.0,1
+sold,2,27.0,['Books'],4.4,12556.0,1
+worldwide,2,27.0,['Books'],4.4,12556.0,1
+self,2,27.0,['Books'],4.4,12556.0,1
+useful,2,20.0,['Books'],4.35,3012.0,1
+word power,2,27.0,['Books'],4.4,12556.0,1
+power made,2,27.0,['Books'],4.4,12556.0,1
+made easy,2,27.0,['Books'],4.4,12556.0,1
+english language,2,15.5,['Books'],4.35,2412.0,1
+copies sold,2,27.0,['Books'],4.4,12556.0,1
+sold worldwide,2,27.0,['Books'],4.4,12556.0,1
+worldwide with,2,27.0,['Books'],4.4,12556.0,1
+with self,2,27.0,['Books'],4.4,12556.0,1

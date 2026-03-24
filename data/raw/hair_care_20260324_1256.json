@@ -1,0 +1,3480 @@
+{
+  "products": [
+    {
+      "rank": 1,
+      "asin": "B006QHB88O",
+      "title": "L'Or\u00e9al Paris Permanent Hair Colour, Radiant At-Home Hair Colour with up to 100% Grey Coverage, Pro-Keratin, Up to 8 Weeks of Colour, Excellence Cr\u00e8me, 3 Natural Darkest Brown, 72ml+100g",
+      "brand": "L'Or\u00e9al",
+      "price": 400.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 6819,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71bO6mMzFGL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/LOreal-Paris-Excellence-Natural-Darkest/dp/B006QHB88O/ref=zg_bs_g_9851597031_d_sccl_1/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.390870",
+      "page_number": 1,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 2,
+      "asin": "B0F5BLYYCN",
+      "title": "Bare Anatomy Anti-Dandruff Shampoo | Up To 100% Dandruff Reduction | ZPTO-Free | pH 5.3 | Salicylic Acid, Piroctone Olamine & Biotin | Non-Drying Formula | For Strong, Smooth Hair | Unisex | 100 ml",
+      "brand": "Bare",
+      "price": 239.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 13449,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41aY2ihjX6L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Bare-Anatomy-Dandruff-Strengthens-Salicylic/dp/B0F5BLYYCN/ref=zg_bs_g_9851597031_d_sccl_2/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.391825",
+      "page_number": 1,
+      "title_word_count": 35,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 3,
+      "asin": "B0B573QW21",
+      "title": "WishCare Hair Growth Serum For Scalp | 94% Saw New Hair Growth | Redensyl & Rosemary Oil | 100% Saw Hairfall Reduction | In-Vivo Tested | For Men & Women | 30ml",
+      "brand": "WishCare",
+      "price": 687.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 11271,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61PA2P4KDCL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/WishCare-Hair-Growth-Serum-Concentrate/dp/B0B573QW21/ref=zg_bs_g_9851597031_d_sccl_3/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.392767",
+      "page_number": 1,
+      "title_word_count": 32,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 4,
+      "asin": "B0BLM3Q44F",
+      "title": "Scalpe Pro Daily Anti-Dandruff Shampoo | Removes Dandruff from Source | Prevents Itching & Irritation | Scalpe Science | Climbazole Formulation | Dermatologically Tested | For Women & Men | 200ml",
+      "brand": "Scalpe",
+      "price": 304.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 27623,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/713115KY7gL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Scalpe-Pro-dandruff-Shampoo-200ml/dp/B0BLM3Q44F/ref=zg_bs_g_9851597031_d_sccl_4/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.393694",
+      "page_number": 1,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 5,
+      "asin": "B08FW1GJ4F",
+      "title": "L'Oreal Paris Extraordinary Oil Hair Serum Powered by Floral Oils for All Hair Types, Volume- 100 ml, Makes hair frizz-free, stronger, shiny and provides UV and Heat Protection, Lightweight Formula",
+      "brand": "L'Oreal",
+      "price": 437.4,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 43780,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51GhOWodz1L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/LOreal-Paris-Extraordinary-Serum-Women/dp/B08FW1GJ4F/ref=zg_bs_g_9851597031_d_sccl_5/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.394651",
+      "page_number": 1,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 6,
+      "asin": "B0B6Y3FNV7",
+      "title": "L'Oreal Paris Fresh Hyaluron Moisture 72HR Moisture Sealing Conditioner Powered By Hyaluronic Acid, For Frizz-Free, Hydrated And Bouncy Hair Full Of Life For All Hair Types | 175 Millilitres",
+      "brand": "L'Oreal",
+      "price": 255.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 20755,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/511fPrnY+bL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Paris-Moisture-Conditioner-Hyaluronic-Dehydrated/dp/B0B6Y3FNV7/ref=zg_bs_g_9851597031_d_sccl_6/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.395643",
+      "page_number": 1,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 7,
+      "asin": "B0D6G1JFZ2",
+      "title": "Pilgrim Australian Tea Tree Non-Drying Anti-Dandruff Shampoo 200 ml | Removes Dandruff from Source | Helps with Itching, Irritation | Strong & Smooth Hair | For Men & Women",
+      "brand": "Pilgrim",
+      "price": 186.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 7486,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61XlgvckwCL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Pilgrim-Australian-Non-Drying-Anti-Dandruff-Irritation/dp/B0D6G1JFZ2/ref=zg_bs_g_9851597031_d_sccl_7/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.396624",
+      "page_number": 1,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 8,
+      "asin": "B0B6XQGXJW",
+      "title": "L Or\u00e9al Paris Moisture Filling Shampoo, With Hyaluronic Acid, For Dry & Dehydrated Hair, Adds Shine & Bounce, Hyaluron Moisture 72H, 340Ml.",
+      "brand": "L",
+      "price": 286.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 18991,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51pruNF+rXL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Paris-Moisture-Hyaluronic-Dehydrated-Hyaluron/dp/B0B6XQGXJW/ref=zg_bs_g_9851597031_d_sccl_8/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.397634",
+      "page_number": 1,
+      "title_word_count": 22,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 9,
+      "asin": "B006QHB9GK",
+      "title": "L'Or\u00e9al Paris Casting Cr\u00e8me Gloss Hair Color With Glycolic Gloss Complex | 5X Glossier Hair Color | Shade 300 - Darkest Brown | 60g + 40ml + 60g",
+      "brand": "L'Or\u00e9al",
+      "price": 461.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 32765,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61SPyONZVFL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/LOr%C3%A9al-Casting-Glycolic-Complex-Glossier/dp/B006QHB9GK/ref=zg_bs_g_9851597031_d_sccl_9/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.398635",
+      "page_number": 1,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 10,
+      "asin": "B07BDNCTFC",
+      "title": "Parachute Coconut Oil - 300 ml (Bottle)",
+      "brand": "Parachute",
+      "price": 169.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 15293,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61dUCXFgN3L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Parachute-Coconut-Oil-300ml-Bottle/dp/B07BDNCTFC/ref=zg_bs_g_9851597031_d_sccl_10/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.399749",
+      "page_number": 1,
+      "title_word_count": 7,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 11,
+      "asin": "B0CRTQZ4HG",
+      "title": "Pilgrim Redensyl 3% + Anagain 4% + Baicapil Advanced Hair Growth Serum (30ml) for Scalp with Korean Black Rice | Control Hair Fall, Stimulate Hair Regrowth, Increase Hair Density | For Women & Men",
+      "brand": "Pilgrim",
+      "price": 554.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 8880,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71CgBm4faQL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Pilgrim-Redensyl-Advanced-Ingredients-Stimulates/dp/B0CRTQZ4HG/ref=zg_bs_g_9851597031_d_sccl_11/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.400803",
+      "page_number": 1,
+      "title_word_count": 34,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 12,
+      "asin": "B0744GC2CK",
+      "title": "L'Or\u00e9al Professionnel Absolut Repair Shampoo for Dry & Damaged Hair - 300ml | Professional shampoo for Strengthening and Repairing Hair, With Protein & Omega-9, For Men & Women",
+      "brand": "L'Or\u00e9al",
+      "price": 677.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 14708,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61VSeszx50L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/LOr%C3%A9al-Professionnel-Provides-conditioning-strength/dp/B0744GC2CK/ref=zg_bs_g_9851597031_d_sccl_12/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.401880",
+      "page_number": 1,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 13,
+      "asin": "B07X6MKT5N",
+      "title": "Biotique Herbcolor Conditioning Hair Colour l Ammonia Free Hair Color l 9 Organic Herbal Extracts l Natural and Healthy Shine l 50g + 110ml| Darkest Brown 3N (Pack of 1)",
+      "brand": "Biotique",
+      "price": 178.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 21904,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51Lw2rJA-RL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Biotique-Bio-Herbcolor-Darkest-Brown/dp/B07X6MKT5N/ref=zg_bs_g_9851597031_d_sccl_13/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.402961",
+      "page_number": 1,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 14,
+      "asin": "B0F8R6FHYX",
+      "title": "L'Oreal Paris Total Repair 5 Shampoo, For Repairing 5 Signs Of Damaged Hair, With Keratin Xs | 800Ml",
+      "brand": "L'Oreal",
+      "price": 400.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 21516,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/5152pBdloeL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/LOreal-Paris-Shampoo-Repairing-Damaged/dp/B0F8R6FHYX/ref=zg_bs_g_9851597031_d_sccl_14/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.404054",
+      "page_number": 1,
+      "title_word_count": 18,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 15,
+      "asin": "B0DSLP1VCM",
+      "title": "L\u2019Or\u00e9al Paris Hyaluron Pure 72H Purifying Shampoo, For oily scalp & dry hair with salicylic and hyaluronic acid, 800 ml",
+      "brand": "L\u2019Or\u00e9al",
+      "price": 520.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 4126,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51LM0j4JpFL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Paris-Hyaluron-Purifying-salicylic-hyaluronic/dp/B0DSLP1VCM/ref=zg_bs_g_9851597031_d_sccl_15/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.405167",
+      "page_number": 1,
+      "title_word_count": 20,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 16,
+      "asin": "B0DK6W7RPS",
+      "title": "Bare Anatomy Nature x Science Rosemary Water Spray for Hair Growth & Hair Thickness with Rice Water | 100% Natural Extract | Soft & Smooth Hair | Controls Hairfall & Adds Shine | Non-Greasy & Fast Absorbing | 200 ml",
+      "brand": "Bare",
+      "price": 359.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 1387,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41MZm7lsyWL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Bare-Anatomy-Thickness-Non-Greasy-Absorbing/dp/B0DK6W7RPS/ref=zg_bs_g_9851597031_d_sccl_16/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.407006",
+      "page_number": 1,
+      "title_word_count": 40,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 17,
+      "asin": "B0BJ32VKB2",
+      "title": "Bare Anatomy Anti-Hair Fall Shampoo | Provides 5x Hair Fall Control | pH 4.6 | Adenosine & Peptides | Strengthens Weak Roots & Reduces Breakage | Sulphate & Paraben Free | Unisex | 250ml",
+      "brand": "Bare",
+      "price": 459.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 4069,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41Xc++dNUSL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Bare-Anatomy-Contains-Adenosine-Peptides/dp/B0BJ32VKB2/ref=zg_bs_g_9851597031_d_sccl_17/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.408962",
+      "page_number": 1,
+      "title_word_count": 34,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 18,
+      "asin": "B07L3ZCJ53",
+      "title": "TRESemm\u00e9 Keratin Smooth+ Shampoo 1000ml | 72H Frizz Control with Keratin Protein & Argan Oil | Paraben Free Smoothening Shampoo for Dry & Frizzy Hair",
+      "brand": "TRESemm\u00e9",
+      "price": 689.98,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 59714,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51La7HRCp0L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/TRESemme-Keratin-Smooth-Shampoo-1000ml/dp/B07L3ZCJ53/ref=zg_bs_g_9851597031_d_sccl_18/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.410836",
+      "page_number": 1,
+      "title_word_count": 25,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 19,
+      "asin": "B07BDNGTYC",
+      "title": "Parachute Coconut Oil 600 ml - Bottle",
+      "brand": "Parachute",
+      "price": 271.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 31744,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61fapIFwFmL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Parachute-100-Coconut-Bottle-600ml/dp/B07BDNGTYC/ref=zg_bs_g_9851597031_d_sccl_19/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.412702",
+      "page_number": 1,
+      "title_word_count": 7,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 20,
+      "asin": "B09VSZVQ1P",
+      "title": "Kottakkal ayurveda Nalpamaradi Tailam - Oil, 200 Ml, For Hair & Skin (Pack Of 1)",
+      "brand": "Kottakkal",
+      "price": 165.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 1316,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81hjHo4KfdL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Kottakkal-ayurveda%C2%AE-Nalpamaradi-Tailam-Hair/dp/B09VSZVQ1P/ref=zg_bs_g_9851597031_d_sccl_20/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.414551",
+      "page_number": 1,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 21,
+      "asin": "B01K1M9HU0",
+      "title": "INDUS VALLEY Damage Free Natural Gel Hair Colour for Women | Ammonia & PPD Free Organic Hair Colour with 100% Grey Coverage, Long Lasting Conditioning Hair Color | Black 1.00-220 ml",
+      "brand": "INDUS",
+      "price": 615.0,
+      "currency": "INR",
+      "rating": 3.8,
+      "review_count": 13995,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81izuZtBzaL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/INDUS-VALLEY-No-Ammonia-Semi-Permanent-Coverage/dp/B01K1M9HU0/ref=zg_bs_g_9851597031_d_sccl_21/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.416234",
+      "page_number": 1,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 22,
+      "asin": "B0DQ8K4WVK",
+      "title": "Parachute Advansed Gold Keratin Coconut Hair Oil | Thick & Smooth Hair| No Paraben or Silicone | 300ml",
+      "brand": "Parachute",
+      "price": 120.6,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 648,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/619yK5RuXaL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Parachute-Advansed-Keratin-Coconut-Silicone/dp/B0DQ8K4WVK/ref=zg_bs_g_9851597031_d_sccl_22/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.417966",
+      "page_number": 1,
+      "title_word_count": 18,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 23,
+      "asin": "B06XFWVWMS",
+      "title": "Soulflower Rosemary Hair Growth Oil, Hair Fall Control, Healthy Scalp, Strong Hair, Rosemary, Lavender, Castor|100% Pure, Natural, Organic, Clinically Proven for Hair Growth, 225ml",
+      "brand": "Soulflower",
+      "price": 238.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 21772,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61hAflgZguL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Soulflower-Natural-Rosemary-Lavender-Healthy/dp/B06XFWVWMS/ref=zg_bs_g_9851597031_d_sccl_23/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.419141",
+      "page_number": 1,
+      "title_word_count": 24,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 24,
+      "asin": "B003NQESIS",
+      "title": "Parachute Coconut Oil - 1 L Pet Jar",
+      "brand": "Parachute",
+      "price": 449.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 42249,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71UAbfo2kjL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Parachute-Coconut-Oil-1-L/dp/B003NQESIS/ref=zg_bs_g_9851597031_d_sccl_24/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.420246",
+      "page_number": 1,
+      "title_word_count": 8,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 25,
+      "asin": "B07NDXJGF8",
+      "title": "L'Or\u00e9al Professionnel Absolut Repair Mask for Dry & Damaged Hair - 250ml | Professional mask for Strengthening and Repairing Hair, With Protein & Omega-9, For Men & Women",
+      "brand": "L'Or\u00e9al",
+      "price": 891.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 11882,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61BkUCDM8VL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/LOr%C3%A9al-Professionnel-Absolut-Repair-Damaged/dp/B07NDXJGF8/ref=zg_bs_g_9851597031_d_sccl_25/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.421340",
+      "page_number": 1,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 26,
+      "asin": "B0CCYRK98P",
+      "title": "Nat Habit - Fresh Ready To Apply Henna Paste, Pre-Soaked in Black Tea and Herbs,100% Natural Rajasthani Henna, Imparts Rich Brown Shade (Pack of 2 x 220g)",
+      "brand": "Nat",
+      "price": 355.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 6257,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Y0oAR0dAL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Nat-Habit-Pre-Soaked-Natural-Rajasthani/dp/B0CCYRK98P/ref=zg_bs_g_9851597031_d_sccl_26/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.423536",
+      "page_number": 1,
+      "title_word_count": 27,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 27,
+      "asin": "B07H9T25WH",
+      "title": "Dove Hair Fall Rescue Shampoo 1 L|| For Damaged Hair|| Hair Fall Control for Thicker Hair - Mild Daily Anti Hair Fall Shampoo for Men & Women",
+      "brand": "Dove",
+      "price": 700.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 52837,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41R69jyJqsL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Dove-Hair-Fall-Rescue-Shampoo/dp/B07H9T25WH/ref=zg_bs_g_9851597031_d_sccl_27/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.425190",
+      "page_number": 1,
+      "title_word_count": 27,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 28,
+      "asin": "B0CPJB7WW7",
+      "title": "Be Bodywise Rosemary Hair Growth Serum (Roll On) | 3% Redensyl & 2% Anagain | Hair fall control serum for Women & Men | Promotes Hair Growth & Stimulates Hair Follicles | For All Hair Types | 25ml",
+      "brand": "Be",
+      "price": 599.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 3043,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61hPKEtnF2L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Be-Bodywise-Rosemary-Stimulates-Follicles/dp/B0CPJB7WW7/ref=zg_bs_g_9851597031_d_sccl_28/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.426827",
+      "page_number": 1,
+      "title_word_count": 38,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 29,
+      "asin": "B0FGXF41R1",
+      "title": "L\u2019Or\u00e9al Paris Glycolic Gloss Shine Boosting Shampoo, powered by 3% Glycolic Acid, for dull hair, restores hair quality for gives 3x more gloss, 800ml",
+      "brand": "L\u2019Or\u00e9al",
+      "price": 520.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 1227,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51em1ES4YvL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Paris-Glycolic-Boosting-Shampoo-restores/dp/B0FGXF41R1/ref=zg_bs_g_9851597031_d_sccl_29/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.428444",
+      "page_number": 1,
+      "title_word_count": 24,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 30,
+      "asin": "B0CP5S82ZV",
+      "title": "Kokila NO PPD Shampoo Hair Colour - Black 400ml for Women and Men | Natural Extracts | Colours Hair in 10 Minutes | Ammonia Free, Paraben Free - 10 Pair Free Gloves",
+      "brand": "Kokila",
+      "price": 770.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 4001,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81a8NrQOz5L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Kokila-PPD-Shampoo-Hair-Colour/dp/B0CP5S82ZV/ref=zg_bs_g_9851597031_d_sccl_30/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:18.430100",
+      "page_number": 1,
+      "title_word_count": 32,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 1,
+      "asin": "B00S850C5C",
+      "title": "Indulekha Bringha Ayurvedic Hair Oil 100 ml|| Hair Fall Control and Hair Growth with Bringharaj & Coconut Oil - Comb Applicator Bottle for Men & Women",
+      "brand": "Indulekha",
+      "price": 286.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 73849,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61IxF1ljJHL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Indulekha-Bringha-Ayurvedic-Control-Bringharaj/dp/B00S850C5C/ref=zg_bs_g_9851597031_d_sccl_1/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.412250",
+      "page_number": 2,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 2,
+      "asin": "B09TQZY1KY",
+      "title": "Bare Anatomy Ultra Smoothing Hair Mask For Dry & Frizzy Hair | Restores Smoothness & Texture by 27% | Powered By Carbohydrate Complex & Niacinamide | For Women & Men | SLS & Paraben Free | 250gm",
+      "brand": "Bare",
+      "price": 499.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 1680,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51hFyqEKssL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Bare-Anatomy-Niacinamide-Strengthens-Unmanageable/dp/B09TQZY1KY/ref=zg_bs_g_9851597031_d_sccl_2/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.413366",
+      "page_number": 2,
+      "title_word_count": 37,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 3,
+      "asin": "B09MTMX8ZN",
+      "title": "Nat Habit Cold Pressed 100% Pure Castor (Arandi) Oil for Skin & Hair With Vitamin E, Omega-6 & 9, Mineral Free & Preservative Free (200 ml)",
+      "brand": "Nat",
+      "price": 289.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 2866,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51xsnK2xZwL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Nat-Habit-Eyelashes-Ayurvedic-Preservatives/dp/B09MTMX8ZN/ref=zg_bs_g_9851597031_d_sccl_3/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.414407",
+      "page_number": 2,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 4,
+      "asin": "B0CGM3H7SN",
+      "title": "Parachute Advansed Rosemary-enriched Coconut Hair Oil| Rosemary Hair Oil| Superfoods Magic| Long & Thick Hair|300 Ml",
+      "brand": "Parachute",
+      "price": 159.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 3966,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61jZRULdVuL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Parachute-Advansed-Rosemary-enriched-Rosemary-Superfoods/dp/B0CGM3H7SN/ref=zg_bs_g_9851597031_d_sccl_4/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.415520",
+      "page_number": 2,
+      "title_word_count": 16,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 5,
+      "asin": "B01MZ9YXTV",
+      "title": "Cuticolor Permanent Hair Color Cream|#1 Dr Prescribed|For Sensitive Skin|Eco Mechanism For Preserving Scalp Health|Enriched With Portulaca & Boseivela Extracts Dark Brown, 60G (Pack Of 1)",
+      "brand": "Cuticolor",
+      "price": 1709.05,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 1846,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Hncm0jVrL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Cuticolor-Permanent-Hair-Color/dp/B01MZ9YXTV/ref=zg_bs_g_9851597031_d_sccl_5/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.416746",
+      "page_number": 2,
+      "title_word_count": 25,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 6,
+      "asin": "B07WHKKBVF",
+      "title": "Attar Ayurveda Indigo Powder for black Hair (200 grams)",
+      "brand": "Attar",
+      "price": 289.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 19275,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61qVXRso1OL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Attar-Ayurveda-Indigo-Powder-black/dp/B07WHKKBVF/ref=zg_bs_g_9851597031_d_sccl_6/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.417754",
+      "page_number": 2,
+      "title_word_count": 9,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 7,
+      "asin": "B07L3YNL2V",
+      "title": "TRESemme Hairfall Defense+ Shampoo 1000ml With Keratin Fillers | Longer and Stronger hair | Prevents Hair Fall due to Breakage | Paraben-Free",
+      "brand": "TRESemme",
+      "price": 649.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 33318,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51G9m3uJIIL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/TRESemme-Defence-Shampoo-Keratin-Stronger/dp/B07L3YNL2V/ref=zg_bs_g_9851597031_d_sccl_7/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.418765",
+      "page_number": 2,
+      "title_word_count": 22,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 8,
+      "asin": "B083FFZPXH",
+      "title": "TRESemm\u00e9 Keratin Smooth Anti Frizz Conditioner 335ml | 72H Frizz Control with Keratin Protein & Argan Oil | Paraben Free Hair Conditioner for Dry Frizzy Hair",
+      "brand": "TRESemm\u00e9",
+      "price": 299.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 25613,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41PZT7fI1TL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/TRESemme-Keratin-Smooth-Conditioner-340/dp/B083FFZPXH/ref=zg_bs_g_9851597031_d_sccl_8/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.419775",
+      "page_number": 2,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 9,
+      "asin": "B07BMXQRL9",
+      "title": "MATRIX Mega Smooth Conditioner with Shea Butter and Ceramides for Frizzy Hair |Max Smoothness for 4 Days | | Used by 1 Lakh Hairstylists*| For All Hair Types | Paraben Free, 100ml",
+      "brand": "MATRIX",
+      "price": 340.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 13495,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61VM9nZwjTL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Conditioner-Ceramides-Smoothness-Hairstylists-Paraben/dp/B07BMXQRL9/ref=zg_bs_g_9851597031_d_sccl_9/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.420787",
+      "page_number": 2,
+      "title_word_count": 32,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 10,
+      "asin": "B0CT5FKBR7",
+      "title": "Bare Anatomy Advanced Hair Growth Serum | 3% Redensyl, 4% Anagain, 3% Baicapil, 1% Capilia Longa, Rosemary, Biotin & Rice Extract | Hairfall control & Hair Density | Women & Men | 30ml",
+      "brand": "Bare",
+      "price": 696.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 3199,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61v+UnNwlmL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Bare-Anatomy-Advanced-Redensyl-Baicapil/dp/B0CT5FKBR7/ref=zg_bs_g_9851597031_d_sccl_10/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.421790",
+      "page_number": 2,
+      "title_word_count": 33,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 11,
+      "asin": "B0BZ4WQLZV",
+      "title": "Urban yog MakeMeeBold 3-in-1 Hot Air Brush| 1.5-inch Barrel | Hair Dryer Hair Straightener Volumizer Blow Dryer Styling Tool,1200 Watt | Gifts for Woman, Multicolour",
+      "brand": "Urban",
+      "price": 2499.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 3959,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71CrksKGuCL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Urban-Brush-Straightener-Volumizer-Warranty/dp/B0BZ4WQLZV/ref=zg_bs_g_9851597031_d_sccl_11/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.422877",
+      "page_number": 2,
+      "title_word_count": 25,
+      "has_price": true,
+      "price_tier": "premium",
+      "review_tier": "high"
+    },
+    {
+      "rank": 12,
+      "asin": "B07H9SV624",
+      "title": "Dove Intense Repair Shampoo 1 L|| Repairs Dry and Damaged|| Strengthening Shampoo for Smooth & Strong Hair - Mild for Men & Women",
+      "brand": "Dove",
+      "price": 684.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 37259,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41AG1Yii4eL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Dove-Intense-Repair-Shampoo-1L/dp/B07H9SV624/ref=zg_bs_g_9851597031_d_sccl_12/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.423900",
+      "page_number": 2,
+      "title_word_count": 23,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 13,
+      "asin": "B0CT3RHP5Y",
+      "title": "Streax Heat Protectant Spray for Hair - 100 ml, Hair Styling Spray for Women & Men I Heat Protection Spray from heat|Heat protection serum|Protection upto 250\u00b0C & 2X Less Hair Breakage",
+      "brand": "Streax",
+      "price": 230.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 3211,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41ZRZg9wfJL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Streax-Protection-Protectant-Breakage-Enriched/dp/B0CT3RHP5Y/ref=zg_bs_g_9851597031_d_sccl_13/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.424944",
+      "page_number": 2,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 14,
+      "asin": "B0F8N73779",
+      "title": "Brillare 20% Rosemary Oil Shots For Rapid Hair Growth | Improves Thickness | Controls Hair Fall & Nourishes Scalp | 100% Natural, Non Greasy Hair Oil Shots For Men & Women",
+      "brand": "Brillare",
+      "price": 715.5,
+      "currency": "INR",
+      "rating": 4.8,
+      "review_count": 2065,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41+NJpJ9v1L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Brillare-Rosemary-Improves-Thickness-Nourishes/dp/B0F8N73779/ref=zg_bs_g_9851597031_d_sccl_14/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.425951",
+      "page_number": 2,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 15,
+      "asin": "B0F7D2J2VH",
+      "title": "PLIX - THE PLANT FIX Rosemary Advanced Spray for Fuller, Thicker Hair, Redensyl\u00ae & Rosemary Extract, Easy to Use, Mess-free, Stimulates Hair Follicles & Promotes Hair Growth, For All Hair Types, 100ml",
+      "brand": "PLIX",
+      "price": 199.0,
+      "currency": "INR",
+      "rating": 3.8,
+      "review_count": 161,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/610UqGdWsTL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/PLIX-Redensyl%C2%AE-Mess-free-Stimulates-Follicles/dp/B0F7D2J2VH/ref=zg_bs_g_9851597031_d_sccl_15/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.426954",
+      "page_number": 2,
+      "title_word_count": 32,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 16,
+      "asin": "B0DSLNKJR1",
+      "title": "L'OREAL PARIS Unscented Hyaluron Pure 72H Rehydrating Conditioner for All Hair Types For Smooth Tangle-Free Hair, 175 Millilitres",
+      "brand": "L'OREAL",
+      "price": 209.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 2609,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51RYYNlTMOL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Paris-Hyaluron-Rehydrating-Conditioner-tangle-free/dp/B0DSLNKJR1/ref=zg_bs_g_9851597031_d_sccl_16/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.427962",
+      "page_number": 2,
+      "title_word_count": 18,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 17,
+      "asin": "B01N3YESMI",
+      "title": "Khadi Natural Amla & Bhringraj Cleanser (Shampoo) | Controls Dandruff, Hair Fall | Reduces Scalp Irritation | Paraben and Sulphate Free | Suitable for All Hair Types | 210ml",
+      "brand": "Khadi",
+      "price": 207.0,
+      "currency": "INR",
+      "rating": 3.9,
+      "review_count": 19479,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61T7dfArlkL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Khadi-Natural-Bhringraj-Shampoo-Cleanser/dp/B01N3YESMI/ref=zg_bs_g_9851597031_d_sccl_17/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.428960",
+      "page_number": 2,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 18,
+      "asin": "B00JJHFF6O",
+      "title": "L'Or\u00e9al Professionnel Xtenso Care Shampoo for straightened hair - 300ml | Professional shampoo that smoothens, nourishes & strengthens hair| With Pro-Keratin & Incell | L'Or\u00e9al Shampoo For Men & Women",
+      "brand": "L'Or\u00e9al",
+      "price": 598.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 13549,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Ir3-tu1PL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/LOr%C3%A9al-Professionnel-straightened-strengthens-Pro-Keratin/dp/B00JJHFF6O/ref=zg_bs_g_9851597031_d_sccl_18/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.430089",
+      "page_number": 2,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 19,
+      "asin": "B00VK5UTLO",
+      "title": "Dove Hair Fall Rescue Conditioner 175 ml|| Hair Fall Control for Smooth|| Frizz Free Hair - Deep Conditions Dry and Damaged Hair for Men & Women",
+      "brand": "Dove",
+      "price": 172.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 20299,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41ZbHCpOreL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Dove-Hair-Rescue-Conditioner-180ml/dp/B00VK5UTLO/ref=zg_bs_g_9851597031_d_sccl_19/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.431394",
+      "page_number": 2,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 20,
+      "asin": "B0BHJ8HT2F",
+      "title": "Streax Hair Serum 200ml, Hair serum for Dry & Frizzy Hair, for Women & Men, for Curly Hair, Wavy Hair, Straight Hair, Silk & Shine Vitalised with Walnut Oil",
+      "brand": "Streax",
+      "price": 285.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 39140,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/5197knTGRhL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Streax-Walnut-Hair-Serum-200/dp/B0BHJ8HT2F/ref=zg_bs_g_9851597031_d_sccl_20/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.432641",
+      "page_number": 2,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 21,
+      "asin": "B0BG8GPD5F",
+      "title": "Mamaearth Onion Shampoo for Hair Growth and Hair Fall Control with Onion and Plant Keratin | Reduces Hair Fall | Strengthens & Smoothens Hair | For Men & Women | 600ml",
+      "brand": "Mamaearth",
+      "price": 354.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 46659,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51dNDbLPeRL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Mamaearth-Shampoo-Growth-Control-Keratin/dp/B0BG8GPD5F/ref=zg_bs_g_9851597031_d_sccl_21/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.433856",
+      "page_number": 2,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 22,
+      "asin": "B0D2XH28NC",
+      "title": "Soulflower Rosemary Water Spray for Hair Growth | Niacinamide & Mint | Hair Regrowth Spray | Instant Shine | Strengthens Hair Roots & Strand | Anti Hair Fall Cooling & Relaxing | All Hair Types 100ml",
+      "brand": "Soulflower",
+      "price": 199.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 3181,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61XEUy8lBjL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Soulflower-Rosemary-protection-Niacinamide-peppermint/dp/B0D2XH28NC/ref=zg_bs_g_9851597031_d_sccl_22/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.434937",
+      "page_number": 2,
+      "title_word_count": 36,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 23,
+      "asin": "B0FGXG8P59",
+      "title": "L'Oreal Paris Floral Glycolic Gloss Shine Sealing Conditioner, Powered By 4% Glycolic Acid, For Dull Hair, Smoothens Hair Fiber For 3X More Gloss, 175Millilitre",
+      "brand": "L'Oreal",
+      "price": 239.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 1088,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/517AppXvEUL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/LOreal-Paris-Conditioner-Smoothens-175Millilitre/dp/B0FGXG8P59/ref=zg_bs_g_9851597031_d_sccl_23/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.435978",
+      "page_number": 2,
+      "title_word_count": 24,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 24,
+      "asin": "B097C5S5ZJ",
+      "title": "Dabur Vatika Ayurvedic Shampoo - 1 L | For Strong & Healthy Hair | No Parabens | For All Hair Types | Power of Dus Poshan for 10 Hair Problems",
+      "brand": "Dabur",
+      "price": 297.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 21454,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71iAMC6U3dL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Vatika-Ayurvedic-Shampoo-Control-Damage/dp/B097C5S5ZJ/ref=zg_bs_g_9851597031_d_sccl_24/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.437145",
+      "page_number": 2,
+      "title_word_count": 30,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 25,
+      "asin": "B0FV2HMLVW",
+      "title": "UrbanBotanics Rosemary Water Mist Spray for Hair Growth | Rice Water Extract ,Redensyl & Anagain | Hair Regrowth | Instant Shine | Strengthens Hair Roots & Strand | Anti Hair Fall | All Hair Types, 100ml",
+      "brand": "UrbanBotanics",
+      "price": 229.0,
+      "currency": "INR",
+      "rating": 4.8,
+      "review_count": 264,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51wtkdDB2IL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/UrbanBotanics-Rosemary-Redensyl-Regrowth-Strengthens/dp/B0FV2HMLVW/ref=zg_bs_g_9851597031_d_sccl_25/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.438160",
+      "page_number": 2,
+      "title_word_count": 36,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 26,
+      "asin": "B074SL2PHW",
+      "title": "Cuticolor Permanent Hair Color Cream|Dr prescribed|Suitable for Sensitive Skin|Eco Mechanism for Preserving Scalp Health|No Ammonia|No PPD|Enriched with Portulaca & Boseivela Extracts(Black,Pack of 1)",
+      "brand": "Cuticolor",
+      "price": 1709.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 2862,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51QsdpI6Z6L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Cuticolor-Permanent-Color-Cream-Black/dp/B074SL2PHW/ref=zg_bs_g_9851597031_d_sccl_26/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.439169",
+      "page_number": 2,
+      "title_word_count": 23,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 27,
+      "asin": "B00DRE5MCM",
+      "title": "SebaMed Everyday Shampoo 200 Ml|Ph 5.5|Normal To Dry Hair| Mild|Gives Moisture & Volume |Phthalates & Sls And Parabens Free |Unisex For Dry Scalp Toxin Free | Clinically Proven | Toxin Free",
+      "brand": "SebaMed",
+      "price": 562.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 3134,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41MNiEcvf-L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/SebaMed-HC1001-Sebamed-Everyday-Shampoo/dp/B00DRE5MCM/ref=zg_bs_g_9851597031_d_sccl_27/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.440180",
+      "page_number": 2,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 28,
+      "asin": "B0BQJMKZCR",
+      "title": "L'Or\u00e9al Professionnel Density Advanced Shampoo for fine and thinning hair - 300ml | Professional shampoo that visibly increases hair volume | With Omega-6 complex | Density Shampoo For Men & Women",
+      "brand": "L'Or\u00e9al",
+      "price": 686.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 2907,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61xylJ9UU2L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/LOr%C3%A9al-Professionnel-Advanced-Density-Thinning/dp/B0BQJMKZCR/ref=zg_bs_g_9851597031_d_sccl_28/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.441187",
+      "page_number": 2,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 29,
+      "asin": "B0933B5N19",
+      "title": "Clinic Plus Strong & Long Shampoo 1 L|| With Milk Proteins & Multivitamins for Healthy and Long Hair - Strengthening Shampoo for Hair Growth",
+      "brand": "Clinic",
+      "price": 608.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 17077,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/514Cf4D+36L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Clinic-Plus-Strong-Long-Shampoo/dp/B0933B5N19/ref=zg_bs_g_9851597031_d_sccl_29/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.442184",
+      "page_number": 2,
+      "title_word_count": 24,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 30,
+      "asin": "B01N33BLDT",
+      "title": "Havells HD3151 1200 W Foldable Hair Dryer; 3 Heat (Hot/Cool/Warm) Settings Including Cool Shot Button; Heat Balance Technology, Turquoise",
+      "brand": "Havells",
+      "price": 999.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 66703,
+      "category": "Hair Care",
+      "subcategory": "Hair Care",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51gHGxAfg1L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Havells-HD3151-Hair-Dryer-Turquoise/dp/B01N33BLDT/ref=zg_bs_g_9851597031_d_sccl_30/522-7345175-6782152?psc=1",
+      "scraped_at": "2026-03-24T12:56:24.443183",
+      "page_number": 2,
+      "title_word_count": 19,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "hair",
+      "frequency": 129,
+      "avg_rank": 16.6,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.21,
+      "avg_reviews": 17102.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "shampoo",
+      "frequency": 30,
+      "avg_rank": 18.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.21,
+      "avg_reviews": 21303.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "women",
+      "frequency": 21,
+      "avg_rank": 15.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.19,
+      "avg_reviews": 19026.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "men",
+      "frequency": 20,
+      "avg_rank": 15.2,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.21,
+      "avg_reviews": 19277.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "oil",
+      "frequency": 18,
+      "avg_rank": 11.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.31,
+      "avg_reviews": 25287.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fall",
+      "frequency": 18,
+      "avg_rank": 19.1,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 25912.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hair fall",
+      "frequency": 17,
+      "avg_rank": 19.2,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.26,
+      "avg_reviews": 27197.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "growth",
+      "frequency": 16,
+      "avg_rank": 17.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.24,
+      "avg_reviews": 14306.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hair growth",
+      "frequency": 16,
+      "avg_rank": 17.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.24,
+      "avg_reviews": 14306.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "shampoo for",
+      "frequency": 15,
+      "avg_rank": 20.2,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.21,
+      "avg_reviews": 25054.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "rosemary",
+      "frequency": 12,
+      "avg_rank": 16.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 6020.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for men",
+      "frequency": 12,
+      "avg_rank": 15.6,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 24564.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "men women",
+      "frequency": 12,
+      "avg_rank": 15.6,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 24564.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dry",
+      "frequency": 12,
+      "avg_rank": 16.1,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 19973.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "control",
+      "frequency": 11,
+      "avg_rank": 16.6,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 29085.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "paris",
+      "frequency": 10,
+      "avg_rank": 12.6,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.28,
+      "avg_reviews": 15368.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "smooth",
+      "frequency": 10,
+      "avg_rank": 12.9,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 18196.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "all",
+      "frequency": 10,
+      "avg_rank": 16.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 12822.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "types",
+      "frequency": 10,
+      "avg_rank": 16.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 12822.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "all hair",
+      "frequency": 10,
+      "avg_rank": 16.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 12822.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hair types",
+      "frequency": 10,
+      "avg_rank": 16.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 12822.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "natural",
+      "frequency": 9,
+      "avg_rank": 17.9,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 10853.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "serum",
+      "frequency": 9,
+      "avg_rank": 15.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 17190.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "scalp",
+      "frequency": 9,
+      "avg_rank": 15.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.18,
+      "avg_reviews": 8382.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for hair",
+      "frequency": 9,
+      "avg_rank": 21.4,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.22,
+      "avg_reviews": 12925.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for women",
+      "frequency": 8,
+      "avg_rank": 16.1,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 12697.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for all",
+      "frequency": 8,
+      "avg_rank": 15.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.16,
+      "avg_reviews": 15597.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "shine",
+      "frequency": 8,
+      "avg_rank": 19.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 10898.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for dry",
+      "frequency": 8,
+      "avg_rank": 15.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.26,
+      "avg_reviews": 21858.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "keratin",
+      "frequency": 8,
+      "avg_rank": 14.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.24,
+      "avg_reviews": 34099.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "spray",
+      "frequency": 8,
+      "avg_rank": 17.4,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 2226.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "paraben",
+      "frequency": 8,
+      "avg_rank": 15.4,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 16087.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "l'or",
+      "frequency": 7,
+      "avg_rank": 15.9,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 13740.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "colour",
+      "frequency": 7,
+      "avg_rank": 12.6,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 10622.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "l'or al",
+      "frequency": 7,
+      "avg_rank": 15.9,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 13740.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "women men",
+      "frequency": 7,
+      "avg_rank": 12.6,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.19,
+      "avg_reviews": 12397.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "heat",
+      "frequency": 7,
+      "avg_rank": 16.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 27147.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "conditioner",
+      "frequency": 7,
+      "avg_rank": 12.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 15639.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fall control",
+      "frequency": 7,
+      "avg_rank": 19.4,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 31790.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hair colour",
+      "frequency": 6,
+      "avg_rank": 14.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 11256.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "acid",
+      "frequency": 6,
+      "avg_rank": 13.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 9939.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "strong",
+      "frequency": 6,
+      "avg_rank": 16.2,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.18,
+      "avg_reviews": 19750.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "redensyl",
+      "frequency": 6,
+      "avg_rank": 15.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.22,
+      "avg_reviews": 4470.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "gloss",
+      "frequency": 6,
+      "avg_rank": 20.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 11693.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "color",
+      "frequency": 6,
+      "avg_rank": 13.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 17690.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hair color",
+      "frequency": 6,
+      "avg_rank": 13.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 17690.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "coconut",
+      "frequency": 6,
+      "avg_rank": 13.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.28,
+      "avg_reviews": 27958.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "damaged",
+      "frequency": 6,
+      "avg_rank": 18.2,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 26417.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hair ml",
+      "frequency": 6,
+      "avg_rank": 16.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 8370.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hair with",
+      "frequency": 6,
+      "avg_rank": 14.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 11441.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "spray for",
+      "frequency": 6,
+      "avg_rank": 17.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 1902.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "paraben free",
+      "frequency": 6,
+      "avg_rank": 14.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 18095.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "brown",
+      "frequency": 5,
+      "avg_rank": 10.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 13918.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "al paris",
+      "frequency": 5,
+      "avg_rank": 12.4,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.26,
+      "avg_reviews": 12786.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bare",
+      "frequency": 5,
+      "avg_rank": 9.4,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.18,
+      "avg_reviews": 4757.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "anatomy",
+      "frequency": 5,
+      "avg_rank": 9.4,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.18,
+      "avg_reviews": 4757.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bare anatomy",
+      "frequency": 5,
+      "avg_rank": 9.4,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.18,
+      "avg_reviews": 4757.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "l'oreal",
+      "frequency": 5,
+      "avg_rank": 12.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 17950.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "powered",
+      "frequency": 5,
+      "avg_rank": 13.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.34,
+      "avg_reviews": 13706.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "l'oreal paris",
+      "frequency": 5,
+      "avg_rank": 12.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 17950.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "powered by",
+      "frequency": 5,
+      "avg_rank": 13.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.34,
+      "avg_reviews": 13706.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "moisture",
+      "frequency": 5,
+      "avg_rank": 11.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 16525.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "glycolic",
+      "frequency": 5,
+      "avg_rank": 22.6,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.32,
+      "avg_reviews": 7479.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "parachute",
+      "frequency": 5,
+      "avg_rank": 15.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.32,
+      "avg_reviews": 18780.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "damaged hair",
+      "frequency": 5,
+      "avg_rank": 19.4,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.22,
+      "avg_reviews": 24248.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pack of",
+      "frequency": 5,
+      "avg_rank": 18.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.06,
+      "avg_reviews": 6837.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "water",
+      "frequency": 5,
+      "avg_rank": 20.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.44,
+      "avg_reviews": 1297.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "strengthens",
+      "frequency": 5,
+      "avg_rank": 20.6,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.26,
+      "avg_reviews": 13544.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "frizzy",
+      "frequency": 5,
+      "avg_rank": 11.4,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.28,
+      "avg_reviews": 27928.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "frizzy hair",
+      "frequency": 5,
+      "avg_rank": 11.4,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.28,
+      "avg_reviews": 27928.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hair oil",
+      "frequency": 5,
+      "avg_rank": 9.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 16899.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "types ml",
+      "frequency": 5,
+      "avg_rank": 21.4,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.22,
+      "avg_reviews": 5226.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dandruff",
+      "frequency": 4,
+      "avg_rank": 7.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 17009.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "smooth hair",
+      "frequency": 4,
+      "avg_rank": 11.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 5742.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hairfall",
+      "frequency": 4,
+      "avg_rank": 9.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.18,
+      "avg_reviews": 12294.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "growth serum",
+      "frequency": 4,
+      "avg_rank": 13.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 6598.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "protection",
+      "frequency": 4,
+      "avg_rank": 11.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.08,
+      "avg_reviews": 13353.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hyaluron",
+      "frequency": 4,
+      "avg_rank": 11.2,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.28,
+      "avg_reviews": 11620.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "acid for",
+      "frequency": 4,
+      "avg_rank": 16.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.32,
+      "avg_reviews": 10515.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "shampoo ml",
+      "frequency": 4,
+      "avg_rank": 14.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 25913.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hair for",
+      "frequency": 4,
+      "avg_rank": 16.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 28396.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "coconut oil",
+      "frequency": 4,
+      "avg_rank": 13.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.33,
+      "avg_reviews": 40784.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "oil ml",
+      "frequency": 4,
+      "avg_rank": 12.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.28,
+      "avg_reviews": 30550.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "anagain",
+      "frequency": 4,
+      "avg_rank": 18.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 3846.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "advanced",
+      "frequency": 4,
+      "avg_rank": 16.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 3787.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "rice",
+      "frequency": 4,
+      "avg_rank": 15.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 3432.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "density",
+      "frequency": 4,
+      "avg_rank": 19.2,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 4473.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "redensyl anagain",
+      "frequency": 4,
+      "avg_rank": 18.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 3846.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "professionnel",
+      "frequency": 4,
+      "avg_rank": 20.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 10762.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "repair",
+      "frequency": 4,
+      "avg_rank": 15.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 21341.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "professional",
+      "frequency": 4,
+      "avg_rank": 20.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 10762.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "strengthening",
+      "frequency": 4,
+      "avg_rank": 19.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 20232.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "protein",
+      "frequency": 4,
+      "avg_rank": 15.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.22,
+      "avg_reviews": 27979.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "al professionnel",
+      "frequency": 4,
+      "avg_rank": 20.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 10762.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ml professional",
+      "frequency": 4,
+      "avg_rank": 20.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 10762.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ammonia",
+      "frequency": 4,
+      "avg_rank": 22.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 10690.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "extracts",
+      "frequency": 4,
+      "avg_rank": 18.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 7653.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "healthy",
+      "frequency": 4,
+      "avg_rank": 22.2,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 20552.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "with keratin",
+      "frequency": 4,
+      "avg_rank": 11.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.28,
+      "avg_reviews": 35040.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pure",
+      "frequency": 4,
+      "avg_rank": 14.2,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 7843.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "extract",
+      "frequency": 4,
+      "avg_rank": 16.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 1253.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "frizz",
+      "frequency": 4,
+      "avg_rank": 13.2,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 32810.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dry frizzy",
+      "frequency": 4,
+      "avg_rank": 12.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 31537.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "skin",
+      "frequency": 4,
+      "avg_rank": 13.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 2222.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "long",
+      "frequency": 4,
+      "avg_rank": 20.8,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 13029.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "anti",
+      "frequency": 4,
+      "avg_rank": 20.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 20474.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ml hair",
+      "frequency": 4,
+      "avg_rank": 13.2,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 34125.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "permanent",
+      "frequency": 3,
+      "avg_rank": 10.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 3842.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "darkest",
+      "frequency": 3,
+      "avg_rank": 7.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 20496.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "permanent hair",
+      "frequency": 3,
+      "avg_rank": 10.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 3842.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "up to",
+      "frequency": 3,
+      "avg_rank": 1.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 9029.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "darkest brown",
+      "frequency": 3,
+      "avg_rank": 7.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 20496.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "anti-dandruff",
+      "frequency": 3,
+      "avg_rank": 4.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 16186.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "unisex",
+      "frequency": 3,
+      "avg_rank": 15.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 6884.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "anti-dandruff shampoo",
+      "frequency": 3,
+      "avg_rank": 4.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 16186.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "serum for",
+      "frequency": 3,
+      "avg_rank": 17.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 17818.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "irritation",
+      "frequency": 3,
+      "avg_rank": 9.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 18196.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hair serum",
+      "frequency": 3,
+      "avg_rank": 15.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 40687.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "heat protection",
+      "frequency": 3,
+      "avg_rank": 10.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 16734.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hyaluronic",
+      "frequency": 3,
+      "avg_rank": 9.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 14624.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hyaluronic acid",
+      "frequency": 3,
+      "avg_rank": 9.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 14624.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "or al",
+      "frequency": 3,
+      "avg_rank": 17.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 8115.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "complex",
+      "frequency": 3,
+      "avg_rank": 13.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 12451.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "glycolic gloss",
+      "frequency": 3,
+      "avg_rank": 20.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 11693.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bottle",
+      "frequency": 3,
+      "avg_rank": 10.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 40295.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "parachute coconut",
+      "frequency": 3,
+      "avg_rank": 17.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 29762.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "regrowth",
+      "frequency": 3,
+      "avg_rank": 19.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 4108.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ml for",
+      "frequency": 3,
+      "avg_rank": 20.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 4732.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hair regrowth",
+      "frequency": 3,
+      "avg_rank": 19.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 4108.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "repairing",
+      "frequency": 3,
+      "avg_rank": 17.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 16035.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "repair shampoo",
+      "frequency": 3,
+      "avg_rank": 12.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.23,
+      "avg_reviews": 24494.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "professional shampoo",
+      "frequency": 3,
+      "avg_rank": 19.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 10388.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "organic",
+      "frequency": 3,
+      "avg_rank": 19.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 19224.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "free hair",
+      "frequency": 3,
+      "avg_rank": 13.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 22605.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "controls",
+      "frequency": 3,
+      "avg_rank": 15.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 7644.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "rosemary water",
+      "frequency": 3,
+      "avg_rank": 21.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 1611.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "roots",
+      "frequency": 3,
+      "avg_rank": 21.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 2505.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "reduces",
+      "frequency": 3,
+      "avg_rank": 18.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 23402.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "breakage",
+      "frequency": 3,
+      "avg_rank": 12.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 13533.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "control with",
+      "frequency": 3,
+      "avg_rank": 15.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 43995.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ppd",
+      "frequency": 3,
+      "avg_rank": 25.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 6953.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "rosemary hair",
+      "frequency": 3,
+      "avg_rank": 18.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 9594.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mask",
+      "frequency": 3,
+      "avg_rank": 17.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 8481.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mask for",
+      "frequency": 3,
+      "avg_rank": 17.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 8481.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dove",
+      "frequency": 3,
+      "avg_rank": 19.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 36798.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mild",
+      "frequency": 3,
+      "avg_rank": 22.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 31077.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hair mild",
+      "frequency": 3,
+      "avg_rank": 22.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 31077.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "anti hair",
+      "frequency": 3,
+      "avg_rank": 24.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 18761.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dryer",
+      "frequency": 3,
+      "avg_rank": 17.3,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 24874.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for smooth",
+      "frequency": 3,
+      "avg_rank": 15.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 20056.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "smoothens",
+      "frequency": 3,
+      "avg_rank": 20.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 20432.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "strengthens hair",
+      "frequency": 3,
+      "avg_rank": 21.7,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 5665.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "coverage",
+      "frequency": 2,
+      "avg_rank": 11.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 10407.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pro-keratin",
+      "frequency": 2,
+      "avg_rank": 9.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 10184.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "colour with",
+      "frequency": 2,
+      "avg_rank": 11.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 10407.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "grey coverage",
+      "frequency": 2,
+      "avg_rank": 11.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 10407.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cr me",
+      "frequency": 2,
+      "avg_rank": 5.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 19792.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "brown ml",
+      "frequency": 2,
+      "avg_rank": 5.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 19792.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "reduction",
+      "frequency": 2,
+      "avg_rank": 2.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 12360.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "salicylic",
+      "frequency": 2,
+      "avg_rank": 8.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 8788.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "biotin",
+      "frequency": 2,
+      "avg_rank": 6.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 8324.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "non-drying",
+      "frequency": 2,
+      "avg_rank": 4.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 10468.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "formula",
+      "frequency": 2,
+      "avg_rank": 3.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 28614.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for strong",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 17452.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "strong smooth",
+      "frequency": 2,
+      "avg_rank": 4.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 10468.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "unisex ml",
+      "frequency": 2,
+      "avg_rank": 9.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 8759.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "saw",
+      "frequency": 2,
+      "avg_rank": 3.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 11271.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tested",
+      "frequency": 2,
+      "avg_rank": 3.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 19447.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for scalp",
+      "frequency": 2,
+      "avg_rank": 7.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 10076.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "redensyl rosemary",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 3.95,
+      "avg_reviews": 5716.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "rosemary oil",
+      "frequency": 2,
+      "avg_rank": 8.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 6668.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tested for",
+      "frequency": 2,
+      "avg_rank": 3.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 19447.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "women ml",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 28965.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "scalpe",
+      "frequency": 2,
+      "avg_rank": 4.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 27623.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "daily",
+      "frequency": 2,
+      "avg_rank": 15.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 40230.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "removes",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 17554.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "source",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 17554.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "prevents",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 30470.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "itching",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 17554.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "science",
+      "frequency": 2,
+      "avg_rank": 10.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 14505.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "removes dandruff",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 17554.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dandruff from",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 17554.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "from source",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 17554.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "itching irritation",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 17554.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "men ml",
+      "frequency": 2,
+      "avg_rank": 7.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 15411.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "floral",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 22434.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "frizz-free",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 32268.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stronger",
+      "frequency": 2,
+      "avg_rank": 6.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 38549.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "provides",
+      "frequency": 2,
+      "avg_rank": 11.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 23924.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "oil hair",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 32776.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fresh",
+      "frequency": 2,
+      "avg_rank": 16.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 13506.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sealing",
+      "frequency": 2,
+      "avg_rank": 14.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 10922.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "millilitres",
+      "frequency": 2,
+      "avg_rank": 11.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 11682.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hyaluron moisture",
+      "frequency": 2,
+      "avg_rank": 7.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 19873.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sealing conditioner",
+      "frequency": 2,
+      "avg_rank": 14.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 10922.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "conditioner powered",
+      "frequency": 2,
+      "avg_rank": 14.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 10922.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pilgrim",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 8183.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tea",
+      "frequency": 2,
+      "avg_rank": 16.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 6872.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "adds",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 10189.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "shampoo with",
+      "frequency": 2,
+      "avg_rank": 18.5,
+      "categories": [
+        "Hair Care"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 18034.0,
+      "category_count": 1
+    }
+  ],
+  "category_tree": [
+    {
+      "name": "Hot New Releasesin Hair Care",
+      "url": "https://www.amazon.in/gp/new-releases/beauty/9851597031/ref=zg_bs_tab_t_beauty_bsnr",
+      "is_selected": false
+    }
+  ],
+  "metadata": {
+    "category": "hair_care",
+    "pages_scraped": 2,
+    "total_products": 60,
+    "total_keywords": 1229,
+    "scraped_at": "2026-03-24T12:56:30.831540"
+  }
+}

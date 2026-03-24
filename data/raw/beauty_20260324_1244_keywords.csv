@@ -1,0 +1,201 @@
+keyword,frequency,avg_rank,categories,avg_rating,avg_reviews,category_count
+skin,46,14.8,['Beauty'],4.25,23657.0,1
+hair,32,17.8,['Beauty'],4.16,17789.0,1
+oil,19,17.7,['Beauty'],4.26,26632.0,1
+men,13,14.2,['Beauty'],4.11,22240.0,1
+women,13,13.7,['Beauty'],4.09,21881.0,1
+face,13,16.8,['Beauty'],4.18,20788.0,1
+dry,12,14.0,['Beauty'],4.3,33777.0,1
+spf,11,12.8,['Beauty'],4.2,17881.0,1
+sunscreen,10,10.7,['Beauty'],4.19,15310.0,1
+acid,10,10.7,['Beauty'],4.27,20116.0,1
+for men,9,13.7,['Beauty'],4.09,17830.0,1
+wash,9,13.0,['Beauty'],4.22,25052.0,1
+all,9,11.9,['Beauty'],4.24,15806.0,1
+tested,9,12.1,['Beauty'],4.19,14415.0,1
+vitamin,9,18.1,['Beauty'],4.22,23832.0,1
+types,8,10.0,['Beauty'],4.26,17618.0,1
+lightweight,8,10.6,['Beauty'],4.16,22537.0,1
+cast,8,11.9,['Beauty'],4.21,16205.0,1
+spf pa,8,11.6,['Beauty'],4.21,17654.0,1
+no white,8,11.9,['Beauty'],4.21,16205.0,1
+white cast,8,11.9,['Beauty'],4.21,16205.0,1
+face wash,8,14.4,['Beauty'],4.21,24365.0,1
+smooth,8,15.1,['Beauty'],4.25,27226.0,1
+body,8,15.4,['Beauty'],4.35,42628.0,1
+serum,8,21.1,['Beauty'],4.24,19298.0,1
+moisture,8,17.8,['Beauty'],4.34,33226.0,1
+paraben,7,10.7,['Beauty'],4.21,24822.0,1
+men women,7,13.7,['Beauty'],4.07,11268.0,1
+for all,7,14.3,['Beauty'],4.24,18714.0,1
+all skin,7,10.7,['Beauty'],4.23,11102.0,1
+in-vivo,7,13.4,['Beauty'],4.17,14656.0,1
+for dry,7,15.9,['Beauty'],4.3,32175.0,1
+shampoo,7,12.9,['Beauty'],4.19,27292.0,1
+control,7,17.3,['Beauty'],4.16,25967.0,1
+bath,6,8.5,['Beauty'],4.12,16817.0,1
+paraben free,6,9.3,['Beauty'],4.22,28851.0,1
+skin types,6,8.0,['Beauty'],4.25,12734.0,1
+hyaluronic,6,14.3,['Beauty'],4.3,26614.0,1
+hydrating,6,6.0,['Beauty'],4.3,26998.0,1
+protection,6,13.3,['Beauty'],4.3,28151.0,1
+colour,6,10.7,['Beauty'],4.1,14016.0,1
+niacinamide,6,14.5,['Beauty'],4.25,20618.0,1
+oily,6,16.7,['Beauty'],4.18,21036.0,1
+acne,6,16.3,['Beauty'],4.17,28761.0,1
+pack of,5,10.0,['Beauty'],4.14,11134.0,1
+non-greasy,5,9.0,['Beauty'],4.22,23375.0,1
+paris,5,16.0,['Beauty'],4.28,24622.0,1
+gentle,5,12.0,['Beauty'],4.36,28885.0,1
+normal,5,13.6,['Beauty'],4.26,26002.0,1
+sensitive,5,12.4,['Beauty'],4.32,21576.0,1
+sensitive skin,5,12.4,['Beauty'],4.32,21576.0,1
+for women,5,15.4,['Beauty'],4.08,28528.0,1
+growth,5,18.0,['Beauty'],4.14,14993.0,1
+hair growth,5,18.0,['Beauty'],4.14,14993.0,1
+in-vivo tested,5,17.0,['Beauty'],4.18,10993.0,1
+deep,5,14.2,['Beauty'],4.34,41238.0,1
+parachute,5,17.8,['Beauty'],4.32,31293.0,1
+coconut,5,17.8,['Beauty'],4.32,31293.0,1
+soaps,4,7.5,['Beauty'],3.95,21038.0,1
+glowing,4,17.5,['Beauty'],4.07,15576.0,1
+brightening,4,19.8,['Beauty'],4.08,15943.0,1
+glowing skin,4,17.5,['Beauty'],4.07,15576.0,1
+skin for,4,16.0,['Beauty'],4.17,16842.0,1
+gel,4,12.8,['Beauty'],4.1,17980.0,1
+natural,4,10.8,['Beauty'],4.12,27279.0,1
+hair colour,4,9.5,['Beauty'],4.05,10407.0,1
+cleanser,4,14.0,['Beauty'],4.33,26894.0,1
+gentle skin,4,7.5,['Beauty'],4.35,31230.0,1
+skin hydrating,4,7.5,['Beauty'],4.35,31230.0,1
+for oily,4,13.0,['Beauty'],4.15,18215.0,1
+salicylic,4,12.0,['Beauty'],4.2,15827.0,1
+formula,4,12.2,['Beauty'],4.17,34706.0,1
+unisex,4,12.2,['Beauty'],4.12,14804.0,1
+matte,4,14.2,['Beauty'],4.22,24281.0,1
+fragrance,4,13.2,['Beauty'],4.27,14256.0,1
+minimalist,4,18.2,['Beauty'],4.15,25359.0,1
+sunscreen spf,4,9.2,['Beauty'],4.17,14955.0,1
+women men,4,15.5,['Beauty'],4.15,32162.0,1
+liquid,4,18.8,['Beauty'],4.22,35040.0,1
+removes,4,16.8,['Beauty'],4.15,14762.0,1
+prevents,4,10.0,['Beauty'],4.25,30803.0,1
+hydration,4,23.5,['Beauty'],4.38,38149.0,1
+healthy,4,18.8,['Beauty'],4.3,37228.0,1
+hyaluronic acid,4,14.2,['Beauty'],4.33,27758.0,1
+fall,4,16.2,['Beauty'],4.12,9698.0,1
+pure,4,21.0,['Beauty'],4.3,31826.0,1
+ice,4,25.0,['Beauty'],4.0,199.0,1
+soap,3,10.7,['Beauty'],4.07,24910.0,1
+refreshing,3,10.7,['Beauty'],4.2,21455.0,1
+facial,3,13.7,['Beauty'],4.17,14680.0,1
+wash ml,3,5.7,['Beauty'],4.33,31002.0,1
+broad,3,5.7,['Beauty'],4.2,25632.0,1
+spectrum,3,5.7,['Beauty'],4.2,25632.0,1
+light,3,16.7,['Beauty'],4.27,33595.0,1
+clinically,3,8.3,['Beauty'],4.23,40198.0,1
+broad spectrum,3,5.7,['Beauty'],4.2,25632.0,1
+l'or,3,19.0,['Beauty'],4.2,17155.0,1
+l'or al,3,19.0,['Beauty'],4.2,17155.0,1
+al paris,3,16.0,['Beauty'],4.27,19525.0,1
+up to,3,5.0,['Beauty'],4.23,9029.0,1
+cetaphil,3,11.7,['Beauty'],4.33,27237.0,1
+filters,3,9.7,['Beauty'],4.13,20789.0,1
+anti-dandruff,3,13.0,['Beauty'],4.1,16186.0,1
+dandruff,3,13.0,['Beauty'],4.1,16186.0,1
+strong,3,14.0,['Beauty'],4.13,14236.0,1
+anti-dandruff shampoo,3,13.0,['Beauty'],4.1,16186.0,1
+salicylic acid,3,13.0,['Beauty'],4.17,16570.0,1
+smooth hair,3,14.7,['Beauty'],4.13,7194.0,1
+lip,3,12.7,['Beauty'],4.23,18132.0,1
+long,3,15.3,['Beauty'],4.1,11378.0,1
+lasting,3,15.3,['Beauty'],4.1,11378.0,1
+long lasting,3,15.3,['Beauty'],4.1,11378.0,1
+reduces,3,15.7,['Beauty'],4.2,13815.0,1
+cream,3,19.3,['Beauty'],4.27,34272.0,1
+cleansing,3,17.7,['Beauty'],4.2,17547.0,1
+wash for,3,15.7,['Beauty'],4.13,19190.0,1
+skin with,3,15.3,['Beauty'],4.27,30269.0,1
+oil control,3,18.0,['Beauty'],4.13,29111.0,1
+scalp,3,20.0,['Beauty'],4.13,13974.0,1
+rosemary,3,15.7,['Beauty'],4.17,18272.0,1
+women ml,3,6.7,['Beauty'],4.17,27260.0,1
+lotion,3,13.0,['Beauty'],4.33,60224.0,1
+body lotion,3,13.0,['Beauty'],4.33,60224.0,1
+with hyaluronic,3,13.3,['Beauty'],4.33,30093.0,1
+dry skin,3,13.0,['Beauty'],4.33,60224.0,1
+hyaluron,3,17.7,['Beauty'],4.33,30891.0,1
+hyaluron moisture,3,17.7,['Beauty'],4.33,30891.0,1
+dot,3,16.3,['Beauty'],4.27,11700.0,1
+key,3,16.3,['Beauty'],4.27,11700.0,1
+dot key,3,16.3,['Beauty'],4.27,11700.0,1
+clears,3,16.0,['Beauty'],4.17,30747.0,1
+excess,3,13.0,['Beauty'],4.23,11338.0,1
+excess oil,3,13.0,['Beauty'],4.23,11338.0,1
+color,3,21.0,['Beauty'],4.07,26508.0,1
+hair color,3,21.0,['Beauty'],4.07,26508.0,1
+parachute coconut,3,21.0,['Beauty'],4.4,29762.0,1
+coconut oil,3,21.0,['Beauty'],4.4,29762.0,1
+oil ml,3,16.7,['Beauty'],4.33,16118.0,1
+barrier,3,24.0,['Beauty'],4.3,14923.0,1
+moisturizer,3,19.0,['Beauty'],4.3,22191.0,1
+soft,3,19.3,['Beauty'],4.33,39618.0,1
+hair fall,3,18.7,['Beauty'],4.13,11574.0,1
+glow,3,20.7,['Beauty'],4.3,15526.0,1
+keratin,3,13.7,['Beauty'],4.27,40025.0,1
+silicone,3,23.7,['Beauty'],4.17,3716.0,1
+ghar,2,14.0,['Beauty'],4.0,14462.0,1
+saffron,2,14.0,['Beauty'],4.0,14462.0,1
+magic,2,14.0,['Beauty'],4.0,14462.0,1
+gms,2,15.5,['Beauty'],4.15,23558.0,1
+ghar soaps,2,14.0,['Beauty'],4.0,14462.0,1
+soaps for,2,1.0,['Beauty'],3.9,27614.0,1
+for glowing,2,12.0,['Beauty'],4.0,24364.0,1
+skin brightening,2,12.0,['Beauty'],4.0,24364.0,1
+facewash,2,15.0,['Beauty'],4.25,22140.0,1
+derma,2,12.0,['Beauty'],4.2,23267.0,1
+aqua,2,2.0,['Beauty'],4.25,24648.0,1
+the derma,2,12.0,['Beauty'],4.2,23267.0,1
+derma co,2,12.0,['Beauty'],4.2,23267.0,1
+gel spf,2,15.0,['Beauty'],4.25,23094.0,1
+hydrating lightweight,2,3.0,['Beauty'],4.2,18534.0,1
+lightweight non-greasy,2,2.5,['Beauty'],4.15,21732.0,1
+non-greasy no,2,2.5,['Beauty'],4.15,21732.0,1
+cast broad,2,6.5,['Beauty'],4.15,33410.0,1
+blue light,2,11.0,['Beauty'],4.2,24076.0,1
+light protection,2,11.0,['Beauty'],4.2,24076.0,1
+radiant,2,10.0,['Beauty'],4.35,34016.0,1
+coverage,2,9.5,['Beauty'],4.05,10407.0,1
+darkest,2,14.0,['Beauty'],4.25,19792.0,1
+brown,2,14.0,['Beauty'],4.25,19792.0,1
+colour with,2,9.5,['Beauty'],4.05,10407.0,1
+grey coverage,2,9.5,['Beauty'],4.05,10407.0,1
+cr me,2,14.0,['Beauty'],4.25,19792.0,1
+darkest brown,2,14.0,['Beauty'],4.25,19792.0,1
+brown ml,2,14.0,['Beauty'],4.25,19792.0,1
+sulphate-free,2,7.5,['Beauty'],4.35,31230.0,1
+cetaphil gentle,2,7.5,['Beauty'],4.35,31230.0,1
+hydrating face,2,7.5,['Beauty'],4.35,31230.0,1
+ml paraben,2,7.5,['Beauty'],4.35,31230.0,1
+free sulphate-free,2,7.5,['Beauty'],4.35,31230.0,1
+sulphate-free gentle,2,7.5,['Beauty'],4.35,31230.0,1
+hydrating cleanser,2,7.5,['Beauty'],4.35,31230.0,1
+cleanser with,2,7.5,['Beauty'],4.35,31230.0,1
+with niacinamide,2,7.5,['Beauty'],4.35,31230.0,1
+niacinamide vitamin,2,7.5,['Beauty'],4.35,31230.0,1
+vitamin b5,2,7.5,['Beauty'],4.35,31230.0,1
+b5 for,2,7.5,['Beauty'],4.35,31230.0,1
+dry to,2,7.5,['Beauty'],4.35,31230.0,1
+to normal,2,7.5,['Beauty'],4.35,31230.0,1
+normal sensitive,2,7.5,['Beauty'],4.35,31230.0,1
+combination,2,16.0,['Beauty'],4.2,12247.0,1
+oily skin,2,13.5,['Beauty'],4.15,27395.0,1
+skin spf,2,15.0,['Beauty'],4.15,12644.0,1
+uv filters,2,13.5,['Beauty'],4.15,27395.0,1
+bare,2,8.0,['Beauty'],4.1,8759.0,1
+anatomy,2,8.0,['Beauty'],4.1,8759.0,1
+reduction,2,10.0,['Beauty'],4.1,12360.0,1
+non-drying,2,12.5,['Beauty'],4.1,10468.0,1
+bare anatomy,2,8.0,['Beauty'],4.1,8759.0,1
+strong smooth,2,12.5,['Beauty'],4.1,10468.0,1
+unisex ml,2,8.0,['Beauty'],4.1,8759.0,1

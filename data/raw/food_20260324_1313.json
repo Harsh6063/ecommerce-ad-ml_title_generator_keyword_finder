@@ -1,0 +1,3480 @@
+{
+  "products": [
+    {
+      "rank": 1,
+      "asin": "B00PNQYFFM",
+      "title": "Lay's American Style Potato Chips - Cream & Onion, 48g/52.9g",
+      "brand": "1 offer from\u20b918.00",
+      "price": 18.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 20843,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/711vAJ8fWlL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Lays-American-Style-Cream-Onion/dp/B00PNQYFFM/ref=zg_bs_g_grocery_d_sccl_1/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.502345",
+      "page_number": 1,
+      "title_word_count": 10,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 2,
+      "asin": "B07575FPC3",
+      "title": "Tata Salt 1 Kg, Free Flowing and Iodised Namak, Vacuum Evaporated, Salt in Fresh",
+      "brand": "1 offer from\u20b926.00",
+      "price": 26.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 80220,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/614mm2hYHyL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Flowing-Iodised-Namak-Vacuum-Evaporated/dp/B07575FPC3/ref=zg_bs_g_grocery_d_sccl_2/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.503560",
+      "page_number": 1,
+      "title_word_count": 14,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 3,
+      "asin": "B0757631XR",
+      "title": "Fortune Premium Kachi Ghani Pure Mustard Oil, 910G PET Bottle (Weight May Vary)",
+      "brand": "Fortune",
+      "price": 285.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 36768,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51Hxuw8kJfL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Fortune-Kachi-Ghani-Pure-Mustard/dp/B0757631XR/ref=zg_bs_g_grocery_d_sccl_3/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.504664",
+      "page_number": 1,
+      "title_word_count": 13,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 4,
+      "asin": "B074N7VHV4",
+      "title": "Tata Sampann Unpolished Toor Dal/Arhar Dal, 1kg",
+      "brand": "Tata",
+      "price": 162.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 31205,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61HA0lc+dHL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Tata-Sampann-Pulses-Toor-Dal/dp/B074N7VHV4/ref=zg_bs_g_grocery_d_sccl_4/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.505764",
+      "page_number": 1,
+      "title_word_count": 7,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 5,
+      "asin": "B00U7GDO14",
+      "title": "MAGGI 2-Minute Instant Noodles, Favourite Masala Taste, Masala Noodles With Goodness Of Iron, Made With Choicest Quality Spices, 420g/450g Pouch (weight may vary)",
+      "brand": "MAGGI",
+      "price": 88.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 28098,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71g6dstxZNL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/2-minute-Instant-Goodness-Choicest-Favourite/dp/B00U7GDO14/ref=zg_bs_g_grocery_d_sccl_5/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.507251",
+      "page_number": 1,
+      "title_word_count": 23,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 6,
+      "asin": "B0192UNUGO",
+      "title": "MAGGI 2-Minute Instant Noodles, Favourite Masala Taste, Masala Noodles With Goodness Of Iron, Made With Choicest Quality Spices, 70g/75g Pouch (weight may vary)",
+      "brand": "3 offers from\u20b914.00",
+      "price": 14.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 7878,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71lXtu5Z8EL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/MAGGI-2-minute-Goodness-Choicest-Favourite/dp/B0192UNUGO/ref=zg_bs_g_grocery_d_sccl_6/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.508873",
+      "page_number": 1,
+      "title_word_count": 23,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 7,
+      "asin": "B08WZQ1SN3",
+      "title": "Fortune Sugar, 1 kg",
+      "brand": "Fortune",
+      "price": 125.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 6201,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81M6T+PF-iL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/FORTUNE-Fortune-Sugar-1-kg/dp/B08WZQ1SN3/ref=zg_bs_g_grocery_d_sccl_7/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.509989",
+      "page_number": 1,
+      "title_word_count": 4,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 8,
+      "asin": "B00NYZTGEO",
+      "title": "Fortune Sunlite Refined Sunflower Oil, 870gm/800gm Pouch (Weight May Vary)",
+      "brand": "Fortune",
+      "price": 285.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 45053,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81FbVYZJYyL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Fortune-Sunlite-Refined-Sunflower-Oil/dp/B00NYZTGEO/ref=zg_bs_g_grocery_d_sccl_8/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.511092",
+      "page_number": 1,
+      "title_word_count": 10,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 9,
+      "asin": "B0DMWLVM3N",
+      "title": "The Health Factory Zero Maida 100% Whole Wheat Bread 350g | Clean Label, Not Brown",
+      "brand": "The",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 1450,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61+ZxwXfl2L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Health-Factory-Zero-Maida-Bread/dp/B0DMWLVM3N/ref=zg_bs_g_grocery_d_sccl_9/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.512392",
+      "page_number": 1,
+      "title_word_count": 15,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 10,
+      "asin": "B07533TMV9",
+      "title": "Sprite Soft Drink PET Bottle, 750 ml",
+      "brand": "Sprite",
+      "price": 33.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 5809,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71doy6em4jL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Sprite-750ml/dp/B07533TMV9/ref=zg_bs_g_grocery_d_sccl_10/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.513495",
+      "page_number": 1,
+      "title_word_count": 7,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 11,
+      "asin": "B00TX95XRE",
+      "title": "Parry's White Label Sugar, 1kg",
+      "brand": "1 offer from\u20b952.00",
+      "price": 52.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 22739,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61+Zq4NHMNL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Parrys-White-Label-Sugar-Pouch/dp/B00TX95XRE/ref=zg_bs_g_grocery_d_sccl_11/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.514818",
+      "page_number": 1,
+      "title_word_count": 5,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 12,
+      "asin": "B06XH9QPX2",
+      "title": "Fortune Premium Kachi Ghani Pure Mustard Oil, 1 ltr pouch",
+      "brand": "Fortune",
+      "price": 199.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 37812,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61amF3+1wWL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Fortune-Kachi-Ghani-Pure-Mustard/dp/B06XH9QPX2/ref=zg_bs_g_grocery_d_sccl_12/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.515913",
+      "page_number": 1,
+      "title_word_count": 10,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 13,
+      "asin": "B00NYZU698",
+      "title": "Fortune Rice Bran Health Oil | Reduces Bad Cholesterol | Rich in Gamma Oryzanol | 1L/870g pouch[weight may vary]",
+      "brand": "Fortune",
+      "price": 290.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 25725,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71WBHionksL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Fortune-Rice-Bran-Health-1L/dp/B00NYZU698/ref=zg_bs_g_grocery_d_sccl_13/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.516982",
+      "page_number": 1,
+      "title_word_count": 19,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 14,
+      "asin": "B08LPB2958",
+      "title": "Cadbury Dairy Milk Chocolate Bar, 12.1 g",
+      "brand": "Cadbury",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 22743,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/516W9doFMBL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Cadbury-Dairy-Milk-Chocolate-13-2/dp/B08LPB2958/ref=zg_bs_g_grocery_d_sccl_14/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.518310",
+      "page_number": 1,
+      "title_word_count": 7,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 15,
+      "asin": "B07VGMYM15",
+      "title": "Bingo! Original Style Chilli Sprinkled - Flat Cut Spicy Potato Chips Pack for Snacks, 90g/85gram/90.7G(Weight may vary)",
+      "brand": "1 offer from\u20b932.00",
+      "price": 32.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 12289,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81oQOYKZHxL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Bingo-Original-Style-Chilli-Sprinkled/dp/B07VGMYM15/ref=zg_bs_g_grocery_d_sccl_15/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.519439",
+      "page_number": 1,
+      "title_word_count": 17,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 16,
+      "asin": "B0088JPOJ2",
+      "title": "Parle Krack Jack Biscuit, 69.3g/44.1g/56.7(Weight May Vary)",
+      "brand": "Parle",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 3715,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81MdF4B3F1L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Parle-Krack-Jack-Biscuit-75-4g/dp/B0088JPOJ2/ref=zg_bs_g_grocery_d_sccl_16/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.520695",
+      "page_number": 1,
+      "title_word_count": 7,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 17,
+      "asin": "B09GNV7YZM",
+      "title": "Tata Sampann Pure California Almonds/Badam Whole, 500g, Real Nuts, High in Fiber, Badam Giri, Rich in Protein, Magnesium, Phosphorus and Dietary Fibre, Nuts & Dry Fruits",
+      "brand": "Tata",
+      "price": 484.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 10907,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61JysAVWHKL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Tata-Sampann-California-Almonds-Whole/dp/B09GNV7YZM/ref=zg_bs_g_grocery_d_sccl_17/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.521794",
+      "page_number": 1,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 18,
+      "asin": "B01H5DM1I8",
+      "title": "Rajdhani Sooji, 500g",
+      "brand": "1 offer from\u20b940.00",
+      "price": 40.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 2582,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71dgsN8Up5L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Rajdhani-Sooji-500g/dp/B01H5DM1I8/ref=zg_bs_g_grocery_d_sccl_18/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.522918",
+      "page_number": 1,
+      "title_word_count": 3,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 19,
+      "asin": "B07BFNG2XM",
+      "title": "Thums Up Soft Drink Pet Bottle, 750 Ml, Cola",
+      "brand": "Thums",
+      "price": 35.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 15396,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Ks4rgOAeL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Thums-Up-750-ml/dp/B07BFNG2XM/ref=zg_bs_g_grocery_d_sccl_19/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.524737",
+      "page_number": 1,
+      "title_word_count": 9,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 20,
+      "asin": "B00K0LUSSS",
+      "title": "Aashirvaad Superior MP Atta, 5kg Pack",
+      "brand": "Aashirvaad",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 28389,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/9104JpXbv6L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Aashirvaad-Superior-MP-Atta-5kg/dp/B00K0LUSSS/ref=zg_bs_g_grocery_d_sccl_20/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.526354",
+      "page_number": 1,
+      "title_word_count": 6,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 21,
+      "asin": "B01468O5AW",
+      "title": "iD 100% Authentic Fresh Batter Idly and Dosa, 1 Kg Pouch",
+      "brand": "iD",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 12767,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61cBzCsqRlL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/ID-Fresh-Batter-Idly-Pouch/dp/B01468O5AW/ref=zg_bs_g_grocery_d_sccl_21/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.527580",
+      "page_number": 1,
+      "title_word_count": 11,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 22,
+      "asin": "B0CWH4NT7V",
+      "title": "PINTOLA 25g High Protein Oats 1kg, Dark Chocolate,No Refined Sugar, with Almonds Raisin, Pumpkin and Chia Seeds, 8g Fibre, Rolled Oats for weight loss, Breakfast Cereals | Gluten Free",
+      "brand": "PINTOLA",
+      "price": 549.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 4843,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81SItFudlNL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/PINTOLA-Protein-Chocolate-Refined-Breakfast/dp/B0CWH4NT7V/ref=zg_bs_g_grocery_d_sccl_22/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.528621",
+      "page_number": 1,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 23,
+      "asin": "B00E785XFS",
+      "title": "FORTUNE Chana Besan, 100% Chana Dal 100% Taste, 500 Gm",
+      "brand": "1 offer from\u20b9160.00",
+      "price": 160.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 15771,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81JmTiQA68L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Fortune-Besan-500g/dp/B00E785XFS/ref=zg_bs_g_grocery_d_sccl_23/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.529721",
+      "page_number": 1,
+      "title_word_count": 10,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 24,
+      "asin": "B077JSZ95H",
+      "title": "Britannia Little Hearts, 75g",
+      "brand": "1 offer from\u20b919.00",
+      "price": 19.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 29551,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81bqD2C6rPL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Britannia-Little-Heart-75g/dp/B077JSZ95H/ref=zg_bs_g_grocery_d_sccl_24/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.531559",
+      "page_number": 1,
+      "title_word_count": 4,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 25,
+      "asin": "B07KXGFGSS",
+      "title": "Amazon Brand - Vedaka Raw Peanuts, Pink, 1kg",
+      "brand": "Amazon",
+      "price": 241.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 22959,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71QVXbMgniL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Amazon-Brand-Vedaka-Peanuts-Pink/dp/B07KXGFGSS/ref=zg_bs_g_grocery_d_sccl_25/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.533175",
+      "page_number": 1,
+      "title_word_count": 8,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 26,
+      "asin": "B07CBKR1L7",
+      "title": "Fortune Chakki Fresh Atta, 5 kg, 100% Atta 0% Maida",
+      "brand": "Fortune",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 25584,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61j9O-TjvRL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Fortune-Chakki-Fresh-Atta-5kg/dp/B07CBKR1L7/ref=zg_bs_g_grocery_d_sccl_26/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.535007",
+      "page_number": 1,
+      "title_word_count": 10,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 27,
+      "asin": "B0BSX9N69D",
+      "title": "Sunfeast Dark Fantasy Bourbon, Classic Biscuit Made With Real Chocolate, 108g",
+      "brand": "Sunfeast",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 16201,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71lmk-WE2OL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Sunfeast-Dark-Fantasy-Bourbon-120g/dp/B0BSX9N69D/ref=zg_bs_g_grocery_d_sccl_27/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.536916",
+      "page_number": 1,
+      "title_word_count": 11,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 28,
+      "asin": "B08C5GFQYF",
+      "title": "ITC Bingo! Tedhe Medhe Masala Tadka - Sticks with Indian Masala Flavour - 80g/75g(Weight May Vary)",
+      "brand": "1 offer from\u20b914.00",
+      "price": 14.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 6820,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71e9pUGU4tL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Bingo-Tedhe-Medhe-Masala-Tadka/dp/B08C5GFQYF/ref=zg_bs_g_grocery_d_sccl_28/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.538635",
+      "page_number": 1,
+      "title_word_count": 16,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 29,
+      "asin": "B06XDNHYRL",
+      "title": "Harvest Gold 100% Atta Whole Wheat Zero Maida Breakfast Bread, 450 g",
+      "brand": "Harvest",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 1278,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71fX42vbmCL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Harvest-Whole-Wheat-Maida-Breakfast/dp/B06XDNHYRL/ref=zg_bs_g_grocery_d_sccl_29/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.540475",
+      "page_number": 1,
+      "title_word_count": 12,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 30,
+      "asin": "B00UN7YEUM",
+      "title": "Bingo! Mad Angles Achaari Masti \u2013 Desi Mango Pickle Flavour Crunchy Triangle Chips | Tasty Snack for Any Time Cravings, 64g",
+      "brand": "1 offer from\u20b918.00",
+      "price": 18.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 13490,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81hXWabtSEL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Bingo-Angles-Achaari-Masti-Namkeen/dp/B00UN7YEUM/ref=zg_bs_g_grocery_d_sccl_30/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:12:55.541779",
+      "page_number": 1,
+      "title_word_count": 21,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 1,
+      "asin": "B077X8MD39",
+      "title": "Tata Sampann Unpolished Green Moong Dal (Whole), 500gm",
+      "brand": "Tata",
+      "price": 115.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 17157,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71I3BB5Rl6L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Tata-Sampann-Green-Moong-500g/dp/B077X8MD39/ref=zg_bs_g_grocery_d_sccl_1/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.134836",
+      "page_number": 2,
+      "title_word_count": 8,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 2,
+      "asin": "B09ZF4BB48",
+      "title": "FreshToHome Premium Chicken | Curry Cut | 450g Pack | Skinless | Antibiotic-Residue-Free | Tender | Fresh | Never Frozen",
+      "brand": "FreshToHome",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 1716,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51Qzl0JoArL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/FreshToHome-Premium-Chicken-Skinless-Antibiotic-residue-free/dp/B09ZF4BB48/ref=zg_bs_g_grocery_d_sccl_2/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.136051",
+      "page_number": 2,
+      "title_word_count": 20,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 3,
+      "asin": "B075332XK6",
+      "title": "Tata Sampann Unpolished Moong Dal (Split), 500g",
+      "brand": "1 offer from\u20b978.00",
+      "price": 78.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 8546,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71rbT8ZnRyL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Tata-Sampann-Moong-Dal-500g/dp/B075332XK6/ref=zg_bs_g_grocery_d_sccl_3/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.137272",
+      "page_number": 2,
+      "title_word_count": 7,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 4,
+      "asin": "B009BA7S8M",
+      "title": "Aashirvaad Atta with Multigrains, 5kg pack, The High Fibre Atta",
+      "brand": "Aashirvaad",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 18532,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71PWhguzXkL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Aashirvaad-Atta-Multigrains-5-kg/dp/B009BA7S8M/ref=zg_bs_g_grocery_d_sccl_4/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.138780",
+      "page_number": 2,
+      "title_word_count": 10,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 5,
+      "asin": "B0795V64VS",
+      "title": "Fortune Premium Kachi Ghani Pure Mustard Oil, 4.5 Kg Jar",
+      "brand": "Fortune",
+      "price": 1345.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 19665,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61LuKNV16eL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Fortune-Kachi-Ghani-Pure-Mustard/dp/B0795V64VS/ref=zg_bs_g_grocery_d_sccl_5/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.139818",
+      "page_number": 2,
+      "title_word_count": 10,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 6,
+      "asin": "B00NYZTUVS",
+      "title": "Saffola Active Refined Cooking oil | Rich in Omega 3 & Oryzanol | Multi-Source Edible Rice Bran & Soyabean oil | 850g/910g pouch[weight may vary]",
+      "brand": "Saffola",
+      "price": 177.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 14487,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61dK3VocRLL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Saffola-Refined-Oryzanol-Multi-Source-SoyaBean/dp/B00NYZTUVS/ref=zg_bs_g_grocery_d_sccl_6/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.140838",
+      "page_number": 2,
+      "title_word_count": 25,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 7,
+      "asin": "B0DGY1T4PB",
+      "title": "Bisleri With Added Minerals Water, 10 L",
+      "brand": "Bisleri",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.6,
+      "review_count": 892,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51VhI+H6+AL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Bisleri-Added-Minerals-Water-10/dp/B0DGY1T4PB/ref=zg_bs_g_grocery_d_sccl_7/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.142060",
+      "page_number": 2,
+      "title_word_count": 7,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 8,
+      "asin": "B0BSNNT7LY",
+      "title": "Fortune Arhar Dal (Toor Dal), 1 kg, Unpolished and Sortex cleaned",
+      "brand": "1 offer from\u20b9136.00",
+      "price": 136.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 2676,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61HWmesEe-L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Fortune-Arhar-Unpolished-Sortex-cleaned/dp/B0BSNNT7LY/ref=zg_bs_g_grocery_d_sccl_8/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.143151",
+      "page_number": 2,
+      "title_word_count": 11,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 9,
+      "asin": "B09GNSDZVW",
+      "title": "Tata Sampann Pure Cashews Whole/Kaju, 500g, Nutritious & Delicious, Premium Kaju nuts, Rich in Protein, Magnesium & Phosphorus, Deluxe Size & Crunchy Nuts",
+      "brand": "Tata",
+      "price": 555.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 9398,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61qww-bmLyL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Tata-Sampann-Premium-Cashews-Whole/dp/B09GNSDZVW/ref=zg_bs_g_grocery_d_sccl_9/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.144226",
+      "page_number": 2,
+      "title_word_count": 23,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 10,
+      "asin": "B0CRNR8SH8",
+      "title": "Catch Jeera Whole - 100 g",
+      "brand": "1 offer from\u20b946.00",
+      "price": 46.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 1734,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61zVrye5B6L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Catch-jeera-whole-100-Pouch/dp/B0CRNR8SH8/ref=zg_bs_g_grocery_d_sccl_10/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.145353",
+      "page_number": 2,
+      "title_word_count": 6,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 11,
+      "asin": "B0749NRK42",
+      "title": "Act II Popcorn - Butter, 47g/50g (Weight May Vary)",
+      "brand": "Act",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 1479,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71dXFi1rB-L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Act-II-Popcorn-Butter-Pouch/dp/B0749NRK42/ref=zg_bs_g_grocery_d_sccl_11/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.146758",
+      "page_number": 2,
+      "title_word_count": 9,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 12,
+      "asin": "B015MJI4BU",
+      "title": "Fortune 100% Chana Dal Besan,1 kg",
+      "brand": "Fortune",
+      "price": 118.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 17486,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81N-mEgb7VL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Fortune-Besan-1kg/dp/B015MJI4BU/ref=zg_bs_g_grocery_d_sccl_12/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.148640",
+      "page_number": 2,
+      "title_word_count": 6,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 13,
+      "asin": "B08DRSJGCD",
+      "title": "Fortune Maida Pouch, 500 Gram",
+      "brand": "Fortune",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 4542,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61JK6s+IIaL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/FORTUNE-Maida-Pouch-500-g/dp/B08DRSJGCD/ref=zg_bs_g_grocery_d_sccl_13/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.150907",
+      "page_number": 2,
+      "title_word_count": 5,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 14,
+      "asin": "B00HUJQIZK",
+      "title": "Aashirvaad Select Premium Sharbati Atta, 5kg",
+      "brand": "Aashirvaad",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 18466,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91sjEAy2I4L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Aashirvaad-Select-Superior-Sharbati-Atta/dp/B00HUJQIZK/ref=zg_bs_g_grocery_d_sccl_14/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.152984",
+      "page_number": 2,
+      "title_word_count": 6,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 15,
+      "asin": "B07GXMJNCK",
+      "title": "Modern Sandwich Supreme Bread, 400g",
+      "brand": "Modern",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 2435,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71tWAyCKt9L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Modern-Sandwich-Supreme-Bread-400g/dp/B07GXMJNCK/ref=zg_bs_g_grocery_d_sccl_15/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.155052",
+      "page_number": 2,
+      "title_word_count": 5,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 16,
+      "asin": "B09PDZYN2X",
+      "title": "FORTUNE Thick Poha, Source of Fibre and Protein, 500grams",
+      "brand": "2 offers from\u20b946.00",
+      "price": 46.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 5776,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61cJvjSdgXL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/FORTUNE-Thick-Source-Fibre-Protein/dp/B09PDZYN2X/ref=zg_bs_g_grocery_d_sccl_16/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.156395",
+      "page_number": 2,
+      "title_word_count": 9,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 17,
+      "asin": "B06X16922Z",
+      "title": "Good Day Cashew, 52.5g",
+      "brand": "3 offers from\u20b910.00",
+      "price": 10.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 5711,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61LpIL+0wRL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Britannia-Cashew-Cookies-52-5g-Weight/dp/B06X16922Z/ref=zg_bs_g_grocery_d_sccl_17/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.157515",
+      "page_number": 2,
+      "title_word_count": 4,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 18,
+      "asin": "B07BXWC1QT",
+      "title": "Vedaka Cumin (Safed Zeera) whole, 200 g",
+      "brand": "Vedaka",
+      "price": 116.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 21185,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71386F6rF+L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Amazon-Brand-Vedaka-Cumin-Jeera/dp/B07BXWC1QT/ref=zg_bs_g_grocery_d_sccl_18/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.158567",
+      "page_number": 2,
+      "title_word_count": 7,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 19,
+      "asin": "B08TWSR47Y",
+      "title": "MYFITNESS Peanut Butter Chocolate Spread Crunchy 510g | 23g Protein & 9g Fiber | Tasty & Healthy Nut Butter Spread for Breakfast & Snacks | Cholesterol Free | Zero Trans Fat | Crunchy Peanut Butter",
+      "brand": "MYFITNESS",
+      "price": 209.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 68102,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61oTo9t529L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/MYFITNESS-Chocolate-Peanut-Butter-Crunchy/dp/B08TWSR47Y/ref=zg_bs_g_grocery_d_sccl_19/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.159586",
+      "page_number": 2,
+      "title_word_count": 35,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 20,
+      "asin": "B012S2KIGS",
+      "title": "Haldiram's Delhi Bhujia Masala Crispy Crunchy Traditional Namkeen Mildly Spiced Flavorful Made with All Natural Ingredients 400g",
+      "brand": "Haldiram's",
+      "price": 92.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 6781,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71hPJnCDUNL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/HALDIRAM-SNACKS-PVT-LTD-Traditional/dp/B012S2KIGS/ref=zg_bs_g_grocery_d_sccl_20/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.160605",
+      "page_number": 2,
+      "title_word_count": 17,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 21,
+      "asin": "B01IHCP75A",
+      "title": "Cadbury Dairy Milk Silk Fruit & Nut Chocolate Bars, 51 g",
+      "brand": "Cadbury",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 3902,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61WDkPKU3EL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Cadbury-Chocolate-Fruit-Nut-Pack/dp/B01IHCP75A/ref=zg_bs_g_grocery_d_sccl_21/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.161820",
+      "page_number": 2,
+      "title_word_count": 11,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 22,
+      "asin": "B00RO0BWOM",
+      "title": "Aashirvaad Shudh Chakki Atta, 10kg Pack, 100% Whole Wheat Flour, 0% Maida",
+      "brand": "Aashirvaad",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 13951,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91Lj2AJXfOL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Aashirvaad-Shudh-Chakki-Atta-10/dp/B00RO0BWOM/ref=zg_bs_g_grocery_d_sccl_22/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.163321",
+      "page_number": 2,
+      "title_word_count": 12,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 23,
+      "asin": "B01BUZZ7H4",
+      "title": "Freedom Refined Sunflower Oil, 1L",
+      "brand": "Freedom",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 8140,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/616gnRopZDL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Freedom-Refined-Sunflower-Oil-1L/dp/B01BUZZ7H4/ref=zg_bs_g_grocery_d_sccl_23/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.164563",
+      "page_number": 2,
+      "title_word_count": 5,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 24,
+      "asin": "B0756Y4DBZ",
+      "title": "Sunpure Physically Refined Sunflower Oil 1 Litre | Healthiest Cooking Oil | Edible Cooking Oil",
+      "brand": "Sunpure",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 5051,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81cLaTxUDsL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Sunpure-Refined-Oil-Sunflower-1L/dp/B0756Y4DBZ/ref=zg_bs_g_grocery_d_sccl_24/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.165818",
+      "page_number": 2,
+      "title_word_count": 15,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 25,
+      "asin": "B07GSJPM84",
+      "title": "Fresh Eggs - 12 Piece",
+      "brand": "Fresh",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 3105,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/315ZDO8t4oL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Fresh-Eggs-12-Piece/dp/B07GSJPM84/ref=zg_bs_g_grocery_d_sccl_25/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.167072",
+      "page_number": 2,
+      "title_word_count": 5,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 26,
+      "asin": "B079H8WTZB",
+      "title": "Emami Healthy And Tasty Ultra Lite Refined Soyabean Oil 730 g Pouch",
+      "brand": "Emami",
+      "price": null,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 7244,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/619+fH1gl7L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Emami-Healthy-Tasty-Refined-Soyabean/dp/B079H8WTZB/ref=zg_bs_g_grocery_d_sccl_26/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.168326",
+      "page_number": 2,
+      "title_word_count": 12,
+      "has_price": false,
+      "price_tier": "",
+      "review_tier": "high"
+    },
+    {
+      "rank": 27,
+      "asin": "B074QQK24Q",
+      "title": "MAGGI Nutri-licious Masala Veg Atta Noodles, Instant Noodles with 20 Spices & Herbs, Source of Fibre, Protein & Iron, 290g",
+      "brand": "MAGGI",
+      "price": 116.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 62358,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71jQid5RZLL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/MAGGI-Nutri-licious-Appetizing-Delicious-290grams/dp/B074QQK24Q/ref=zg_bs_g_grocery_d_sccl_27/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.169468",
+      "page_number": 2,
+      "title_word_count": 20,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 28,
+      "asin": "B08C2GNX2H",
+      "title": "Cadbury Dairy Milk Chocolate Bar, 20.2 g",
+      "brand": "1 offer from\u20b918.00",
+      "price": 18.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 5419,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51Nv9p5YigL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Cadbury-Dairy-Milk-Chocolate-23/dp/B08C2GNX2H/ref=zg_bs_g_grocery_d_sccl_28/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.171137",
+      "page_number": 2,
+      "title_word_count": 7,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 29,
+      "asin": "B08DRPYQT3",
+      "title": "FORTUNE Suji Pouch,500 Gram",
+      "brand": "1 offer from\u20b9160.00",
+      "price": 160.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 1881,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61CoMMYXe9L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/FORTUNE-Suji-Pouch-500-g/dp/B08DRPYQT3/ref=zg_bs_g_grocery_d_sccl_29/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.173266",
+      "page_number": 2,
+      "title_word_count": 4,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 30,
+      "asin": "B07DCPKZHZ",
+      "title": "Fortune Chakki Fresh Atta, 10 kg, 100% Atta 0% Maida",
+      "brand": "2 offers from\u20b9485.00",
+      "price": 485.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 29411,
+      "category": "Food",
+      "subcategory": "Food",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/611LyjSo-fL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Fortune-Chakki-Fresh-Atta-10kg/dp/B07DCPKZHZ/ref=zg_bs_g_grocery_d_sccl_30/521-7349009-9081429?psc=1",
+      "scraped_at": "2026-03-24T13:13:02.175336",
+      "page_number": 2,
+      "title_word_count": 10,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "fortune",
+      "frequency": 14,
+      "avg_rank": 14.6,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 19596.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "oil",
+      "frequency": 12,
+      "avg_rank": 14.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.39,
+      "avg_reviews": 18711.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "weight",
+      "frequency": 11,
+      "avg_rank": 12.1,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.36,
+      "avg_reviews": 17014.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "atta",
+      "frequency": 11,
+      "avg_rank": 21.1,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.39,
+      "avg_reviews": 24681.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "may",
+      "frequency": 10,
+      "avg_rank": 11.1,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.36,
+      "avg_reviews": 18231.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "vary",
+      "frequency": 10,
+      "avg_rank": 11.1,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.36,
+      "avg_reviews": 18231.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "weight may",
+      "frequency": 10,
+      "avg_rank": 11.1,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.36,
+      "avg_reviews": 18231.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "may vary",
+      "frequency": 10,
+      "avg_rank": 11.1,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.36,
+      "avg_reviews": 18231.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pouch",
+      "frequency": 10,
+      "avg_rank": 13.9,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.39,
+      "avg_reviews": 18549.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dal",
+      "frequency": 8,
+      "avg_rank": 7.9,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 15840.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "masala",
+      "frequency": 8,
+      "avg_rank": 15.6,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.36,
+      "avg_reviews": 19341.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "whole",
+      "frequency": 8,
+      "avg_rank": 14.4,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.41,
+      "avg_reviews": 9632.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tata",
+      "frequency": 6,
+      "avg_rank": 6.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 26239.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fresh",
+      "frequency": 6,
+      "avg_rank": 17.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 25467.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "premium",
+      "frequency": 6,
+      "avg_rank": 7.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 20638.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "noodles",
+      "frequency": 6,
+      "avg_rank": 12.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 32778.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "refined",
+      "frequency": 6,
+      "avg_rank": 18.2,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.38,
+      "avg_reviews": 14136.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "maida",
+      "frequency": 6,
+      "avg_rank": 21.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 12703.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "chocolate",
+      "frequency": 6,
+      "avg_rank": 21.8,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.42,
+      "avg_reviews": 20202.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "protein",
+      "frequency": 6,
+      "avg_rank": 18.3,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 26897.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pure",
+      "frequency": 5,
+      "avg_rank": 9.2,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.36,
+      "avg_reviews": 22910.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sampann",
+      "frequency": 5,
+      "avg_rank": 6.8,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.42,
+      "avg_reviews": 15443.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tata sampann",
+      "frequency": 5,
+      "avg_rank": 6.8,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.42,
+      "avg_reviews": 15443.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pouch weight",
+      "frequency": 5,
+      "avg_rank": 7.6,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 24248.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fibre",
+      "frequency": 5,
+      "avg_rank": 17.2,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.36,
+      "avg_reviews": 20483.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "atta kg",
+      "frequency": 5,
+      "avg_rank": 22.4,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 23160.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "crunchy",
+      "frequency": 5,
+      "avg_rank": 19.4,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.38,
+      "avg_reviews": 33175.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "unpolished",
+      "frequency": 4,
+      "avg_rank": 4.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 14896.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "made",
+      "frequency": 4,
+      "avg_rank": 14.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.38,
+      "avg_reviews": 14740.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "made with",
+      "frequency": 4,
+      "avg_rank": 14.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.38,
+      "avg_reviews": 14740.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "rich",
+      "frequency": 4,
+      "avg_rank": 11.2,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 15129.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "rich in",
+      "frequency": 4,
+      "avg_rank": 11.2,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 15129.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "nuts",
+      "frequency": 4,
+      "avg_rank": 13.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 10152.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "aashirvaad",
+      "frequency": 4,
+      "avg_rank": 15.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 19834.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "butter",
+      "frequency": 4,
+      "avg_rank": 17.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.38,
+      "avg_reviews": 51446.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "chips",
+      "frequency": 3,
+      "avg_rank": 15.3,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 15541.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "kachi",
+      "frequency": 3,
+      "avg_rank": 6.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 31415.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ghani",
+      "frequency": 3,
+      "avg_rank": 6.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 31415.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mustard",
+      "frequency": 3,
+      "avg_rank": 6.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 31415.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pet",
+      "frequency": 3,
+      "avg_rank": 10.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 19324.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bottle",
+      "frequency": 3,
+      "avg_rank": 10.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 19324.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fortune premium",
+      "frequency": 3,
+      "avg_rank": 6.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 31415.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "premium kachi",
+      "frequency": 3,
+      "avg_rank": 6.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 31415.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "kachi ghani",
+      "frequency": 3,
+      "avg_rank": 6.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 31415.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ghani pure",
+      "frequency": 3,
+      "avg_rank": 6.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 31415.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pure mustard",
+      "frequency": 3,
+      "avg_rank": 6.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 31415.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mustard oil",
+      "frequency": 3,
+      "avg_rank": 6.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 31415.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pet bottle",
+      "frequency": 3,
+      "avg_rank": 10.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 19324.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sampann unpolished",
+      "frequency": 3,
+      "avg_rank": 2.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 18969.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "maggi",
+      "frequency": 3,
+      "avg_rank": 12.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 32778.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "instant",
+      "frequency": 3,
+      "avg_rank": 12.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 32778.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "taste",
+      "frequency": 3,
+      "avg_rank": 11.3,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17249.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "iron",
+      "frequency": 3,
+      "avg_rank": 12.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 32778.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "spices",
+      "frequency": 3,
+      "avg_rank": 12.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 32778.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "instant noodles",
+      "frequency": 3,
+      "avg_rank": 12.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 32778.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "noodles with",
+      "frequency": 3,
+      "avg_rank": 12.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 32778.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sugar",
+      "frequency": 3,
+      "avg_rank": 13.3,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 11261.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sunflower",
+      "frequency": 3,
+      "avg_rank": 18.3,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 19415.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "refined sunflower",
+      "frequency": 3,
+      "avg_rank": 18.3,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 19415.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sunflower oil",
+      "frequency": 3,
+      "avg_rank": 18.3,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 19415.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "zero",
+      "frequency": 3,
+      "avg_rank": 19.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 23610.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "wheat",
+      "frequency": 3,
+      "avg_rank": 20.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 5560.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bread",
+      "frequency": 3,
+      "avg_rank": 17.7,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 1721.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "whole wheat",
+      "frequency": 3,
+      "avg_rank": 20.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 5560.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cadbury",
+      "frequency": 3,
+      "avg_rank": 21.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 10688.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dairy",
+      "frequency": 3,
+      "avg_rank": 21.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 10688.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "milk",
+      "frequency": 3,
+      "avg_rank": 21.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 10688.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cadbury dairy",
+      "frequency": 3,
+      "avg_rank": 21.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 10688.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dairy milk",
+      "frequency": 3,
+      "avg_rank": 21.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.47,
+      "avg_reviews": 10688.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bingo",
+      "frequency": 3,
+      "avg_rank": 24.3,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.33,
+      "avg_reviews": 10866.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "gram",
+      "frequency": 3,
+      "avg_rank": 19.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 6237.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "high",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 11427.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "kg pack",
+      "frequency": 3,
+      "avg_rank": 15.3,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 20291.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "breakfast",
+      "frequency": 3,
+      "avg_rank": 23.3,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.43,
+      "avg_reviews": 24741.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "chana",
+      "frequency": 3,
+      "avg_rank": 19.3,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 16343.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "chakki",
+      "frequency": 3,
+      "avg_rank": 26.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 22982.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tasty",
+      "frequency": 3,
+      "avg_rank": 25.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 29612.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cooking",
+      "frequency": 3,
+      "avg_rank": 18.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 8196.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cooking oil",
+      "frequency": 3,
+      "avg_rank": 18.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 8196.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "style",
+      "frequency": 2,
+      "avg_rank": 8.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 16566.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "potato",
+      "frequency": 2,
+      "avg_rank": 8.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 16566.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "potato chips",
+      "frequency": 2,
+      "avg_rank": 8.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 16566.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "salt",
+      "frequency": 2,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 80220.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "toor",
+      "frequency": 2,
+      "avg_rank": 6.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 16940.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "arhar",
+      "frequency": 2,
+      "avg_rank": 6.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 16940.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "toor dal",
+      "frequency": 2,
+      "avg_rank": 6.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 16940.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "arhar dal",
+      "frequency": 2,
+      "avg_rank": 6.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 16940.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dal kg",
+      "frequency": 2,
+      "avg_rank": 6.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 16940.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "minute",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "favourite",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "goodness",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "choicest",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "quality",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "maggi minute",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "minute instant",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "noodles favourite",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "favourite masala",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "masala taste",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "taste masala",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "masala noodles",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "with goodness",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "goodness of",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "of iron",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "iron made",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "with choicest",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "choicest quality",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "quality spices",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "spices pouch",
+      "frequency": 2,
+      "avg_rank": 5.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 17988.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sugar kg",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 14470.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "health",
+      "frequency": 2,
+      "avg_rank": 11.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 13588.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "label",
+      "frequency": 2,
+      "avg_rank": 10.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 12094.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "zero maida",
+      "frequency": 2,
+      "avg_rank": 19.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 1364.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "soft",
+      "frequency": 2,
+      "avg_rank": 14.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 10602.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "drink",
+      "frequency": 2,
+      "avg_rank": 14.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 10602.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "soft drink",
+      "frequency": 2,
+      "avg_rank": 14.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 10602.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "drink pet",
+      "frequency": 2,
+      "avg_rank": 14.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 10602.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bottle ml",
+      "frequency": 2,
+      "avg_rank": 14.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 10602.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "rice",
+      "frequency": 2,
+      "avg_rank": 9.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 20106.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bran",
+      "frequency": 2,
+      "avg_rank": 9.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 20106.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cholesterol",
+      "frequency": 2,
+      "avg_rank": 16.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 46914.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "oryzanol",
+      "frequency": 2,
+      "avg_rank": 9.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 20106.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "rice bran",
+      "frequency": 2,
+      "avg_rank": 9.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 20106.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bar",
+      "frequency": 2,
+      "avg_rank": 21.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 14081.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "milk chocolate",
+      "frequency": 2,
+      "avg_rank": 21.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 14081.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "chocolate bar",
+      "frequency": 2,
+      "avg_rank": 21.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 14081.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cut",
+      "frequency": 2,
+      "avg_rank": 8.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 7002.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "snacks",
+      "frequency": 2,
+      "avg_rank": 17.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 40196.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "biscuit",
+      "frequency": 2,
+      "avg_rank": 21.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 9958.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "almonds",
+      "frequency": 2,
+      "avg_rank": 19.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 7875.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "badam",
+      "frequency": 2,
+      "avg_rank": 17.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 10907.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "real",
+      "frequency": 2,
+      "avg_rank": 22.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 13554.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fiber",
+      "frequency": 2,
+      "avg_rank": 18.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 39504.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "magnesium",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 10152.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "phosphorus",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 10152.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sampann pure",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 10152.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "in protein",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 10152.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "protein magnesium",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 10152.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "magnesium phosphorus",
+      "frequency": 2,
+      "avg_rank": 13.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 10152.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "oats",
+      "frequency": 2,
+      "avg_rank": 22.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 4843.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dark",
+      "frequency": 2,
+      "avg_rank": 24.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 10522.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "besan",
+      "frequency": 2,
+      "avg_rank": 17.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 16628.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fortune chana",
+      "frequency": 2,
+      "avg_rank": 17.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 16628.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "chana dal",
+      "frequency": 2,
+      "avg_rank": 17.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 16628.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "vedaka",
+      "frequency": 2,
+      "avg_rank": 21.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 22072.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fortune chakki",
+      "frequency": 2,
+      "avg_rank": 28.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 27498.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "chakki fresh",
+      "frequency": 2,
+      "avg_rank": 28.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 27498.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fresh atta",
+      "frequency": 2,
+      "avg_rank": 28.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 27498.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "kg atta",
+      "frequency": 2,
+      "avg_rank": 28.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 27498.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "atta maida",
+      "frequency": 2,
+      "avg_rank": 28.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 27498.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "flavour",
+      "frequency": 2,
+      "avg_rank": 29.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 10155.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "moong",
+      "frequency": 2,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 12852.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "moong dal",
+      "frequency": 2,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 12852.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "edible",
+      "frequency": 2,
+      "avg_rank": 15.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 9769.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "soyabean",
+      "frequency": 2,
+      "avg_rank": 16.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 10866.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "soyabean oil",
+      "frequency": 2,
+      "avg_rank": 16.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 10866.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "oil pouch",
+      "frequency": 2,
+      "avg_rank": 16.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 10866.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "kaju",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 9398.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pouch gram",
+      "frequency": 2,
+      "avg_rank": 21.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 3212.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "source",
+      "frequency": 2,
+      "avg_rank": 21.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 34067.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "source of",
+      "frequency": 2,
+      "avg_rank": 21.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 34067.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "of fibre",
+      "frequency": 2,
+      "avg_rank": 21.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 34067.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "peanut",
+      "frequency": 2,
+      "avg_rank": 19.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 68102.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "spread",
+      "frequency": 2,
+      "avg_rank": 19.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 68102.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "healthy",
+      "frequency": 2,
+      "avg_rank": 22.5,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.35,
+      "avg_reviews": 37673.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "nut",
+      "frequency": 2,
+      "avg_rank": 20.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.45,
+      "avg_reviews": 36002.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "peanut butter",
+      "frequency": 2,
+      "avg_rank": 19.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 68102.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "lay's",
+      "frequency": 1,
+      "avg_rank": 1.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 20843.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "american",
+      "frequency": 1,
+      "avg_rank": 1.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 20843.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cream",
+      "frequency": 1,
+      "avg_rank": 1.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 20843.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "onion",
+      "frequency": 1,
+      "avg_rank": 1.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 20843.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "lay's american",
+      "frequency": 1,
+      "avg_rank": 1.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 20843.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "american style",
+      "frequency": 1,
+      "avg_rank": 1.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 20843.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "style potato",
+      "frequency": 1,
+      "avg_rank": 1.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 20843.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "chips cream",
+      "frequency": 1,
+      "avg_rank": 1.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 20843.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cream onion",
+      "frequency": 1,
+      "avg_rank": 1.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 20843.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "flowing",
+      "frequency": 1,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 80220.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "iodised",
+      "frequency": 1,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 80220.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "namak",
+      "frequency": 1,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 80220.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "vacuum",
+      "frequency": 1,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 80220.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "evaporated",
+      "frequency": 1,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 80220.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tata salt",
+      "frequency": 1,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 80220.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "salt kg",
+      "frequency": 1,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 80220.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "kg free",
+      "frequency": 1,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 80220.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "free flowing",
+      "frequency": 1,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 80220.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "flowing and",
+      "frequency": 1,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 80220.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "and iodised",
+      "frequency": 1,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 80220.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "iodised namak",
+      "frequency": 1,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 80220.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "namak vacuum",
+      "frequency": 1,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 80220.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "vacuum evaporated",
+      "frequency": 1,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 80220.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "evaporated salt",
+      "frequency": 1,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 80220.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "salt in",
+      "frequency": 1,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 80220.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "in fresh",
+      "frequency": 1,
+      "avg_rank": 2.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 80220.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "oil pet",
+      "frequency": 1,
+      "avg_rank": 3.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 36768.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bottle weight",
+      "frequency": 1,
+      "avg_rank": 3.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 36768.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "unpolished toor",
+      "frequency": 1,
+      "avg_rank": 4.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 31205.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "dal arhar",
+      "frequency": 1,
+      "avg_rank": 4.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 31205.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fortune sugar",
+      "frequency": 1,
+      "avg_rank": 7.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.5,
+      "avg_reviews": 6201.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sunlite",
+      "frequency": 1,
+      "avg_rank": 8.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 45053.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fortune sunlite",
+      "frequency": 1,
+      "avg_rank": 8.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 45053.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sunlite refined",
+      "frequency": 1,
+      "avg_rank": 8.0,
+      "categories": [
+        "Food"
+      ],
+      "avg_rating": 4.4,
+      "avg_reviews": 45053.0,
+      "category_count": 1
+    }
+  ],
+  "category_tree": [
+    {
+      "name": "Movers and Shakersin Grocery & Gourmet Foods",
+      "url": "https://www.amazon.in/gp/movers-and-shakers/grocery/ref=zg_bs_tab_t_grocery_bsms",
+      "is_selected": false
+    }
+  ],
+  "metadata": {
+    "category": "food",
+    "pages_scraped": 2,
+    "total_products": 60,
+    "total_keywords": 672,
+    "scraped_at": "2026-03-24T13:13:06.901613"
+  }
+}

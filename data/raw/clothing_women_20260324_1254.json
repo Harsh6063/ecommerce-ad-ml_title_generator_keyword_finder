@@ -1,0 +1,3480 @@
+{
+  "products": [
+    {
+      "rank": 1,
+      "asin": "B0DGX12XXV",
+      "title": "SWAGR 12 Pairs Sports Cotton Ankle Length Socks for Men, Pack of 12., Assorted",
+      "brand": "SWAGR",
+      "price": 176.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 4406,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81biKixsaDL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/SWAGR-Sports-Cotton-Length-Assorted/dp/B0DGX12XXV/ref=zg_bs_g_1968025031_d_sccl_1/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.308367",
+      "page_number": 1,
+      "title_word_count": 14,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 2,
+      "asin": "B0C3DH4XPJ",
+      "title": "SJeware Unisex Cotton Men And Women Solid Ankle Length Socks (Pack Of 5) Sjw-2013, Assorted",
+      "brand": "SJeware",
+      "price": 117.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 3587,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81XgZbmqFOL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/SJeware-Women-Solid-Length-SJW-2013/dp/B0C3DH4XPJ/ref=zg_bs_g_1968025031_d_sccl_2/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.309372",
+      "page_number": 1,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 3,
+      "asin": "B0BWPGC2PR",
+      "title": "SWAGR Ankle Socks for Men & Women, Multicolor, Pack of 5, Free Size",
+      "brand": "SWAGR",
+      "price": 99.0,
+      "currency": "INR",
+      "rating": 3.8,
+      "review_count": 4828,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91Wl5xcJ+GL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/SWAGR-Pairs-Solid-Ankle-Multicolor/dp/B0BWPGC2PR/ref=zg_bs_g_1968025031_d_sccl_3/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.311109",
+      "page_number": 1,
+      "title_word_count": 13,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 4,
+      "asin": "B09RWL4VQK",
+      "title": "Adidas Men Ankle Length Cotton Blend Socks Pack of 1",
+      "brand": "Adidas",
+      "price": 290.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 3688,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71V4YnALSxL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Adidas-Original-Ankle-Cotton-Socks/dp/B09RWL4VQK/ref=zg_bs_g_1968025031_d_sccl_4/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.312865",
+      "page_number": 1,
+      "title_word_count": 10,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 5,
+      "asin": "B0DC14CYKR",
+      "title": "SWAGR 12 Pairs Solid Cotton Ankle Length Socks for Men Women, Pack of 12., Assorted",
+      "brand": "SWAGR",
+      "price": 169.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 3218,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/819J-5RMtHL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/SWAGR-Pairs-Solid-Cotton-Ankle/dp/B0DC14CYKR/ref=zg_bs_g_1968025031_d_sccl_5/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.314636",
+      "page_number": 1,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 6,
+      "asin": "B093C3DNXH",
+      "title": "HEELIUM Bamboo Ankle Socks for Men | Odour-Free and Breathable | Padded Base and Anti-bacterial | 3X Softer Than Regular Socks",
+      "brand": "HEELIUM",
+      "price": 709.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 6849,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81lTp636YqS._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/HEELIUM-Odour-Free-Breathable-Anti-Bacterial-Multicolor/dp/B093C3DNXH/ref=zg_bs_g_1968025031_d_sccl_6/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.316490",
+      "page_number": 1,
+      "title_word_count": 21,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 7,
+      "asin": "B09X5RLGY5",
+      "title": "Jockey 7036 Men's Compact Cotton Terry Ankle Length Socks With Stay Fresh Treatment (Pack of 3)",
+      "brand": "Jockey",
+      "price": 419.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 3940,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81DsZMMFr1L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Jockey-Length-7036_Black-Midgrey-Mel_FREE/dp/B09X5RLGY5/ref=zg_bs_g_1968025031_d_sccl_7/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.318290",
+      "page_number": 1,
+      "title_word_count": 16,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 8,
+      "asin": "B09DCKXK3M",
+      "title": "Labnoft Men's Auto Lock PU Leather Belt",
+      "brand": "Labnoft",
+      "price": 699.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 9398,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61aRAdQk9wL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Labnoft-Mens-Auto-Leather-Black/dp/B09DCKXK3M/ref=zg_bs_g_1968025031_d_sccl_8/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.320129",
+      "page_number": 1,
+      "title_word_count": 7,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 9,
+      "asin": "B0CTQ4RSMB",
+      "title": "Fitness Mantra\u00ae 12 Pairs Sports Ankle Cotton Socks | Free Size| Breathable| Daily Use| Multicolor| 12 Pairs|",
+      "brand": "Fitness",
+      "price": 199.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 4803,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81SEVBzTWhL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Fitness-Mantra%C2%AE-Sports-Breathable-Multicolor/dp/B0CTQ4RSMB/ref=zg_bs_g_1968025031_d_sccl_9/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.321578",
+      "page_number": 1,
+      "title_word_count": 17,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 10,
+      "asin": "B08R8X6QB2",
+      "title": "Peter England Men Cotton Ankle Length Socks",
+      "brand": "Peter",
+      "price": 349.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 4165,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51P0U7RknsL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Peter-England-Cotton-Ankle-length/dp/B08R8X6QB2/ref=zg_bs_g_1968025031_d_sccl_10/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.322727",
+      "page_number": 1,
+      "title_word_count": 7,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 11,
+      "asin": "B09W5S4ZHL",
+      "title": "Supersox Ankle Length Socks for Man | Durable Breathable Cotton | Anti-Odor & Antibacterial | Multi Colour | Free Size | Pack of 3",
+      "brand": "Supersox",
+      "price": 283.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 6046,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81JrY3gvUgL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Supersox-Melange-Breathable-Anti-Odor-Antibacterial/dp/B09W5S4ZHL/ref=zg_bs_g_1968025031_d_sccl_11/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.323908",
+      "page_number": 1,
+      "title_word_count": 24,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 12,
+      "asin": "B0C3HRWRBF",
+      "title": "ZORO Men's Genuine Leather Belt for Men | Black,Brown,Tan",
+      "brand": "ZORO",
+      "price": 239.0,
+      "currency": "INR",
+      "rating": 3.9,
+      "review_count": 1673,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71+aebqY0DL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/ZORO-Genuine-Leather-Casual-Formal/dp/B0C3HRWRBF/ref=zg_bs_g_1968025031_d_sccl_12/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.325053",
+      "page_number": 1,
+      "title_word_count": 9,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 13,
+      "asin": "B0BZVZYXV5",
+      "title": "SJeware Men and Women Solid Ankle Length Socks Multicolored (SJW-PLAIN-PACKOF12-B)",
+      "brand": "SJeware",
+      "price": 209.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 22281,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81TRdxk1wnL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/SJeware-Women-Length-Multicolored-SJW-PLAIN-PACKOF12-B/dp/B0BZVZYXV5/ref=zg_bs_g_1968025031_d_sccl_13/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.326368",
+      "page_number": 1,
+      "title_word_count": 10,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 14,
+      "asin": "B07SKP7G6P",
+      "title": "Peter England Men's Cotton Patterned Full Length Socks Pack Of 3",
+      "brand": "Peter",
+      "price": 349.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 1687,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51MAXILKOjL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Peter-England-Cotton-length-Socks/dp/B07SKP7G6P/ref=zg_bs_g_1968025031_d_sccl_14/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.328337",
+      "page_number": 1,
+      "title_word_count": 11,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 15,
+      "asin": "B0BK1HQZD4",
+      "title": "HAMMONDS FLYCATCHER Genuine Leather Belt for Men, Premium Leather Belt with Auto Lock mechanism, Mens Belt Leather Branded with Slide Lock for Everyday Wear",
+      "brand": "HAMMONDS",
+      "price": 892.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 1988,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71aX+BBmsSL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/HAMMONDS-FLYCATCHER-Genuine-Leather-Buckle/dp/B0BK1HQZD4/ref=zg_bs_g_1968025031_d_sccl_15/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.330162",
+      "page_number": 1,
+      "title_word_count": 24,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 16,
+      "asin": "B0CFR518WH",
+      "title": "SELLORIA Brand Soft Cotton Adjustable Unisex Cap for Men and Women Freesize Baseball Caps (Pack of 2)",
+      "brand": "SELLORIA",
+      "price": 214.0,
+      "currency": "INR",
+      "rating": 3.8,
+      "review_count": 2637,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61oXH0-iKkL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/SELLORIA-Cotton-Adjustable-Freesize-Baseball/dp/B0CFR518WH/ref=zg_bs_g_1968025031_d_sccl_16/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.331814",
+      "page_number": 1,
+      "title_word_count": 17,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 17,
+      "asin": "B0B8VPCY1Q",
+      "title": "Jack & Jones Men's Cotton Baseball Cap with Adjustable Back Closure | Unisex Cap",
+      "brand": "Jack",
+      "price": 567.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 1633,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71e8aBdqqGL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/JACK-JONES-Men-258378512_Blue-Denim_ONE/dp/B0B8VPCY1Q/ref=zg_bs_g_1968025031_d_sccl_17/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.333415",
+      "page_number": 1,
+      "title_word_count": 14,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 18,
+      "asin": "B09CMVJ622",
+      "title": "NAVYSPORT Originals Unisex Casual Cushion Cotton Ankle Socks, Assorted Combo, Pack of 4, Free Size",
+      "brand": "NAVYSPORT",
+      "price": 284.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 11839,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91DaQv7BQqL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/NAVYSPORT-Ankle-Length-Cotton-NSO-4_Multicolour/dp/B09CMVJ622/ref=zg_bs_g_1968025031_d_sccl_18/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.335071",
+      "page_number": 1,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 19,
+      "asin": "B07MZ3B4SS",
+      "title": "Labnoft Men's Reversible Leather Belt",
+      "brand": "Labnoft",
+      "price": 699.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 9478,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71aplh5AFZL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Labnoft-Reversible-Leather-Turning-Buckle/dp/B07MZ3B4SS/ref=zg_bs_g_1968025031_d_sccl_19/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.336780",
+      "page_number": 1,
+      "title_word_count": 5,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 20,
+      "asin": "B0FGJK9J3Q",
+      "title": "Puma Unisex's BB Caps",
+      "brand": "Puma",
+      "price": 350.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 170,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/713TqLCVQoL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Puma-Unisex-Adult-Metal-Olive-2743108/dp/B0FGJK9J3Q/ref=zg_bs_g_1968025031_d_sccl_20/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.338562",
+      "page_number": 1,
+      "title_word_count": 4,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 21,
+      "asin": "B0BGZPS9CQ",
+      "title": "Adidas Unisex Ankle Length Cotton Socks Multicolored Pack of 3",
+      "brand": "Adidas",
+      "price": 297.35,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 939,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71FrbzI87YL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Adidas-Unisex-Length-Cotton-Multicolored/dp/B0BGZPS9CQ/ref=zg_bs_g_1968025031_d_sccl_21/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.340271",
+      "page_number": 1,
+      "title_word_count": 10,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 22,
+      "asin": "B0FJ2RWWLX",
+      "title": "SELLORIA A Brand Adjustable Unisex Cap for Men and Women Freesize Baseball Caps (Pack of 2) Black",
+      "brand": "SELLORIA",
+      "price": 239.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 143,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/416dQeRNjOL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/SELLORIA-Adjustable-Unisex-Freesize-Baseball/dp/B0FJ2RWWLX/ref=zg_bs_g_1968025031_d_sccl_22/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.342017",
+      "page_number": 1,
+      "title_word_count": 17,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 23,
+      "asin": "B0DHSHNZ98",
+      "title": "SWAGR Sports Crew Socks for Men Premimum Cotton Athletic Socks, Pack of 3, Free Size",
+      "brand": "SWAGR",
+      "price": 104.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 1302,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/913coqRee6L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/SWAGR-Sports-Premimum-Athletic-Multicolor/dp/B0DHSHNZ98/ref=zg_bs_g_1968025031_d_sccl_23/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.343080",
+      "page_number": 1,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 24,
+      "asin": "B08YZ19LH9",
+      "title": "BAMBOS Bamboo Socks for Men Anti-Microbial Ultra Soft Padded Ankle Socks, Pack of 3",
+      "brand": "BAMBOS",
+      "price": 433.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 4984,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Jvpb8wX-L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/BAMBOS-Touch-Athletic-Running-Multicoloured/dp/B08YZ19LH9/ref=zg_bs_g_1968025031_d_sccl_24/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.344069",
+      "page_number": 1,
+      "title_word_count": 14,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 25,
+      "asin": "B0854J6N67",
+      "title": "ZORO Men's Vegan Leather Belt for Men, Formal/Casual,Autolock,Black | Fit on up to 38 Inches Waist size",
+      "brand": "ZORO",
+      "price": 157.0,
+      "currency": "INR",
+      "rating": 3.6,
+      "review_count": 5299,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71hEGHI6AnL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/ZORO-Leather-Adjustable-autlock-ratched/dp/B0854J6N67/ref=zg_bs_g_1968025031_d_sccl_25/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.345040",
+      "page_number": 1,
+      "title_word_count": 17,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 26,
+      "asin": "B08JQD1QYZ",
+      "title": "Supersox Calf Length Formal Office Socks for Man | Combed Cotton | Breathable, Moisture Absorbent & Anti-Odor | Pack of 3",
+      "brand": "Supersox",
+      "price": 283.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 3981,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81e3jvtgDJS._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Supersox-Breathable-Moisture-Absorbent-Anti-Odor/dp/B08JQD1QYZ/ref=zg_bs_g_1968025031_d_sccl_26/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.346009",
+      "page_number": 1,
+      "title_word_count": 21,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 27,
+      "asin": "B08F131Q29",
+      "title": "NAVYSPORT Men's Crew Length Cushion Cotton Socks (Pack of 3) (Free Size)",
+      "brand": "NAVYSPORT",
+      "price": 251.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 6195,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/814erH1qlwL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/NAVYSPORT-Polyester-Elastane-SF-HTW-3PK_White-Grey_Free/dp/B08F131Q29/ref=zg_bs_g_1968025031_d_sccl_27/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.346965",
+      "page_number": 1,
+      "title_word_count": 12,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 28,
+      "asin": "B073WX582T",
+      "title": "NAVYSPORT Socks for Men Solid Ankle Length Cotton Socks, Free Size, Pack of 3 (Multicoloured)",
+      "brand": "NAVYSPORT",
+      "price": 229.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 32673,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81Ev5kuqL8L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Navy-Sport-Solid-Ankle-Length/dp/B073WX582T/ref=zg_bs_g_1968025031_d_sccl_28/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.347966",
+      "page_number": 1,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 29,
+      "asin": "B0GMSB9HG9",
+      "title": "Urban Punk Baseball Cap for Men Original Adjustable Unisex Cap, Mens Caps Stylish, All Sports Type Caps or Hats, Free Size, UV Protection, Sports Cap for Men's, Outdoor Casual Wear (Pack of 1)",
+      "brand": "Urban",
+      "price": 199.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 48,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41I9v3Ic5aL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Urban-Punk-Style-Baseball-Women/dp/B0GMSB9HG9/ref=zg_bs_g_1968025031_d_sccl_29/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.348929",
+      "page_number": 1,
+      "title_word_count": 33,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "low"
+    },
+    {
+      "rank": 30,
+      "asin": "B08NXJLB18",
+      "title": "Supersox Cotton Men's 3 Pair Combo Sports Ankle Length Socks - Half Terry Cushioned, Anti Odour & Anti Bacterial For Sneaker & Running Workout, Ideal Socks For Summer (Pack Of 3)",
+      "brand": "Supersox",
+      "price": 279.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 8487,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71cE4fK776L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Supersox-Cushion-Special-Sneaker-Multicolour/dp/B08NXJLB18/ref=zg_bs_g_1968025031_d_sccl_30/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:53:54.349891",
+      "page_number": 1,
+      "title_word_count": 31,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 1,
+      "asin": "B078NG88VT",
+      "title": "SPIN CART Cotton Premium Collection Casual Style Handkerchiefs Hanky For Men - Pack Of 12. - White Striped Xxl King Size",
+      "brand": "SPIN",
+      "price": 338.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 4284,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Tk6cEXO4L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/spincartTM-Cotton-Premium-Collection-Handkerchiefs/dp/B078NG88VT/ref=zg_bs_g_1968025031_d_sccl_1/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.049896",
+      "page_number": 2,
+      "title_word_count": 21,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 2,
+      "asin": "B0CG9QL5WV",
+      "title": "Contacts Genuine Leather Belt for Men with Easier Adjustable Autolock Buckle - Micro Adjustable Belt Fit Everywhere |Formal & Casual | Gift Box",
+      "brand": "Contacts",
+      "price": 849.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 4681,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71a5CvjG9mL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Contacts-Genuine-Leather-Adjustable-Autolock/dp/B0CG9QL5WV/ref=zg_bs_g_1968025031_d_sccl_2/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.052794",
+      "page_number": 2,
+      "title_word_count": 23,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 3,
+      "asin": "B0F695W76F",
+      "title": "FY LANE Combo 3 @2 Cap for Men Women Topi Unisex Head Branded Boy's Girl's Caps Adjustable Strap Summer Sports Cricket Gym Dance Cotton Free Size",
+      "brand": "FY",
+      "price": 219.0,
+      "currency": "INR",
+      "rating": 3.9,
+      "review_count": 1698,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51O6rqkh8jL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/FY-LANE-Branded-Adjustable-Cricket/dp/B0F695W76F/ref=zg_bs_g_1968025031_d_sccl_3/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.054418",
+      "page_number": 2,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 4,
+      "asin": "B07RSL1R5N",
+      "title": "ARKYLE Winter Socks for Men Thick Terry Towel Cushion Socks, Free Size, Pack of 4",
+      "brand": "ARKYLE",
+      "price": 284.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 7104,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91hIyGIagmL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/ARKYLE-Woolen-Winter-Cushion-Assorted/dp/B07RSL1R5N/ref=zg_bs_g_1968025031_d_sccl_4/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.055729",
+      "page_number": 2,
+      "title_word_count": 15,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 5,
+      "asin": "B085TN8792",
+      "title": "ZORO Stretchable Woven Fabric belt for Men & Women,Fits on upto 40 inches waist size,Hole free design",
+      "brand": "ZORO",
+      "price": 237.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 1620,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/718esA8eNhL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/ZORO-Stretchable-braided-cotton-ladies/dp/B085TN8792/ref=zg_bs_g_1968025031_d_sccl_5/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.057752",
+      "page_number": 2,
+      "title_word_count": 17,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 6,
+      "asin": "B09Y8SRCXG",
+      "title": "HEELIUM Bamboo Ankle Socks for Men & Women | Ultra-Soft, Odour-Free, Thin & Breathable | 3X Softer than Cotton | Sizes - M (UK 4-8) & L (UK 9-13)",
+      "brand": "HEELIUM",
+      "price": 647.0,
+      "currency": "INR",
+      "rating": 3.9,
+      "review_count": 1635,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91Pn1srtmoL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Heelium-Bamboo-Ankle-Socks-Men/dp/B09Y8SRCXG/ref=zg_bs_g_1968025031_d_sccl_6/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.066702",
+      "page_number": 2,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 7,
+      "asin": "B0CK4TYJ18",
+      "title": "PAROPKAR 100% Cotton lycra Skull Caps Lightweight Beanie Sleep Hats Breathable Helmet Liner Cap Biking Cycling Cap for Unisex",
+      "brand": "PAROPKAR",
+      "price": 179.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 1328,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61mYIAMrYZL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/PAROPKAR-Skull-Lightweight-Breathable-Cap/dp/B0CK4TYJ18/ref=zg_bs_g_1968025031_d_sccl_7/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.068040",
+      "page_number": 2,
+      "title_word_count": 19,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 8,
+      "asin": "B09LD17LMR",
+      "title": "HAMMONDS FLYCATCHER Genuine Leather Belt for Men - Adjustable Waistband up to 46 Inches Belt for Jeans & Dress Pants - 1.5\" Width - Zinc Casted Buckle - Formal & Casual Wear - Branded Mens Belt",
+      "brand": "HAMMONDS",
+      "price": 499.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 2126,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71vCqpjeJaL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Hammonds-Flycatcher-Genuine-Leather-Redhood/dp/B09LD17LMR/ref=zg_bs_g_1968025031_d_sccl_8/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.069765",
+      "page_number": 2,
+      "title_word_count": 36,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 9,
+      "asin": "B08SJZ2NHW",
+      "title": "Van Heusen Men Cotton Regular Socks",
+      "brand": "Van",
+      "price": 479.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 1362,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/410f1h0rpGL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Van-Heusen-Cotton-length-Socks/dp/B08SJZ2NHW/ref=zg_bs_g_1968025031_d_sccl_9/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.071153",
+      "page_number": 2,
+      "title_word_count": 6,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 10,
+      "asin": "B08NT6M2Z5",
+      "title": "BLITZSOX Hi-Tech Performance Sports Socks for Men (Badminton, Running, Gym & Indoor Training), Pack of 3",
+      "brand": "BLITZSOX",
+      "price": 399.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 6885,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91lDYam5W1L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/BLITZSOX-Performance-Badminton-Training-Multi-coloured/dp/B08NT6M2Z5/ref=zg_bs_g_1968025031_d_sccl_10/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.072406",
+      "page_number": 2,
+      "title_word_count": 16,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 11,
+      "asin": "B09K39XYKB",
+      "title": "Jockey Cotton Men White Casual Style Handkerchief (Pack Of 3) Hk01_White_Free Size",
+      "brand": "Jockey",
+      "price": 297.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 1823,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51ow5uRVwFL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Jockey-White-Handkerchief-Pack-HK01_White_FREE/dp/B09K39XYKB/ref=zg_bs_g_1968025031_d_sccl_11/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.073524",
+      "page_number": 2,
+      "title_word_count": 12,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 12,
+      "asin": "B08R8X5JMK",
+      "title": "Allen Solly Cotton Men Ankle Length Socks",
+      "brand": "Allen",
+      "price": 449.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 2587,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51HaTJK5m-L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Allen-Solly-Cotton-Quarter-length/dp/B08R8X5JMK/ref=zg_bs_g_1968025031_d_sccl_12/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.074625",
+      "page_number": 2,
+      "title_word_count": 7,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 13,
+      "asin": "B0CKHZKMR8",
+      "title": "Supersox Low Cut No Show Loafer Socks For Men Combo, Made With Durable, Breathable, Anti Odour & Moisture Absorbent Combed Cotton with Anti Slip Grip (Pack of 4)",
+      "brand": "Supersox",
+      "price": 320.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 629,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81eDO7bs1tL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Supersox-Show-Loafer-Socks-Men/dp/B0CKHZKMR8/ref=zg_bs_g_1968025031_d_sccl_13/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.075726",
+      "page_number": 2,
+      "title_word_count": 28,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 14,
+      "asin": "B09TSZ191V",
+      "title": "HEELIUM Bamboo Crew Socks for Men | Formal Socks, Full Length | Odour Free & Cushioned Base | 3X Softer than Regular Socks",
+      "brand": "HEELIUM",
+      "price": 755.0,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 2759,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/81kYos-YtGL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Heelium-Socks-Men-Calf-Length/dp/B09TSZ191V/ref=zg_bs_g_1968025031_d_sccl_14/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.076832",
+      "page_number": 2,
+      "title_word_count": 23,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 15,
+      "asin": "B073WZD93T",
+      "title": "NAVYSPORT Men's Crew Length Cushion Cotton Socks (Pack of 3) (SF-M-1_Multicolour) Free Size",
+      "brand": "NAVYSPORT",
+      "price": 251.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 8463,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91a4Z4AwWhL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Navy-Sport-Cotton-Solid-Length/dp/B073WZD93T/ref=zg_bs_g_1968025031_d_sccl_15/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.078765",
+      "page_number": 2,
+      "title_word_count": 13,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 16,
+      "asin": "B0CJ7274K7",
+      "title": "Vile Enterprise\u00ae Shirt Stays Elastic Adjustable Tucker Belt For Men Women,Shirt Tucker belt strap Maximum Strech,Elastic Strecheable Belt, (unisex | black)",
+      "brand": "Vile",
+      "price": 247.0,
+      "currency": "INR",
+      "rating": 4.5,
+      "review_count": 175,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61I5LnJOw1L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Vile-Enterprise%C2%AE-Elastic-Adjustable-Tucker/dp/B0CJ7274K7/ref=zg_bs_g_1968025031_d_sccl_16/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.080586",
+      "page_number": 2,
+      "title_word_count": 21,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 17,
+      "asin": "B09F3S5P3C",
+      "title": "Caruso Italy Men's Initial Monogram (A-Z) Embroidery 100% Pure Cotton Handkerchief White Base With Colored Border - Pack Of 6",
+      "brand": "Caruso",
+      "price": 476.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 1826,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71mifvNw84L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Caruso-Italy-Monogram-Embroidery-Handkerchief/dp/B09F3S5P3C/ref=zg_bs_g_1968025031_d_sccl_17/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.082384",
+      "page_number": 2,
+      "title_word_count": 20,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 18,
+      "asin": "B0F1DC4SH4",
+      "title": "HEELIUM Bamboo Handkerchief for Men & Women | Ultra Soft & Absorbent | Multipurpose Premium Rumal | Large Size 43 x 45 CM",
+      "brand": "HEELIUM",
+      "price": 712.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 270,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51w8+ItqL7L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/HEELIUM-Handkerchief-Absorbent-Multipurpose-Premium/dp/B0F1DC4SH4/ref=zg_bs_g_1968025031_d_sccl_18/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.084168",
+      "page_number": 2,
+      "title_word_count": 23,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 19,
+      "asin": "B07YGR43WZ",
+      "title": "RC. ROYAL CLASS Men's Woolen Calf Length Solid Thick Terry Winter Wear Socks (Multicolor, Free Size) - Combo Pack of 5 Pairs",
+      "brand": "RC.",
+      "price": 399.0,
+      "currency": "INR",
+      "rating": 4.3,
+      "review_count": 7566,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/A1W38FgAtkL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/RC-ROYAL-CLASS-Length-Woolen/dp/B07YGR43WZ/ref=zg_bs_g_1968025031_d_sccl_19/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.085478",
+      "page_number": 2,
+      "title_word_count": 22,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 20,
+      "asin": "B0CK5N2WTT",
+      "title": "Boldfit Beanie Cap for Men Woolen Winter Cap for Men Woolen Cap for Women in Winter for Thermal Wear Stylish Soft Winter Caps for Boys & Girls for Warm Wear Head Winter Cap Woollen Garam Topaa Black",
+      "brand": "Boldfit",
+      "price": 299.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 1726,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71OAvZWN00L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Boldfit-Beanie-Woolen-Thermal-Stylish/dp/B0CK5N2WTT/ref=zg_bs_g_1968025031_d_sccl_20/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.086777",
+      "page_number": 2,
+      "title_word_count": 37,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 21,
+      "asin": "B0DHFLSPVX",
+      "title": "SELLORIA Brand A Unisex NY Baseball Cap Comfortable Adjustable Cap with Stylish Design NY Sports caps for Men, Caps Branded with Adjustable Strap in Summer for Men, Sports Caps for Men & Women Black",
+      "brand": "SELLORIA",
+      "price": 237.0,
+      "currency": "INR",
+      "rating": 3.9,
+      "review_count": 931,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41zi2pa-j3L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/SELLORIA-Baseball-Comfortable-Adjustable-Stylish/dp/B0DHFLSPVX/ref=zg_bs_g_1968025031_d_sccl_21/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.087989",
+      "page_number": 2,
+      "title_word_count": 34,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 22,
+      "asin": "B09WVZ3HRS",
+      "title": "RR DESIGN Caps & Hats Summer Collections",
+      "brand": "RR",
+      "price": 295.0,
+      "currency": "INR",
+      "rating": 3.8,
+      "review_count": 1953,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71WQ0jbd2OL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/RR-DESIGN-Beret-Men-Pack-1-Free/dp/B09WVZ3HRS/ref=zg_bs_g_1968025031_d_sccl_22/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.089097",
+      "page_number": 2,
+      "title_word_count": 7,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 23,
+      "asin": "B0CHGHGK2P",
+      "title": "MENLEE Girls Ankle Length Cotton Socks With Colourful Cute Colours Also for Women Low Cut Ankle socks Combo (Cotton blend) Pack of 5 (Colors May Vary)",
+      "brand": "MENLEE",
+      "price": 278.0,
+      "currency": "INR",
+      "rating": 4.0,
+      "review_count": 865,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51IoXtxlhlL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/MENLEE-Length-Cotton-Colourful-Colours/dp/B0CHGHGK2P/ref=zg_bs_g_1968025031_d_sccl_23/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.090173",
+      "page_number": 2,
+      "title_word_count": 26,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 24,
+      "asin": "B07YZKKXW4",
+      "title": "Allen Solly Men's Cotton Pastel Multicolour Handkerchief- Pack of 3",
+      "brand": "Allen",
+      "price": 369.0,
+      "currency": "INR",
+      "rating": 4.4,
+      "review_count": 1584,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51h7AOz5nFL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Allen-Solly-Cotton-Multicolour-Handkerchief/dp/B07YZKKXW4/ref=zg_bs_g_1968025031_d_sccl_24/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.091238",
+      "page_number": 2,
+      "title_word_count": 10,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    },
+    {
+      "rank": 25,
+      "asin": "B09RWKJC4N",
+      "title": "Adidas Unisex Low Cut Cotton Blend Socks (Pack Of 3) (AD-0632 Lt Grey Mel/Black/Anthra Mel_Multicolor)- 3 Pairs (6N)",
+      "brand": "Adidas",
+      "price": 298.99,
+      "currency": "INR",
+      "rating": 4.1,
+      "review_count": 906,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/8107TSIguVL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Adidas-AD-0632-Grey-Black-Anthra/dp/B09RWKJC4N/ref=zg_bs_g_1968025031_d_sccl_25/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.092307",
+      "page_number": 2,
+      "title_word_count": 18,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 26,
+      "asin": "B0DDKLHC89",
+      "title": "NAVYSPORT Ankle Socks for Men Women Cotton Sports Socks Pack of 6 Pairs, Free Size, Multicolour",
+      "brand": "NAVYSPORT",
+      "price": 238.0,
+      "currency": "INR",
+      "rating": 3.8,
+      "review_count": 479,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/91bvgXDqujL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/NAVYSPORT-Ankle-Cotton-Sports-Multicolour/dp/B0DDKLHC89/ref=zg_bs_g_1968025031_d_sccl_26/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.093759",
+      "page_number": 2,
+      "title_word_count": 16,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 27,
+      "asin": "B0DY15H8ZG",
+      "title": "Boldfit Mens Cap for Summer Lightweight & Breathable Sports Cap for Women with Adjustable Strap Moisture-Wicking Gym Cap for Running, Cricket, Outdoor & Fitness Use All-Weather Sun Protection Hat",
+      "brand": "Boldfit",
+      "price": 449.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 265,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51dz5rLMPHL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Boldfit-Unisex-Polyester-Outlandercapblack_Black-Adjustable/dp/B0DY15H8ZG/ref=zg_bs_g_1968025031_d_sccl_27/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.094835",
+      "page_number": 2,
+      "title_word_count": 29,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "medium"
+    },
+    {
+      "rank": 28,
+      "asin": "B0F88FTWH7",
+      "title": "Puma Unisex Cap",
+      "brand": "Puma",
+      "price": 1048.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 18,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71ryNz1vYHL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/Unisex-Adult-Premium-Denim-Olive-2672703/dp/B0F88FTWH7/ref=zg_bs_g_1968025031_d_sccl_28/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.095913",
+      "page_number": 2,
+      "title_word_count": 3,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "low"
+    },
+    {
+      "rank": 29,
+      "asin": "B0851KFLMJ",
+      "title": "Contacts Genuine Leather Belt for Men with Easier Adjustable Autolock Buckle - Micro Adjustable Belt Fit Everywhere |Formal & Casual | Elegant Gift Box",
+      "brand": "Contacts",
+      "price": 849.0,
+      "currency": "INR",
+      "rating": 4.2,
+      "review_count": 8674,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/41Hp5XjXqZL._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/CONTACTS-Mens-Genuine-Leather-Buckle/dp/B0851KFLMJ/ref=zg_bs_g_1968025031_d_sccl_29/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.096961",
+      "page_number": 2,
+      "title_word_count": 24,
+      "has_price": true,
+      "price_tier": "mid",
+      "review_tier": "high"
+    },
+    {
+      "rank": 30,
+      "asin": "B085TQ7PRN",
+      "title": "Aferelle Shirt Stays Elastic Adjustable Tucker Belt For Men Women",
+      "brand": "Aferelle",
+      "price": 175.0,
+      "currency": "INR",
+      "rating": 3.6,
+      "review_count": 1762,
+      "category": "Clothing Women",
+      "subcategory": "Clothing Women",
+      "badge": "",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51kvrK0iQ9L._AC_UL300_SR300,200_.jpg",
+      "product_url": "https://www.amazon.in/AFERELLE-Elastic-Adjustable-Tucker-unisex/dp/B085TQ7PRN/ref=zg_bs_g_1968025031_d_sccl_30/520-8057880-3717024?psc=1",
+      "scraped_at": "2026-03-24T12:54:00.098027",
+      "page_number": 2,
+      "title_word_count": 10,
+      "has_price": true,
+      "price_tier": "budget",
+      "review_tier": "high"
+    }
+  ],
+  "keywords": [
+    {
+      "keyword": "socks",
+      "frequency": 42,
+      "avg_rank": 15.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.06,
+      "avg_reviews": 5938.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "men",
+      "frequency": 40,
+      "avg_rank": 13.9,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.06,
+      "avg_reviews": 4014.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cotton",
+      "frequency": 33,
+      "avg_rank": 14.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.08,
+      "avg_reviews": 4108.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for men",
+      "frequency": 33,
+      "avg_rank": 15.1,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.04,
+      "avg_reviews": 3669.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pack of",
+      "frequency": 31,
+      "avg_rank": 16.1,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.09,
+      "avg_reviews": 4743.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ankle",
+      "frequency": 21,
+      "avg_rank": 13.4,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.04,
+      "avg_reviews": 6341.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cap",
+      "frequency": 20,
+      "avg_rank": 20.4,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 1006.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "length",
+      "frequency": 19,
+      "avg_rank": 14.8,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 6712.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "belt",
+      "frequency": 19,
+      "avg_rank": 14.6,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.16,
+      "avg_reviews": 3621.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "size",
+      "frequency": 18,
+      "avg_rank": 15.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.04,
+      "avg_reviews": 5908.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "women",
+      "frequency": 17,
+      "avg_rank": 15.1,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.02,
+      "avg_reviews": 2831.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "socks for",
+      "frequency": 16,
+      "avg_rank": 14.4,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.04,
+      "avg_reviews": 6017.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "adjustable",
+      "frequency": 15,
+      "avg_rank": 18.1,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.06,
+      "avg_reviews": 2604.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "free size",
+      "frequency": 14,
+      "avg_rank": 16.1,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 6776.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "men's",
+      "frequency": 14,
+      "avg_rank": 18.8,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 4806.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ankle length",
+      "frequency": 13,
+      "avg_rank": 12.8,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.08,
+      "avg_reviews": 7452.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "unisex",
+      "frequency": 13,
+      "avg_rank": 17.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 1991.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sports",
+      "frequency": 12,
+      "avg_rank": 19.1,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.01,
+      "avg_reviews": 2524.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "caps",
+      "frequency": 12,
+      "avg_rank": 19.2,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.98,
+      "avg_reviews": 1045.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cap for",
+      "frequency": 12,
+      "avg_rank": 20.6,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 990.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "length socks",
+      "frequency": 10,
+      "avg_rank": 10.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 6040.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "men women",
+      "frequency": 10,
+      "avg_rank": 13.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.98,
+      "avg_reviews": 1662.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "leather",
+      "frequency": 10,
+      "avg_rank": 14.8,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 4729.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "belt for",
+      "frequency": 10,
+      "avg_rank": 15.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 3012.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "socks pack",
+      "frequency": 9,
+      "avg_rank": 17.8,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.08,
+      "avg_reviews": 3477.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "leather belt",
+      "frequency": 9,
+      "avg_rank": 14.8,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 5034.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "breathable",
+      "frequency": 8,
+      "avg_rank": 13.1,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.08,
+      "avg_reviews": 3192.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "casual",
+      "frequency": 8,
+      "avg_rank": 15.4,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.08,
+      "avg_reviews": 4847.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pairs",
+      "frequency": 7,
+      "avg_rank": 13.4,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.04,
+      "avg_reviews": 3740.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ankle socks",
+      "frequency": 7,
+      "avg_rank": 15.1,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.97,
+      "avg_reviews": 4497.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cotton socks",
+      "frequency": 6,
+      "avg_rank": 20.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.02,
+      "avg_reviews": 8990.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "wear",
+      "frequency": 6,
+      "avg_rank": 18.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 2530.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "combo",
+      "frequency": 6,
+      "avg_rank": 17.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 5181.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "formal",
+      "frequency": 6,
+      "avg_rank": 17.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 4587.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "winter",
+      "frequency": 6,
+      "avg_rank": 17.2,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.33,
+      "avg_reviews": 3596.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "solid",
+      "frequency": 5,
+      "avg_rank": 13.4,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 13865.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bamboo",
+      "frequency": 5,
+      "avg_rank": 13.6,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.08,
+      "avg_reviews": 3299.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "genuine",
+      "frequency": 5,
+      "avg_rank": 13.2,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.14,
+      "avg_reviews": 3828.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "genuine leather",
+      "frequency": 5,
+      "avg_rank": 13.2,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.14,
+      "avg_reviews": 3828.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "baseball",
+      "frequency": 5,
+      "avg_rank": 21.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.98,
+      "avg_reviews": 1078.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "unisex cap",
+      "frequency": 5,
+      "avg_rank": 22.4,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.04,
+      "avg_reviews": 896.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "navysport",
+      "frequency": 5,
+      "avg_rank": 22.8,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 11930.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "summer",
+      "frequency": 5,
+      "avg_rank": 20.6,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.98,
+      "avg_reviews": 2667.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "swagr",
+      "frequency": 4,
+      "avg_rank": 8.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.97,
+      "avg_reviews": 3438.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "assorted",
+      "frequency": 4,
+      "avg_rank": 6.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 5762.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cotton ankle",
+      "frequency": 4,
+      "avg_rank": 8.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 5907.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "men and",
+      "frequency": 4,
+      "avg_rank": 13.2,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 7162.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "and women",
+      "frequency": 4,
+      "avg_rank": 13.2,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 7162.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "multicolor",
+      "frequency": 4,
+      "avg_rank": 14.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 4526.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "of free",
+      "frequency": 4,
+      "avg_rank": 17.8,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 6041.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "length cotton",
+      "frequency": 4,
+      "avg_rank": 19.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 9541.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "heelium",
+      "frequency": 4,
+      "avg_rank": 11.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.08,
+      "avg_reviews": 2878.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "heelium bamboo",
+      "frequency": 4,
+      "avg_rank": 11.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.08,
+      "avg_reviews": 2878.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "terry",
+      "frequency": 4,
+      "avg_rank": 15.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 6774.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "supersox",
+      "frequency": 4,
+      "avg_rank": 20.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 4786.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mens",
+      "frequency": 4,
+      "avg_rank": 19.8,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 1107.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "branded",
+      "frequency": 4,
+      "avg_rank": 11.8,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 1686.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "soft",
+      "frequency": 4,
+      "avg_rank": 19.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 2404.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cushion",
+      "frequency": 4,
+      "avg_rank": 16.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 8400.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "crew",
+      "frequency": 4,
+      "avg_rank": 19.8,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 4680.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "formal casual",
+      "frequency": 4,
+      "avg_rank": 16.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 5195.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "anti",
+      "frequency": 4,
+      "avg_rank": 21.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 4558.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "strap",
+      "frequency": 4,
+      "avg_rank": 16.8,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.12,
+      "avg_reviews": 767.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cotton men",
+      "frequency": 3,
+      "avg_rank": 8.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 2666.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "solid ankle",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 19514.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "adidas",
+      "frequency": 3,
+      "avg_rank": 16.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 1844.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "blend",
+      "frequency": 3,
+      "avg_rank": 17.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 1820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cotton blend",
+      "frequency": 3,
+      "avg_rank": 17.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 1820.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "base",
+      "frequency": 3,
+      "avg_rank": 12.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 3811.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "softer",
+      "frequency": 3,
+      "avg_rank": 8.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 3748.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "than",
+      "frequency": 3,
+      "avg_rank": 8.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 3748.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "regular",
+      "frequency": 3,
+      "avg_rank": 9.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 3657.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "softer than",
+      "frequency": 3,
+      "avg_rank": 8.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 3748.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "regular socks",
+      "frequency": 3,
+      "avg_rank": 9.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 3657.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "lock",
+      "frequency": 3,
+      "avg_rank": 12.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 4458.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "socks free",
+      "frequency": 3,
+      "avg_rank": 13.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 14860.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "size pack",
+      "frequency": 3,
+      "avg_rank": 14.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.13,
+      "avg_reviews": 15274.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "zoro",
+      "frequency": 3,
+      "avg_rank": 14.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 2864.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "men's cotton",
+      "frequency": 3,
+      "avg_rank": 18.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 1635.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "premium",
+      "frequency": 3,
+      "avg_rank": 11.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 2181.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "selloria",
+      "frequency": 3,
+      "avg_rank": 19.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 1237.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "brand",
+      "frequency": 3,
+      "avg_rank": 19.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 1237.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "selloria brand",
+      "frequency": 3,
+      "avg_rank": 19.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 1237.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "adjustable unisex",
+      "frequency": 3,
+      "avg_rank": 22.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.93,
+      "avg_reviews": 943.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "baseball cap",
+      "frequency": 3,
+      "avg_rank": 22.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 871.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "with adjustable",
+      "frequency": 3,
+      "avg_rank": 21.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 943.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cushion cotton",
+      "frequency": 3,
+      "avg_rank": 20.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 8832.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "autolock",
+      "frequency": 3,
+      "avg_rank": 18.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 6218.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fit",
+      "frequency": 3,
+      "avg_rank": 18.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 6218.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "inches",
+      "frequency": 3,
+      "avg_rank": 12.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.97,
+      "avg_reviews": 3015.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "absorbent",
+      "frequency": 3,
+      "avg_rank": 19.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 1627.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "stylish",
+      "frequency": 3,
+      "avg_rank": 23.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 902.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hats",
+      "frequency": 3,
+      "avg_rank": 19.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.97,
+      "avg_reviews": 1110.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "odour",
+      "frequency": 3,
+      "avg_rank": 19.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 3958.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "running",
+      "frequency": 3,
+      "avg_rank": 22.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 5212.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "buckle",
+      "frequency": 3,
+      "avg_rank": 13.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.17,
+      "avg_reviews": 5160.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "gym",
+      "frequency": 3,
+      "avg_rank": 13.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 2949.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "adjustable strap",
+      "frequency": 3,
+      "avg_rank": 17.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 965.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "design",
+      "frequency": 3,
+      "avg_rank": 16.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.97,
+      "avg_reviews": 1501.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "handkerchief",
+      "frequency": 3,
+      "avg_rank": 15.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.27,
+      "avg_reviews": 1306.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "low",
+      "frequency": 3,
+      "avg_rank": 20.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 800.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cut",
+      "frequency": 3,
+      "avg_rank": 20.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 800.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "low cut",
+      "frequency": 3,
+      "avg_rank": 20.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.03,
+      "avg_reviews": 800.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "multicolour",
+      "frequency": 3,
+      "avg_rank": 21.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 3509.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "shirt",
+      "frequency": 3,
+      "avg_rank": 20.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 704.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "elastic",
+      "frequency": 3,
+      "avg_rank": 20.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 704.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tucker",
+      "frequency": 3,
+      "avg_rank": 20.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 704.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "tucker belt",
+      "frequency": 3,
+      "avg_rank": 20.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 704.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "woolen",
+      "frequency": 3,
+      "avg_rank": 19.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.37,
+      "avg_reviews": 3673.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for women",
+      "frequency": 3,
+      "avg_rank": 23.3,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 952.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "caps for",
+      "frequency": 3,
+      "avg_rank": 20.7,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.07,
+      "avg_reviews": 1196.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "swagr pairs",
+      "frequency": 2,
+      "avg_rank": 3.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 3812.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "pairs sports",
+      "frequency": 2,
+      "avg_rank": 5.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 4604.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "men pack",
+      "frequency": 2,
+      "avg_rank": 1.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 4345.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "of assorted",
+      "frequency": 2,
+      "avg_rank": 3.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 3812.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sjeware",
+      "frequency": 2,
+      "avg_rank": 7.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 12934.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "women solid",
+      "frequency": 2,
+      "avg_rank": 7.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 12934.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "men ankle",
+      "frequency": 2,
+      "avg_rank": 8.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 3138.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "blend socks",
+      "frequency": 2,
+      "avg_rank": 14.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 2297.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "odour-free",
+      "frequency": 2,
+      "avg_rank": 6.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 4242.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "padded",
+      "frequency": 2,
+      "avg_rank": 15.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 5916.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "bamboo ankle",
+      "frequency": 2,
+      "avg_rank": 6.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 4242.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "than regular",
+      "frequency": 2,
+      "avg_rank": 10.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 4804.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "jockey",
+      "frequency": 2,
+      "avg_rank": 9.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.25,
+      "avg_reviews": 2882.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "socks with",
+      "frequency": 2,
+      "avg_rank": 15.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 2402.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "labnoft",
+      "frequency": 2,
+      "avg_rank": 13.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 9438.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "auto",
+      "frequency": 2,
+      "avg_rank": 11.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 5693.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "labnoft men's",
+      "frequency": 2,
+      "avg_rank": 13.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 9438.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "auto lock",
+      "frequency": 2,
+      "avg_rank": 11.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.3,
+      "avg_reviews": 5693.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "fitness",
+      "frequency": 2,
+      "avg_rank": 18.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 2534.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "use",
+      "frequency": 2,
+      "avg_rank": 18.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 2534.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sports ankle",
+      "frequency": 2,
+      "avg_rank": 19.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 6645.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "multicolor pairs",
+      "frequency": 2,
+      "avg_rank": 17.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 2854.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "peter",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 2926.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "england",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 2926.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "peter england",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 2926.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "men cotton",
+      "frequency": 2,
+      "avg_rank": 9.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 2764.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "man",
+      "frequency": 2,
+      "avg_rank": 18.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 5014.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "durable",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 3338.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "anti-odor",
+      "frequency": 2,
+      "avg_rank": 18.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 5014.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for man",
+      "frequency": 2,
+      "avg_rank": 18.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 5014.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "durable breathable",
+      "frequency": 2,
+      "avg_rank": 12.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 3338.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "zoro men's",
+      "frequency": 2,
+      "avg_rank": 18.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.75,
+      "avg_reviews": 3486.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "multicolored",
+      "frequency": 2,
+      "avg_rank": 17.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 11610.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "socks multicolored",
+      "frequency": 2,
+      "avg_rank": 17.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 11610.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "full",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 2223.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "full length",
+      "frequency": 2,
+      "avg_rank": 14.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 2223.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hammonds",
+      "frequency": 2,
+      "avg_rank": 11.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 2057.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "flycatcher",
+      "frequency": 2,
+      "avg_rank": 11.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 2057.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "hammonds flycatcher",
+      "frequency": 2,
+      "avg_rank": 11.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 2057.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "flycatcher genuine",
+      "frequency": 2,
+      "avg_rank": 11.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 2057.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "mens belt",
+      "frequency": 2,
+      "avg_rank": 11.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 2057.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "branded with",
+      "frequency": 2,
+      "avg_rank": 18.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 1460.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "freesize",
+      "frequency": 2,
+      "avg_rank": 19.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 1390.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "women freesize",
+      "frequency": 2,
+      "avg_rank": 19.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 1390.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "freesize baseball",
+      "frequency": 2,
+      "avg_rank": 19.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 1390.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "baseball caps",
+      "frequency": 2,
+      "avg_rank": 19.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 1390.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "caps pack",
+      "frequency": 2,
+      "avg_rank": 19.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 1390.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cap with",
+      "frequency": 2,
+      "avg_rank": 19.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 1282.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "combo pack",
+      "frequency": 2,
+      "avg_rank": 18.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 9702.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "puma",
+      "frequency": 2,
+      "avg_rank": 24.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 94.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "adidas unisex",
+      "frequency": 2,
+      "avg_rank": 23.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 922.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "crew socks",
+      "frequency": 2,
+      "avg_rank": 18.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 2030.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ultra",
+      "frequency": 2,
+      "avg_rank": 21.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 2627.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "ultra soft",
+      "frequency": 2,
+      "avg_rank": 21.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 2627.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "waist",
+      "frequency": 2,
+      "avg_rank": 15.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 3460.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "men formal",
+      "frequency": 2,
+      "avg_rank": 19.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.85,
+      "avg_reviews": 4029.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "up to",
+      "frequency": 2,
+      "avg_rank": 16.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.85,
+      "avg_reviews": 3712.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "to inches",
+      "frequency": 2,
+      "avg_rank": 16.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.85,
+      "avg_reviews": 3712.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "inches waist",
+      "frequency": 2,
+      "avg_rank": 15.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 3460.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "waist size",
+      "frequency": 2,
+      "avg_rank": 15.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 3.9,
+      "avg_reviews": 3460.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "calf",
+      "frequency": 2,
+      "avg_rank": 22.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 5774.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "combed",
+      "frequency": 2,
+      "avg_rank": 19.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 2305.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "moisture",
+      "frequency": 2,
+      "avg_rank": 19.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 2305.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "calf length",
+      "frequency": 2,
+      "avg_rank": 22.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 5774.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "combed cotton",
+      "frequency": 2,
+      "avg_rank": 19.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 2305.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "moisture absorbent",
+      "frequency": 2,
+      "avg_rank": 19.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.0,
+      "avg_reviews": 2305.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "navysport men's",
+      "frequency": 2,
+      "avg_rank": 21.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 7329.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "men's crew",
+      "frequency": 2,
+      "avg_rank": 21.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 7329.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "crew length",
+      "frequency": 2,
+      "avg_rank": 21.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 7329.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "length cushion",
+      "frequency": 2,
+      "avg_rank": 21.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 7329.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "protection",
+      "frequency": 2,
+      "avg_rank": 28.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 156.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "outdoor",
+      "frequency": 2,
+      "avg_rank": 28.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 156.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "sports cap",
+      "frequency": 2,
+      "avg_rank": 28.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 156.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "casual wear",
+      "frequency": 2,
+      "avg_rank": 18.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 1087.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "cushioned",
+      "frequency": 2,
+      "avg_rank": 22.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.1,
+      "avg_reviews": 5623.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "anti odour",
+      "frequency": 2,
+      "avg_rank": 21.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.05,
+      "avg_reviews": 4558.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "for summer",
+      "frequency": 2,
+      "avg_rank": 28.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.15,
+      "avg_reviews": 4376.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "style",
+      "frequency": 2,
+      "avg_rank": 6.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 3054.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "casual style",
+      "frequency": 2,
+      "avg_rank": 6.0,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 3054.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "contacts",
+      "frequency": 2,
+      "avg_rank": 15.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 6678.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "easier",
+      "frequency": 2,
+      "avg_rank": 15.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 6678.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "micro",
+      "frequency": 2,
+      "avg_rank": 15.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 6678.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "everywhere",
+      "frequency": 2,
+      "avg_rank": 15.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 6678.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "gift",
+      "frequency": 2,
+      "avg_rank": 15.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 6678.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "box",
+      "frequency": 2,
+      "avg_rank": 15.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 6678.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "contacts genuine",
+      "frequency": 2,
+      "avg_rank": 15.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 6678.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "men with",
+      "frequency": 2,
+      "avg_rank": 15.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 6678.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "with easier",
+      "frequency": 2,
+      "avg_rank": 15.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 6678.0,
+      "category_count": 1
+    },
+    {
+      "keyword": "easier adjustable",
+      "frequency": 2,
+      "avg_rank": 15.5,
+      "categories": [
+        "Clothing Women"
+      ],
+      "avg_rating": 4.2,
+      "avg_reviews": 6678.0,
+      "category_count": 1
+    }
+  ],
+  "category_tree": [
+    {
+      "name": "Hot New Releasesin Men's Accessories",
+      "url": "https://www.amazon.in/gp/new-releases/apparel/1968025031/ref=zg_bs_tab_t_apparel_bsnr",
+      "is_selected": false
+    }
+  ],
+  "metadata": {
+    "category": "clothing_women",
+    "pages_scraped": 2,
+    "total_products": 60,
+    "total_keywords": 827,
+    "scraped_at": "2026-03-24T12:54:05.019416"
+  }
+}
