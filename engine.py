@@ -5,23 +5,39 @@ from ragengine import generate_title
 df = pd.read_csv("data/processed/final_dataset.csv")
 model = joblib.load("models/best_model.pkl")
 
+STOPWORDS = ["with","and","for","the","to","from","up","hours","into","your"]
 
 def suggest_keywords(category, keyword):
 
     subset = df[
-        (df["category"].str.strip().str.lower() == category.lower()) &
-        (df["title"].str.contains(keyword, na=False))
+        df["category"].str.lower() == category.lower()
     ]
 
-    words = subset["title"].str.split().explode()
+    # explode keywords
+    temp = subset.explode("keywords_list")
 
-    words = words[
-        (words.str.len() > 3) &
-        (~words.isin(["with","and","for","the","from","pack"]))
+    # filter by input keyword similarity
+    temp = temp[
+        temp["keywords_list"].str.contains(keyword, na=False)
     ]
 
-    return words.value_counts().head(10).index.tolist()
+    if len(temp) == 0:
+        # fallback: return top keywords in category
+        return (
+            subset.explode("keywords_list")["keywords_list"]
+            .value_counts()
+            .head(10)
+            .index
+            .tolist()
+        )
 
+    return (
+        temp["keywords_list"]
+        .value_counts()
+        .head(10)
+        .index
+        .tolist()
+    )
 
 def get_competition(category, keyword):
 
