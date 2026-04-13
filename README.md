@@ -11,7 +11,24 @@ Built using **ML, NLP, LLMs (Groq), and MLOps (CI/CD + Docker)**.
 
 ---
 
-## 📌 Problem Statement
+# 🛠️ Technologies Used & Purpose
+
+| Tool / Tech                | Purpose                                  |
+| -------------------------- | ---------------------------------------- |
+| **Pandas, NumPy**          | Data cleaning & preprocessing            |
+| **Scikit-learn**           | ML pipeline & regression models          |
+| **XGBoost**                | High-performance bid prediction          |
+| **MLflow**                 | Experiment tracking & model selection    |
+| **FAISS**                  | Vector search for similar products (RAG) |
+| **HuggingFace Embeddings** | Semantic similarity for titles           |
+| **Groq (LLaMA3)**          | LLM-based title generation               |
+| **Streamlit**              | Interactive UI                           |
+| **Docker**                 | Containerized deployment                 |
+| **GitHub Actions**         | CI/CD automation                         |
+
+---
+
+# 📌 Problem Statement
 
 In e-commerce advertising (Amazon, Flipkart, Q-commerce), selecting:
 
@@ -19,98 +36,88 @@ In e-commerce advertising (Amazon, Flipkart, Q-commerce), selecting:
 * optimal **bids**
 * high-converting **titles**
 
-is critical but complex.
+is critical but complex and data-driven.
 
-This project automates that process using:
+👉 Manual optimization leads to:
 
-* Real scraped marketplace data
-* Machine Learning
-* Retrieval-Augmented Generation (RAG)
+* poor ad performance
+* wasted budget
+* low conversion rates
 
 ---
 
-## 🧠 System Architecture
+# 🧠 System Architecture
 
 ```
 User Input (Category + Brand + Keywords)
         ↓
-Keyword Engine (data-driven)
+Keyword Engine (Title + Data Driven)
         ↓
-Competition + Bid Prediction (ML)
+Competition Analysis + Bid Prediction (ML)
         ↓
-RAG Retrieval (similar titles)
+RAG Retrieval (FAISS - similar products)
         ↓
-LLM (Groq) → Title Generation
+LLM (Groq - LLaMA3)
         ↓
-Final Output
+Generated Title + Keywords + Bid
 ```
 
 ---
 
-## ⚙️ Features
+# ⚙️ Features
 
-### 🔑 Keyword Suggestion
+## 🔑 Keyword Suggestion
 
-* Extracts top keywords from real product data
-* Category-specific filtering
-* Title-based keyword mining
+* Extracts keywords directly from product titles
+* Category-aware filtering
+* Frequency-based ranking
 
-### 🧠 AI Title Generation (RAG + LLM)
+---
 
-* Retrieves similar product titles (FAISS)
-* Uses **Groq LLaMA3 model**
+## 🧠 AI Title Generation (RAG + LLM)
+
+* Retrieves similar product titles using FAISS
+* Uses **Groq LLaMA3**
 * Generates SEO-optimized product titles
 
-### 📊 Competition Analysis
+---
 
-* Computes competition score (0–1)
-* Classifies into:
+## 📊 Competition Analysis
+
+* Score between **0 → 1**
+* Classification:
 
   * LOW
   * MEDIUM
   * HIGH
+* Based on reviews + ranking + category trends
 
-### 💰 Bid Prediction (ML)
+---
+
+## 💰 Bid Prediction (ML)
 
 * Models used:
 
   * Random Forest
   * XGBoost
   * Linear Regression
+* Uses aggregated features for stability
 * Best model selected via MLflow
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Setup Instructions
 
-| Category   | Tools                          |
-| ---------- | ------------------------------ |
-| ML         | Scikit-learn, XGBoost          |
-| NLP        | Pandas, Text Processing        |
-| LLM        | Groq (LLaMA3)                  |
-| RAG        | FAISS + HuggingFace Embeddings |
-| MLOps      | MLflow, CI/CD                  |
-| Backend    | Python                         |
-| UI         | Streamlit                      |
-| Deployment | Docker                         |
-
----
-
-
-
-
-## 🚀 Setup Instructions
-
-### 1️⃣ Clone Repo
+## 1️⃣ Clone Repo
 
 ```bash
 git clone https://github.com/Harsh6063/ecommerce-ad-ml_title_generator_keyword_finder.git
-cd ecommerce-ad-ml
+cd ecommerce-ad-ml_title_generator_keyword_finder
 ```
 
 ---
 
-### 2️⃣ Install Dependencies
+## 2️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -118,7 +125,7 @@ pip install -r requirements.txt
 
 ---
 
-### 3️⃣ Add Environment Variables
+## 3️⃣ Add Environment Variables
 
 Create `.env`:
 
@@ -128,17 +135,17 @@ GROQ_API_KEY=your_api_key_here
 
 ---
 
-### 4️⃣ Run Pipeline
+## 4️⃣ Run Pipeline
 
 ```bash
-python amazon_scraper.py 
+python amazon_scraper.py
 python preprocess.py
 python train_model.py
 ```
 
 ---
 
-### 5️⃣ Run App
+## 5️⃣ Run App
 
 ```bash
 streamlit run app.py
@@ -146,18 +153,18 @@ streamlit run app.py
 
 ---
 
-## 🧪 CI/CD
+# 🧪 CI/CD Pipeline
 
-* GitHub Actions pipeline:
+Automated using GitHub Actions:
 
-  * installs dependencies
-  * runs preprocessing
-  * trains model
-  * validates app
+* Install dependencies
+* Run preprocessing
+* Train model
+* Validate app
 
 ---
 
-## 🐳 Docker Support
+# 🐳 Docker Support
 
 ```bash
 docker build -t ad-ml-app .
@@ -166,9 +173,38 @@ docker run -p 8501:8501 ad-ml-app
 
 ---
 
-## 📊 Example Output
+# 🌐 Deployment
 
-**Input:**
+## 🚀 Render (Backend Deployment)
+
+👉 https://ecommerce-ad-ml-title-generator-keyword.onrender.com/
+### ⚠️ Drawback
+
+* Free tier has **512MB memory limit**
+* App may crash due to:
+
+  * FAISS
+  * Embeddings
+  * Large dataset
+* Cold start delay (~30–50 sec)
+
+---
+
+## 🤗 Hugging Face Spaces (Recommended)
+
+👉 https://huggingface.co/spaces/Harsh6063/ecommerce-ad-ml_title_generator_keyword_finder
+
+### ✔ Advantages
+
+* Better suited for ML apps
+* Handles embeddings + models efficiently
+* Faster startup compared to Render
+
+---
+
+# 📊 Example Output
+
+### Input:
 
 ```
 Category: Beauty
@@ -177,7 +213,9 @@ Keyword1: skin
 Keyword2: glow
 ```
 
-**Output:**
+---
+
+### Output:
 
 ```
 Title: Lakme Skin Glow Face Cream with Vitamin C Brightening Formula
@@ -189,16 +227,16 @@ Bid: ₹18.5
 
 ---
 
-## ⚠️ Notes
+# ⚠️ Notes
 
 * Models and processed data are **not stored in repo**
-* They are generated during runtime / CI
+* Generated dynamically during runtime / CI
 * MLflow tracking is enabled locally
 
 ---
 
 
 
-Give it a ⭐ on GitHub and connect!
+# ⭐ If you like this project
 
----
+Give it a ⭐ on GitHub and connect!
