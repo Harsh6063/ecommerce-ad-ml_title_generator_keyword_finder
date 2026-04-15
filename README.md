@@ -227,6 +227,22 @@ Bid: ₹18.5
 
 ---
 
+## 📸 Screenshots
+
+### 🖥️ Homepage
+![App UI](Demo/Homepage.png)
+
+### 📊 Input
+![Results](Demo/Input.png)
+
+### 🧠 AI Generated Title
+![Title](Demo/Title.png)
+
+### 🔑 Keywords Suggested
+![Keywords](Demo/Keywords.png)
+
+
+
 # ⚠️ Notes
 
 * Models and processed data are **not stored in repo**
